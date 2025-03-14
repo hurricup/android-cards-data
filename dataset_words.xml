@@ -222,22 +222,7 @@
             <text>ЩЕПКА</text>
         </question>
         <question>
-            <text>УДАРИЛ ПОКРЕПЧЕ</text>
-        </question>
-        <question>
             <text>ОТКЛИКНУЛСЯ</text>
-        </question>
-        <question>
-            <text>НА ЗАПОРЕ</text>
-        </question>
-        <question>
-            <text>ПРЯМЁХОНЬКО</text>
-        </question>
-        <question>
-            <text>ВЫБРАЛСЯ</text>
-        </question>
-        <question>
-            <text>РАЗЖЕВАТЬ</text>
         </question>
         <question>
             <text>ТРИДЦАТЬ</text>
@@ -255,13 +240,13 @@
             <text>ДЕВЧОНКИ</text>
         </question>
         <question>
-            <text>НАВЕСТИТЬ</text>
+            <text>НАВЕСТИТЬ БАБУЛЮ</text>
         </question>
         <question>
             <text>УДИРАТЬ</text>
         </question>
         <question>
-            <text>ОТКЛАНЯЛСЯ</text>
+            <text>ОТКЛА ́НЯЛСЯ</text>
         </question>
         <question>
             <text>КАК НИ В ЧЕМ НЕ БЫВАЛО</text>
@@ -427,12 +412,6 @@
         </question>
         <question>
             <text>РАЗЖЕВАТЬ</text>
-        </question>
-        <question>
-            <text>ПАПАША</text>
-        </question>
-        <question>
-            <text>ТРИДЦАТЬ</text>
         </question>
         <question>
             <text>ВЕРХОВАЯ ЛОШАДЬ</text>
