@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questionary>
+    <title>Армянский алфавит</title>
+    <questions>
+        <question>
+            <text>
+                Ա ա [а]
+            </text>
+        </question>
+        <question>
+            <text>
+                Բ բ [б]
+            </text>
+        </question>
+        <question>
+            <text>
+                Գ գ [г]
+            </text>
+        </question>
+        <question>
+            <text>
+                Դ դ [д]
+            </text>
+        </question>
+        <question>
+            <text>
+                Ե ե [е]
+            </text>
+        </question>
+        <question>
+            <text>
+                Զ զ [з]
+            </text>
+        </question>
+        <question>
+            <text>
+                Է է [э́]
+            </text>
+        </question>
+        <question>
+            <text>
+                Ը ը [э] ё
+            </text>
+        </question>
+        <question>
+            <text>
+                Թ թ [тh] е
+            </text>
+        </question>
+        <question>
+            <text>
+                Ժ ժ [ж]
+            </text>
+        </question>
+        <question>
+            <text>
+                Ի ի [и]
+            </text>
+        </question>
+        <question>
+            <text>
+                Լ լ [л] ё
+            </text>
+        </question>
+        <question>
+            <text>
+                Խ խ [х]
+            </text>
+        </question>
+        <question>
+            <text>
+                Ծ ծ [тз] е
+            </text>
+        </question>
+        <question>
+            <text>
+                Կ կ [к]
+            </text>
+        </question>
+        <question>
+            <text>
+                Հ հ [h]
+            </text>
+        </question>
+        <question>
+            <text>
+                Ձ ձ [дз] е
+            </text>
+        </question>
+        <question>
+            <text>
+                Ղ ղ [R] 'гэ
+            </text>
+        </question>
+        <question>
+            <text>
+                Ճ ճ [тж] е
+            </text>
+        </question>
+        <question>
+            <text>
+                Մ մ [м]
+            </text>
+        </question>
+        <question>
+            <text>
+                Յ յ [й] е
+            </text>
+        </question>
+        <question>
+            <text>
+                Ն ն [н] ё
+            </text>
+        </question>
+        <question>
+            <text>
+                Շ շ [ш] ё
+            </text>
+        </question>
+        <question>
+            <text>
+                Ո ո [во]
+            </text>
+        </question>
+        <question>
+            <text>
+                Չ չ [ч]
+            </text>
+        </question>
+        <question>
+            <text>
+                Պ պ [п]
+            </text>
+        </question>
+        <question>
+            <text>
+                Ջ ջ [дж] е
+            </text>
+        </question>
+        <question>
+            <text>
+                Ռ ռ [р]
+            </text>
+        </question>
+        <question>
+            <text>
+                Ս ս [с]
+            </text>
+        </question>
+        <question>
+            <text>
+                Վ վ [в]
+            </text>
+        </question>
+        <question>
+            <text>
+                Տ տ [т]
+            </text>
+        </question>
+        <question>
+            <text>
+                Ր ր [рь] е
+            </text>
+        </question>
+        <question>
+            <text>
+                Ց ց [ц]
+            </text>
+        </question>
+        <question>
+            <text>
+                ՈՒ ու [у]
+            </text>
+        </question>
+        <question>
+            <text>
+                Փ փ [пh]
+            </text>
+        </question>
+        <question>
+            <text>
+                Ք ք [кh]
+            </text>
+        </question>
+        <question>
+            <text>
+                Եվ և [ев]
+            </text>
+        </question>
+        <question>
+            <text>
+                Օ օ [о]
+            </text>
+        </question>
+        <question>
+            <text>
+                Ֆ ֆ [ф]
+            </text>
+        </question>
+    </questions>
+</questionary>
