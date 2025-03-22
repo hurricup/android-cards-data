@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questionary>
+    <title>Слова (арм.)</title>
+    <questions>
+        <question>
+            <text>
+                [тзиря́н]
+                абрикос
+            </text>
+        </question>
+        <question>
+            <text>
+                [джюрь]
+                вода
+            </text>
+        </question>
+        <question>
+            <text>
+                [тжют]
+                цыплёнок
+            </text>
+        </question>
+        <question>
+            <text>
+                [тhутhа́к]
+                попугай
+            </text>
+        </question>
+        <question>
+            <text>
+                [пhучи́к]
+                шарик
+            </text>
+        </question>
+        <question>
+            <text>
+                [кhами́]
+                ветер
+            </text>
+        </question>
+        <question>
+            <text>
+                [hац]
+                хлеб/еда
+            </text>
+        </question>
+        <question>
+            <text>
+                [Rекава́рь]
+                глава
+            </text>
+        </question>
+        <question>
+            <text>
+                [дзун]
+                снег
+            </text>
+        </question>
+        <question>
+            <text>
+                [ану́ш]
+                приятный / ароматный
+            </text>
+        </question>
+        <question>
+            <text>
+                [аро́хч]
+                здоровый
+            </text>
+        </question>
+        <question>
+            <text>
+                [ерджани́к]
+                счастливый
+            </text>
+        </question>
+        <question>
+            <text>
+                [hаджё́R]
+                удачный
+            </text>
+        </question>
+        <question>
+            <text>
+                [hасакря́к]
+                простой / тривиальный
+            </text>
+        </question>
+        <question>
+            <text>
+                [апре́ль]
+                жить
+            </text>
+        </question>
+        <question>
+            <text>
+                [сирье́ль]
+                любить
+            </text>
+        </question>
+        <question>
+            <text>
+                [хаRа́ль]
+                играть
+            </text>
+        </question>
+        <question>
+            <text>
+                [картhа́ль]
+                читать
+            </text>
+        </question>
+        <question>
+            <text>
+                [галь] иск. [-и́с]
+                приходить
+            </text>
+        </question>
+        <question>
+            <text>
+                [таль] иск. [-и́с]
+                давать
+            </text>
+        </question>
+        <question>
+            <text>
+                [льаль] иск. [-и́с]
+                [ляцель]
+                плакать
+            </text>
+        </question>
+        <question>
+            <text>
+                [hац уте́ль]
+                есть (еду/хлеб кушать)
+            </text>
+        </question>
+        <question>
+            <text>
+                [hот кhаше́ль]
+                нюхать (запах втягивать)
+            </text>
+        </question>
+        <question>
+            <text>
+                [дурь галь] иск. [-и́с]
+                навиться (нрав приходить)
+            </text>
+        </question>
+    </questions>
+</questionary>
