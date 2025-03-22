@@ -148,69 +148,292 @@
             </text>
         </question>
         <question>
-            <text>[Активацне́ль]
-            активизировать</text>
+            <text>
+                [Активацне́ль]
+                активизировать
+            </text>
         </question>
         <question>
-            <text>[Активана́ль]
-            активизироваться</text>
+            <text>
+                [Активана́ль]
+                активизироваться
+            </text>
         </question>
         <question>
-            <text>[Варце́ль]
-            арендовать</text>
+            <text>
+                [Варце́ль]
+                арендовать
+            </text>
         </question>
         <question>
-            <text>[Эре́с таль]
-            баловать (лицо давать)</text>
+            <text>
+                [Эре́с таль] иск. [-и́с]
+                баловать (лицо давать)
+            </text>
         </question>
         <question>
-            <text>[Лькстве́ль]
-            баловаться</text>
+            <text>
+                [Лькстве́ль]
+                баловаться
+            </text>
         </question>
         <question>
-            <text>[Мехкана́ль]
-            беднеть</text>
+            <text>
+                [Мехкана́ль]
+                беднеть
+            </text>
         </question>
         <question>
-            <text>[Вазе́ль]
-            бежать</text>
+            <text>
+                [Вазе́ль]
+                бежать
+            </text>
         </question>
         <question>
-            <text>[Паhпане́ль]
-            беречь</text>
+            <text>
+                [Паhпане́ль]
+                беречь
+            </text>
         </question>
         <question>
-            <text>[Зᵉрюце́ль]
-            беседовать</text>
+            <text>
+                [Зᵉрюце́ль]
+                беседовать
+            </text>
         </question>
         <question>
-            <text>[Анhангстана́ль]
-            беспокоиться</text>
+            <text>
+                [Анhангстана́ль]
+                беспокоиться
+            </text>
         </question>
         <question>
-            <text>[Шнорякале́ль]
-            благодарить</text>
+            <text>
+                [Шнорякале́ль]
+                благодарить
+            </text>
         </question>
         <question>
-            <text>[Пhайле́ль]
-            блистать</text>
+            <text>
+                [Пhайле́ль]
+                блистать
+            </text>
         </question>
         <question>
-            <text>[hарюстана́ль]
-            богатеть</text>
+            <text>
+                [hарюстана́ль]
+                богатеть
+            </text>
         </question>
         <question>
-            <text>[Вахена́ль]
-            бояться</text>
+            <text>
+                [вахена́ль]
+                бояться
+            </text>
         </question>
         <question>
-            <text>[Верьцне́ль]
-            брать</text>
+            <text>
+                [верьцне́ль]
+                брать
+            </text>
         </question>
         <question>
-            <text>[Тhряше́ль]
-            брить</text>
+            <text>
+                [тhряше́ль]
+                брить
+            </text>
         </question>
-
+        <question>
+            <text>
+                [кhце́ль]
+                бросать
+            </text>
+        </question>
+        <question>
+            <text>
+                [(з)артнацне́ль]
+                будить
+            </text>
+        </question>
+        <question>
+            <text>
+                [лине́ль]
+                быть
+            </text>
+        </question>
+        <question>
+            <text>
+                [эпhе́ль]
+                варить
+            </text>
+        </question>
+        <question>
+            <text>
+                [нᵉшанве́ль]
+                венчаться / помолвиться
+            </text>
+        </question>
+        <question>
+            <text>
+                [hавата́ль]
+                верить
+            </text>
+        </question>
+        <question>
+            <text>
+                [кахе́ль]
+                вешать
+            </text>
+        </question>
+        <question>
+            <text>
+                [кᵉшᵉре́ль]
+                взвешивать
+            </text>
+        </question>
+        <question>
+            <text>
+                [тᵉрякhанцне́ль]
+                взрывать / лопать
+            </text>
+        </question>
+        <question>
+            <text>
+                [тесне́ль]
+                видеть
+            </text>
+        </question>
+        <question>
+            <text>
+                [азде́ль]
+                влиять
+            </text>
+        </question>
+        <question>
+            <text>
+                [сиряhарьве́ль]
+                влюбиться
+            </text>
+        </question>
+        <question>
+            <text>
+                [кhᵉше́ль]
+                водить
+            </text>
+        </question>
+        <question>
+            <text>
+                [гᵉрьгᵉре́ль]
+                возбуждать
+            </text>
+        </question>
+        <question>
+            <text>
+                [верядарна́ль]
+                возвращаться
+            </text>
+        </question>
+        <question>
+            <text>
+                [сарькхе́ль]
+                возделывать / мастерить
+            </text>
+        </question>
+        <question>
+            <text>
+                [hокhешᵉнче́ль]
+                воодушевлять
+            </text>
+        </question>
+        <question>
+            <text>
+                [пᵉтпᵉта́ль]
+                ворчать
+            </text>
+        </question>
+        <question>
+            <text>
+                [дастиряке́ль]
+                воспитывать
+            </text>
+        </question>
+        <question>
+            <text>
+                [верякангне́ль]
+                восстанавливаться
+            </text>
+        </question>
+        <question>
+            <text>
+                [хапhе́ль]
+                врать
+            </text>
+        </question>
+        <question>
+            <text>
+                [вᵉнасе́ль]
+                вредить
+            </text>
+        </question>
+        <question>
+            <text>
+                [hельне́ль]
+                вставать
+            </text>
+        </question>
+        <question>
+            <text>
+                [hандипе́ль]
+                встречать
+            </text>
+        </question>
+        <question>
+            <text>
+                [khaше́ль]
+                втягивать / впитывать
+            </text>
+        </question>
+        <question>
+            <text>
+                [мᵉтне́ль]
+                входить
+            </text>
+        </question>
+        <question>
+            <text>
+                [энтре́ль]
+                выбирать
+            </text>
+        </question>
+        <question>
+            <text>
+                [эрева́ль]
+                выглядеть / виднеться
+            </text>
+        </question>
+        <question>
+            <text>
+                [ляре́ль]
+                выгонять
+            </text>
+        </question>
+        <question>
+            <text>
+                [сᵉхме́ль]
+                выжимать / жать
+            </text>
+        </question>
+        <question>
+            <text>
+                [арохчана́ль]
+                выздоравливать
+            </text>
+        </question>
+        <question>
+            <text>
+                [тhе́ль]
+                выпекать
+            </text>
+        </question>
     </questions>
 </questionary>
