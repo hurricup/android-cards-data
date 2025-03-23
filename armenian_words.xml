@@ -531,5 +531,35 @@
                 танцевать
             </text>
         </question>
+        <question>
+            <text>
+                [уря́х]
+                радостный
+            </text>
+        </question>
+        <question>
+            <text>
+                [хеляци́]
+                умный
+            </text>
+        </question>
+        <question>
+            <text>
+                [уж таль]
+                дать силы (сила давать)
+            </text>
+        </question>
+        <question>
+            <text>
+                [львацкh ане́ль]
+                стирать (стирка делать)
+            </text>
+        </question>
+        <question>
+            <text>
+                [hартhук ане́ль]
+                гладить (утюг делать)
+            </text>
+        </question>
     </questions>
 </questionary>
