@@ -435,5 +435,77 @@
                 выпекать
             </text>
         </question>
+        <question>
+            <text>
+                [сирю́н]
+                красивый
+            </text>
+        </question>
+        <question>
+            <text>
+                [аза́т]
+                свободный
+            </text>
+        </question>
+        <question>
+            <text>
+                [уже́R]
+                сильный
+            </text>
+        </question>
+        <question>
+            <text>
+                [тhу́йль]
+                слабый
+            </text>
+        </question>
+        <question>
+            <text>
+                [азни́в]
+                честный
+            </text>
+        </question>
+        <question>
+            <text>
+                [мᵉтатзе́ль]
+                думать
+            </text>
+        </question>
+        <question>
+            <text>
+                [хᵉме́ль]
+                пить
+            </text>
+        </question>
+        <question>
+            <text>
+                [hаскана́ль]
+                понимать
+            </text>
+        </question>
+        <question>
+            <text>
+                [ашхате́ль]
+                работать
+            </text>
+        </question>
+        <question>
+            <text>
+                [ляц лине́ль]
+                плакать (плач быть)
+            </text>
+        </question>
+        <question>
+            <text>
+                [бац тhоRне́ль]
+                открывать (открыто оставлять)
+            </text>
+        </question>
+        <question>
+            <text>
+                [цуйц таль]
+                показывать (показ давать)
+            </text>
+        </question>
     </questions>
 </questionary>
