@@ -4,197 +4,275 @@
     <questions>
         <question>
             <text>
-                Ա ա [а]
+                Ա ա
+                айб
+                [а]
             </text>
         </question>
         <question>
             <text>
-                Բ բ [б]
+                Բ բ
+                бен
+                [б]
             </text>
         </question>
         <question>
             <text>
-                Գ գ [г]
+                Գ գ
+                гим
+                [г]
             </text>
         </question>
         <question>
             <text>
-                Դ դ [д]
+                Դ դ
+                да
+                [д]
             </text>
         </question>
         <question>
             <text>
-                Ե ե [е]
+                Ե ե
+                еч
+                [е]
             </text>
         </question>
         <question>
             <text>
-                Զ զ [з]
+                Զ զ
+                за
+                [з]
             </text>
         </question>
         <question>
             <text>
-                Է է [э́]
+                Է է
+                э
+                [э́]
             </text>
         </question>
         <question>
             <text>
-                Ը ը [э] ё
+                Ը ը
+                [эт]
+                ё
             </text>
         </question>
         <question>
             <text>
-                Թ թ [тh] е
+                Թ թ
+                то
+                [тh]
             </text>
         </question>
         <question>
             <text>
-                Ժ ժ [ж]
+                Ժ ժ
+                же
+                [ж]
             </text>
         </question>
         <question>
             <text>
-                Ի ի [и]
+                Ի ի
+                ини́
+                [и]
             </text>
         </question>
         <question>
             <text>
-                Լ լ [л] ё
+                Լ լ
+                люн
+                [л]
             </text>
         </question>
         <question>
             <text>
-                Խ խ [х]
+                Խ խ
+                хэ
+                [х]
             </text>
         </question>
         <question>
             <text>
-                Ծ ծ [тз] е
+                Ծ ծ
+                тьца
+                [тз]
             </text>
         </question>
         <question>
             <text>
-                Կ կ [к]
+                Կ կ
+                кен
+                [к]
             </text>
         </question>
         <question>
             <text>
-                Հ հ [h]
+                Հ հ
+                ho
+                [h]
             </text>
         </question>
         <question>
             <text>
-                Ձ ձ [дз] е
+                Ձ ձ
+                дза
+                [дз]
             </text>
         </question>
         <question>
             <text>
-                Ղ ղ [R] 'гэ
+                Ղ ղ
+                Rат
+                [R]
             </text>
         </question>
         <question>
             <text>
-                Ճ ճ [тж] е
+                Ճ ճ
+                че
+                [ч]
             </text>
         </question>
         <question>
             <text>
-                Մ մ [м]
+                Մ մ
+                мен
+                [м]
             </text>
         </question>
         <question>
             <text>
-                Յ յ [й] е
+                Յ յ
+                hу
+                [й]
             </text>
         </question>
         <question>
             <text>
-                Ն ն [н] ё
+                Ն ն
+                ну
+                [н]
             </text>
         </question>
         <question>
             <text>
-                Շ շ [ш] ё
+                Շ շ
+                ша
+                [ш]
             </text>
         </question>
         <question>
             <text>
-                Ո ո [во]
+                Ո ո
+                во
+                [во]
             </text>
         </question>
         <question>
             <text>
-                Չ չ [ч]
+                Չ չ
+                ча
+                [чh]
             </text>
         </question>
         <question>
             <text>
-                Պ պ [п]
+                Պ պ
+                пэ
+                [п]
             </text>
         </question>
         <question>
             <text>
-                Ջ ջ [дж] е
+                Ջ ջ
+                дже
+                [дж]
             </text>
         </question>
         <question>
             <text>
-                Ռ ռ [р]
+                Ռ ռ
+                ра
+                [р]
             </text>
         </question>
         <question>
             <text>
-                Ս ս [с]
+                Ս ս
+                сэ
+                [с]
             </text>
         </question>
         <question>
             <text>
-                Վ վ [в]
+                Վ վ
+                вэв
+                [в]
             </text>
         </question>
         <question>
             <text>
-                Տ տ [т]
+                Տ տ
+                тюн
+                [т]
             </text>
         </question>
         <question>
             <text>
-                Ր ր [рь] е
+                Ր ր
+                рэ
+                [р]
             </text>
         </question>
         <question>
             <text>
-                Ց ց [ц]
+                Ց ց
+                цо
+                [цh]
             </text>
         </question>
         <question>
             <text>
-                ՈՒ ու [у]
+                ՈՒ ու
+                юн
+                [у]
             </text>
         </question>
         <question>
             <text>
-                Փ փ [пh]
+                Փ փ
+                пьюр
+                [пh]
             </text>
         </question>
         <question>
             <text>
-                Ք ք [кh]
+                Ք ք
+                ке
+                [кh]
             </text>
         </question>
         <question>
             <text>
-                Եվ և [ев]
+                Եվ և
+                ев
+                [ев]
             </text>
         </question>
         <question>
             <text>
-                Օ օ [о]
+                Օ օ
+                о
+                [о]
             </text>
         </question>
         <question>
             <text>
-                Ֆ ֆ [ф]
+                Ֆ ֆ
+                фэ
+                [ф]
             </text>
         </question>
     </questions>
