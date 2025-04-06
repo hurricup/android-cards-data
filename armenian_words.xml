@@ -3,699 +3,187 @@
     <title>Слова (арм.)</title>
     <questions>
         <question>
-            <text>
-                [тзиря́н]
-                абрикос
-            </text>
+            <text>ՈՂՋՈՒՅՆ
+                ողջույն
+
+                [vɔʁˈʧʰujn]
+                [вохч’уйн]
+
+                здравствуйте
+
+                Неформальное, дружелюбное приветствие</text>
+        </question>
+        <question>
+            <text>ԲԱՐԵՎ ՁԵԶ
+                բարեւ ձեզ
+
+                [bɑˈɾev dzɛz]
+                [барев дзез]
+
+                здравствуйте
+
+                досл.: привет вам
+
+                Формальное приветствие</text>
+        </question>
+        <question>
+            <text>ՑՏԵՍՈՒԹՅՈՒՆ
+                ցտեսություն
+
+                [tsʰtɛsuˈtʰjun]
+                [цтесут’юн]
+
+                до свидания
+
+                досл.: до встречи</text>
+        </question>
+        <question>
+            <text>ՑՏԵՍ
+                ցտես
+
+                [tsʰtɛs]
+                [цтес]
+
+                пока
+
+                досл.: увидимся
+
+                Неформальное прощание</text>
+        </question>
+        <question>
+            <text>ԲԱՐԻ ԱՌԱՎՈՏ
+                բարի առավոտ
+
+                [bɑˈɾi ɑrɑˈvɔt]
+                [бари аравот]
+
+                доброе утро
+
+                досл.: добрый утро</text>
+        </question>
+        <question>
+            <text>ԲԱՐԻ ՕՐ
+                բարի օր
+
+                [bɑˈɾi ɔɾ]
+                [бари ор]
+
+                добрый день</text>
+        </question>
+        <question>
+            <text>ԲԱՐԻ ԵՐԵԿՈ
+                բարի երեկո
+
+                [bɑˈɾi jɛɾɛˈkɔ]
+                [бари ере́ко]
+
+                добрый вечер</text>
+        </question>
+        <question>
+            <text>ԻՆՉՊԵ՞Ս ԵՍ
+                ինչպե՞ս ես
+
+                [inʧʰˈpes jes]
+                [инч’пес ес]
+
+                как дела
+
+                досл.: как ты
+
+                Неформальное</text>
+        </question>
+        <question>
+            <text>ԻՆՉՊԵ՞Ս ԵՔ
+                ինչպե՞ս եք
+
+                [inʧʰˈpes jɛk]
+                [инч’пес ек]
+
+                как у вас дела
+
+                досл.: как вы
+
+                Формальное обращение</text>
+        </question>
+        <question>
+            <text>ԼԱՎ ԵՄ
+                լավ եմ
+
+                [lɑv ɛm]
+                [лав эм]
+
+                в порядке
+
+                досл.: я в порядке</text>
+        </question>
+        <question>
+            <text>ԱՄԵՆԻՑ ԼԱՎԸ
+                ամենից լավը
+
+                [ɑmeˈnitsʰ ˈlɑvə]
+                [амениц’ лавэ]
+
+                лучше всех</text>
+        </question>
+        <question>
+            <text>ՎԱՏ
+                վատ
+
+                [vɑt]
+                [ват]
+
+                плохо</text>
+        </question>
+        <question>
+            <text>ՇՆՈՐՀԱԿԱԼՈՒԹՅՈՒՆ
+                շնորհակալություն
+
+                [ʃnɔɾɑkɑluˈt͡sʰjun]
+                [шноракалут’юн]
+
+                спасибо</text>
+        </question>
+        <question>
+            <text>ԽՆԴՐԵՄ
+                խնդրեմ
+
+                [χəntˈɾem]
+                [хнтрэм]
+
+                пожалуйста
+
+                Также используется как ответ на благодарность</text>
+        </question>
+        <question>
+            <text>ԹՈՒՅԼ ՏՎԵՔ ԱՆՑՆԵԼ
+                թույլ տվեք անցնել
+
+                [tʰujl tʰəˈvek ɑnt͡sʰˈnɛl]
+                [туйл тэвек анц’нел]
+
+                разрешите пройти</text>
+        </question>
+        <question>
+            <text>ՓԱԿԵՔ ԴՈՒՌԸ
+                փակեք դուռը
+
+                [pʰɑˈkek ˈduɾə]
+                [п’акек дурэ]
+
+                закройте дверь</text>
+        </question>
+        <question>
+            <text>ԲԱՐԻ ԳԻՇԵՐ
+                բարի գիշեր
+
+                [bɑˈɾi ɡiˈʃɛɾ]
+                [бари гишер]
+
+                хорошего вечера
+
+                досл.: добрая ночь
+
+                Форма прощания на ночь</text>
         </question>
-        <question>
-            <text>
-                [джюрь]
-                вода
-            </text>
-        </question>
-        <question>
-            <text>
-                [тжют]
-                цыплёнок
-            </text>
-        </question>
-        <question>
-            <text>
-                [тhутhа́к]
-                попугай
-            </text>
-        </question>
-        <question>
-            <text>
-                [пhучи́к]
-                шарик
-            </text>
-        </question>
-        <question>
-            <text>
-                [кhами́]
-                ветер
-            </text>
-        </question>
-        <question>
-            <text>
-                [hац]
-                хлеб/еда
-            </text>
-        </question>
-        <question>
-            <text>
-                [Rекава́рь]
-                глава
-            </text>
-        </question>
-        <question>
-            <text>
-                [дзун]
-                снег
-            </text>
-        </question>
-        <question>
-            <text>
-                [ану́ш]
-                приятный / ароматный
-            </text>
-        </question>
-        <question>
-            <text>
-                [аро́хч]
-                здоровый
-            </text>
-        </question>
-        <question>
-            <text>
-                [ерджани́к]
-                счастливый
-            </text>
-        </question>
-        <question>
-            <text>
-                [hаджё́R]
-                удачный
-            </text>
-        </question>
-        <question>
-            <text>
-                [hасакря́к]
-                простой / тривиальный
-            </text>
-        </question>
-        <question>
-            <text>
-                [апре́ль]
-                жить
-            </text>
-        </question>
-        <question>
-            <text>
-                [сирье́ль]
-                любить
-            </text>
-        </question>
-        <question>
-            <text>
-                [хаRа́ль]
-                играть
-            </text>
-        </question>
-        <question>
-            <text>
-                [картhа́ль]
-                читать
-            </text>
-        </question>
-        <question>
-            <text>
-                [галь] иск. [-и́с]
-                приходить
-            </text>
-        </question>
-        <question>
-            <text>
-                [таль] иск. [-и́с]
-                давать
-            </text>
-        </question>
-        <question>
-            <text>
-                [льаль] иск. [-и́с]
-                [ляцель]
-                плакать
-            </text>
-        </question>
-        <question>
-            <text>
-                [hац уте́ль]
-                есть (еду/хлеб кушать)
-            </text>
-        </question>
-        <question>
-            <text>
-                [hот кhаше́ль]
-                нюхать (запах втягивать)
-            </text>
-        </question>
-        <question>
-            <text>
-                [дурь галь] иск. [-и́с]
-                навиться (нрав приходить)
-            </text>
-        </question>
-        <question>
-            <text>
-                [активацне́ль]
-                активизировать
-            </text>
-        </question>
-        <question>
-            <text>
-                [активана́ль]
-                активизироваться
-            </text>
-        </question>
-        <question>
-            <text>
-                [варце́ль]
-                арендовать
-            </text>
-        </question>
-        <question>
-            <text>
-                [эре́с таль] иск. [-и́с]
-                баловать (лицо давать)
-            </text>
-        </question>
-        <question>
-            <text>
-                [лькстве́ль]
-                баловаться
-            </text>
-        </question>
-        <question>
-            <text>
-                [мехкана́ль]
-                беднеть
-            </text>
-        </question>
-        <question>
-            <text>
-                [вазе́ль]
-                бежать
-            </text>
-        </question>
-        <question>
-            <text>
-                [паhпане́ль]
-                беречь
-            </text>
-        </question>
-        <question>
-            <text>
-                [зᵉрюце́ль]
-                беседовать
-            </text>
-        </question>
-        <question>
-            <text>
-                [анhангстана́ль]
-                беспокоиться
-            </text>
-        </question>
-        <question>
-            <text>
-                [шнорякале́ль]
-                благодарить
-            </text>
-        </question>
-        <question>
-            <text>
-                [пhайле́ль]
-                блистать
-            </text>
-        </question>
-        <question>
-            <text>
-                [hарюстана́ль]
-                богатеть
-            </text>
-        </question>
-        <question>
-            <text>
-                [вахена́ль]
-                бояться
-            </text>
-        </question>
-        <question>
-            <text>
-                [верьцне́ль]
-                брать
-            </text>
-        </question>
-        <question>
-            <text>
-                [тhряше́ль]
-                брить
-            </text>
-        </question>
-        <question>
-            <text>
-                [кhце́ль]
-                бросать
-            </text>
-        </question>
-        <question>
-            <text>
-                [(з)артнацне́ль]
-                будить
-            </text>
-        </question>
-        <question>
-            <text>
-                [лине́ль]
-                быть
-            </text>
-        </question>
-        <question>
-            <text>
-                [эпhе́ль]
-                варить
-            </text>
-        </question>
-        <question>
-            <text>
-                [нᵉшанве́ль]
-                венчаться / помолвиться
-            </text>
-        </question>
-        <question>
-            <text>
-                [hавата́ль]
-                верить
-            </text>
-        </question>
-        <question>
-            <text>
-                [кахе́ль]
-                вешать
-            </text>
-        </question>
-        <question>
-            <text>
-                [кᵉшᵉре́ль]
-                взвешивать
-            </text>
-        </question>
-        <question>
-            <text>
-                [тᵉрякhанцне́ль]
-                взрывать / лопать
-            </text>
-        </question>
-        <question>
-            <text>
-                [тесне́ль]
-                видеть
-            </text>
-        </question>
-        <question>
-            <text>
-                [азде́ль]
-                влиять
-            </text>
-        </question>
-        <question>
-            <text>
-                [сиряhарьве́ль]
-                влюбиться
-            </text>
-        </question>
-        <question>
-            <text>
-                [кhᵉше́ль]
-                водить
-            </text>
-        </question>
-        <question>
-            <text>
-                [гᵉрьгᵉре́ль]
-                возбуждать
-            </text>
-        </question>
-        <question>
-            <text>
-                [верядарна́ль]
-                возвращаться
-            </text>
-        </question>
-        <question>
-            <text>
-                [сарькхе́ль]
-                возделывать / мастерить
-            </text>
-        </question>
-        <question>
-            <text>
-                [hокhешᵉнче́ль]
-                воодушевлять
-            </text>
-        </question>
-        <question>
-            <text>
-                [пᵉтпᵉта́ль]
-                ворчать
-            </text>
-        </question>
-        <question>
-            <text>
-                [дастиряке́ль]
-                воспитывать
-            </text>
-        </question>
-        <question>
-            <text>
-                [верякангне́ль]
-                восстанавливаться
-            </text>
-        </question>
-        <question>
-            <text>
-                [хапhе́ль]
-                врать
-            </text>
-        </question>
-        <question>
-            <text>
-                [вᵉнасе́ль]
-                вредить
-            </text>
-        </question>
-        <question>
-            <text>
-                [hельне́ль]
-                вставать
-            </text>
-        </question>
-        <question>
-            <text>
-                [hандипе́ль]
-                встречать
-            </text>
-        </question>
-        <question>
-            <text>
-                [khaше́ль]
-                втягивать / впитывать
-            </text>
-        </question>
-        <question>
-            <text>
-                [мᵉтне́ль]
-                входить
-            </text>
-        </question>
-        <question>
-            <text>
-                [энтре́ль]
-                выбирать
-            </text>
-        </question>
-        <question>
-            <text>
-                [эрева́ль]
-                выглядеть / виднеться
-            </text>
-        </question>
-        <question>
-            <text>
-                [ляре́ль]
-                выгонять
-            </text>
-        </question>
-        <question>
-            <text>
-                [сᵉхме́ль]
-                выжимать / жать
-            </text>
-        </question>
-        <question>
-            <text>
-                [арохчана́ль]
-                выздоравливать
-            </text>
-        </question>
-        <question>
-            <text>
-                [тhе́ль]
-                выпекать
-            </text>
-        </question>
-        <question>
-            <text>
-                [сирю́н]
-                красивый
-            </text>
-        </question>
-        <question>
-            <text>
-                [аза́т]
-                свободный
-            </text>
-        </question>
-        <question>
-            <text>
-                [уже́R]
-                сильный
-            </text>
-        </question>
-        <question>
-            <text>
-                [тhу́йль]
-                слабый
-            </text>
-        </question>
-        <question>
-            <text>
-                [азни́в]
-                честный
-            </text>
-        </question>
-        <question>
-            <text>
-                [мᵉтатзе́ль]
-                думать
-            </text>
-        </question>
-        <question>
-            <text>
-                [хᵉме́ль]
-                пить
-            </text>
-        </question>
-        <question>
-            <text>
-                [hаскана́ль]
-                понимать
-            </text>
-        </question>
-        <question>
-            <text>
-                [ашхате́ль]
-                работать
-            </text>
-        </question>
-        <question>
-            <text>
-                [ляц лине́ль]
-                плакать (плач быть)
-            </text>
-        </question>
-        <question>
-            <text>
-                [бац тhоRне́ль]
-                открывать (открыто оставлять)
-            </text>
-        </question>
-        <question>
-            <text>
-                [цуйц таль]
-                показывать (показ давать)
-            </text>
-        </question>
-        <question>
-            <text>
-                [ане́ль]
-                делать
-            </text>
-        </question>
-        <question>
-            <text>
-                [ерязе́ль]
-                мечтать
-            </text>
-        </question>
-        <question>
-            <text>
-                [нэре́ль]
-                прощать
-            </text>
-        </question>
-        <question>
-            <text>
-                [паре́ль]
-                танцевать
-            </text>
-        </question>
-        <question>
-            <text>
-                [уря́х]
-                радостный
-            </text>
-        </question>
-        <question>
-            <text>
-                [хеляци́]
-                умный
-            </text>
-        </question>
-        <question>
-            <text>
-                [уж таль]
-                дать силы (сила давать)
-            </text>
-        </question>
-        <question>
-            <text>
-                [львацкh ане́ль]
-                стирать (стирка делать)
-            </text>
-        </question>
-        <question>
-            <text>
-                [hартhук ане́ль]
-                гладить (утюг делать)
-            </text>
-        </question>
-        <question><text>
-            [уRиRацне́ль]
-            выпрямлять
-        </text></question>
-        <question><text>
-            [сᵉрпhᵉве́ль]
-            вытираться
-        </text></question>
-        <question><text>
-            [ворна́ль]
-            выть
-        </text></question>
-        <question><text>
-            [ду́рс галь]
-            выходить
-        </text></question>
-        <question><text>
-            [гортзе́ль]
-            вязать
-        </text></question>
-        <question><text>
-            [тhороме́ль]
-            вянуть
-        </text></question>
-        <question><text>
-            [hанге́ль]
-            гаснуть
-        </text></question>
-        <question><text>
-            [hартhуке́ль]
-            гладить / утюжить
-        </text></question>
-        <question><text>
-            [ку́ль таль]
-            глотать
-        </text></question>
-        <question><text>
-            [хосе́ль / хоса́ль]
-            говорить
-        </text></question>
-        <question><text>
-            [кhᵉвиарьке́ль]
-            голосовать
-        </text></question>
-        <question><text>
-            [hᵉпартана́ль]
-            гордиться
-        </text></question>
-        <question><text>
-            [варве́ль]
-            гореть
-        </text></question>
-        <question><text>
-            [патрасте́ль]
-            готовить / подготавливать
-        </text></question>
-        <question><text>
-            [тᵉхрель]
-            грустить
-        </text></question>
-        <question><text>
-            [ма́н галь]
-            гулять / искать
-        </text></question>
-        <question><text>
-            [таль]
-            давать
-        </text></question>
-        <question><text>
-            [сᵉхмель]
-            давить /жать
-        </text></question>
-        <question><text>
-            [нᵉвире́ль]
-            дарить
-        </text></question>
-        <question><text>
-            [шарже́ль]
-            двигать
-        </text></question>
-        <question><text>
-            [ане́ль]
-            делать
-        </text></question>
-        <question><text>
-            [кисэ́ль]
-            делить
-        </text></question>
-        <question><text>
-            [цуцадре́ль]
-            демонстрировать
-        </text></question>
-        <question><text>
-            [паhе́ль]
-            держать
-        </text></question>
-        <question><text>
-            [тhэлядре́ль]
-            диктовать
-        </text></question>
-        <question><text>
-            [авеляцне́ль]
-            добавлять
-        </text></question>
-        <question><text>
-            [вᵉстаhе́ль]
-            доверять
-        </text></question>
-        <question><text>
-            [пайманаворьве́ль]
-            договариваться
-        </text></question>
-        <question><text>
-            [апацуце́ль]
-            доказывать
-        </text></question>
-        <question><text>
-            [hасне́ль]
-            достигать / доходить
-        </text></question>
-        <question><text>
-            [сатке́ль]
-            дохнуть
-        </text></question>
-        <question><text>
-            [кэрве́ль]
-            драться
-        </text></question>
-        <question><text>
-            [доRа́ль]
-            дрожать
-        </text></question>
-        <question><text>
-            [энкерюцю́н ане́ль]
-            дружить
-        </text></question>
     </questions>
 </questionary>
