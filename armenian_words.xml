@@ -695,7 +695,7 @@
                 [sɑ im təˈʁɑn ɛ]
                 [са им тагáн э]
 
-                Это мой сын
+                Это мой мальчик
 
             </text>
         </question>
@@ -1089,6 +1089,420 @@
                 Хорошего отдыха
             </text>
         </question>
+        <question>
+            <text>ՄԱՅՐ
+                մայր
 
+                [majd̪ɾ]
+                [майр]
+
+                мать
+            </text>
+        </question>
+
+        <question>
+            <text>ՀԱՅՐ
+                հայր
+
+                [haɪɾ]
+                [хаир]
+
+                отец
+            </text>
+        </question>
+
+        <question>
+            <text>ԵՂԲԱՅՐ
+                եղբայր
+
+                [jɛʁˈbɑjd̪ɾ]
+                [ехбайр]
+
+                брат
+            </text>
+        </question>
+
+        <question>
+            <text>ՔՈՅՐ
+                քույր
+
+                [kʰojɾ]
+                [койр]
+
+                сестра
+            </text>
+        </question>
+
+        <question>
+            <text>ՈՐԴԻ
+                որդի
+
+                [voɾˈtʰi]
+                [вортхи]
+
+                сын
+            </text>
+        </question>
+
+        <question>
+            <text>ԱՂՋԻԿ
+                աղջիկ
+
+                [ɑʁˈd͡ʒik]
+                [ахджик]
+
+                девочка
+            </text>
+        </question>
+        <question>
+            <text>ԴՈՒՍՏՐ
+                դուստր
+
+                [dustɾ]
+                [дустр]
+
+                дочь
+            </text>
+        </question>
+        <question>
+            <text>ԿԻՆ
+                կին
+
+                [kin]
+                [кин]
+
+                женщина, женщина
+            </text>
+        </question>
+        <question>
+            <text>ԱՄՈՒՍԻՆ
+                ամուսին
+
+                [ɑmuˈsin]
+                [амусин]
+
+                муж
+            </text>
+        </question>
+
+        <question>
+            <text>ԵՐԿՈՒՇԱԲԹԻ
+                երկուշաբթի
+
+                [jɛɾkuʃɑbˈtʰi]
+                [еркушабти]
+
+                понедельник
+            </text>
+        </question>
+
+        <question>
+            <text>ԵՐԵՔՇԱԲԹԻ
+                երեքշաբթի
+
+                [jɛɾekʃɑbˈtʰi]
+                [ерекшабти]
+
+                вторник
+            </text>
+        </question>
+
+        <question>
+            <text>ՉՈՐԵՔՇԱԲԹԻ
+                չորեքշաբթի
+
+                [t͡ʃʰoɾekʃɑbˈtʰi]
+                [чорекшабти]
+
+                среда
+            </text>
+        </question>
+
+        <question>
+            <text>ՀԻՆԳՇԱԲԹԻ
+                հինգշաբթի
+
+                [hiŋɡʃɑbˈtʰi]
+                [хингшабти]
+
+                четверг
+            </text>
+        </question>
+
+        <question>
+            <text>ՈՒՐԲԱԹ
+                ուրբաթ
+
+                [uɾˈbɑtʰ]
+                [урбат]
+
+                пятница
+            </text>
+        </question>
+
+        <question>
+            <text>ՇԱԲԱԹ
+                շաբաթ
+
+                [ʃɑˈbɑtʰ]
+                [шабат]
+
+                суббота
+            </text>
+        </question>
+
+        <question>
+            <text>ԿԻՐԱԿԻ
+                կիրակի
+
+                [kiɾɑˈki]
+                [кираки]
+
+                воскресенье
+            </text>
+        </question>
+
+        <question>
+            <text>ՅԱՆՎԱՐ
+                հունվար
+
+                [hunˈvɑɾ]
+                [хунвар]
+
+                январь
+            </text>
+        </question>
+
+        <question>
+            <text>ՓԵՏՐՎԱՐ
+                փետրվար
+
+                [pʰɛtɾʋɑɾ]
+                [петрвар]
+
+                февраль
+            </text>
+        </question>
+
+        <question>
+            <text>ՄԱՐՏ
+                մարտ
+
+                [mɑɾt]
+                [март]
+
+                март
+            </text>
+        </question>
+
+        <question>
+            <text>ԱՊՐԻԼ
+                ապրիլ
+
+                [ɑˈpɾil]
+                [април]
+
+                апрель
+            </text>
+        </question>
+
+        <question>
+            <text>ՄԱՅԻՍ
+                մայիս
+
+                [mɑˈjis]
+                [майис]
+
+                май
+            </text>
+        </question>
+
+        <question>
+            <text>ՀՈՒՆԻՍ
+                հունիս
+
+                [huˈnis]
+                [хунис]
+
+                июнь
+            </text>
+        </question>
+
+        <question>
+            <text>ՀՈՒԼԻՍ
+                հուլիս
+
+                [huˈlis]
+                [хулис]
+
+                июль
+            </text>
+        </question>
+
+        <question>
+            <text>ՕԳՈՍՏՈՍ
+                օգոստոս
+
+                [oɡosˈtos]
+                [огостос]
+
+                август
+            </text>
+        </question>
+
+        <question>
+            <text>ՍԵՊՏԵՄԲԵՐ
+                սեպտեմբեր
+
+                [sɛpˈtɛmbɛɾ]
+                [септембер]
+
+                сентябрь
+            </text>
+        </question>
+
+        <question>
+            <text>ՀՈԿՏԵՄԲԵՐ
+                հոկտեմբեր
+
+                [hokˈtɛmbɛɾ]
+                [хоктембер]
+
+                октябрь
+            </text>
+        </question>
+        <question>
+            <text>ՆՈՅԵՄԲԵՐ
+                նոյեմբեր
+
+                [nojemˈbeɾ]
+                [ноембер]
+
+                ноябрь
+
+                Заимствовано из европейских языков (через русский или французский), восходит к латинскому *november* — девятый месяц
+            </text>
+        </question>
+        <question>
+            <text>ԴԵԿՏԵՄԲԵՐ
+                դեկտեմբեր
+
+                [dɛkˈtɛmbɛɾ]
+                [дектембер]
+
+                декабрь
+            </text>
+        </question>
+
+        <question>
+            <text>ՎԱՅԿՅԱՆՔ
+                վայրկյանք
+
+                [vɑjɾkʰjɑŋkʰ]
+                [вайркянк]
+
+                секунда
+
+                Дословно: «мгновение» или «доля времени»
+            </text>
+        </question>
+        <question>
+            <text>ՐՈՊԵ
+                րոպե
+
+                [ɾoˈpʰɛ]
+                [ропе]
+
+                минута
+            </text>
+        </question>
+
+        <question>
+            <text>ԺԱՄ
+                ժամ
+
+                [ʒɑm]
+                [жам]
+
+                час
+            </text>
+        </question>
+
+        <question>
+            <text>ՕՐ
+                օր
+
+                [oɾ]
+                [ор]
+
+                день
+            </text>
+        </question>
+
+        <question>
+            <text>ՇԱԲԱԹ
+                շաբաթ
+
+                [ʃɑˈbɑtʰ]
+                [шабат]
+
+                неделя
+            </text>
+        </question>
+
+        <question>
+            <text>ԱՄԻՍ
+                ամիս
+
+                [ɑˈmis]
+                [амис]
+
+                месяц
+            </text>
+        </question>
+
+        <question>
+            <text>ՏԱՐԻ
+                տարի
+
+                [tɑˈɾi]
+                [тари]
+
+                год
+            </text>
+        </question>
+
+        <question>
+            <text>ԳՆԵԼ
+                գնել
+
+                [ɡəˈnɛl]
+                [гнел]
+
+                купить
+            </text>
+        </question>
+
+        <question>
+            <text>ՎԱՃԱՌԵԼ
+                վաճառել
+
+                [vɑt͡ʃʰɑˈɾɛl]
+                [вачарел]
+
+                продать
+            </text>
+        </question>
+
+        <question>
+            <text>ՈՐՔԱՆ
+                որքան
+
+                [voɾˈkʰɑn]
+                [воркан]
+
+                сколько
+            </text>
+        </question>
     </questions>
 </questionary>
