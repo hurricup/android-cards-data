@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questionary>
+    <title>Армянские курсы</title>
+    <questions>
+        <question>
+            <text>2Շատ
+
+
+много, очень</text>
+        </question>
+        <question>
+            <text>[ես] լավ եմ
+
+
+Хорошо.</text>
+        </question>
+        <question>
+            <text>Այո
+
+
+Да</text>
+        </question>
+        <question>
+            <text>Բան չէ
+
+
+Ничего нет</text>
+        </question>
+        <question>
+            <text>Դե լավ
+
+
+ну ладно.</text>
+        </question>
+        <question>
+            <text>Ես էլ եմ լավ
+
+
+У меня тоже все хорошо</text>
+        </question>
+        <question>
+            <text>Երևան
+
+
+Ереван</text>
+        </question>
+        <question>
+            <text>Ի՞նչ կա[-չկա]
+
+
+Что нового? (Что есть?)</text>
+        </question>
+        <question>
+            <text>Լավ
+
+
+хорошо, также ОК</text>
+        </question>
+        <question>
+            <text>Լավ եմ, դո՞ւ
+
+
+Хорошо, ты (как)?</text>
+        </question>
+        <question>
+            <text>Կներեք
+
+
+извините</text>
+        </question>
+        <question>
+            <text>Հա
+
+
+Ага</text>
+        </question>
+        <question>
+            <text>Ձեզ լավ օր
+
+
+хорошего Вам дня.</text>
+        </question>
+        <question>
+            <text>Ձեզ հաճելի օր
+
+
+приятного Вам дня.</text>
+        </question>
+        <question>
+            <text>Մերսի, ձեզ էլ
+
+
+спасибо, вам тоже.</text>
+        </question>
+        <question>
+            <text>Մերսի, քեզ էլ
+
+
+спасибо, тебе тоже.</text>
+        </question>
+        <question>
+            <text>Շնորհակալություն
+
+
+Спасибо</text>
+        </question>
+        <question>
+            <text>Ոչ
+
+
+Нет</text>
+        </question>
+        <question>
+            <text>Չէ
+
+
+Не</text>
+        </question>
+        <question>
+            <text>Քեզ լավ օր
+
+
+хорошего тебе дня.</text>
+        </question>
+        <question>
+            <text>Քեզ հաճելի օր
+
+
+приятного тебе дня.</text>
+        </question>
+        <question>
+            <text>աշուն
+
+
+осень</text>
+        </question>
+        <question>
+            <text>ապրես
+
+
+спасибо но между друзьями</text>
+        </question>
+        <question>
+            <text>բառ
+
+
+слово</text>
+        </question>
+        <question>
+            <text>բարի առավոտ
+
+
+доброе утро</text>
+        </question>
+        <question>
+            <text>բարի գիշեր
+
+
+спокойной ночи</text>
+        </question>
+        <question>
+            <text>բարի երեկո
+
+
+добрый вечер</text>
+        </question>
+        <question>
+            <text>բարի օր
+
+
+добрый день</text>
+        </question>
+        <question>
+            <text>բարիլույս
+
+
+доброе утро (добрый свет)</text>
+        </question>
+        <question>
+            <text>բարև
+
+
+здравствуйте</text>
+        </question>
+        <question>
+            <text>բարև ձեզ
+
+
+более формальный вариант здравствуйте</text>
+        </question>
+        <question>
+            <text>գրել
+
+
+писать</text>
+        </question>
+        <question>
+            <text>դրսում
+
+
+на улице</text>
+        </question>
+        <question>
+            <text>երազ
+
+
+сновидение</text>
+        </question>
+        <question>
+            <text>զանգել
+
+
+звонить</text>
+        </question>
+        <question>
+            <text>էլ
+
+
+тоже</text>
+        </question>
+        <question>
+            <text>ընկեր
+
+
+друг</text>
+        </question>
+        <question>
+            <text>թաթիկ
+
+
+лапка</text>
+        </question>
+        <question>
+            <text>ժամ
+
+
+час</text>
+        </question>
+        <question>
+            <text>ինչպե՞ս ես
+
+
+Как у тебя дела?</text>
+        </question>
+        <question>
+            <text>ինչպե՞ս եք
+
+
+Как у вас дела?</text>
+        </question>
+        <question>
+            <text>ինքը
+
+
+он/она</text>
+        </question>
+        <question>
+            <text>լավ եմ, դու՞ք
+
+
+Хорошо, вы?</text>
+        </question>
+        <question>
+            <text>լուսին
+
+
+луна</text>
+        </question>
+        <question>
+            <text>խաղ
+
+
+игра</text>
+        </question>
+        <question>
+            <text>խնդրեմ
+
+
+пожалуйста (в ответ на спасибо)</text>
+        </question>
+        <question>
+            <text>խնդրում եմ
+
+
+прошу (пожалуйста просительно)</text>
+        </question>
+        <question>
+            <text>ծիածան
+
+
+радуга</text>
+        </question>
+        <question>
+            <text>կանօն ֊ правило</text>
+        </question>
+        <question>
+            <text>կատու
+
+
+кот</text>
+        </question>
+        <question>
+            <text>կներես
+
+
+извини</text>
+        </question>
+        <question>
+            <text>հայ
+
+
+армянин</text>
+        </question>
+        <question>
+            <text>հաջող
+
+
+пока</text>
+        </question>
+        <question>
+            <text>հաջողություն
+
+
+удачи</text>
+        </question>
+        <question>
+            <text>ձուկ
+
+
+рыба</text>
+        </question>
+        <question>
+            <text>ճանճ
+
+
+муха</text>
+        </question>
+        <question>
+            <text>մայր
+
+
+мать</text>
+        </question>
+        <question>
+            <text>մեր
+
+
+наш</text>
+        </question>
+        <question>
+            <text>մերսի [շատ]
+
+
+спасибо [большое]</text>
+        </question>
+        <question>
+            <text>յոդ
+
+
+йод</text>
+        </question>
+        <question>
+            <text>նեղ
+
+
+узкий</text>
+        </question>
+        <question>
+            <text>ներեցեք
+
+
+извините</text>
+        </question>
+        <question>
+            <text>նոր
+
+
+новый</text>
+        </question>
+        <question>
+            <text>նոր- новый</text>
+        </question>
+        <question>
+            <text>նույնպես
+
+
+тоже</text>
+        </question>
+        <question>
+            <text>նուռ
+
+
+гранат</text>
+        </question>
+        <question>
+            <text>շնորհակալ եմ
+
+
+благодарю</text>
+        </question>
+        <question>
+            <text>շուն
+
+
+собака</text>
+        </question>
+        <question>
+            <text>ո՞նց ես
+
+
+Как у тебя дела? (обычно)</text>
+        </question>
+        <question>
+            <text>ո՞նց եք
+
+
+Как у вас дела? (обычно)</text>
+        </question>
+        <question>
+            <text>ողջույն
+
+
+привет</text>
+        </question>
+        <question>
+            <text>ոչինչ
+
+
+ничего</text>
+        </question>
+        <question>
+            <text>որտեղ
+
+
+где</text>
+        </question>
+        <question>
+            <text>ուր
+
+
+куда</text>
+        </question>
+        <question>
+            <text>չամիչ
+
+
+изюм</text>
+        </question>
+        <question>
+            <text>չկա, դու ասա
+
+
+Ничего нет, ты скажи.</text>
+        </question>
+        <question>
+            <text>պանիր
+
+
+сыр</text>
+        </question>
+        <question>
+            <text>ջուր
+
+
+вода</text>
+        </question>
+        <question>
+            <text>ռոբոտ
+
+
+робот</text>
+        </question>
+        <question>
+            <text>սունկ
+
+
+гриб</text>
+        </question>
+        <question>
+            <text>վատ
+
+
+плохой</text>
+        </question>
+        <question>
+            <text>տատիկ
+
+
+бабушка</text>
+        </question>
+        <question>
+            <text>րոպե
+
+
+минута</text>
+        </question>
+        <question>
+            <text>ցուցակ
+
+
+список</text>
+        </question>
+        <question>
+            <text>ցտեսություն
+
+
+до свидания</text>
+        </question>
+        <question>
+            <text>փրփուր
+
+
+пена</text>
+        </question>
+        <question>
+            <text>քանոն
+
+
+линейка</text>
+        </question>
+        <question>
+            <text>օրինակ
+
+
+пример, экземпляр</text>
+        </question>
+        <question>
+            <text>ֆուտբոլ
+
+
+футбол</text>
+        </question>
+    </questions>
+</questionary>
