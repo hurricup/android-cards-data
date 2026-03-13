@@ -269,5 +269,293 @@
         <question>
             <text>ֆուտբոլ</text><answer>футбол</answer>
         </question>
+        <question>
+            <text>Տոպրակ պե՞տք ա</text>
+            <answer>Пакет нужен?</answer>
+        </question>
+        <question>
+            <text>Տոպրակ դնե՞մ</text>
+            <answer>В пакет положить?</answer>
+        </question>
+        <question>
+            <text>Տոպրակ ունե՞ք</text>
+            <answer>У вас есть пакет?</answer>
+        </question>
+        <question>
+            <text>Չէ, պետք չի</text>
+            <answer>Нет, не нужен</answer>
+        </question>
+        <question>
+            <text>Հաշիվը կարելի՞ ա</text>
+            <answer>Можно счет?</answer>
+        </question>
+        <question>
+            <text>Հաշիվը կբերե՞ք</text>
+            <answer>Принесите счет.</answer>
+        </question>
+        <question>
+            <text>Հաշիվը կտա՞ք</text>
+            <answer>Дайте счет.</answer>
+        </question>
+        <question>
+            <text>Քարտո՞վ թե՞ կանխիկ։</text>
+            <answer>Картой или наличными.</answer>
+        </question>
+        <question>
+            <text>Ես սովորում եմ հայերեն</text>
+            <answer>Я учу армянский</answer>
+        </question>
+        <question>
+            <text>Ես հայերեն լավ չեմ հասկանում</text>
+            <answer>Я плохо понимаю по-армянски</answer>
+        </question>
+        <question>
+            <text>Մի հատ էլ կասե՞ս</text>
+            <answer>Повтори пожалуйста</answer>
+        </question>
+        <question>
+            <text>Մի հատ էլ կասե՞ք</text>
+            <answer>Повторите пожалуйста</answer>
+        </question>
+        <question>
+            <text>Տոպրակ տա՞մ</text>
+            <answer>дать пакет?</answer>
+        </question>
+        <question>
+            <text>Ես … եմ</text>
+            <answer>я ... есть</answer>
+        </question>
+        <question>
+            <text>Դու … ես</text>
+            <answer>ты ... есть</answer>
+        </question>
+        <question>
+            <text>Ինքը … է/ա*</text>
+            <answer>он(а) ... есть</answer>
+        </question>
+        <question>
+            <text>Մենք … ենք</text>
+            <answer>мы ... есть</answer>
+        </question>
+        <question>
+            <text>Դուք … եք</text>
+            <answer>вы ... есть</answer>
+        </question>
+        <question>
+            <text>Նրանք / իրենք … են</text>
+            <answer>они ... есть</answer>
+        </question>
+        <question>
+            <text>ես հայ եմ</text>
+            <answer>Я армянин.</answer>
+        </question>
+        <question>
+            <text>Սա տետր է</text>
+            <answer>Это тетрадь.</answer>
+        </question>
+        <question>
+            <text>Սա Երևանն է</text>
+            <answer>Это Ереван.</answer>
+        </question>
+        <question>
+            <text>Դու ռու՞ս ես</text>
+            <answer>Ты русский?</answer>
+        </question>
+        <question>
+            <text>Միշան ռուս է</text>
+            <answer>Миша русский.</answer>
+        </question>
+        <question>
+            <text>Սաշան սովորում է</text>
+            <answer>Саша учит.</answer>
+        </question>
+        <question>
+            <text>Տները մեծ են</text>
+            <answer>Дома большие.</answer>
+        </question>
+        <question>
+            <text>Թեյը համով է</text>
+            <answer>Чай вкучный.</answer>
+        </question>
+        <question>
+            <text>զրո</text>
+            <answer>0</answer>
+        </question>
+        <question>
+            <text>մեկ</text>
+            <answer>1</answer>
+        </question>
+        <question>
+            <text>երկու</text>
+            <answer>2</answer>
+        </question>
+        <question>
+            <text>երեք</text>
+            <answer>3</answer>
+        </question>
+        <question>
+            <text>չորս</text>
+            <answer>4</answer>
+        </question>
+        <question>
+            <text>հինգ</text>
+            <answer>5</answer>
+        </question>
+        <question>
+            <text>վեց</text>
+            <answer>6</answer>
+        </question>
+        <question>
+            <text>յոթ</text>
+            <answer>7</answer>
+        </question>
+        <question>
+            <text>ութ</text>
+            <answer>8</answer>
+        </question>
+        <question>
+            <text>ինը</text>
+            <answer>9</answer>
+        </question>
+        <question>
+            <text>տասը, տաս</text>
+            <answer>10</answer>
+        </question>
+        <question>
+            <text>տասնմեկ</text>
+            <answer>11</answer>
+        </question>
+        <question>
+            <text>տասներկու</text>
+            <answer>12</answer>
+        </question>
+        <question>
+            <text>տասներեք</text>
+            <answer>13</answer>
+        </question>
+        <question>
+            <text>տասնչորս</text>
+            <answer>14</answer>
+        </question>
+        <question>
+            <text>տասնհինգ</text>
+            <answer>15</answer>
+        </question>
+        <question>
+            <text>տասնվեց</text>
+            <answer>16</answer>
+        </question>
+        <question>
+            <text>տասնյոթ</text>
+            <answer>17</answer>
+        </question>
+        <question>
+            <text>տասնութ</text>
+            <answer>18</answer>
+        </question>
+        <question>
+            <text>տասնինը</text>
+            <answer>19</answer>
+        </question>
+        <question>
+            <text>քսան</text>
+            <answer>20</answer>
+        </question>
+        <question>
+            <text>երեսուն</text>
+            <answer>30</answer>
+        </question>
+        <question>
+            <text>քառասուն</text>
+            <answer>40</answer>
+        </question>
+        <question>
+            <text>հիսուն</text>
+            <answer>50</answer>
+        </question>
+        <question>
+            <text>վաթսուն</text>
+            <answer>60</answer>
+        </question>
+        <question>
+            <text>յոթանասուն</text>
+            <answer>70</answer>
+        </question>
+        <question>
+            <text>ութսուն</text>
+            <answer>80</answer>
+        </question>
+        <question>
+            <text>իննսուն</text>
+            <answer>90</answer>
+        </question>
+        <question>
+            <text>հարյուր</text>
+            <answer>100</answer>
+        </question>
+        <question>
+            <text>հազար</text>
+            <answer>1000</answer>
+        </question>
+        <question>
+            <text>հատ</text>
+            <answer>штука</answer>
+        </question>
+        <question>
+            <text>հայկական</text>
+            <answer>армянский (например, про коньяк)</answer>
+        </question>
+        <question>
+            <text>հայերեն</text>
+            <answer>армянский (только про язык)</answer>
+        </question>
+        <question>
+            <text>րուսերեն</text>
+            <answer>русский (язык)</answer>
+        </question>
+        <question>
+            <text>իսպաներեն</text>
+            <answer>испанский (язык)</answer>
+        </question>
+        <question>
+            <text>անգլերեն</text>
+            <answer>английский (язык)</answer>
+        </question>
+        <question>
+            <text>վրաստան</text>
+            <answer>грузия</answer>
+        </question>
+        <question>
+            <text>վրացական խինկալի</text>
+            <answer>грузинский хинкали</answer>
+        </question>
+        <question>
+            <text>կանխիկ</text>
+            <answer>наличные</answer>
+        </question>
+        <question>
+            <text>մանր</text>
+            <answer>мелочь</answer>
+        </question>
+        <question>
+            <text>կօպեկ</text>
+            <answer>монеты, мелочь</answer>
+        </question>
+        <question>
+            <text>թարգմանիչ</text>
+            <answer>переводчик</answer>
+        </question>
+        <question>
+            <text>ցրագրավորօղ</text>
+            <answer>программист</answer>
+        </question>
+        <question>
+            <text>խաղերի</text>
+            <answer>игровой (дизайнер)</answer>
+        </question>
+        <question>
+            <text>այստեղ</text>
+            <answer>здесь</answer>
+        </question>
     </questions>
 </questionary>
