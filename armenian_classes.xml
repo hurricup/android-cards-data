@@ -3,535 +3,271 @@
     <title>Армянские курсы</title>
     <questions>
         <question>
-            <text>Շատ
-
-
-много, очень</text>
+            <text>Շատ</text><answer>много, очень</answer>
         </question>
         <question>
-            <text>[ես] լավ եմ
-
-
-Хорошо.</text>
+            <text>[ես] լավ եմ</text><answer>Хорошо.</answer>
         </question>
         <question>
-            <text>Այո
-
-
-Да</text>
+            <text>Այո</text><answer>Да</answer>
         </question>
         <question>
-            <text>Բան չէ
-
-
-Ничего нет</text>
+            <text>Բան չէ</text><answer>Ничего нет</answer>
         </question>
         <question>
-            <text>Դե լավ
-
-
-ну ладно.</text>
+            <text>Դե լավ</text><answer>ну ладно.</answer>
         </question>
         <question>
-            <text>Ես էլ եմ լավ
-
-
-У меня тоже все хорошо</text>
+            <text>Ես էլ եմ լավ</text><answer>У меня тоже все хорошо</answer>
         </question>
         <question>
-            <text>Երևան
-
-
-Ереван</text>
+            <text>Երևան</text><answer>Ереван</answer>
         </question>
         <question>
-            <text>Ի՞նչ կա[-չկա]
-
-
-Что нового? (Что есть?)</text>
+            <text>Ի՞նչ կա[-չկա]</text><answer>Что нового? (Что есть?)</answer>
         </question>
         <question>
-            <text>Լավ
-
-
-хорошо, также ОК</text>
+            <text>Լավ</text><answer>хорошо, также ОК</answer>
         </question>
         <question>
-            <text>Լավ եմ, դո՞ւ
-
-
-Хорошо, ты (как)?</text>
+            <text>Լավ եմ, դո՞ւ</text><answer>Хорошо, ты (как)?</answer>
         </question>
         <question>
-            <text>Կներեք
-
-
-извините</text>
+            <text>Կներեք</text><answer>извините</answer>
         </question>
         <question>
-            <text>Հա
-
-
-Ага</text>
+            <text>Հա</text><answer>Ага</answer>
         </question>
         <question>
-            <text>Ձեզ լավ օր
-
-
-хорошего Вам дня.</text>
+            <text>Ձեզ լավ օր</text><answer>хорошего Вам дня.</answer>
         </question>
         <question>
-            <text>Ձեզ հաճելի օր
-
-
-приятного Вам дня.</text>
+            <text>Ձեզ հաճելի օր</text><answer>приятного Вам дня.</answer>
         </question>
         <question>
-            <text>Մերսի, ձեզ էլ
-
-
-спасибо, вам тоже.</text>
+            <text>Մերսի, ձեզ էլ</text><answer>спасибо, вам тоже.</answer>
         </question>
         <question>
-            <text>Մերսի, քեզ էլ
-
-
-спасибо, тебе тоже.</text>
+            <text>Մերսի, քեզ էլ</text><answer>спасибо, тебе тоже.</answer>
         </question>
         <question>
-            <text>Շնորհակալություն
-
-
-Спасибо</text>
+            <text>Շնորհակալություն</text><answer>Спасибо</answer>
         </question>
         <question>
-            <text>Ոչ
-
-
-Нет</text>
+            <text>Ոչ</text><answer>Нет</answer>
         </question>
         <question>
-            <text>Չէ
-
-
-Не</text>
+            <text>Չէ</text><answer>Не</answer>
         </question>
         <question>
-            <text>Քեզ լավ օր
-
-
-хорошего тебе дня.</text>
+            <text>Քեզ լավ օր</text><answer>хорошего тебе дня.</answer>
         </question>
         <question>
-            <text>Քեզ հաճելի օր
-
-
-приятного тебе дня.</text>
+            <text>Քեզ հաճելի օր</text><answer>приятного тебе дня.</answer>
         </question>
         <question>
-            <text>աշուն
-
-
-осень</text>
+            <text>աշուն</text><answer>осень</answer>
         </question>
         <question>
-            <text>ապրես
-
-
-спасибо но между друзьями</text>
+            <text>ապրես</text><answer>спасибо но между друзьями</answer>
         </question>
         <question>
-            <text>բառ
-
-
-слово</text>
+            <text>բառ</text><answer>слово</answer>
         </question>
         <question>
-            <text>բարի առավոտ
-
-
-доброе утро</text>
+            <text>բարի առավոտ</text><answer>доброе утро</answer>
         </question>
         <question>
-            <text>բարի գիշեր
-
-
-спокойной ночи</text>
+            <text>բարի գիշեր</text><answer>спокойной ночи</answer>
         </question>
         <question>
-            <text>բարի երեկո
-
-
-добрый вечер</text>
+            <text>բարի երեկո</text><answer>добрый вечер</answer>
         </question>
         <question>
-            <text>բարի օր
-
-
-добрый день</text>
+            <text>բարի օր</text><answer>добрый день</answer>
         </question>
         <question>
-            <text>բարիլույս
-
-
-доброе утро (добрый свет)</text>
+            <text>բարիլույս</text><answer>доброе утро (добрый свет)</answer>
         </question>
         <question>
-            <text>բարև
-
-
-здравствуйте</text>
+            <text>բարև</text><answer>здравствуйте</answer>
         </question>
         <question>
-            <text>բարև ձեզ
-
-
-более формальный вариант здравствуйте</text>
+            <text>բարև ձեզ</text><answer>более формальный вариант здравствуйте</answer>
         </question>
         <question>
-            <text>գրել
-
-
-писать</text>
+            <text>գրել</text><answer>писать</answer>
         </question>
         <question>
-            <text>դրսում
-
-
-на улице</text>
+            <text>դրսում</text><answer>на улице</answer>
         </question>
         <question>
-            <text>երազ
-
-
-сновидение</text>
+            <text>երազ</text><answer>сновидение</answer>
         </question>
         <question>
-            <text>զանգել
-
-
-звонить</text>
+            <text>զանգել</text><answer>звонить</answer>
         </question>
         <question>
-            <text>էլ
-
-
-тоже</text>
+            <text>էլ</text><answer>тоже</answer>
         </question>
         <question>
-            <text>ընկեր
-
-
-друг</text>
+            <text>ընկեր</text><answer>друг</answer>
         </question>
         <question>
-            <text>թաթիկ
-
-
-лапка</text>
+            <text>թաթիկ</text><answer>лапка</answer>
         </question>
         <question>
-            <text>ժամ
-
-
-час</text>
+            <text>ժամ</text><answer>час</answer>
         </question>
         <question>
-            <text>ինչպե՞ս ես
-
-
-Как у тебя дела?</text>
+            <text>ինչպե՞ս ես</text><answer>Как у тебя дела?</answer>
         </question>
         <question>
-            <text>ինչպե՞ս եք
-
-
-Как у вас дела?</text>
+            <text>ինչպե՞ս եք</text><answer>Как у вас дела?</answer>
         </question>
         <question>
-            <text>ինքը
-
-
-он/она</text>
+            <text>ինքը</text><answer>он/она</answer>
         </question>
         <question>
-            <text>լավ եմ, դու՞ք
-
-
-Хорошо, вы?</text>
+            <text>լավ եմ, դու՞ք</text><answer>Хорошо, вы?</answer>
         </question>
         <question>
-            <text>լուսին
-
-
-луна</text>
+            <text>լուսին</text><answer>луна</answer>
         </question>
         <question>
-            <text>խաղ
-
-
-игра</text>
+            <text>խաղ</text><answer>игра</answer>
         </question>
         <question>
-            <text>խնդրեմ
-
-
-пожалуйста (в ответ на спасибо)</text>
+            <text>խնդրեմ</text><answer>пожалуйста (в ответ на спасибо)</answer>
         </question>
         <question>
-            <text>խնդրում եմ
-
-
-прошу (пожалуйста просительно)</text>
+            <text>խնդրում եմ</text><answer>прошу (пожалуйста просительно)</answer>
         </question>
         <question>
-            <text>ծիածան
-
-
-радуга</text>
+            <text>ծիածան</text><answer>радуга</answer>
         </question>
         <question>
-            <text>կանօն ֊ правило</text>
+            <text>կանօն</text><answer>правило</answer>
         </question>
         <question>
-            <text>կատու
-
-
-кот</text>
+            <text>կատու</text><answer>кот</answer>
         </question>
         <question>
-            <text>կներես
-
-
-извини</text>
+            <text>կներես</text><answer>извини</answer>
         </question>
         <question>
-            <text>հայ
-
-
-армянин</text>
+            <text>հայ</text><answer>армянин</answer>
         </question>
         <question>
-            <text>հաջող
-
-
-пока</text>
+            <text>հաջող</text><answer>пока</answer>
         </question>
         <question>
-            <text>հաջողություն
-
-
-удачи</text>
+            <text>հաջողություն</text><answer>удачи</answer>
         </question>
         <question>
-            <text>ձուկ
-
-
-рыба</text>
+            <text>ձուկ</text><answer>рыба</answer>
         </question>
         <question>
-            <text>ճանճ
-
-
-муха</text>
+            <text>ճանճ</text><answer>муха</answer>
         </question>
         <question>
-            <text>մայր
-
-
-мать</text>
+            <text>մայր</text><answer>мать</answer>
         </question>
         <question>
-            <text>մեր
-
-
-наш</text>
+            <text>մեր</text><answer>наш</answer>
         </question>
         <question>
-            <text>մերսի [շատ]
-
-
-спасибо [большое]</text>
+            <text>մերսի [շատ]</text><answer>спасибо [большое]</answer>
         </question>
         <question>
-            <text>յոդ
-
-
-йод</text>
+            <text>յոդ</text><answer>йод</answer>
         </question>
         <question>
-            <text>նեղ
-
-
-узкий</text>
+            <text>նեղ</text><answer>узкий</answer>
         </question>
         <question>
-            <text>ներեցեք
-
-
-извините</text>
+            <text>ներեցեք</text><answer>извините</answer>
         </question>
         <question>
-            <text>նոր
-
-
-новый</text>
+            <text>նոր</text><answer>новый</answer>
         </question>
         <question>
-            <text>նոր
-
-
-новый</text>
+            <text>նոր</text><answer>новый</answer>
         </question>
         <question>
-            <text>նույնպես
-
-
-тоже</text>
+            <text>նույնպես</text><answer>тоже</answer>
         </question>
         <question>
-            <text>նուռ
-
-
-гранат</text>
+            <text>նուռ</text><answer>гранат</answer>
         </question>
         <question>
-            <text>շնորհակալ եմ
-
-
-благодарю</text>
+            <text>շնորհակալ եմ</text><answer>благодарю</answer>
         </question>
         <question>
-            <text>շուն
-
-
-собака</text>
+            <text>շուն</text><answer>собака</answer>
         </question>
         <question>
-            <text>ո՞նց ես
-
-
-Как у тебя дела? (обычно)</text>
+            <text>ո՞նց ես</text><answer>Как у тебя дела? (обычно)</answer>
         </question>
         <question>
-            <text>ո՞նց եք
-
-
-Как у вас дела? (обычно)</text>
+            <text>ո՞նց եք</text><answer>Как у вас дела? (обычно)</answer>
         </question>
         <question>
-            <text>ողջույն
-
-
-привет</text>
+            <text>ողջույն</text><answer>привет</answer>
         </question>
         <question>
-            <text>ոչինչ
-
-
-ничего</text>
+            <text>ոչինչ</text><answer>ничего</answer>
         </question>
         <question>
-            <text>որտեղ
-
-
-где</text>
+            <text>որտեղ</text><answer>где</answer>
         </question>
         <question>
-            <text>ուր
-
-
-куда</text>
+            <text>ուր</text><answer>куда</answer>
         </question>
         <question>
-            <text>չամիչ
-
-
-изюм</text>
+            <text>չամիչ</text><answer>изюм</answer>
         </question>
         <question>
-            <text>չկա, դու ասա
-
-
-Ничего нет, ты скажи.</text>
+            <text>չկա, դու ասա</text><answer>Ничего нет, ты скажи.</answer>
         </question>
         <question>
-            <text>պանիր
-
-
-сыр</text>
+            <text>պանիր</text><answer>сыр</answer>
         </question>
         <question>
-            <text>ջուր
-
-
-вода</text>
+            <text>ջուր</text><answer>вода</answer>
         </question>
         <question>
-            <text>ռոբոտ
-
-
-робот</text>
+            <text>ռոբոտ</text><answer>робот</answer>
         </question>
         <question>
-            <text>սունկ
-
-
-гриб</text>
+            <text>սունկ</text><answer>гриб</answer>
         </question>
         <question>
-            <text>վատ
-
-
-плохой</text>
+            <text>վատ</text><answer>плохой</answer>
         </question>
         <question>
-            <text>տատիկ
-
-
-бабушка</text>
+            <text>տատիկ</text><answer>бабушка</answer>
         </question>
         <question>
-            <text>րոպե
-
-
-минута</text>
+            <text>րոպե</text><answer>минута</answer>
         </question>
         <question>
-            <text>ցուցակ
-
-
-список</text>
+            <text>ցուցակ</text><answer>список</answer>
         </question>
         <question>
-            <text>ցտեսություն
-
-
-до свидания</text>
+            <text>ցտեսություն</text><answer>до свидания</answer>
         </question>
         <question>
-            <text>փրփուր
-
-
-пена</text>
+            <text>փրփուր</text><answer>пена</answer>
         </question>
         <question>
-            <text>քանոն
-
-
-линейка</text>
+            <text>քանոն</text><answer>линейка</answer>
         </question>
         <question>
-            <text>օրինակ
-
-
-пример, экземпляр</text>
+            <text>օրինակ</text><answer>пример, экземпляр</answer>
         </question>
         <question>
-            <text>ֆուտբոլ
-
-
-футбол</text>
+            <text>ֆուտբոլ</text><answer>футбол</answer>
         </question>
     </questions>
 </questionary>
