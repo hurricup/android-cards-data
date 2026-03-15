@@ -557,5 +557,25 @@
             <text>այստեղ</text>
             <answer>здесь</answer>
         </question>
+        <question>
+            <text>համեղ</text>
+            <answer>вкусный</answer>
+        </question>
+        <question>
+            <text>կամիկ</text>
+            <answer>красный</answer>
+        </question>
+        <question>
+            <text>սուս արա</text>
+            <answer>замолчи</answer>
+        </question>
+        <question>
+            <text>սար</text>
+            <answer>гора</answer>
+        </question>
+        <question>
+            <text>մի արա</text>
+            <answer>не делай</answer>
+        </question>
     </questions>
 </questionary>
