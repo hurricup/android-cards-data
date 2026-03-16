@@ -87,7 +87,7 @@
             <text>բարի օր</text><answer>добрый день</answer>
         </question>
         <question>
-            <text>բարիլույս</text><answer>доброе утро (добрый свет)</answer>
+            <text>բարի լույս</text><answer>доброе утро (добрый свет)</answer>
         </question>
         <question>
             <text>բարև</text><answer>здравствуйте</answer>
@@ -187,9 +187,6 @@
         </question>
         <question>
             <text>ներեցեք</text><answer>извините</answer>
-        </question>
-        <question>
-            <text>նոր</text><answer>новый</answer>
         </question>
         <question>
             <text>նոր</text><answer>новый</answer>
