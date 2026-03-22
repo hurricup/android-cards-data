@@ -702,5 +702,69 @@
             <text>սիրուն</text>
             <answer>красивый</answer>
         </question>
+        <question>
+            <text>Ինչ աիժի</text>
+            <answer>сколько стоит</answer>
+        </question>
+        <question>
+            <text>սա ինչ արժի</text>
+            <answer>сколько это стоит</answer>
+        </question>
+        <question>
+            <text>Միսը ինչ արժի</text>
+            <answer>сколько стоит мясо</answer>
+        </question>
+        <question>
+            <text>Հացը ինչ արժի</text>
+            <answer>сколько стоит хлеб</answer>
+        </question>
+        <question>
+            <text>Ծիրանի չիրը ինչ արժի</text>
+            <answer>сколько стоит курага</answer>
+        </question>
+        <question>
+            <text>Գարեջուրը ինչ արժի</text>
+            <answer>сколько стоит пиво</answer>
+        </question>
+        <question>
+            <text>գարեջուր</text>
+            <answer>пиво (пшеничная вода)</answer>
+        </question>
+        <question>
+            <text>Միսը արժի հազար դրամ</text>
+            <answer>мясо стоит тысячу драм</answer>
+        </question>
+        <question>
+            <text>կիլոգրամը</text>
+            <answer>за килограмм</answer>
+        </question>
+        <question>
+            <text>հատը</text>
+            <answer>за штуку</answer>
+        </question>
+        <question>
+            <text>կաթ</text>
+            <answer>молоко</answer>
+        </question>
+        <question>
+            <text>պայուսակ</text>
+            <answer>сумка</answer>
+        </question>
+        <question>
+            <text>նայած</text>
+            <answer>зависит (depends)</answer>
+        </question>
+        <question>
+            <text>ժամացույց</text>
+            <answer>часы</answer>
+        </question>
+        <question>
+            <text>րուբլի</text>
+            <answer>рублей</answer>
+        </question>
+        <question>
+            <text>ակնոց</text>
+            <answer>очки</answer>
+        </question>
     </questions>
 </questionary>
