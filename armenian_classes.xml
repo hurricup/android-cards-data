@@ -574,5 +574,69 @@
             <text>մի արա</text>
             <answer>не делай</answer>
         </question>
+        <question>
+            <text>Ուշ լինի նուշ լինի</text>
+            <answer>долго но сладко. (тише едешь дальше будешь)</answer>
+        </question>
+        <question>
+            <text>Սարի ուսին սիրուն լուսին</text>
+            <answer>красивая луна на склоне (плече) горы</answer>
+        </question>
+        <question>
+            <text>Լուսամուտ</text>
+            <answer>окно</answer>
+        </question>
+        <question>
+            <text>Լամպ</text>
+            <answer>лампа</answer>
+        </question>
+        <question>
+            <text>Շուշան տատիկ</text>
+            <answer>бабушка Шушан (Лилия)</answer>
+        </question>
+        <question>
+            <text>Ուշ աշուն</text>
+            <answer>поздняя осень</answer>
+        </question>
+        <question>
+            <text>Աշնան մշուշ</text>
+            <answer>осенний туман</answer>
+        </question>
+        <question>
+            <text>շուշան</text>
+            <answer>лилия</answer>
+        </question>
+        <question>
+            <text>մանուշակ</text>
+            <answer>фиалка</answer>
+        </question>
+        <question>
+            <text>անւսշ</text>
+            <answer>сладкий, приятный</answer>
+        </question>
+        <question>
+            <text>սպիտակ</text>
+            <answer>белый</answer>
+        </question>
+        <question>
+            <text>կարապ</text>
+            <answer>лебедь</answer>
+        </question>
+        <question>
+            <text>պարիսպ</text>
+            <answer>изгородь</answer>
+        </question>
+        <question>
+            <text>տիկնիկ</text>
+            <answer>кукла</answer>
+        </question>
+        <question>
+            <text>սանր</text>
+            <answer>расческа</answer>
+        </question>
+        <question>
+            <text>ասա</text>
+            <answer>сказать (скажи)</answer>
+        </question>
     </questions>
 </questionary>
