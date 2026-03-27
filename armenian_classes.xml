@@ -639,7 +639,7 @@
             <answer>сказать (скажи)</answer>
         </question>
         <question>
-            <text>տետրր</text>
+            <text>տետր</text>
             <answer>тетрадь</answer>
         </question>
         <question>
@@ -647,7 +647,7 @@
             <answer>хлеб</answer>
         </question>
         <question>
-            <text>դսս</text>
+            <text>դաս</text>
             <answer>урок</answer>
         </question>
         <question>
@@ -765,6 +765,38 @@
         <question>
             <text>ակնոց</text>
             <answer>очки</answer>
+        </question>
+        <question>
+            <text>թանկ</text>
+            <answer>дорогой</answer>
+        </question>
+        <question>
+            <text>իմ</text>
+            <answer>мой</answer>
+        </question>
+        <question>
+            <text>ախպեր</text>
+            <answer>брат</answer>
+        </question>
+        <question>
+            <text>հիմա</text>
+            <answer>сейчас</answer>
+        </question>
+        <question>
+            <text>Մոսկվայում</text>
+            <answer>в Москве</answer>
+        </question>
+        <question>
+            <text>Մօսկվայից</text>
+            <answer>из Москвы</answer>
+        </question>
+        <question>
+            <text>Երևանում</text>
+            <answer>в Ереване</answer>
+        </question>
+        <question>
+            <text>Երևանից</text>
+            <answer>из Еревана</answer>
         </question>
     </questions>
 </questionary>
