@@ -798,5 +798,9 @@
             <text>Երևանից</text>
             <answer>из Еревана</answer>
         </question>
+        <question>
+            <text>դու նայո՞ւմ ես կատվիկներ</text>
+            <answer>Ты смотришь котиков?</answer>
+        </question>
     </questions>
 </questionary>
