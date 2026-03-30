@@ -802,5 +802,109 @@
             <text>դու նայո՞ւմ ես կատվիկներին</text>
             <answer>Ты смотришь котиков?</answer>
         </question>
+        <question>
+            <text>սպիտակ գինի</text>
+            <answer>белое вино</answer>
+        </question>
+        <question>
+            <text>կարմիր գինի</text>
+            <answer>красное вино</answer>
+        </question>
+        <question>
+            <text>տանը հաց կա</text>
+            <answer>дома есть хлеб</answer>
+        </question>
+        <question>
+            <text>տուն</text>
+            <answer>дом</answer>
+        </question>
+        <question>
+            <text>տանը</text>
+            <answer>дома (в смысле где)</answer>
+        </question>
+        <question>
+            <text>բայց</text>
+            <answer>но</answer>
+        </question>
+        <question>
+            <text>հիմա</text>
+            <answer>сейчас</answer>
+        </question>
+        <question>
+            <text>իսկ</text>
+            <answer>и (в смысле а)</answer>
+        </question>
+        <question>
+            <text>կա</text>
+            <answer>есть</answer>
+        </question>
+        <question>
+            <text>չկա</text>
+            <answer>нету</answer>
+        </question>
+        <question>
+            <text>սա սուրճ ա</text>
+            <answer>это кофе</answer>
+        </question>
+        <question>
+            <text>դասեր</text>
+            <answer>уроки</answer>
+        </question>
+        <question>
+            <text>տետրեր</text>
+            <answer>тетради</answer>
+        </question>
+        <question>
+            <text>բարեր</text>
+            <answer>слова</answer>
+        </question>
+        <question>
+            <text>կատուներ</text>
+            <answer>котики</answer>
+        </question>
+        <question>
+            <text>բաժակներ</text>
+            <answer>стаканы</answer>
+        </question>
+        <question>
+            <text>տներ</text>
+            <answer>дома (множ число), исключение</answer>
+        </question>
+        <question>
+            <text>շներ</text>
+            <answer>собаки</answer>
+        </question>
+        <question>
+            <text>մարդիկ</text>
+            <answer>люди</answer>
+        </question>
+        <question>
+            <text>կին</text>
+            <answer>женщина, жена</answer>
+        </question>
+        <question>
+            <text>կանայք</text>
+            <answer>щенщины</answer>
+        </question>
+        <question>
+            <text>օձ</text>
+            <answer>змея</answer>
+        </question>
+        <question>
+            <text>լեպու</text>
+            <answer>язык</answer>
+        </question>
+        <question>
+            <text>բաժակ</text>
+            <answer>стакан</answer>
+        </question>
+        <question>
+            <text>գինի</text>
+            <answer>вино</answer>
+        </question>
+        <question>
+            <text>թթու</text>
+            <answer>кислый</answer>
+        </question>
     </questions>
 </questionary>
