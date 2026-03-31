@@ -6,7 +6,7 @@
             <text>Շատ</text><answer>много, очень</answer>
         </question>
         <question>
-            <text>[ես] լավ եմ</text><answer>Хорошо.</answer>
+            <text>[ես] լավ եմ</text><answer>У меня все хорошо (я в порядке).</answer>
         </question>
         <question>
             <text>Այո</text><answer>Да</answer>
@@ -51,7 +51,7 @@
             <text>Մերսի, քեզ էլ</text><answer>спасибо, тебе тоже.</answer>
         </question>
         <question>
-            <text>Շնորհակալություն</text><answer>Спасибо</answer>
+            <text>Շնորհակալություն</text><answer>Благодарю</answer>
         </question>
         <question>
             <text>Ոչ</text><answer>Нет</answer>
@@ -120,12 +120,6 @@
             <text>ժամ</text><answer>час</answer>
         </question>
         <question>
-            <text>ինչպե՞ս ես</text><answer>Как у тебя дела?</answer>
-        </question>
-        <question>
-            <text>ինչպե՞ս եք</text><answer>Как у вас дела?</answer>
-        </question>
-        <question>
             <text>ինքը</text><answer>он/она</answer>
         </question>
         <question>
@@ -162,7 +156,7 @@
             <text>հաջող</text><answer>пока</answer>
         </question>
         <question>
-            <text>հաջողություն</text><answer>удачи</answer>
+            <text>հաջողություն</text><answer>удачи (прощание)</answer>
         </question>
         <question>
             <text>ձուկ</text><answer>рыба</answer>
@@ -240,7 +234,7 @@
             <text>սունկ</text><answer>гриб</answer>
         </question>
         <question>
-            <text>վատ</text><answer>плохой</answer>
+            <text>վատ</text><answer>плохо</answer>
         </question>
         <question>
             <text>տատիկ</text><answer>бабушка</answer>
@@ -288,7 +282,7 @@
         </question>
         <question>
             <text>Հաշիվը կբերե՞ք</text>
-            <answer>Принесите счет.</answer>
+            <answer>Принесете счет?</answer>
         </question>
         <question>
             <text>Հաշիվը կտա՞ք</text>
@@ -560,7 +554,7 @@
         </question>
         <question>
             <text>կամիկ</text>
-            <answer>красный</answer>
+            <answer>маленький</answer>
         </question>
         <question>
             <text>սուս արա</text>
@@ -672,11 +666,7 @@
         </question>
         <question>
             <text>այստեղ</text>
-            <answer>тут</answer>
-        </question>
-        <question>
-            <text>նոր</text>
-            <answer>новый</answer>
+            <answer>здвесь (это место)</answer>
         </question>
         <question>
             <text>հին</text>
@@ -684,7 +674,7 @@
         </question>
         <question>
             <text>համով</text>
-            <answer>вкусный</answer>
+            <answer>вкусный (более разговорный вариант)</answer>
         </question>
         <question>
             <text>հարմար</text>
@@ -787,7 +777,7 @@
             <answer>в Москве</answer>
         </question>
         <question>
-            <text>Մօսկվայից</text>
+            <text>Մոսկվայից</text>
             <answer>из Москвы</answer>
         </question>
         <question>
@@ -811,6 +801,10 @@
             <answer>красное вино</answer>
         </question>
         <question>
+            <text>կարմիր</text>
+            <answer>красный</answer>
+        </question>
+        <question>
             <text>տանը հաց կա</text>
             <answer>дома есть хлеб</answer>
         </question>
@@ -825,10 +819,6 @@
         <question>
             <text>բայց</text>
             <answer>но</answer>
-        </question>
-        <question>
-            <text>հիմա</text>
-            <answer>сейчас</answer>
         </question>
         <question>
             <text>իսկ</text>
@@ -855,7 +845,7 @@
             <answer>тетради</answer>
         </question>
         <question>
-            <text>բարեր</text>
+            <text>բառեր</text>
             <answer>слова</answer>
         </question>
         <question>
@@ -891,7 +881,7 @@
             <answer>змея</answer>
         </question>
         <question>
-            <text>լեպու</text>
+            <text>լեզու</text>
             <answer>язык</answer>
         </question>
         <question>
