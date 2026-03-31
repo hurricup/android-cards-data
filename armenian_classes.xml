@@ -27,7 +27,8 @@
             <text>Ի՞նչ կա[-չկա]</text><answer>Что нового? (Что есть?)</answer>
         </question>
         <question>
-            <text>Լավ</text><answer>хорошо, также ОК</answer>
+            <text>Լավ</text>
+            <answer>хороший, хорошо, также ОК</answer>
         </question>
         <question>
             <text>Լավ եմ, դո՞ւ</text><answer>Хорошо, ты (как)?</answer>
@@ -553,10 +554,6 @@
             <answer>вкусный</answer>
         </question>
         <question>
-            <text>կամիկ</text>
-            <answer>маленький</answer>
-        </question>
-        <question>
             <text>սուս արա</text>
             <answer>замолчи</answer>
         </question>
@@ -633,20 +630,12 @@
             <answer>сказать (скажи)</answer>
         </question>
         <question>
-            <text>տետր</text>
-            <answer>тетрадь</answer>
-        </question>
-        <question>
             <text>հաց</text>
             <answer>хлеб</answer>
         </question>
         <question>
             <text>դաս</text>
             <answer>урок</answer>
-        </question>
-        <question>
-            <text>Գրիչ</text>
-            <answer>ручка</answer>
         </question>
         <question>
             <text>խանութ</text>
@@ -895,6 +884,146 @@
         <question>
             <text>թթու</text>
             <answer>кислый</answer>
+        </question>
+        <question>
+            <text>պաղպաղակ</text>
+            <answer>мороженое</answer>
+        </question>
+        <question>
+            <text>անյուղ</text>
+            <answer>обезжиренный (без жира)</answer>
+        </question>
+        <question>
+            <text>սովորական</text>
+            <answer>обычный (привычный)</answer>
+        </question>
+        <question>
+            <text>տավարի միս</text>
+            <answer>говядина</answer>
+        </question>
+        <question>
+            <text>խոզր միս</text>
+            <answer>свинина</answer>
+        </question>
+        <question>
+            <text>գիրք</text>
+            <answer>книга</answer>
+        </question>
+        <question>
+            <text>սա ի՞նչ ա</text>
+            <answer>что это?</answer>
+        </question>
+        <question>
+            <text>այսօր</text>
+            <answer>сегодня (этот день)</answer>
+        </question>
+        <question>
+            <text>գլխարկ</text>
+            <answer>головной убор</answer>
+        </question>
+        <question>
+            <text>բանալի</text>
+            <answer>ключ</answer>
+        </question>
+        <question>
+            <text>դրամապանակ</text>
+            <answer>кошелек</answer>
+        </question>
+        <question>
+            <text>բօթաս</text>
+            <answer>кроссвоки</answer>
+        </question>
+        <question>
+            <text>ափսոս</text>
+            <answer>жаль</answer>
+        </question>
+        <question>
+            <text>աշխատանք</text>
+            <answer>работа</answer>
+        </question>
+        <question>
+            <text>աշխատանքներ</text>
+            <answer>работы</answer>
+        </question>
+        <question>
+            <text>գործ</text>
+            <answer>дело</answer>
+        </question>
+        <question>
+            <text>գործեր</text>
+            <answer>дела</answer>
+        </question>
+        <question>
+            <text>սենյակ</text>
+            <answer>комната</answer>
+        </question>
+        <question>
+            <text>սենյակներ</text>
+            <answer>комнаты</answer>
+        </question>
+        <question>
+            <text>գիրք</text>
+            <answer>ручка</answer>
+        </question>
+        <question>
+            <text>գրքեր</text>
+            <answer>ручки</answer>
+        </question>
+        <question>
+            <text>տետր</text>
+            <answer>тетрадь</answer>
+        </question>
+        <question>
+            <text>տետրեր</text>
+            <answer>тетради</answer>
+        </question>
+        <question>
+            <text>գրիչ</text>
+            <answer>ручка</answer>
+        </question>
+        <question>
+            <text>գրիչներ</text>
+            <answer>ручки</answer>
+        </question>
+        <question>
+            <text>աթոռ</text>
+            <answer>стул</answer>
+        </question>
+        <question>
+            <text>սեղան</text>
+            <answer>стол</answer>
+        </question>
+        <question>
+            <text>թեյ</text>
+            <answer>чай</answer>
+        </question>
+        <question>
+            <text>մեծ</text>
+            <answer>большой</answer>
+        </question>
+        <question>
+            <text>փոքր</text>
+            <answer>маленький</answer>
+        </question>
+        <question>
+            <text>համով ա</text>
+            <answer>вкусно</answer>
+        </question>
+        <question>
+            <text>համով չի</text>
+            <answer>невкусно</answer>
+        </question>
+        <question>
+            <text>սիրուն</text>
+            <answer>красивый (разговорный)</answer>
+        </question>
+        <question>
+            <text>գեղեցիկ</text>
+            <answer>красивый</answer>
+        </question>
+        <question>
+            <text>գեշ</text>
+            <answer>некрасивый</answer>
         </question>
     </questions>
 </questionary>
