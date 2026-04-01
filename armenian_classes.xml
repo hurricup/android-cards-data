@@ -58,7 +58,8 @@
             <text>Ոչ</text><answer>Нет</answer>
         </question>
         <question>
-            <text>Չէ</text><answer>Не</answer>
+            <text>Չէ</text>
+            <answer>Не (разговорная форма нет)</answer>
         </question>
         <question>
             <text>Քեզ լավ օր</text><answer>хорошего тебе дня.</answer>
@@ -100,7 +101,8 @@
             <text>գրել</text><answer>писать</answer>
         </question>
         <question>
-            <text>դրսում</text><answer>на улице</answer>
+            <text>դրսում</text>
+            <answer>снаружи</answer>
         </question>
         <question>
             <text>երազ</text><answer>сновидение</answer>
@@ -172,7 +174,12 @@
             <text>մեր</text><answer>наш</answer>
         </question>
         <question>
-            <text>մերսի [շատ]</text><answer>спасибо [большое]</answer>
+            <text>մերսի</text>
+            <answer>спасибо</answer>
+        </question>
+        <question>
+            <text>մերսի շատ</text>
+            <answer>спасибо большое</answer>
         </question>
         <question>
             <text>յոդ</text><answer>йод</answer>
@@ -220,7 +227,8 @@
             <text>չամիչ</text><answer>изюм</answer>
         </question>
         <question>
-            <text>չկա, դու ասա</text><answer>Ничего нет, ты скажи.</answer>
+            <text>չկա, դու ասա</text>
+            <answer>ничего, у тебя как? (Ничего нет, ты скажи)</answer>
         </question>
         <question>
             <text>պանիր</text><answer>сыр</answer>
@@ -283,15 +291,15 @@
         </question>
         <question>
             <text>Հաշիվը կբերե՞ք</text>
-            <answer>Принесете счет?</answer>
-        </question>
-        <question>
-            <text>Հաշիվը կտա՞ք</text>
-            <answer>Дайте счет.</answer>
+            <answer>Вы принесете счет?</answer>
         </question>
         <question>
             <text>Քարտո՞վ թե՞ կանխիկ։</text>
             <answer>Картой или наличными.</answer>
+        </question>
+        <question>
+            <text>թե</text>
+            <answer>или</answer>
         </question>
         <question>
             <text>Ես սովորում եմ հայերեն</text>
@@ -495,7 +503,7 @@
         </question>
         <question>
             <text>հայկական</text>
-            <answer>армянский (например, про коньяк)</answer>
+            <answer>армянский (про производство)</answer>
         </question>
         <question>
             <text>հայերեն</text>
@@ -547,7 +555,7 @@
         </question>
         <question>
             <text>այստեղ</text>
-            <answer>здесь</answer>
+            <answer>здесь (это место)</answer>
         </question>
         <question>
             <text>համեղ</text>
@@ -642,7 +650,7 @@
             <answer>магазин</answer>
         </question>
         <question>
-            <text>հաշիկ</text>
+            <text>հաշիվ</text>
             <answer>счет</answer>
         </question>
         <question>
@@ -652,10 +660,6 @@
         <question>
             <text>տոպրակ</text>
             <answer>пакет</answer>
-        </question>
-        <question>
-            <text>այստեղ</text>
-            <answer>здвесь (это место)</answer>
         </question>
         <question>
             <text>հին</text>
@@ -930,7 +934,7 @@
             <answer>кошелек</answer>
         </question>
         <question>
-            <text>բօթաս</text>
+            <text>բոթաս</text>
             <answer>кроссвоки</answer>
         </question>
         <question>
@@ -963,11 +967,11 @@
         </question>
         <question>
             <text>գիրք</text>
-            <answer>ручка</answer>
+            <answer>книга</answer>
         </question>
         <question>
             <text>գրքեր</text>
-            <answer>ручки</answer>
+            <answer>книги</answer>
         </question>
         <question>
             <text>տետր</text>
@@ -1024,6 +1028,10 @@
         <question>
             <text>գեշ</text>
             <answer>некрасивый</answer>
+        </question>
+        <question>
+            <text>Ի՞նչ ա եղել</text>
+            <answer>что случилось?</answer>
         </question>
     </questions>
 </questionary>
