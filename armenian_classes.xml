@@ -1033,5 +1033,57 @@
             <text>Ի՞նչ ա եղել</text>
             <answer>что случилось?</answer>
         </question>
+        <question>
+            <text>շաբատթ</text>
+            <answer>неделя</answer>
+        </question>
+        <question>
+            <text>երկուշաբթի</text>
+            <answer>понедельник</answer>
+        </question>
+        <question>
+            <text>երեքշաբթի</text>
+            <answer>вторник</answer>
+        </question>
+        <question>
+            <text>չորեշաբթի</text>
+            <answer>среда</answer>
+        </question>
+        <question>
+            <text>հինգշաբթի</text>
+            <answer>четверг</answer>
+        </question>
+        <question>
+            <text>ուրբաթ</text>
+            <answer>пятница</answer>
+        </question>
+        <question>
+            <text>շաբաթ</text>
+            <answer>суббота</answer>
+        </question>
+        <question>
+            <text>կիրակի</text>
+            <answer>воскресенье</answer>
+        </question>
+        <question>
+            <text>երկուշաբթի օրը</text>
+            <answer>в понедельник</answer>
+        </question>
+        <question>
+            <text>ամեն օր</text>
+            <answer>каждый день</answer>
+        </question>
+        <question>
+            <text>երեկ</text>
+            <answer>вчера</answer>
+        </question>
+        <question>
+            <text>վաղը</text>
+            <answer>завтра</answer>
+        </question>
+        <question>
+            <text>հաճախ</text>
+            <answer>часто</answer>
+        </question>
     </questions>
 </questionary>
