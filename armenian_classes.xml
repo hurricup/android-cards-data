@@ -1085,5 +1085,9 @@
             <text>առատ</text>
             <answer>много (бесконечно, литературный)</answer>
         </question>
+        <question>
+            <text>առանց շաքարի</text>
+            <answer>без сахара</answer>
+        </question>
     </questions>
 </questionary>
