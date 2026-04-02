@@ -299,7 +299,11 @@
         </question>
         <question>
             <text>թե</text>
-            <answer>или</answer>
+            <answer>или (в вопросительном предложении)</answer>
+        </question>
+        <question>
+            <text>կամ</text>
+            <answer>или (в утвердительном предложении)</answer>
         </question>
         <question>
             <text>Ես սովորում եմ հայերեն</text>
@@ -682,10 +686,6 @@
             <answer>свежий</answer>
         </question>
         <question>
-            <text>սիրուն</text>
-            <answer>красивый</answer>
-        </question>
-        <question>
             <text>Ինչ աիժի</text>
             <answer>сколько стоит</answer>
         </question>
@@ -819,11 +819,11 @@
         </question>
         <question>
             <text>կա</text>
-            <answer>есть</answer>
+            <answer>есть (что-либо)</answer>
         </question>
         <question>
             <text>չկա</text>
-            <answer>нету</answer>
+            <answer>нету (чего-либо)</answer>
         </question>
         <question>
             <text>սա սուրճ ա</text>
@@ -910,10 +910,6 @@
             <answer>свинина</answer>
         </question>
         <question>
-            <text>գիրք</text>
-            <answer>книга</answer>
-        </question>
-        <question>
             <text>սա ի՞նչ ա</text>
             <answer>что это?</answer>
         </question>
@@ -976,10 +972,6 @@
         <question>
             <text>տետր</text>
             <answer>тетрадь</answer>
-        </question>
-        <question>
-            <text>տետրեր</text>
-            <answer>тетради</answer>
         </question>
         <question>
             <text>գրիչ</text>
@@ -1084,6 +1076,14 @@
         <question>
             <text>հաճախ</text>
             <answer>часто</answer>
+        </question>
+        <question>
+            <text>կռունկ</text>
+            <answer>журавль</answer>
+        </question>
+        <question>
+            <text>առատ</text>
+            <answer>много (бесконечно, литературный)</answer>
         </question>
     </questions>
 </questionary>
