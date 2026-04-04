@@ -103,7 +103,7 @@
         </question>
         <question>
             <text>դրսում</text>
-            <answer>снаружи</answer>
+            <answer>снаружи (вне помещения)</answer>
         </question>
         <question>
             <text>երազ</text><answer>сновидение</answer>
@@ -820,11 +820,11 @@
         </question>
         <question>
             <text>կա</text>
-            <answer>есть (что-либо)</answer>
+            <answer>есть (что-либо. аналог is. артикль не используется)</answer>
         </question>
         <question>
             <text>չկա</text>
-            <answer>нету (чего-либо)</answer>
+            <answer>нету (чего-либо. аналог isn't. артикль не используется)</answer>
         </question>
         <question>
             <text>սա սուրճ ա</text>
@@ -1089,6 +1089,154 @@
         <question>
             <text>առանց շաքարի</text>
             <answer>без сахара</answer>
+        </question>
+        <question>
+            <text>ունեմ</text>
+            <answer>имею</answer>
+        </question>
+        <question>
+            <text>ունես</text>
+            <answer>имеешь</answer>
+        </question>
+        <question>
+            <text>ունի</text>
+            <answer>имеет</answer>
+        </question>
+        <question>
+            <text>ունենք</text>
+            <answer>имеем</answer>
+        </question>
+        <question>
+            <text>ունեք</text>
+            <answer>имеете</answer>
+        </question>
+        <question>
+            <text>ունեն</text>
+            <answer>имеют</answer>
+        </question>
+        <question>
+            <text>չունեմ</text>
+            <answer>не имею</answer>
+        </question>
+        <question>
+            <text>չունես</text>
+            <answer>не имеешь</answer>
+        </question>
+        <question>
+            <text>չունի</text>
+            <answer>не имеет</answer>
+        </question>
+        <question>
+            <text>չունենք</text>
+            <answer>не имеем</answer>
+        </question>
+        <question>
+            <text>չունեք</text>
+            <answer>не имеете</answer>
+        </question>
+        <question>
+            <text>չունեն</text>
+            <answer>не имеют</answer>
+        </question>
+        <question>
+            <text>գիտեմ</text>
+            <answer>знаю</answer>
+        </question>
+        <question>
+            <text>գիտես</text>
+            <answer>знаешь</answer>
+        </question>
+        <question>
+            <text>գիտի</text>
+            <answer>знает</answer>
+        </question>
+        <question>
+            <text>գիտենք</text>
+            <answer>знаем</answer>
+        </question>
+        <question>
+            <text>գիտեք</text>
+            <answer>знаете</answer>
+        </question>
+        <question>
+            <text>գիտեն</text>
+            <answer>знают</answer>
+        </question>
+        <question>
+            <text>չգիտեմ</text>
+            <answer>не знаю</answer>
+        </question>
+        <question>
+            <text>չգիտես</text>
+            <answer>не знаешь</answer>
+        </question>
+        <question>
+            <text>չգիտի</text>
+            <answer>не знает</answer>
+        </question>
+        <question>
+            <text>չգիտենք</text>
+            <answer>не знаем</answer>
+        </question>
+        <question>
+            <text>չգիտեք</text>
+            <answer>не знаете</answer>
+        </question>
+        <question>
+            <text>չգիտեն</text>
+            <answer>не знают</answer>
+        </question>
+        <question>
+            <text>հարգեր կան</text>
+            <answer>вопросы есть</answer>
+        </question>
+        <question>
+            <text>կան</text>
+            <answer>есть (что либо, мн. ч. аналог are. артикль не используется)</answer>
+        </question>
+        <question>
+            <text>չկան</text>
+            <answer>нет (чего либо, мн. ч. аналог aren't. артикль не используется)</answer>
+        </question>
+        <question>
+            <text>որտեղից</text>
+            <answer>откуда</answer>
+        </question>
+        <question>
+            <text>վրացի</text>
+            <answer>грузин</answer>
+        </question>
+        <question>
+            <text>երեխա</text>
+            <answer>ребенок</answer>
+        </question>
+        <question>
+            <text>հյութ</text>
+            <answer>сок</answer>
+        </question>
+        <question>
+            <text>հյուր</text>
+            <answer>гость</answer>
+        </question>
+        <question>
+            <text>աղմուկ</text>
+            <answer>шум</answer>
+        </question>
+        <question>
+            <text>ցուրտ</text>
+            <answer>холод</answer>
+        </question>
+        <question>
+            <text>ցանց</text>
+            <answer>сетка</answer>
+        </question>
+        <question>
+            <text>ցուլ</text>
+            <answer>бык</answer>
+        </question>
+        <question>
+            <text>ցնցուղ</text>
+            <answer>душ</answer>
         </question>
     </questions>
 </questionary>
