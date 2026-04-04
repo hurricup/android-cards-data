@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <questionary>
-    <title>Армянские курсы</title>
+    <id>Армянские курсы</id>
+    <title>Слова (арм.)</title>
     <questions>
         <question>
             <text>Շատ</text><answer>много, очень</answer>
