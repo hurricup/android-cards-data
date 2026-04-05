@@ -1238,5 +1238,25 @@
             <text>ցնցուղ</text>
             <answer>душ</answer>
         </question>
+        <question>
+            <text>տաք</text>
+            <answer>тепло</answer>
+        </question>
+        <question>
+            <text>Այսոր տաք է</text>
+            <answer>Сегодня тепло</answer>
+        </question>
+        <question>
+            <text>որ</text>
+            <answer>что (знает что)</answer>
+        </question>
+        <question>
+            <text>սիրել</text>
+            <answer>любить</answer>
+        </question>
+        <question>
+            <text>սիրւմ եմ</text>
+            <answer>люблю</answer>
+        </question>
     </questions>
 </questionary>
