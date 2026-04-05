@@ -1258,5 +1258,23 @@
             <text>սիրւմ եմ</text>
             <answer>люблю</answer>
         </question>
+        <question><text>Ես ... չեմ</text><answer>я ... не есть</answer></question>
+        <question><text>Դու ... չես</text><answer>ты ... не есть</answer></question>
+        <question><text>Ինքե ... չի</text><answer>он/она ... не есть</answer></question>
+        <question><text>Մենք ... չենք</text><answer>мы ... не есть</answer></question>
+        <question><text>Դուք ... չեք</text><answer>вы ... не есть</answer></question>
+        <question><text>Նրնաք ... չեն</text><answer>они ... не есть</answer></question>
+        <question><text>Վորտե՞ղ Սաշան է</text><answer>Где сейчас Саша?</answer></question>
+        <question><text>Ու՞ր գալիս է Սաշան</text><answer>Куда идет Саша?</answer></question>
+        <question><text>Իմ ակնոցէ հարմիր է։</text><answer>Мои очки удобные.</answer></question>
+        <question><text>Սա մեր ընկերէ է։</text><answer>Это наш друг.</answer></question>
+        <question><text>Ես հաճախ աշխատանքում եմ կիրակի օրը։</text><answer>Я часто на работе в воскресенье.</answer></question>
+        <question><text>Իմ տւնէ ցւրտ է;</text><answer>Мой дом холодный.</answer></question>
+        <question><text>Իմ կինէ վրացի է։</text><answer>Моя жена грузинка.</answer></question>
+        <question><text>Այստեղ չորս սենյակներէ է։</text><answer>Здесь четыре комнаты.</answer></question>
+        <question><text>Սա աթոռէ հարմար է։</text><answer>Этот стул удобный.</answer></question>
+        <question><text>Սա իմ ընկերէ է։</text><answer>Это мой друг.</answer></question>
+        <question><text>կարելի</text><answer>можно?</answer></question>
+        <question><text>պետք</text><answer>нуждаться (нужен)</answer></question>
     </questions>
 </questionary>
