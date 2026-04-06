@@ -1283,7 +1283,7 @@
             <answer>они ... не есть</answer>
         </question>
         <question>
-            <text>Վորտե՞ղ Սաշան է</text>
+            <text>Վորտե՞ղ հիմա Սաշան է</text>
             <answer>Где сейчас Саша?</answer>
         </question>
         <question>
@@ -1311,7 +1311,7 @@
             <answer>Моя жена грузинка.</answer>
         </question>
         <question>
-            <text>Այստեղ չորս սենյակը է։</text>
+            <text>Այստեղ չորս սենյակ է։</text>
             <answer>Здесь четыре комнаты.</answer>
         </question>
         <question>
@@ -1329,6 +1329,14 @@
         <question>
             <text>պետք</text>
             <answer>нуждаться (нужен)</answer>
+        </question>
+        <question>
+            <text>Որտեղի՞ց Սաշան է</text>
+            <answer>Откуда Саша?</answer>
+        </question>
+        <question>
+            <text>Որտեղից դու ունե՞ս</text>
+            <answer>Откуда ты знаешь?</answer>
         </question>
     </questions>
 </questionary>
