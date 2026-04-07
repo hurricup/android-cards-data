@@ -1027,10 +1027,6 @@
             <answer>что случилось?</answer>
         </question>
         <question>
-            <text>շաբատթ</text>
-            <answer>неделя</answer>
-        </question>
-        <question>
             <text>երկուշաբթի</text>
             <answer>понедельник</answer>
         </question>
@@ -1052,7 +1048,7 @@
         </question>
         <question>
             <text>շաբաթ</text>
-            <answer>суббота</answer>
+            <answer>суббота или неделя</answer>
         </question>
         <question>
             <text>կիրակի</text>
@@ -1092,51 +1088,51 @@
         </question>
         <question>
             <text>ունեմ</text>
-            <answer>имею</answer>
+            <answer>имею (без артикля)</answer>
         </question>
         <question>
             <text>ունես</text>
-            <answer>имеешь</answer>
+            <answer>имеешь (без артикля)</answer>
         </question>
         <question>
             <text>ունի</text>
-            <answer>имеет</answer>
+            <answer>имеет (без артикля)</answer>
         </question>
         <question>
             <text>ունենք</text>
-            <answer>имеем</answer>
+            <answer>имеем (без артикля)</answer>
         </question>
         <question>
             <text>ունեք</text>
-            <answer>имеете</answer>
+            <answer>имеете (без артикля)</answer>
         </question>
         <question>
             <text>ունեն</text>
-            <answer>имеют</answer>
+            <answer>имеют (без артикля)</answer>
         </question>
         <question>
             <text>չունեմ</text>
-            <answer>не имею</answer>
+            <answer>не имею (без артикля)</answer>
         </question>
         <question>
             <text>չունես</text>
-            <answer>не имеешь</answer>
+            <answer>не имеешь (без артикля)</answer>
         </question>
         <question>
             <text>չունի</text>
-            <answer>не имеет</answer>
+            <answer>не имеет (без артикля)</answer>
         </question>
         <question>
             <text>չունենք</text>
-            <answer>не имеем</answer>
+            <answer>не имеем (без артикля)</answer>
         </question>
         <question>
             <text>չունեք</text>
-            <answer>не имеете</answer>
+            <answer>не имеете (без артикля)</answer>
         </question>
         <question>
             <text>չունեն</text>
-            <answer>не имеют</answer>
+            <answer>не имеют (без артикля)</answer>
         </question>
         <question>
             <text>գիտեմ</text>
@@ -1337,6 +1333,30 @@
         <question>
             <text>Որտեղից դու ունե՞ս</text>
             <answer>Откуда у тебя?</answer>
+        </question>
+        <question>
+            <text>Որտեղից դու գիտե՞ս</text>
+            <answer>Откуда ты знаешь?</answer>
+        </question>
+        <question>
+            <text>Ես դասի եմ</text>
+            <answer>Я на уроке</answer>
+        </question>
+        <question>
+            <text>Ես գօրծի եմ</text>
+            <answer>Я на работе</answer>
+        </question>
+        <question>
+            <text>Ես պարապմունքի եմ</text>
+            <answer>Я на занятии</answer>
+        </question>
+        <question>
+            <text>Ես տանը չեմ</text>
+            <answer>Я не дома</answer>
+        </question>
+        <question>
+            <text>Ես տանն եմ</text>
+            <answer>Я дома</answer>
         </question>
     </questions>
 </questionary>
