@@ -820,11 +820,11 @@
         </question>
         <question>
             <text>կա</text>
-            <answer>есть (что-либо. аналог is. артикль не используется)</answer>
+            <answer>есть (что-либо. аналог is. артикль не используется, неполный глагол, 3л)</answer>
         </question>
         <question>
             <text>չկա</text>
-            <answer>нету (чего-либо. аналог isn't. артикль не используется)</answer>
+            <answer>нету (чего-либо. аналог isn't. артикль не используется, неполный глагол, 3л)</answer>
         </question>
         <question>
             <text>սա սուրճ ա</text>
@@ -859,8 +859,12 @@
             <answer>собаки</answer>
         </question>
         <question>
+            <text>մարդ</text>
+            <answer>человек</answer>
+        </question>
+        <question>
             <text>մարդիկ</text>
-            <answer>люди</answer>
+            <answer>люди. Исключение мн.ч.</answer>
         </question>
         <question>
             <text>կին</text>
@@ -868,7 +872,7 @@
         </question>
         <question>
             <text>կանայք</text>
-            <answer>щенщины</answer>
+            <answer>женщины, жены. Исключение мн.ч.</answer>
         </question>
         <question>
             <text>օձ</text>
@@ -1188,11 +1192,11 @@
         </question>
         <question>
             <text>կան</text>
-            <answer>есть (что либо, мн. ч. аналог are. артикль не используется)</answer>
+            <answer>есть (что либо, мн. ч. аналог are. артикль не используется, неполный глагол, 3л)</answer>
         </question>
         <question>
             <text>չկան</text>
-            <answer>нет (чего либо, мн. ч. аналог aren't. артикль не используется)</answer>
+            <answer>нет (чего либо, мн. ч. аналог aren't. артикль не используется, неполный глагол, 3л)</answer>
         </question>
         <question>
             <text>որտեղից</text>
@@ -1241,6 +1245,10 @@
         <question>
             <text>Այսոր տաք է</text>
             <answer>Сегодня тепло</answer>
+        </question>
+        <question>
+            <text>Այսոր ցուրտ է</text>
+            <answer>Сегодня холодно</answer>
         </question>
         <question>
             <text>որ</text>
