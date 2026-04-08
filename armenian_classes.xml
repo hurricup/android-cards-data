@@ -1366,5 +1366,33 @@
             <text>Ես տանն եմ</text>
             <answer>Я дома</answer>
         </question>
+        <question>
+            <text>ելակ</text>
+            <answer>клубника</answer>
+        </question>
+        <question>
+            <text>ոզնի</text>
+            <answer>ежик</answer>
+        </question>
+        <question>
+            <text>բադ</text>
+            <answer>утка</answer>
+        </question>
+        <question>
+            <text>ժամանակ</text>
+            <answer>время</answer>
+        </question>
+        <question>
+            <text>ժամանակ չկա</text>
+            <answer>нет времени</answer>
+        </question>
+        <question>
+            <text>մի քիչ</text>
+            <answer>немного, как то</answer>
+        </question>
+        <question>
+            <text>լողավազան</text>
+            <answer>бассейн</answer>
+        </question>
     </questions>
 </questionary>
