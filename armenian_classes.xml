@@ -1394,5 +1394,29 @@
             <text>լողավազան</text>
             <answer>бассейн</answer>
         </question>
+        <question>
+            <text>քո</text>
+            <answer>твой</answer>
+        </question>
+        <question>
+            <text>ինչպե՞ս է քո օրը</text>
+            <answer>как твой день?</answer>
+        </question>
+        <question>
+            <text>ինչպե՞ս է քո լողավազանը</text>
+            <answer>как твой бассейн? (семантически - мы спрашиваем про сам бассейн, не про уроки)</answer>
+        </question>
+        <question>
+            <text>Ե՞րբ դասն է</text>
+            <answer>когда урок?</answer>
+        </question>
+        <question>
+            <text>Ե՞րբ յոգան է</text>
+            <answer>когда йога?</answer>
+        </question>
+        <question>
+            <text>Ե՞րբ գործն է</text>
+            <answer>когда работа?</answer>
+        </question>
     </questions>
 </questionary>
