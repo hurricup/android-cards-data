@@ -145,7 +145,8 @@
             <text>ծիածան</text><answer>радуга</answer>
         </question>
         <question>
-            <text>կանօն</text><answer>правило</answer>
+            <text>կանոն</text>
+            <answer>правило</answer>
         </question>
         <question>
             <text>կատու</text><answer>кот</answer>
@@ -543,7 +544,7 @@
             <answer>мелочь</answer>
         </question>
         <question>
-            <text>կօպեկ</text>
+            <text>կոպեկ</text>
             <answer>монеты, мелочь</answer>
         </question>
         <question>
@@ -551,7 +552,7 @@
             <answer>переводчик</answer>
         </question>
         <question>
-            <text>ցրագրավորօղ</text>
+            <text>ցրագրավորող</text>
             <answer>программист</answer>
         </question>
         <question>
@@ -1351,7 +1352,7 @@
             <answer>Я на уроке</answer>
         </question>
         <question>
-            <text>Ես գօրծի եմ</text>
+            <text>Ես գործի եմ</text>
             <answer>Я на работе</answer>
         </question>
         <question>
