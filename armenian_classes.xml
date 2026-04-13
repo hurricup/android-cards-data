@@ -1303,7 +1303,7 @@
             <answer>Это наш друг.</answer>
         </question>
         <question>
-            <text>Ես հաճախ շխատում եմ կիրակի օրը։</text>
+            <text>Ես հաճախ աշխատանքում եմ կիրակի օրը։</text>
             <answer>Я часто на работе в воскресенье.</answer>
         </question>
         <question>
@@ -1417,6 +1417,22 @@
         <question>
             <text>Ե՞րբ գործն է</text>
             <answer>когда работа?</answer>
+        </question>
+        <question>
+            <text>տարի</text>
+            <answer>год</answer>
+        </question>
+        <question>
+            <text>ամիս</text>
+            <answer>месяц</answer>
+        </question>
+        <question>
+            <text>Վորտեղի՞ց շաքար է</text>
+            <answer>Где сахар?</answer>
+        </question>
+        <question>
+            <text>Վորտեղի՞ց կիտրոնատտու է</text>
+            <answer>Где лимонная кислота?</answer>
         </question>
     </questions>
 </questionary>
