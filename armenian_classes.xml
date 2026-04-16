@@ -208,10 +208,12 @@
             <text>շուն</text><answer>собака</answer>
         </question>
         <question>
-            <text>ո՞նց ես</text><answer>Как у тебя дела? (обычно)</answer>
+            <text>ո՞նց ես</text>
+            <answer>Как ты? (как у тебя дела?)</answer>
         </question>
         <question>
-            <text>ո՞նց եք</text><answer>Как у вас дела? (обычно)</answer>
+            <text>ո՞նց եք</text>
+            <answer>Как вы? (как у вас дела)</answer>
         </question>
         <question>
             <text>ողջույն</text><answer>привет</answer>
@@ -1428,12 +1430,16 @@
             <answer>месяц</answer>
         </question>
         <question>
-            <text>Վորտեղի՞ց շաքար է</text>
+            <text>Որտե՞ղ շաքար է</text>
             <answer>Где сахар?</answer>
         </question>
         <question>
-            <text>Վորտեղի՞ց կիտրոնաթթու է</text>
+            <text>Որտե՞ղ կիտրոնաթթու է</text>
             <answer>Где лимонная кислота?</answer>
+        </question>
+        <question>
+            <text>Գործերը ո՞նց է</text>
+            <answer>Как дела?</answer>
         </question>
     </questions>
 </questionary>
