@@ -1662,5 +1662,85 @@
             <text>քիչ</text>
             <answer>мало</answer>
         </question>
+        <question>
+            <text>փող</text>
+            <answer>деньги</answer>
+        </question>
+        <question>
+            <text>փող չկա</text>
+            <answer>денег нет</answer>
+        </question>
+        <question>
+            <text>հունարեն</text>
+            <answer>греческий (язык)</answer>
+        </question>
+        <question>
+            <text>հունական</text>
+            <answer>греческий (производство)</answer>
+        </question>
+        <question>
+            <text>ընկերուհի</text>
+            <answer>подруга (феминитив ընկեր + ուհի)</answer>
+        </question>
+        <question>
+            <text>սուտ ա</text>
+            <answer>это ложь (неправда)</answer>
+        </question>
+        <question>
+            <text>քա՞նի հատ</text>
+            <answer>сколько штук</answer>
+        </question>
+        <question>
+            <text>մի տաս հատ</text>
+            <answer>примерно 10 штук</answer>
+        </question>
+        <question>
+            <text>ծնունդ</text>
+            <answer>рождение, рождество, день рождения</answer>
+        </question>
+        <question>
+            <text>ծնունդդ</text>
+            <answer>твой день рождение</answer>
+        </question>
+        <question>
+            <text>ծնունդս</text>
+            <answer>мой день рождения</answer>
+        </question>
+        <question>
+            <text>շնորհավոր</text>
+            <answer>поздравляем</answer>
+        </question>
+        <question>
+            <text>իմ ծնո՛ւնդը հունիս է</text>
+            <answer>мой день рождения в июне</answer>
+        </question>
+        <question>
+            <text>կյանք</text>
+            <answer>жизнь</answer>
+        </question>
+        <question>
+            <text>կյանքս</text>
+            <answer>моя жизнь</answer>
+        </question>
+        <question>
+            <text>կյանքդ</text>
+            <answer>твоя жизнь</answer>
+        </question>
+        <question>
+            <text>իմ ախպե՛րը</text>
+            <answer>мой брат</answer>
+        </question>
+        <question>
+            <text>ախպերս</text>
+            <answer>мой брат</answer>
+        </question>
+        <question>
+            <text>ախպերդ</text>
+            <answer>твой брат</answer>
+        </question>
+        <question>
+            <text>քո ախպե՛րը</text>
+            <answer>твой брат</answer>
+        </question>
     </questions>
 </questionary>
