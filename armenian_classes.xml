@@ -1441,5 +1441,149 @@
             <text>Գործերը ո՞նց է</text>
             <answer>Как дела?</answer>
         </question>
+        <question>
+            <text>հունվար</text>
+            <answer>январь</answer>
+        </question>
+        <question>
+            <text>փետրվար</text>
+            <answer>февраль</answer>
+        </question>
+        <question>
+            <text>մարտ</text>
+            <answer>март</answer>
+        </question>
+        <question>
+            <text>ապրիլ</text>
+            <answer>апрель</answer>
+        </question>
+        <question>
+            <text>մայիս</text>
+            <answer>май</answer>
+        </question>
+        <question>
+            <text>հունիս</text>
+            <answer>июнь</answer>
+        </question>
+        <question>
+            <text>հուլիս</text>
+            <answer>июль</answer>
+        </question>
+        <question>
+            <text>օգոստոս</text>
+            <answer>август</answer>
+        </question>
+        <question>
+            <text>սեպտեմբեր</text>
+            <answer>сентябрь</answer>
+        </question>
+        <question>
+            <text>հոկտեմբեր</text>
+            <answer>октябрь</answer>
+        </question>
+        <question>
+            <text>նոյեմբեր</text>
+            <answer>ноябрь</answer>
+        </question>
+        <question>
+            <text>դեկտեմբեր</text>
+            <answer>декабрь</answer>
+        </question>
+        <question>
+            <text>հունվարին</text>
+            <answer>в январе</answer>
+        </question>
+        <question>
+            <text>փետրվարին</text>
+            <answer>в феврале</answer>
+        </question>
+        <question>
+            <text>մարտին</text>
+            <answer>в марте</answer>
+        </question>
+        <question>
+            <text>ապրիլին</text>
+            <answer>в апреле</answer>
+        </question>
+        <question>
+            <text>մայիսին</text>
+            <answer>в мае</answer>
+        </question>
+        <question>
+            <text>հունիսին</text>
+            <answer>в июне</answer>
+        </question>
+        <question>
+            <text>հուլիսին</text>
+            <answer>в июле</answer>
+        </question>
+        <question>
+            <text>օգոստոսին</text>
+            <answer>в августе</answer>
+        </question>
+        <question>
+            <text>սեպտեմբերին</text>
+            <answer>в сентябре</answer>
+        </question>
+        <question>
+            <text>հոկտեմբերին</text>
+            <answer>в октябре</answer>
+        </question>
+        <question>
+            <text>նոյեմբերին</text>
+            <answer>в ноябре</answer>
+        </question>
+        <question>
+            <text>դեկտեմբերին</text>
+            <answer>в декабре</answer>
+        </question>
+        <question>
+            <text>հունվարիտս</text>
+            <answer>с января</answer>
+        </question>
+        <question>
+            <text>փետրվարիտս</text>
+            <answer>с февраля</answer>
+        </question>
+        <question>
+            <text>մարտիտս</text>
+            <answer>с марта</answer>
+        </question>
+        <question>
+            <text>ապրիլիտս</text>
+            <answer>с апреля</answer>
+        </question>
+        <question>
+            <text>մայիսիտս</text>
+            <answer>с мая</answer>
+        </question>
+        <question>
+            <text>հունիսիտս</text>
+            <answer>с июня</answer>
+        </question>
+        <question>
+            <text>հուլիսիտս</text>
+            <answer>с июля</answer>
+        </question>
+        <question>
+            <text>օգոստոսիտս</text>
+            <answer>с августа</answer>
+        </question>
+        <question>
+            <text>սեպտեմբերիտս</text>
+            <answer>с сентября</answer>
+        </question>
+        <question>
+            <text>հոկտեմբերիտս</text>
+            <answer>с октября</answer>
+        </question>
+        <question>
+            <text>նոյեմբերիտս</text>
+            <answer>с ноября</answer>
+        </question>
+        <question>
+            <text>դեկտեմբերիտս</text>
+            <answer>с декабря</answer>
+        </question>
     </questions>
 </questionary>
