@@ -291,11 +291,11 @@
             <answer>Нет, не нужен</answer>
         </question>
         <question>
-            <text>Հաշիվը կարելի՞ ա</text>
+            <text>Հաշի՛վը կարելի՞ ա</text>
             <answer>Можно счет?</answer>
         </question>
         <question>
-            <text>Հաշիվը կբերե՞ք</text>
+            <text>Հաշի՛վը կբերե՞ք</text>
             <answer>Вы принесете счет?</answer>
         </question>
         <question>
@@ -379,7 +379,7 @@
             <answer>Саша учит.</answer>
         </question>
         <question>
-            <text>Տները մեծ են</text>
+            <text>Տնե՛րը մեծ են</text>
             <answer>Дома большие.</answer>
         </question>
         <question>
@@ -427,7 +427,7 @@
             <answer>9</answer>
         </question>
         <question>
-            <text>տասը, տաս</text>
+            <text>տա՛սը, տաս</text>
             <answer>10</answer>
         </question>
         <question>
@@ -699,19 +699,19 @@
             <answer>сколько это стоит</answer>
         </question>
         <question>
-            <text>Միսը ինչ արժի</text>
+            <text>Մի՛սը ինչ արժի</text>
             <answer>сколько стоит мясо</answer>
         </question>
         <question>
-            <text>Հացը ինչ արժի</text>
+            <text>Հա՛ցը ինչ արժի</text>
             <answer>сколько стоит хлеб</answer>
         </question>
         <question>
-            <text>Ծիրանի չիրը ինչ արժի</text>
+            <text>Ծիրանի չի՛րը ինչ արժի</text>
             <answer>сколько стоит курага</answer>
         </question>
         <question>
-            <text>Գարեջուրը ինչ արժի</text>
+            <text>Գարեջո՛ւրը ինչ արժի</text>
             <answer>сколько стоит пиво</answer>
         </question>
         <question>
@@ -719,15 +719,15 @@
             <answer>пиво (пшеничная вода)</answer>
         </question>
         <question>
-            <text>Միսը արժի հազար դրամ</text>
+            <text>մի՛սը արժի հազար դրամ</text>
             <answer>мясо стоит тысячу драм</answer>
         </question>
         <question>
-            <text>կիլոգրամը</text>
+            <text>կիլոգրա՛մը</text>
             <answer>за килограмм</answer>
         </question>
         <question>
-            <text>հատը</text>
+            <text>հա՛տը</text>
             <answer>за штуку</answer>
         </question>
         <question>
@@ -767,6 +767,22 @@
             <answer>брат</answer>
         </question>
         <question>
+            <text>ախպերս</text>
+            <answer>мой брат (притяжательный артикль)</answer>
+        </question>
+        <question>
+            <text>ախպերդ</text>
+            <answer>твой брат (притяжательный артикль)</answer>
+        </question>
+        <question>
+            <text>իմ ախպե՛րը</text>
+            <answer>мой брат</answer>
+        </question>
+        <question>
+            <text>քո ախպե՛րը</text>
+            <answer>твой брат</answer>
+        </question>
+        <question>
             <text>հիմա</text>
             <answer>сейчас</answer>
         </question>
@@ -803,7 +819,7 @@
             <answer>красный</answer>
         </question>
         <question>
-            <text>տանը հաց կա</text>
+            <text>տա՛նը հաց կա</text>
             <answer>дома есть хлеб</answer>
         </question>
         <question>
@@ -811,7 +827,7 @@
             <answer>дом</answer>
         </question>
         <question>
-            <text>տանը</text>
+            <text>տա՛նը</text>
             <answer>дома (в смысле где)</answer>
         </question>
         <question>
@@ -1063,31 +1079,31 @@
             <answer>воскресенье</answer>
         </question>
         <question>
-            <text>երկուշաբթի օրը</text>
+            <text>երկուշաբթի օ՛րը</text>
             <answer>в понедельник</answer>
         </question>
         <question>
-            <text>երեքշաբթի օրը</text>
+            <text>երեքշաբթի օ՛րը</text>
             <answer>во вторник</answer>
         </question>
         <question>
-            <text>չորեշաբթի օրը</text>
+            <text>չորեշաբթի օ՛րը</text>
             <answer>во среду</answer>
         </question>
         <question>
-            <text>հինգշաբթի օրը</text>
+            <text>հինգշաբթի օ՛րը</text>
             <answer>во четверг</answer>
         </question>
         <question>
-            <text>ուրբաթ օրը</text>
+            <text>ուրբաթ օ՛րը</text>
             <answer>в пятницу</answer>
         </question>
         <question>
-            <text>շաբաթ օրը</text>
+            <text>շաբաթ օ՛րը</text>
             <answer>в субботу</answer>
         </question>
         <question>
-            <text>կիրակի օրը</text>
+            <text>կիրակի օ՛րը</text>
             <answer>в воскресенье</answer>
         </question>
         <question>
@@ -1323,7 +1339,7 @@
             <answer>Куда идет Саша?</answer>
         </question>
         <question>
-            <text>Իմ ակնոցը հարմար է։</text>
+            <text>Իմ ակնո՛ցը հարմար է։</text>
             <answer>Мои очки удобные.</answer>
         </question>
         <question>
@@ -1331,15 +1347,15 @@
             <answer>Это наш друг.</answer>
         </question>
         <question>
-            <text>Ես հաճախ աշխատանքում եմ կիրակի օրը։</text>
+            <text>Ես հաճախ աշխատանքում եմ կիրակի օ՛րը։</text>
             <answer>Я часто на работе в воскресенье.</answer>
         </question>
         <question>
-            <text>Իմ տունը ցուրտ է։</text>
+            <text>Իմ տո՛ւնը ցուրտ է։</text>
             <answer>Мой дом холодный.</answer>
         </question>
         <question>
-            <text>Իմ կինը վրացի է։</text>
+            <text>Իմ կի՛նը վրացի է։</text>
             <answer>Моя жена грузинка.</answer>
         </question>
         <question>
@@ -1347,7 +1363,7 @@
             <answer>Здесь четыре комнаты.</answer>
         </question>
         <question>
-            <text>Սա աթոռը հարմար է։</text>
+            <text>Սա աթո՛ռը հարմար է։</text>
             <answer>Этот стул удобный.</answer>
         </question>
         <question>
@@ -1387,7 +1403,7 @@
             <answer>Я на занятии</answer>
         </question>
         <question>
-            <text>Ես տանը չեմ</text>
+            <text>Ես տա՛նը չեմ</text>
             <answer>Я не дома</answer>
         </question>
         <question>
@@ -1427,11 +1443,11 @@
             <answer>твой</answer>
         </question>
         <question>
-            <text>ինչպե՞ս է քո օրը</text>
+            <text>ինչպե՞ս է քո օ՛րը</text>
             <answer>как твой день?</answer>
         </question>
         <question>
-            <text>ինչպե՞ս է քո լողավազանը</text>
+            <text>ինչպե՞ս է քո լողավազա՛նը</text>
             <answer>как твой бассейн? (семантически - мы спрашиваем про сам бассейн, не про уроки)</answer>
         </question>
         <question>
@@ -1463,7 +1479,7 @@
             <answer>Где лимонная кислота?</answer>
         </question>
         <question>
-            <text>Գործերը ո՞նց է</text>
+            <text>Գործե՛րը ո՞նց է</text>
             <answer>Как дела?</answer>
         </question>
         <question>
@@ -1615,7 +1631,7 @@
             <answer>теплый/горячий</answer>
         </question>
         <question>
-            <text>սառը / սառն</text>
+            <text>սա՛ռը / սառն</text>
             <answer>холодный</answer>
         </question>
         <question>
