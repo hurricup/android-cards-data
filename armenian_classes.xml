@@ -1066,6 +1066,30 @@
             <answer>в понедельник</answer>
         </question>
         <question>
+            <text>երեքշաբթի օրը</text>
+            <answer>во вторник</answer>
+        </question>
+        <question>
+            <text>չորեշաբթի օրը</text>
+            <answer>во среду</answer>
+        </question>
+        <question>
+            <text>հինգշաբթի օրը</text>
+            <answer>во четверг</answer>
+        </question>
+        <question>
+            <text>ուրբաթ օրը</text>
+            <answer>в пятницу</answer>
+        </question>
+        <question>
+            <text>շաբաթ օրը</text>
+            <answer>в субботу</answer>
+        </question>
+        <question>
+            <text>կիրակի օրը</text>
+            <answer>в воскресенье</answer>
+        </question>
+        <question>
             <text>ամեն օր</text>
             <answer>каждый день</answer>
         </question>
