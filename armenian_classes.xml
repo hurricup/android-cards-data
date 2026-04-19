@@ -4,7 +4,8 @@
     <title>Слова (арм.)</title>
     <questions>
         <question>
-            <text>Շատ</text><answer>много, очень</answer>
+            <text>շատ</text>
+            <answer>много, очень</answer>
         </question>
         <question>
             <text>[ես] լավ եմ</text><answer>У меня все хорошо (я в порядке).</answer>
@@ -1608,6 +1609,42 @@
         <question>
             <text>դեկտեմբերիտս</text>
             <answer>с декабря</answer>
+        </question>
+        <question>
+            <text>տաք</text>
+            <answer>теплый/горячий</answer>
+        </question>
+        <question>
+            <text>սառը / սառն</text>
+            <answer>холодный</answer>
+        </question>
+        <question>
+            <text>շոգ ա</text>
+            <answer>жарко (о погоде)</answer>
+        </question>
+        <question>
+            <text>ցուրտ ա</text>
+            <answer>холодно (о погоде)</answer>
+        </question>
+        <question>
+            <text>արագ</text>
+            <answer>быстрый</answer>
+        </question>
+        <question>
+            <text>դանդաղ</text>
+            <answer>медленный</answer>
+        </question>
+        <question>
+            <text>հետաքրքիր</text>
+            <answer>интересный</answer>
+        </question>
+        <question>
+            <text>անհետաքրքիր</text>
+            <answer>неинтересный</answer>
+        </question>
+        <question>
+            <text>քիչ</text>
+            <answer>мало</answer>
         </question>
     </questions>
 </questionary>
