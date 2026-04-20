@@ -1088,11 +1088,11 @@
         </question>
         <question>
             <text>չորեշաբթի օ՛րը</text>
-            <answer>во среду</answer>
+            <answer>в среду</answer>
         </question>
         <question>
             <text>հինգշաբթի օ՛րը</text>
-            <answer>во четверг</answer>
+            <answer>в четверг</answer>
         </question>
         <question>
             <text>ուրբաթ օ՛րը</text>
@@ -1327,7 +1327,7 @@
             <answer>вы ... не есть</answer>
         </question>
         <question>
-            <text>Նրնաք ... չեն</text>
+            <text>Նրանք / իրենք ... չեն</text>
             <answer>они ... не есть</answer>
         </question>
         <question>
