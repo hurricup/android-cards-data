@@ -1738,5 +1738,69 @@
             <text>քո ախպե՛րը</text>
             <answer>твой брат</answer>
         </question>
+        <question>
+            <text>միշտ</text>
+            <answer>всегда</answer>
+        </question>
+        <question>
+            <text>սա՛ռը</text>
+            <answer>холодный</answer>
+        </question>
+        <question>
+            <text>դա՛ռը</text>
+            <answer>горький</answer>
+        </question>
+        <question>
+            <text>արագ</text>
+            <answer>быстрый</answer>
+        </question>
+        <question>
+            <text>ուզել</text>
+            <answer>хотеть</answer>
+        </question>
+        <question>
+            <text>վազել</text>
+            <answer>бежать</answer>
+        </question>
+        <question>
+            <text>սիրել</text>
+            <answer>любить</answer>
+        </question>
+        <question>
+            <text>աշխատել</text>
+            <answer>работать</answer>
+        </question>
+        <question>
+            <text>գնալ</text>
+            <answer>идти</answer>
+        </question>
+        <question>
+            <text>ուտել</text>
+            <answer>есть (кушать)</answer>
+        </question>
+        <question>
+            <text>խմել</text>
+            <answer>пить</answer>
+        </question>
+        <question>
+            <text>որովհետև</text>
+            <answer>потому что</answer>
+        </question>
+        <question>
+            <text>քնել</text>
+            <answer>спать</answer>
+        </question>
+        <question>
+            <text>նրա/իր/իրա</text>
+            <answer>его</answer>
+        </question>
+        <question>
+            <text>ձեր</text>
+            <answer>ваш</answer>
+        </question>
+        <question>
+            <text>նրանց/իրենց/իրանց</text>
+            <answer>их (ихний)</answer>
+        </question>
     </questions>
 </questionary>
