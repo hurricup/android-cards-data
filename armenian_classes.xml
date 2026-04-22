@@ -1803,6 +1803,18 @@
             <answer>их (ихний)</answer>
         </question>
         <question>
+            <text>այնտեղ</text>
+            <answer>там</answer>
+        </question>
+        <question>
+            <text>որովհետև</text>
+            <answer>потому что</answer>
+        </question>
+        <question>
+            <text>քնել</text>
+            <answer>спать</answer>
+        </question>
+        <question>
             <text>ավելի շատ</text>
             <answer>больше</answer>
         </question>
