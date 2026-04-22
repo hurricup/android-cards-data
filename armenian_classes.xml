@@ -1802,5 +1802,9 @@
             <text>նրանց/իրենց/իրանց</text>
             <answer>их (ихний)</answer>
         </question>
+        <question>
+            <text>ավելի շատ</text>
+            <answer>больше</answer>
+        </question>
     </questions>
 </questionary>
