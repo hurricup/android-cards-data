@@ -1818,5 +1818,101 @@
             <text>ավելի շատ</text>
             <answer>больше</answer>
         </question>
+        <question>
+            <text>սա</text>
+            <answer>"это" конкретный видимый предмет, без описания. Типа это - ваза.</answer>
+        </question>
+        <question>
+            <text>դա</text>
+            <answer>"это" какое-то или абстрактное понятие, или описание.</answer>
+        </question>
+        <question>
+            <text>այս</text>
+            <answer>"этот" - говорим про него и видим. Эта ручка.</answer>
+        </question>
+        <question>
+            <text>այդ</text>
+            <answer>"тот" - говорим, но не видим. Тот день.</answer>
+        </question>
+        <question>
+            <text>այն</text>
+            <answer>"тот" - сильно далекий в сложносочиненных предложениях.</answer>
+        </question>
+        <question>
+            <text>բան</text>
+            <answer>штука, вещь, фиговина.</answer>
+        </question>
+        <question>
+            <text>բաներ</text>
+            <answer>штуки, вещи, фиговины</answer>
+        </question>
+        <question>
+            <text>վատ բաներ</text>
+            <answer>плохие вещи</answer>
+        </question>
+        <question>
+            <text>կես</text>
+            <answer>половина</answer>
+        </question>
+        <question>
+            <text>համարյա</text>
+            <answer>почти</answer>
+        </question>
+        <question>
+            <text>մեկուկես</text>
+            <answer>полтора</answer>
+        </question>
+        <question>
+            <text>երկուուկես</text>
+            <answer>два с половиной</answer>
+        </question>
+        <question>
+            <text>երեքուկես</text>
+            <answer>три с половиной</answer>
+        </question>
+        <question>
+            <text>չորսուկես</text>
+            <answer>четыре с половиной</answer>
+        </question>
+        <question>
+            <text>հինգուկես</text>
+            <answer>пять с половиной</answer>
+        </question>
+        <question>
+            <text>վեցուկես</text>
+            <answer>шесть с половиной</answer>
+        </question>
+        <question>
+            <text>յոթուկես</text>
+            <answer>семь с половиной</answer>
+        </question>
+        <question>
+            <text>ութուկես</text>
+            <answer>восемь с половиной</answer>
+        </question>
+        <question>
+            <text>ինեուկես</text>
+            <answer>девять с половиной</answer>
+        </question>
+        <question>
+            <text>տասուկես</text>
+            <answer>десять с половиной</answer>
+        </question>
+        <question>
+            <text>ապուշ</text>
+            <answer>глупый, дурацкий</answer>
+        </question>
+        <question>
+            <text>ապուշ աշխատանք</text>
+            <answer>дурацкая работа</answer>
+        </question>
+        <question>
+            <text>նախկին</text>
+            <answer>бывший</answer>
+        </question>
+        <question>
+            <text>կապ չունի</text>
+            <answer>не важно (не связано)</answer>
+        </question>
     </questions>
 </questionary>
