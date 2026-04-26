@@ -1914,5 +1914,21 @@
             <text>կապ չունի</text>
             <answer>не важно (не связано)</answer>
         </question>
+        <question>
+            <text>դեղատւն</text>
+            <answer>аптека</answer>
+        </question>
+        <question>
+            <text>գնել</text>
+            <answer>покупать</answer>
+        </question>
+        <question>
+            <text>փողոց</text>
+            <answer>улица</answer>
+        </question>
+        <question>
+            <text>քաղաք</text>
+            <answer>город</answer>
+        </question>
     </questions>
 </questionary>
