@@ -1930,5 +1930,89 @@
             <text>քաղաք</text>
             <answer>город</answer>
         </question>
+        <question>
+            <text>հյուրանոց</text>
+            <answer>гостиница</answer>
+        </question>
+        <question>
+            <text>ընկերություն</text>
+            <answer>дружба, компания</answer>
+        </question>
+        <question>
+            <text>սև</text>
+            <answer>черный</answer>
+        </question>
+        <question>
+            <text>մազ</text>
+            <answer>волос</answer>
+        </question>
+        <question>
+            <text>մազեր</text>
+            <answer>волосы</answer>
+        </question>
+        <question>
+            <text>մայկա</text>
+            <answer>футболка</answer>
+        </question>
+        <question>
+            <text>շալվար</text>
+            <answer>штаны</answer>
+        </question>
+        <question>
+            <text>սոռոչկա</text>
+            <answer>рубашка (разговорный)</answer>
+        </question>
+        <question>
+            <text>վերնաշապիկ</text>
+            <answer>рубашка (лит.)</answer>
+        </question>
+        <question>
+            <text>եղանակ</text>
+            <answer>погода</answer>
+        </question>
+        <question>
+            <text>ես լավ եմ</text>
+            <answer>я в порядке (я есть хорошо)</answer>
+        </question>
+        <question>
+            <text>ես լավն եմ</text>
+            <answer>я хорош (я есть хороший)</answer>
+        </question>
+        <question>
+            <text>պարել</text>
+            <answer>танцевать</answer>
+        </question>
+        <question>
+            <text>Երևանի մասին</text>
+            <answer>о Еереване (послелог, род падеж)</answer>
+        </question>
+        <question>
+            <text>Մոսկվայի մասին</text>
+            <answer>о Москве (послелог, род падеж)</answer>
+        </question>
+        <question>
+            <text>Երևանի համիր</text>
+            <answer>для Еревана (послелог, род падеж)</answer>
+        </question>
+        <question>
+            <text>Մոսկվայի համիր</text>
+            <answer>для Москвы (послелог, род падеж)</answer>
+        </question>
+        <question>
+            <text>Սաշայի հետ</text>
+            <answer>с Сашей (послелог, род падеж)</answer>
+        </question>
+        <question>
+            <text>Մաշայի հետ</text>
+            <answer>с Машей (послелог, род падеж)</answer>
+        </question>
+        <question>
+            <text>առանց Սաշայի</text>
+            <answer>без Саши (предлог, род падеж)</answer>
+        </question>
+        <question>
+            <text>առանց Մաշայի</text>
+            <answer>без Маши (предлог, род падеж)</answer>
+        </question>
     </questions>
 </questionary>
