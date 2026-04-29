@@ -1347,7 +1347,7 @@
             <answer>Я часто на работе в воскресенье.</answer>
         </question>
         <question>
-            <text>Իմ տո՛ւնը ցուրտ է։</text>
+            <text>Իմ տո՛ւնը սարն է։</text>
             <answer>Мой дом холодный.</answer>
         </question>
         <question>
@@ -1743,10 +1743,6 @@
             <answer>всегда</answer>
         </question>
         <question>
-            <text>սա՛ռը</text>
-            <answer>холодный</answer>
-        </question>
-        <question>
             <text>դա՛ռը</text>
             <answer>горький</answer>
         </question>
@@ -2025,6 +2021,22 @@
         <question>
             <text>դու հանգատանում ես</text>
             <answer>ты отдыхаешь</answer>
+        </question>
+        <question>
+            <text>տնային</text>
+            <answer>домашка</answer>
+        </question>
+        <question>
+            <text>անել</text>
+            <answer>делать</answer>
+        </question>
+        <question>
+            <text>ես անւմ եմ</text>
+            <answer>я делаю</answer>
+        </question>
+        <question>
+            <text>դու անւմ ես</text>
+            <answer>ты делаешь</answer>
         </question>
     </questions>
 </questionary>
