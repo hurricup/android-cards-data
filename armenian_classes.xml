@@ -2014,5 +2014,17 @@
             <text>առանց Մաշայի</text>
             <answer>без Маши (предлог, род падеж)</answer>
         </question>
+        <question>
+            <text>հանգատանալ</text>
+            <answer>отдыхать</answer>
+        </question>
+        <question>
+            <text>ես հանգատանում եմ</text>
+            <answer>я отдыхаю</answer>
+        </question>
+        <question>
+            <text>դու հանգատանում ես</text>
+            <answer>ты отдыхаешь</answer>
+        </question>
     </questions>
 </questionary>
