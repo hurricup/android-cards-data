@@ -1911,7 +1911,7 @@
             <answer>не важно (не связано)</answer>
         </question>
         <question>
-            <text>դեղատւն</text>
+            <text>դեղատուն</text>
             <answer>аптека</answer>
         </question>
         <question>
@@ -2031,11 +2031,11 @@
             <answer>делать</answer>
         </question>
         <question>
-            <text>ես անւմ եմ</text>
+            <text>ես անում եմ</text>
             <answer>я делаю</answer>
         </question>
         <question>
-            <text>դու անւմ ես</text>
+            <text>դու անում ես</text>
             <answer>ты делаешь</answer>
         </question>
         <question>
@@ -2205,6 +2205,26 @@
         <question>
             <text>նրանք քնել են</text>
             <answer>они спали, заверш. время</answer>
+        </question>
+        <question>
+            <text>ուղարկել</text>
+            <answer>отправить, отправлять</answer>
+        </question>
+        <question>
+            <text>ես ուզում եմ ուղարկել մեկ միլլիոն րուբլ</text>
+            <answer>я хочу отправить один миллион рублей</answer>
+        </question>
+        <question>
+            <text>ես ուզում եմ գնել մեկուկաս հազար դօլլար</text>
+            <answer>я хочу купить полторы тысячи долларов</answer>
+        </question>
+        <question>
+            <text>վաճառել</text>
+            <answer>продать</answer>
+        </question>
+        <question>
+            <text>ես ուզում եմ վաճառել մեկ հարյուր հազար րուբլ</text>
+            <answer>я хочу продать сто тысяч рублей</answer>
         </question>
     </questions>
 </questionary>
