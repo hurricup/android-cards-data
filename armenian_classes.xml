@@ -2038,5 +2038,173 @@
             <text>դու անւմ ես</text>
             <answer>ты делаешь</answer>
         </question>
+        <question>
+            <text>նվեր</text>
+            <answer>подарок</answer>
+        </question>
+        <question>
+            <text>մոմ</text>
+            <answer>свеча</answer>
+        </question>
+        <question>
+            <text>իհարկե</text>
+            <answer>конечно</answer>
+        </question>
+        <question>
+            <text>դրա համար</text>
+            <answer>поэтому</answer>
+        </question>
+        <question>
+            <text>փող</text>
+            <answer>деньги</answer>
+        </question>
+        <question>
+            <text>փողոց</text>
+            <answer>улица</answer>
+        </question>
+        <question>
+            <text>պողոտա</text>
+            <answer>проспект</answer>
+        </question>
+        <question>
+            <text>քաղաք</text>
+            <answer>город</answer>
+        </question>
+        <question>
+            <text>գյուղ</text>
+            <answer>деревня</answer>
+        </question>
+        <question>
+            <text>հայրենիք</text>
+            <answer>родина</answer>
+        </question>
+        <question>
+            <text>երկիր</text>
+            <answer>страна</answer>
+        </question>
+        <question>
+            <text>երկրներ</text>
+            <answer>страны</answer>
+        </question>
+        <question>
+            <text>իմն ա</text>
+            <answer>мое</answer>
+        </question>
+        <question>
+            <text>քոնն ա</text>
+            <answer>твое</answer>
+        </question>
+        <question>
+            <text>իրենն ա</text>
+            <answer>его</answer>
+        </question>
+        <question>
+            <text>մերն ա</text>
+            <answer>наше</answer>
+        </question>
+        <question>
+            <text>ձերն ա</text>
+            <answer>ваше</answer>
+        </question>
+        <question>
+            <text>իրենցն ա</text>
+            <answer>ихнее</answer>
+        </question>
+        <question>
+            <text>իմը չի</text>
+            <answer>не мое</answer>
+        </question>
+        <question>
+            <text>քոնե չի</text>
+            <answer>не твое</answer>
+        </question>
+        <question>
+            <text>իրենը չի</text>
+            <answer>не его</answer>
+        </question>
+        <question>
+            <text>մերը չի</text>
+            <answer>не наше</answer>
+        </question>
+        <question>
+            <text>ձերը չի</text>
+            <answer>не ваше</answer>
+        </question>
+        <question>
+            <text>իրենցը չի</text>
+            <answer>не их</answer>
+        </question>
+        <question>
+            <text>չաշխատել</text>
+            <answer>не работать</answer>
+        </question>
+        <question>
+            <text>չուտել</text>
+            <answer>не есть</answer>
+        </question>
+        <question>
+            <text>չանել</text>
+            <answer>не делать</answer>
+        </question>
+        <question>
+            <text>չսիրել</text>
+            <answer>не любить</answer>
+        </question>
+        <question>
+            <text>չթափել</text>
+            <answer>не лить</answer>
+        </question>
+        <question>
+            <text>չկանգել</text>
+            <answer>не останавливаться</answer>
+        </question>
+        <question>
+            <text>չկայանել</text>
+            <answer>не парковаться</answer>
+        </question>
+        <question>
+            <text>աղբ</text>
+            <answer>мусор</answer>
+        </question>
+        <question>
+            <text>չքշել</text>
+            <answer>не водить (не ездить)</answer>
+        </question>
+        <question>
+            <text>խոսել</text>
+            <answer>говорить</answer>
+        </question>
+        <question>
+            <text>փորձել</text>
+            <answer>пробовать</answer>
+        </question>
+        <question>
+            <text>կանգել</text>
+            <answer>останавливаться</answer>
+        </question>
+        <question>
+            <text>ես խոսել եմ</text>
+            <answer>я говорил (с кем то), заверш. время</answer>
+        </question>
+        <question>
+            <text>դու սիրել ես</text>
+            <answer>ты любил (кого-то), заверш. время</answer>
+        </question>
+        <question>
+            <text>ինքը աշխատել ը</text>
+            <answer>он работали, заверш. время</answer>
+        </question>
+        <question>
+            <text>մենք ուզել ենք</text>
+            <answer>мы хотели, заверш. время</answer>
+        </question>
+        <question>
+            <text>դուք խմել եք</text>
+            <answer>они пили, заверш. время</answer>
+        </question>
+        <question>
+            <text>նրանք քնել են</text>
+            <answer>они спали, заверш. время</answer>
+        </question>
     </questions>
 </questionary>
