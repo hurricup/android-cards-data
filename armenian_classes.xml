@@ -226,7 +226,8 @@
             <text>որտեղ</text><answer>где</answer>
         </question>
         <question>
-            <text>ուր</text><answer>куда</answer>
+            <text>ուր</text>
+            <answer>куда (где)</answer>
         </question>
         <question>
             <text>չամիչ</text><answer>изюм</answer>
@@ -2225,6 +2226,118 @@
         <question>
             <text>ես ուզում եմ վաճառել մեկ հարյուր հազար րուբլ</text>
             <answer>я хочу продать сто тысяч рублей</answer>
+        </question>
+        <question>
+            <text>բացել</text>
+            <answer>открывать</answer>
+        </question>
+        <question>
+            <text>սպասել</text>
+            <answer>ждать</answer>
+        </question>
+        <question>
+            <text>ինչ</text>
+            <answer>что</answer>
+        </question>
+        <question>
+            <text>ով</text>
+            <answer>кто</answer>
+        </question>
+        <question>
+            <text>ովքեր</text>
+            <answer>кты (мн. число кто)</answer>
+        </question>
+        <question>
+            <text>երբ</text>
+            <answer>когда</answer>
+        </question>
+        <question>
+            <text>ոնց</text>
+            <answer>как</answer>
+        </question>
+        <question>
+            <text>ինչպես</text>
+            <answer>как</answer>
+        </question>
+        <question>
+            <text>ինչու</text>
+            <answer>почему</answer>
+        </question>
+        <question>
+            <text>խի</text>
+            <answer>почему</answer>
+        </question>
+        <question>
+            <text>ինչի</text>
+            <answer>почему</answer>
+        </question>
+        <question>
+            <text>ինչի համար</text>
+            <answer>для чего/зачем</answer>
+        </question>
+        <question>
+            <text>ում համար</text>
+            <answer>для кого</answer>
+        </question>
+        <question>
+            <text>ում</text>
+            <answer>кого/кому</answer>
+        </question>
+        <question>
+            <text>ումն ա</text>
+            <answer>чей</answer>
+        </question>
+        <question>
+            <text>ումից</text>
+            <answer>от кого</answer>
+        </question>
+        <question>
+            <text>ինչքան</text>
+            <answer>сколько (с гл./неисчисляемыми)</answer>
+        </question>
+        <question>
+            <text>քանի</text>
+            <answer>сколько (с сущ./исчисляемыми)</answer>
+        </question>
+        <question>
+            <text>քանի հատ</text>
+            <answer>сколько штук</answer>
+        </question>
+        <question>
+            <text>որ</text>
+            <answer>какой/который</answer>
+        </question>
+        <question>
+            <text>ում մասին</text>
+            <answer>о ком</answer>
+        </question>
+        <question>
+            <text>ինչի մասին</text>
+            <answer>о чем</answer>
+        </question>
+        <question>
+            <text>ազատ</text>
+            <answer>свободный</answer>
+        </question>
+        <question>
+            <text>լսել</text>
+            <answer>слушать</answer>
+        </question>
+        <question>
+            <text>հիշել</text>
+            <answer>помнить</answer>
+        </question>
+        <question>
+            <text>նայել</text>
+            <answer>смотреть</answer>
+        </question>
+        <question>
+            <text>սկսել</text>
+            <answer>начинать</answer>
+        </question>
+        <question>
+            <text>պատմել</text>
+            <answer>рассказывать</answer>
         </question>
     </questions>
 </questionary>
