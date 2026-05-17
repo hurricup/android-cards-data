@@ -1788,16 +1788,20 @@
             <answer>спать</answer>
         </question>
         <question>
-            <text>նրա/իր/իրա</text>
-            <answer>его</answer>
+            <text>նրա</text>
+            <answer>его/ее (чей)</answer>
+        </question>
+        <question>
+            <text>իր</text>
+            <answer>его/ее (чей)</answer>
+        </question>
+        <question>
+            <text>իրա</text>
+            <answer>его/ее (чей)</answer>
         </question>
         <question>
             <text>ձեր</text>
             <answer>ваш</answer>
-        </question>
-        <question>
-            <text>նրանց/իրենց/իրանց</text>
-            <answer>их (ихний)</answer>
         </question>
         <question>
             <text>այնտեղ</text>
@@ -2172,10 +2176,6 @@
             <answer>не водить (не ездить)</answer>
         </question>
         <question>
-            <text>խոսել</text>
-            <answer>говорить</answer>
-        </question>
-        <question>
             <text>փորձել</text>
             <answer>пробовать</answer>
         </question>
@@ -2237,15 +2237,15 @@
         </question>
         <question>
             <text>ինչ</text>
-            <answer>что</answer>
+            <answer>что (какой в общих вопросах)</answer>
         </question>
         <question>
             <text>ով</text>
-            <answer>кто</answer>
+            <answer>кто (читается օվ, исключение)</answer>
         </question>
         <question>
             <text>ովքեր</text>
-            <answer>кты (мн. число кто)</answer>
+            <answer>кты (мн. число кто, читается օվքեր, исключение)</answer>
         </question>
         <question>
             <text>երբ</text>
@@ -2305,7 +2305,7 @@
         </question>
         <question>
             <text>որ</text>
-            <answer>какой/который</answer>
+            <answer>какой/который (какой конкретно)</answer>
         </question>
         <question>
             <text>ում մասին</text>
@@ -2338,6 +2338,290 @@
         <question>
             <text>պատմել</text>
             <answer>рассказывать</answer>
+        </question>
+        <question>
+            <text>հեշտ</text>
+            <answer>легкий (простой)</answer>
+        </question>
+        <question>
+            <text>դժվար</text>
+            <answer>трудный/сложный</answer>
+        </question>
+        <question>
+            <text>թանկ</text>
+            <answer>дорогой</answer>
+        </question>
+        <question>
+            <text>էժան</text>
+            <answer>дешевый</answer>
+        </question>
+        <question>
+            <text>խելացի</text>
+            <answer>умный</answer>
+        </question>
+        <question>
+            <text>հիմար</text>
+            <answer>глупый</answer>
+        </question>
+        <question>
+            <text>դեբիլ</text>
+            <answer>глупый</answer>
+        </question>
+        <question>
+            <text>նուրբ</text>
+            <answer>нежный, хрупкий</answer>
+        </question>
+        <question>
+            <text>կոպիտ</text>
+            <answer>грубый</answer>
+        </question>
+        <question>
+            <text>հարց</text>
+            <answer>вопрос</answer>
+        </question>
+        <question>
+            <text>պատասխան</text>
+            <answer>ответ</answer>
+        </question>
+        <question>
+            <text>հարցնել</text>
+            <answer>спрашивать</answer>
+        </question>
+        <question>
+            <text>պատասխանել</text>
+            <answer>отвечать</answer>
+        </question>
+        <question>
+            <text>մոռանալ</text>
+            <answer>забывать</answer>
+        </question>
+        <question>
+            <text>ասել</text>
+            <answer>сказать to say</answer>
+        </question>
+        <question>
+            <text>խոսել</text>
+            <answer>говорить to speak, to talk</answer>
+        </question>
+        <question>
+            <text>լսել</text>
+            <answer>слышать/слушать</answer>
+        </question>
+        <question>
+            <text>ես գնում եմ խմելու</text>
+            <answer>я иду (чтобы) пить</answer>
+        </question>
+        <question>
+            <text>ես գնում եմ տակսօվ</text>
+            <answer>я еду на такси</answer>
+        </question>
+        <question>
+            <text>ելակի</text>
+            <answer>из клубники (клубничный)</answer>
+        </question>
+        <question>
+            <text>ելակով</text>
+            <answer>с клубникой</answer>
+        </question>
+        <question>
+            <text>ինձ</text>
+            <answer>мне, меня</answer>
+        </question>
+        <question>
+            <text>քեզ</text>
+            <answer>тебе, тебя</answer>
+        </question>
+        <question>
+            <text>նրան</text>
+            <answer>ему/ей, её/его</answer>
+        </question>
+        <question>
+            <text>իրեն</text>
+            <answer>ему/ей, её/его</answer>
+        </question>
+        <question>
+            <text>իրան</text>
+            <answer>ему/ей, её/его</answer>
+        </question>
+        <question>
+            <text>մեզ</text>
+            <answer>нам, нас</answer>
+        </question>
+        <question>
+            <text>ձեզ</text>
+            <answer>вам, вас</answer>
+        </question>
+        <question>
+            <text>նրանց</text>
+            <answer>им, их, ихний</answer>
+        </question>
+        <question>
+            <text>իրենց</text>
+            <answer>им, их, ихний</answer>
+        </question>
+        <question>
+            <text>իրանց</text>
+            <answer>им, их, ихний</answer>
+        </question>
+        <question>
+            <text>իմն ա</text>
+            <answer>это мой</answer>
+        </question>
+        <question>
+            <text>քոնն ա</text>
+            <answer>это твой</answer>
+        </question>
+        <question>
+            <text>իրենն ա</text>
+            <answer>это их</answer>
+        </question>
+        <question>
+            <text>մերն ա</text>
+            <answer>это наш</answer>
+        </question>
+        <question>
+            <text>ձերն ա</text>
+            <answer>это ваш</answer>
+        </question>
+        <question>
+            <text>իրանցն ա</text>
+            <answer>это их (мн. число)</answer>
+        </question>
+        <question>
+            <text>չսիրել</text>
+            <answer>не любить</answer>
+        </question>
+        <question>
+            <text>չապրել</text>
+            <answer>не жить</answer>
+        </question>
+        <question>
+            <text>չգնել</text>
+            <answer>не покупать</answer>
+        </question>
+        <question>
+            <text>ես սիրել եմ</text>
+            <answer>я любил</answer>
+        </question>
+        <question>
+            <text>ես գնել եմ</text>
+            <answer>я покупал</answer>
+        </question>
+        <question>
+            <text>կարդալ</text>
+            <answer>читать</answer>
+        </question>
+        <question>
+            <text>լողալ</text>
+            <answer>плавать</answer>
+        </question>
+        <question>
+            <text>սա գրիչ ե</text>
+            <answer>это ручка (видим ее сейчас)</answer>
+        </question>
+        <question>
+            <text>դա տուն ե</text>
+            <answer>это ручка (не видим или оцениваем)</answer>
+        </question>
+        <question>
+            <text>այս գրիչը վատ ե</text>
+            <answer>эта ручка плохая (видим ее сейчас)</answer>
+        </question>
+        <question>
+            <text>այդ գրիչը վատ ե</text>
+            <answer>эта ручка плохая (не видим. та ручка)</answer>
+        </question>
+        <question>
+            <text>այն գրիչը վատ ե</text>
+            <answer>эта ручка плохая (сильно далекое, сложносочиненные предложения)</answer>
+        </question>
+        <question>
+            <text>էս գրիչ ե</text>
+            <answer>это ручка (видим ее сейчас)</answer>
+        </question>
+        <question>
+            <text>էդ տուն ե</text>
+            <answer>это ручка (не видим или оцениваем)</answer>
+        </question>
+        <question>
+            <text>էս գրիչը վատ ե</text>
+            <answer>эта ручка плохая (видим ее сейчас)</answer>
+        </question>
+        <question>
+            <text>էդ գրիչը վատ ե</text>
+            <answer>эта ручка плохая (не видим. та ручка)</answer>
+        </question>
+        <question>
+            <text>էն գրիչը վատ ե</text>
+            <answer>эта ручка плохая (сильно далекое, сложносочиненные предложения)</answer>
+        </question>
+        <question>
+            <text>ես չեմ ուզում</text>
+            <answer>я не хочу</answer>
+        </question>
+        <question>
+            <text>ես գնում եմ Երևան</text>
+            <answer>я еду в ереван</answer>
+        </question>
+        <question>
+            <text>ով է այստեղ</text>
+            <answer>кто здесь</answer>
+        </question>
+        <question>
+            <text>այդ մասին</text>
+            <answer>об этом</answer>
+        </question>
+        <question>
+            <text>դրա մասին</text>
+            <answer>об этом</answer>
+        </question>
+        <question>
+            <text>երաժշտություն</text>
+            <answer>музыка</answer>
+        </question>
+        <question>
+            <text>երգ</text>
+            <answer>песня</answer>
+        </question>
+        <question>
+            <text>դասական</text>
+            <answer>классический</answer>
+        </question>
+        <question>
+            <text>վոչ մի բան</text>
+            <answer>без ничего (неформальное)</answer>
+        </question>
+        <question>
+            <text>ահավոր ա</text>
+            <answer>ужасно</answer>
+        </question>
+        <question>
+            <text>արավոտյան</text>
+            <answer>утром</answer>
+        </question>
+        <question>
+            <text>ցերեկի</text>
+            <answer>днем (до+вечера)</answer>
+        </question>
+        <question>
+            <text>երեկօյան</text>
+            <answer>вечером</answer>
+        </question>
+        <question>
+            <text>գիշերը</text>
+            <answer>ночью</answer>
+        </question>
+        <question>
+            <text>խնդիր</text>
+            <answer>проблема</answer>
+        </question>
+        <question>
+            <text>ոչ ոք</text>
+            <answer>никто</answer>
+        </question>
+        <question>
+            <text>քայլել</text>
+            <answer>ходить/гулять</answer>
         </question>
     </questions>
 </questionary>
