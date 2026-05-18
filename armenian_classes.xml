@@ -1780,10 +1780,6 @@
             <answer>пить</answer>
         </question>
         <question>
-            <text>որովհետև</text>
-            <answer>потому что</answer>
-        </question>
-        <question>
             <text>քնել</text>
             <answer>спать</answer>
         </question>
@@ -1992,11 +1988,11 @@
             <answer>о Москве (послелог, род падеж)</answer>
         </question>
         <question>
-            <text>Երևանի համիր</text>
+            <text>Երևանի համար</text>
             <answer>для Еревана (послелог, род падеж)</answer>
         </question>
         <question>
-            <text>Մոսկվայի համիր</text>
+            <text>Մոսկվայի համար</text>
             <answer>для Москвы (послелог, род падеж)</answer>
         </question>
         <question>
