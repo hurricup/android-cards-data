@@ -2615,5 +2615,97 @@
             <text>քայլել</text>
             <answer>ходить/гулять</answer>
         </question>
+        <question>
+            <text>աշակերտ</text>
+            <answer>ученик</answer>
+        </question>
+        <question>
+            <text>կարևոր</text>
+            <answer>важный</answer>
+        </question>
+        <question>
+            <text>կարևոր</text>
+            <answer>мочь</answer>
+        </question>
+        <question>
+            <text>ամեն ինչ</text>
+            <answer>все</answer>
+        </question>
+        <question>
+            <text>ավելի սիրուն</text>
+            <answer>более красивый</answer>
+        </question>
+        <question>
+            <text>ավելի մեծ</text>
+            <answer>более большой (размер), больший</answer>
+        </question>
+        <question>
+            <text>ավելի թոքր</text>
+            <answer>более маленький (размер), меньший</answer>
+        </question>
+        <question>
+            <text>քան</text>
+            <answer>чем (в сравнении, больше чем)</answer>
+        </question>
+        <question>
+            <text>ավելի մեծ քան</text>
+            <answer>больше чем</answer>
+        </question>
+        <question>
+            <text>ավելի թոքր քան</text>
+            <answer>меньше чем</answer>
+        </question>
+        <question>
+            <text>ամենահամով</text>
+            <answer>самый вкусный</answer>
+        </question>
+        <question>
+            <text>ամենամեծ</text>
+            <answer>самый большой</answer>
+        </question>
+        <question>
+            <text>ամենաթոքր</text>
+            <answer>самый маленький</answer>
+        </question>
+        <question>
+            <text>ամենալավ</text>
+            <answer>лучший (преф. форма)</answer>
+        </question>
+        <question>
+            <text>ամենավատ</text>
+            <answer>худший</answer>
+        </question>
+        <question>
+            <text>լավագույն</text>
+            <answer>лучший (суфф. форма)</answer>
+        </question>
+        <question>
+            <text>առնել</text>
+            <answer>покупать/брать</answer>
+        </question>
+        <question>
+            <text>հեծանիվ</text>
+            <answer>велосипед</answer>
+        </question>
+        <question>
+            <text>մեքենա</text>
+            <answer>машина (любой механизм)</answer>
+        </question>
+        <question>
+            <text>ավտո</text>
+            <answer>автомобиль</answer>
+        </question>
+        <question>
+            <text>ավտոմեքենա</text>
+            <answer>автомобиль</answer>
+        </question>
+        <question>
+            <text>առանց ինչի</text>
+            <answer>без чего</answer>
+        </question>
+        <question>
+            <text>արանց ում</text>
+            <answer>без кого</answer>
+        </question>
     </questions>
 </questionary>
