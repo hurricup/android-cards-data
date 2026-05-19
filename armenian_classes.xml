@@ -1813,7 +1813,7 @@
         </question>
         <question>
             <text>ավելի շատ</text>
-            <answer>больше</answer>
+            <answer>более много, больше</answer>
         </question>
         <question>
             <text>սա</text>
@@ -2068,10 +2068,6 @@
             <answer>проспект</answer>
         </question>
         <question>
-            <text>քաղաք</text>
-            <answer>город</answer>
-        </question>
-        <question>
             <text>գյուղ</text>
             <answer>деревня</answer>
         </question>
@@ -2189,7 +2185,7 @@
         </question>
         <question>
             <text>ինքը աշխատել ը</text>
-            <answer>он работали, заверш. время</answer>
+            <answer>он работал, заверш. время</answer>
         </question>
         <question>
             <text>մենք ուզել ենք</text>
