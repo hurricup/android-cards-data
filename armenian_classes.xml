@@ -2707,5 +2707,17 @@
             <text>արանց ում</text>
             <answer>без кого</answer>
         </question>
+        <question>
+            <text>ավելի քիչ</text>
+            <answer>меньше</answer>
+        </question>
+        <question>
+            <text>ո՞ր քաղաքն է ամենամեծ</text>
+            <answer>какой город самый большой</answer>
+        </question>
+        <question>
+            <text>ամենաշատը</text>
+            <answer>больше всего</answer>
+        </question>
     </questions>
 </questionary>
