@@ -2108,27 +2108,27 @@
             <answer>ихнее</answer>
         </question>
         <question>
-            <text>իմը չի</text>
+            <text>ի՛մը չի</text>
             <answer>не мое</answer>
         </question>
         <question>
-            <text>քոնե չի</text>
+            <text>քո՛նե չի</text>
             <answer>не твое</answer>
         </question>
         <question>
-            <text>իրենը չի</text>
+            <text>իրե՛նը չի</text>
             <answer>не его</answer>
         </question>
         <question>
-            <text>մերը չի</text>
+            <text>մե՛րը չի</text>
             <answer>не наше</answer>
         </question>
         <question>
-            <text>ձերը չի</text>
+            <text>ձե՛րը չի</text>
             <answer>не ваше</answer>
         </question>
         <question>
-            <text>իրենցը չի</text>
+            <text>իրե՛նցը չի</text>
             <answer>не их</answer>
         </question>
         <question>
@@ -2516,15 +2516,15 @@
             <answer>это ручка (не видим или оцениваем)</answer>
         </question>
         <question>
-            <text>այս գրիչը վատ ե</text>
+            <text>այս գրի՛չը վատ ե</text>
             <answer>эта ручка плохая (видим ее сейчас)</answer>
         </question>
         <question>
-            <text>այդ գրիչը վատ ե</text>
+            <text>այդ գրի՛չը վատ ե</text>
             <answer>эта ручка плохая (не видим. та ручка)</answer>
         </question>
         <question>
-            <text>այն գրիչը վատ ե</text>
+            <text>այն գրի՛չը վատ ե</text>
             <answer>эта ручка плохая (сильно далекое, сложносочиненные предложения)</answer>
         </question>
         <question>
@@ -2536,15 +2536,15 @@
             <answer>это ручка (не видим или оцениваем)</answer>
         </question>
         <question>
-            <text>էս գրիչը վատ ե</text>
+            <text>էս գրի՛չը վատ ե</text>
             <answer>эта ручка плохая (видим ее сейчас)</answer>
         </question>
         <question>
-            <text>էդ գրիչը վատ ե</text>
+            <text>էդ գրի՛չը վատ ե</text>
             <answer>эта ручка плохая (не видим. та ручка)</answer>
         </question>
         <question>
-            <text>էն գրիչը վատ ե</text>
+            <text>էն գրի՛չը վատ ե</text>
             <answer>эта ручка плохая (сильно далекое, сложносочиненные предложения)</answer>
         </question>
         <question>
@@ -2600,7 +2600,7 @@
             <answer>вечером</answer>
         </question>
         <question>
-            <text>գիշերը</text>
+            <text>գիշե՛րը</text>
             <answer>ночью</answer>
         </question>
         <question>
@@ -2716,8 +2716,24 @@
             <answer>какой город самый большой</answer>
         </question>
         <question>
-            <text>ամենաշատը</text>
+            <text>ամենաշա՛տը</text>
             <answer>больше всего</answer>
+        </question>
+        <question>
+            <text>ի՞նչ է քո անո՛ւնը</text>
+            <answer>как тебя зовут (как твое имя)</answer>
+        </question>
+        <question>
+            <text>անո՛ւնը</text>
+            <answer>имя</answer>
+        </question>
+        <question>
+            <text>ես Սաշան եմ</text>
+            <answer>я Саша</answer>
+        </question>
+        <question>
+            <text>իմ անո՛ւնը Սաշա է</text>
+            <answer>мое имя Саша</answer>
         </question>
     </questions>
 </questionary>
