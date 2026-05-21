@@ -2811,5 +2811,33 @@
             <text>նայեք</text>
             <answer>смотрите</answer>
         </question>
+        <question>
+            <text>կարող</text>
+            <answer>мочь</answer>
+        </question>
+        <question>
+            <text>կարող եմ</text>
+            <answer>могу</answer>
+        </question>
+        <question>
+            <text>կարող ես</text>
+            <answer>можешь</answer>
+        </question>
+        <question>
+            <text>կարող է</text>
+            <answer>[он/она] может</answer>
+        </question>
+        <question>
+            <text>չեմ կարող</text>
+            <answer>не могу</answer>
+        </question>
+        <question>
+            <text>չես կարող</text>
+            <answer>не можешь</answer>
+        </question>
+        <question>
+            <text>չի կարող</text>
+            <answer>не может</answer>
+        </question>
     </questions>
 </questionary>
