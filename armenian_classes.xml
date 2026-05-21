@@ -2735,5 +2735,81 @@
             <text>իմ անո՛ւնը Սաշա է</text>
             <answer>мое имя Саша</answer>
         </question>
+        <question>
+            <text>պատմիր</text>
+            <answer>расскажи</answer>
+        </question>
+        <question>
+            <text>պատմեք</text>
+            <answer>расскажите</answer>
+        </question>
+        <question>
+            <text>լսիր</text>
+            <answer>послушай</answer>
+        </question>
+        <question>
+            <text>լսեք</text>
+            <answer>послушайте</answer>
+        </question>
+        <question>
+            <text>տալ</text>
+            <answer>давать</answer>
+        </question>
+        <question>
+            <text>տուր</text>
+            <answer>дай</answer>
+        </question>
+        <question>
+            <text>տվեք</text>
+            <answer>дайте</answer>
+        </question>
+        <question>
+            <text>վերցնել</text>
+            <answer>брать</answer>
+        </question>
+        <question>
+            <text>վերցրու</text>
+            <answer>возьми</answer>
+        </question>
+        <question>
+            <text>վերցրեք</text>
+            <answer>возьмите</answer>
+        </question>
+        <question>
+            <text>բացիր</text>
+            <answer>открой</answer>
+        </question>
+        <question>
+            <text>բացեք</text>
+            <answer>откройте</answer>
+        </question>
+        <question>
+            <text>փակիր</text>
+            <answer>закрой</answer>
+        </question>
+        <question>
+            <text>փակել</text>
+            <answer>закройте</answer>
+        </question>
+        <question>
+            <text>ցույց տալ</text>
+            <answer>показывать</answer>
+        </question>
+        <question>
+            <text>ցույց տուր</text>
+            <answer>покажи</answer>
+        </question>
+        <question>
+            <text>ցույց տվեք</text>
+            <answer>покажите</answer>
+        </question>
+        <question>
+            <text>նայիր</text>
+            <answer>смотри</answer>
+        </question>
+        <question>
+            <text>նայեք</text>
+            <answer>смотрите</answer>
+        </question>
     </questions>
 </questionary>
