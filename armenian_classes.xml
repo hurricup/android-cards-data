@@ -2839,5 +2839,17 @@
             <text>չի կարող</text>
             <answer>не может</answer>
         </question>
+        <question>
+            <text>մոտ</text>
+            <answer>рядом, у (послелог)</answer>
+        </question>
+        <question>
+            <text>տունի մոտ</text>
+            <answer>рядом с домом</answer>
+        </question>
+        <question>
+            <text>կենտրոնի մոտ</text>
+            <answer>рядом с центром</answer>
+        </question>
     </questions>
 </questionary>
