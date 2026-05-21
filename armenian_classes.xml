@@ -2851,5 +2851,13 @@
             <text>կենտրոնի մոտ</text>
             <answer>рядом с центром</answer>
         </question>
+        <question>
+            <text>կարծել</text>
+            <answer>думать, считать</answer>
+        </question>
+        <question>
+            <text>ես կարծում եմ</text>
+            <answer>я думаю</answer>
+        </question>
     </questions>
 </questionary>
