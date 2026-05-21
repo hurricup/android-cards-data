@@ -1124,6 +1124,14 @@
             <answer>часто</answer>
         </question>
         <question>
+            <text>ավելի հաճախ</text>
+            <answer>чаще</answer>
+        </question>
+        <question>
+            <text>ամենահաճախ</text>
+            <answer>чаще всего</answer>
+        </question>
+        <question>
             <text>կռունկ</text>
             <answer>журавль</answer>
         </question>
