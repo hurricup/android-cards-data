@@ -352,7 +352,11 @@
             <answer>вы ... есть</answer>
         </question>
         <question>
-            <text>Նրանք / իրենք … են</text>
+            <text>Նրանք … են</text>
+            <answer>они ... есть</answer>
+        </question>
+        <question>
+            <text>Իրենք … են</text>
             <answer>они ... есть</answer>
         </question>
         <question>
@@ -1332,7 +1336,11 @@
             <answer>вы ... не есть</answer>
         </question>
         <question>
-            <text>Նրանք / իրենք ... չեն</text>
+            <text>Նրանք ... չեն</text>
+            <answer>они ... не есть</answer>
+        </question>
+        <question>
+            <text>Իրենք ... չեն</text>
             <answer>они ... не есть</answer>
         </question>
         <question>
@@ -2524,15 +2532,15 @@
             <answer>это ручка (не видим или оцениваем)</answer>
         </question>
         <question>
-            <text>այս գրի՛չը վատ ե</text>
+            <text>այս գրի՛չը վատ է</text>
             <answer>эта ручка плохая (видим ее сейчас)</answer>
         </question>
         <question>
-            <text>այդ գրի՛չը վատ ե</text>
+            <text>այդ գրի՛չը վատ է</text>
             <answer>эта ручка плохая (не видим. та ручка)</answer>
         </question>
         <question>
-            <text>այն գրի՛չը վատ ե</text>
+            <text>այն գրի՛չը վատ է</text>
             <answer>эта ручка плохая (сильно далекое, сложносочиненные предложения)</answer>
         </question>
         <question>
@@ -2544,15 +2552,15 @@
             <answer>это ручка (не видим или оцениваем)</answer>
         </question>
         <question>
-            <text>էս գրի՛չը վատ ե</text>
+            <text>էս գրի՛չը վատ է</text>
             <answer>эта ручка плохая (видим ее сейчас)</answer>
         </question>
         <question>
-            <text>էդ գրի՛չը վատ ե</text>
+            <text>էդ գրի՛չը վատ է</text>
             <answer>эта ручка плохая (не видим. та ручка)</answer>
         </question>
         <question>
-            <text>էն գրի՛չը վատ ե</text>
+            <text>էն գրի՛չը վատ է</text>
             <answer>эта ручка плохая (сильно далекое, сложносочиненные предложения)</answer>
         </question>
         <question>
