@@ -2875,5 +2875,37 @@
             <text>ես կարծում եմ</text>
             <answer>я думаю</answer>
         </question>
+        <question>
+            <text>հասկանալ</text>
+            <answer>понимать</answer>
+        </question>
+        <question>
+            <text>պատրաստել</text>
+            <answer>готовить</answer>
+        </question>
+        <question>
+            <text>սարքել</text>
+            <answer>готовить</answer>
+        </question>
+        <question>
+            <text>պատրաստվել</text>
+            <answer>готовиться, собираться</answer>
+        </question>
+        <question>
+            <text>սարքել</text>
+            <answer>чинить, строить</answer>
+        </question>
+        <question>
+            <text>սկսել դասը</text>
+            <answer>начинать</answer>
+        </question>
+        <question>
+            <text>վերջ</text>
+            <answer>конец</answer>
+        </question>
+        <question>
+            <text>վերջացնել</text>
+            <answer>заканчивать</answer>
+        </question>
     </questions>
 </questionary>
