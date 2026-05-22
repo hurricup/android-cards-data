@@ -589,7 +589,7 @@
         </question>
         <question>
             <text>Ուշ լինի նուշ լինի</text>
-            <answer>долго но сладко. (тише едешь дальше будешь)</answer>
+            <answer>поздно но сладко. (тише едешь дальше будешь)</answer>
         </question>
         <question>
             <text>Սարի ուսին սիրուն լուսին</text>
@@ -2906,6 +2906,78 @@
         <question>
             <text>վերջացնել</text>
             <answer>заканчивать</answer>
+        </question>
+        <question>
+            <text>բնակարան</text>
+            <answer>квартира</answer>
+        </question>
+        <question>
+            <text>ուշ</text>
+            <answer>поздно</answer>
+        </question>
+        <question>
+            <text>շուտ</text>
+            <answer>рано</answer>
+        </question>
+        <question>
+            <text>արթնանալ</text>
+            <answer>просыпаться</answer>
+        </question>
+        <question>
+            <text>ինձ համար</text>
+            <answer>для меня</answer>
+        </question>
+        <question>
+            <text>ինձ մասին</text>
+            <answer>обо мне</answer>
+        </question>
+        <question>
+            <text>ինձ հետ</text>
+            <answer>со мной</answer>
+        </question>
+        <question>
+            <text>առաննց ինձ</text>
+            <answer>без меня</answer>
+        </question>
+        <question>
+            <text>վարձ</text>
+            <answer>аренда</answer>
+        </question>
+        <question>
+            <text>հակարա՛կը</text>
+            <answer>наоборот</answer>
+        </question>
+        <question>
+            <text>քիչ</text>
+            <answer>мало (антоним շատ)</answer>
+        </question>
+        <question>
+            <text>օգտագործել</text>
+            <answer>использовать</answer>
+        </question>
+        <question>
+            <text>շատ քիչ</text>
+            <answer>очень мало</answer>
+        </question>
+        <question>
+            <text>սիրած</text>
+            <answer>любимый</answer>
+        </question>
+        <question>
+            <text>ամենասիրած</text>
+            <answer>самый любимый</answer>
+        </question>
+        <question>
+            <text>ուտելի՛քը</text>
+            <answer>еда</answer>
+        </question>
+        <question>
+            <text>քաղցրավենիք</text>
+            <answer>сладость</answer>
+        </question>
+        <question>
+            <text>թխվածք</text>
+            <answer>выпечка (или кусок торта)</answer>
         </question>
     </questions>
 </questionary>
