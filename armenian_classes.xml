@@ -2979,5 +2979,13 @@
             <text>թխվածք</text>
             <answer>выпечка (или кусок торта)</answer>
         </question>
+        <question>
+            <text>Ես սիրում եմ Կարենին</text>
+            <answer>я люблю Карена</answer>
+        </question>
+        <question>
+            <text>Ես զանգում եմ Կարենին</text>
+            <answer>я звоню Карену</answer>
+        </question>
     </questions>
 </questionary>
