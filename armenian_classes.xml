@@ -2064,7 +2064,7 @@
             <answer>свеча</answer>
         </question>
         <question>
-            <text>իհարկե</text>
+            <text>իհա՛րկե</text>
             <answer>конечно</answer>
         </question>
         <question>
@@ -2640,10 +2640,6 @@
             <answer>важный</answer>
         </question>
         <question>
-            <text>կարևոր</text>
-            <answer>мочь</answer>
-        </question>
-        <question>
             <text>ամեն ինչ</text>
             <answer>все</answer>
         </question>
@@ -2986,6 +2982,10 @@
         <question>
             <text>Ես զանգում եմ Կարենին</text>
             <answer>я звоню Карену</answer>
+        </question>
+        <question>
+            <text>նտածել</text>
+            <answer>думать, размышлять</answer>
         </question>
     </questions>
 </questionary>
