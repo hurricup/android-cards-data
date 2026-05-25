@@ -2520,12 +2520,12 @@
             <answer>плавать</answer>
         </question>
         <question>
-            <text>սա գրիչ ե</text>
+            <text>սա գրիչ է</text>
             <answer>это ручка (видим ее сейчас)</answer>
         </question>
         <question>
-            <text>դա տուն ե</text>
-            <answer>это ручка (не видим или оцениваем)</answer>
+            <text>դա տուն է</text>
+            <answer>это дом (не видим или оцениваем)</answer>
         </question>
         <question>
             <text>այս գրի՛չը վատ է</text>
@@ -2540,11 +2540,11 @@
             <answer>эта ручка плохая (сильно далекое, сложносочиненные предложения)</answer>
         </question>
         <question>
-            <text>էս գրիչ ե</text>
+            <text>էս գրիչ է</text>
             <answer>это ручка (видим ее сейчас)</answer>
         </question>
         <question>
-            <text>էդ տուն ե</text>
+            <text>էդ տուն է</text>
             <answer>это ручка (не видим или оцениваем)</answer>
         </question>
         <question>
