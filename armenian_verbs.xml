@@ -203,51 +203,5 @@
             <text>արթնանալ</text>
             <answer>просыпаться</answer>
         </question>
-        <!-- Negations, could be automated -->
-        <question>
-            <text>չաշխատել</text>
-            <answer>не работать</answer>
-        </question>
-        <question>
-            <text>չուտել</text>
-            <answer>не есть</answer>
-        </question>
-        <question>
-            <text>չանել</text>
-            <answer>не делать</answer>
-        </question>
-        <question>
-            <text>չսիրել</text>
-            <answer>не любить</answer>
-        </question>
-        <question>
-            <text>չթափել</text>
-            <answer>не лить</answer>
-        </question>
-        <question>
-            <text>չկանգել</text>
-            <answer>не останавливаться</answer>
-        </question>
-        <question>
-            <text>չկայանել</text>
-            <answer>не парковаться</answer>
-        </question>
-        <question>
-            <text>չքշել</text>
-            <answer>не водить (не ездить)</answer>
-        </question>
-        <question>
-            <text>չսիրել</text>
-            <answer>не любить</answer>
-        </question>
-        <question>
-            <text>չապրել</text>
-            <answer>не жить</answer>
-        </question>
-        <question>
-            <text>չգնել</text>
-            <answer>не покупать</answer>
-        </question>
-
     </questions>
 </questionary>
