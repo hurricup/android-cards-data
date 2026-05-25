@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questionary>
+    <id>Армянские глаголы</id>
+    <title>Глаголы (арм.)</title>
+    <questions>
+        <question>
+            <text>փորձել</text>
+            <answer>пробовать</answer>
+        </question>
+        <question>
+            <text>կանգել</text>
+            <answer>останавливаться</answer>
+        </question>
+        <question>
+            <text>ուզել</text>
+            <answer>хотеть</answer>
+        </question>
+        <question>
+            <text>վազել</text>
+            <answer>бежать</answer>
+        </question>
+        <question>
+            <text>սիրել</text>
+            <answer>любить</answer>
+        </question>
+        <question>
+            <text>աշխատել</text>
+            <answer>работать</answer>
+        </question>
+        <question>
+            <text>գնալ</text>
+            <answer>идти</answer>
+        </question>
+        <question>
+            <text>ուտել</text>
+            <answer>есть (кушать)</answer>
+        </question>
+        <question>
+            <text>խմել</text>
+            <answer>пить</answer>
+        </question>
+        <question>
+            <text>քնել</text>
+            <answer>спать</answer>
+        </question>
+        <question>
+            <text>գնել</text>
+            <answer>покупать</answer>
+        </question>
+        <question>
+            <text>պարել</text>
+            <answer>танцевать</answer>
+        </question>
+        <question>
+            <text>անել</text>
+            <answer>делать</answer>
+        </question>
+        <question>
+            <text>վաճառել</text>
+            <answer>продать</answer>
+        </question>
+        <question>
+            <text>բացել</text>
+            <answer>открывать</answer>
+        </question>
+        <question>
+            <text>սպասել</text>
+            <answer>ждать</answer>
+        </question>
+        <question>
+            <text>լսել</text>
+            <answer>слушать</answer>
+        </question>
+        <question>
+            <text>հիշել</text>
+            <answer>помнить</answer>
+        </question>
+        <question>
+            <text>նայել</text>
+            <answer>смотреть</answer>
+        </question>
+        <question>
+            <text>սկսել</text>
+            <answer>начинать</answer>
+        </question>
+        <question>
+            <text>պատմել</text>
+            <answer>рассказывать</answer>
+        </question>
+        <question>
+            <text>հարցնել</text>
+            <answer>спрашивать</answer>
+        </question>
+        <question>
+            <text>պատասխանել</text>
+            <answer>отвечать</answer>
+        </question>
+        <question>
+            <text>մոռանալ</text>
+            <answer>забывать</answer>
+        </question>
+        <question>
+            <text>ասել</text>
+            <answer>сказать to say</answer>
+        </question>
+        <question>
+            <text>խոսել</text>
+            <answer>говорить to speak, to talk</answer>
+        </question>
+        <question>
+            <text>լսել</text>
+            <answer>слышать/слушать</answer>
+        </question>
+        <question>
+            <text>քայլել</text>
+            <answer>ходить/гулять</answer>
+        </question>
+        <question>
+            <text>առնել</text>
+            <answer>покупать/брать</answer>
+        </question>
+        <question>
+            <text>վերցնել</text>
+            <answer>брать</answer>
+        </question>
+        <question>
+            <text>կարծել</text>
+            <answer>думать, считать</answer>
+        </question>
+        <question>
+            <text>պատրաստել</text>
+            <answer>готовить</answer>
+        </question>
+        <question>
+            <text>սարքել</text>
+            <answer>готовить</answer>
+        </question>
+        <question>
+            <text>պատրաստվել</text>
+            <answer>готовиться, собираться</answer>
+        </question>
+        <question>
+            <text>սարքել</text>
+            <answer>чинить, строить</answer>
+        </question>
+        <question>
+            <text>սկսել դասը</text>
+            <answer>начинать</answer>
+        </question>
+        <question>
+            <text>վերջացնել</text>
+            <answer>заканчивать</answer>
+        </question>
+        <question>
+            <text>օգտագործել</text>
+            <answer>использовать</answer>
+        </question>
+        <question>
+            <text>նտածել</text>
+            <answer>думать, размышлять</answer>
+        </question>
+        <question>
+            <text>գրել</text>
+            <answer>писать</answer>
+        </question>
+        <question>
+            <text>զանգել</text>
+            <answer>звонить</answer>
+        </question>
+        <question>
+            <text>սիրել</text>
+            <answer>любить</answer>
+        </question>
+        <question>
+            <text>ուղարկել</text>
+            <answer>отправить, отправлять</answer>
+        </question>
+        <question>
+            <text>հանգատանալ</text>
+            <answer>отдыхать</answer>
+        </question>
+        <question>
+            <text>կարդալ</text>
+            <answer>читать</answer>
+        </question>
+        <question>
+            <text>լողալ</text>
+            <answer>плавать</answer>
+        </question>
+        <question>
+            <text>տալ</text>
+            <answer>давать</answer>
+        </question>
+        <question>
+            <text>ցույց տալ</text>
+            <answer>показывать</answer>
+        </question>
+        <question>
+            <text>հասկանալ</text>
+            <answer>понимать</answer>
+        </question>
+        <question>
+            <text>արթնանալ</text>
+            <answer>просыпаться</answer>
+        </question>
+        <!-- Negations, could be automated -->
+        <question>
+            <text>չաշխատել</text>
+            <answer>не работать</answer>
+        </question>
+        <question>
+            <text>չուտել</text>
+            <answer>не есть</answer>
+        </question>
+        <question>
+            <text>չանել</text>
+            <answer>не делать</answer>
+        </question>
+        <question>
+            <text>չսիրել</text>
+            <answer>не любить</answer>
+        </question>
+        <question>
+            <text>չթափել</text>
+            <answer>не лить</answer>
+        </question>
+        <question>
+            <text>չկանգել</text>
+            <answer>не останавливаться</answer>
+        </question>
+        <question>
+            <text>չկայանել</text>
+            <answer>не парковаться</answer>
+        </question>
+        <question>
+            <text>չքշել</text>
+            <answer>не водить (не ездить)</answer>
+        </question>
+        <question>
+            <text>չսիրել</text>
+            <answer>не любить</answer>
+        </question>
+        <question>
+            <text>չապրել</text>
+            <answer>не жить</answer>
+        </question>
+        <question>
+            <text>չգնել</text>
+            <answer>не покупать</answer>
+        </question>
+
+    </questions>
+</questionary>
