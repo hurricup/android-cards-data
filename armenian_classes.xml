@@ -2259,15 +2259,15 @@
             <answer>это дом (не видим или оцениваем)</answer>
         </question>
         <question>
-            <text>այս գրի՛չը վատ է</text>
+            <text>այս գրի՛չը վատն է</text>
             <answer>эта ручка плохая (видим ее сейчас)</answer>
         </question>
         <question>
-            <text>այդ գրի՛չը վատ է</text>
+            <text>այդ գրի՛չը վատն է</text>
             <answer>эта ручка плохая (не видим. та ручка)</answer>
         </question>
         <question>
-            <text>այն գրի՛չը վատ է</text>
+            <text>այն գրի՛չը վատն է</text>
             <answer>эта ручка плохая (сильно далекое, сложносочиненные предложения)</answer>
         </question>
         <question>
@@ -2279,15 +2279,15 @@
             <answer>это ручка (не видим или оцениваем)</answer>
         </question>
         <question>
-            <text>էս գրի՛չը վատ է</text>
+            <text>էս գրի՛չը վատն է</text>
             <answer>эта ручка плохая (видим ее сейчас)</answer>
         </question>
         <question>
-            <text>էդ գրի՛չը վատ է</text>
+            <text>էդ գրի՛չը վատն է</text>
             <answer>эта ручка плохая (не видим. та ручка)</answer>
         </question>
         <question>
-            <text>էն գրի՛չը վատ է</text>
+            <text>էն գրի՛չը վատն է</text>
             <answer>эта ручка плохая (сильно далекое, сложносочиненные предложения)</answer>
         </question>
         <question>
