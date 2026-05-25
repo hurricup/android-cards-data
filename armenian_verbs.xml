@@ -144,10 +144,6 @@
             <answer>чинить, строить</answer>
         </question>
         <question>
-            <text>սկսել դասը</text>
-            <answer>начинать</answer>
-        </question>
-        <question>
             <text>վերջացնել</text>
             <answer>заканчивать</answer>
         </question>
@@ -176,7 +172,7 @@
             <answer>отправить, отправлять</answer>
         </question>
         <question>
-            <text>հանգատանալ</text>
+            <text>հանգստանալ</text>
             <answer>отдыхать</answer>
         </question>
         <question>
