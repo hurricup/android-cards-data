@@ -319,34 +319,6 @@
             <answer>дать пакет?</answer>
         </question>
         <question>
-            <text>Ես … եմ</text>
-            <answer>я ... есть</answer>
-        </question>
-        <question>
-            <text>Դու … ես</text>
-            <answer>ты ... есть</answer>
-        </question>
-        <question>
-            <text>Ինքը … է/ա*</text>
-            <answer>он(а) ... есть</answer>
-        </question>
-        <question>
-            <text>Մենք … ենք</text>
-            <answer>мы ... есть</answer>
-        </question>
-        <question>
-            <text>Դուք … եք</text>
-            <answer>вы ... есть</answer>
-        </question>
-        <question>
-            <text>Նրանք … են</text>
-            <answer>они ... есть</answer>
-        </question>
-        <question>
-            <text>Իրենք … են</text>
-            <answer>они ... есть</answer>
-        </question>
-        <question>
             <text>ես հայ եմ</text>
             <answer>Я армянин.</answer>
         </question>
@@ -749,10 +721,6 @@
         <question>
             <text>թանկ</text>
             <answer>дорогой</answer>
-        </question>
-        <question>
-            <text>իմ</text>
-            <answer>мой</answer>
         </question>
         <question>
             <text>ախպեր</text>
@@ -1427,10 +1395,6 @@
             <answer>бассейн</answer>
         </question>
         <question>
-            <text>քո</text>
-            <answer>твой</answer>
-        </question>
-        <question>
             <text>ինչպե՞ս է քո օ՛րը</text>
             <answer>как твой день?</answer>
         </question>
@@ -1741,22 +1705,6 @@
         <question>
             <text>արագ</text>
             <answer>быстрый</answer>
-        </question>
-        <question>
-            <text>նրա</text>
-            <answer>его/ее (чей)</answer>
-        </question>
-        <question>
-            <text>իր</text>
-            <answer>его/ее (чей)</answer>
-        </question>
-        <question>
-            <text>իրա</text>
-            <answer>его/ее (чей)</answer>
-        </question>
-        <question>
-            <text>ձեր</text>
-            <answer>ваш</answer>
         </question>
         <question>
             <text>այնտեղ</text>
@@ -2177,70 +2125,6 @@
         <question>
             <text>ելակով</text>
             <answer>с клубникой</answer>
-        </question>
-        <question>
-            <text>ինձ</text>
-            <answer>мне, меня</answer>
-        </question>
-        <question>
-            <text>քեզ</text>
-            <answer>тебе, тебя</answer>
-        </question>
-        <question>
-            <text>նրան</text>
-            <answer>ему/ей, её/его</answer>
-        </question>
-        <question>
-            <text>իրեն</text>
-            <answer>ему/ей, её/его</answer>
-        </question>
-        <question>
-            <text>իրան</text>
-            <answer>ему/ей, её/его</answer>
-        </question>
-        <question>
-            <text>մեզ</text>
-            <answer>нам, нас</answer>
-        </question>
-        <question>
-            <text>ձեզ</text>
-            <answer>вам, вас</answer>
-        </question>
-        <question>
-            <text>նրանց</text>
-            <answer>им, их, ихний</answer>
-        </question>
-        <question>
-            <text>իրենց</text>
-            <answer>им, их, ихний</answer>
-        </question>
-        <question>
-            <text>իրանց</text>
-            <answer>им, их, ихний</answer>
-        </question>
-        <question>
-            <text>իմն ա</text>
-            <answer>это мой</answer>
-        </question>
-        <question>
-            <text>քոնն ա</text>
-            <answer>это твой</answer>
-        </question>
-        <question>
-            <text>իրենն ա</text>
-            <answer>это их</answer>
-        </question>
-        <question>
-            <text>մերն ա</text>
-            <answer>это наш</answer>
-        </question>
-        <question>
-            <text>ձերն ա</text>
-            <answer>это ваш</answer>
-        </question>
-        <question>
-            <text>իրանցն ա</text>
-            <answer>это их (мн. число)</answer>
         </question>
         <question>
             <text>ես սիրել եմ</text>
