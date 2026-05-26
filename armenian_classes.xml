@@ -168,9 +168,6 @@
             <text>մայր</text><answer>мать</answer>
         </question>
         <question>
-            <text>մեր</text><answer>наш</answer>
-        </question>
-        <question>
             <text>մերսի</text>
             <answer>спасибо</answer>
         </question>
@@ -1259,34 +1256,6 @@
             <answer>люблю</answer>
         </question>
         <question>
-            <text>Ես ... չեմ</text>
-            <answer>я ... не есть</answer>
-        </question>
-        <question>
-            <text>Դու ... չես</text>
-            <answer>ты ... не есть</answer>
-        </question>
-        <question>
-            <text>Ինքե ... չի</text>
-            <answer>он/она ... не есть</answer>
-        </question>
-        <question>
-            <text>Մենք ... չենք</text>
-            <answer>мы ... не есть</answer>
-        </question>
-        <question>
-            <text>Դուք ... չեք</text>
-            <answer>вы ... не есть</answer>
-        </question>
-        <question>
-            <text>Նրանք ... չեն</text>
-            <answer>они ... не есть</answer>
-        </question>
-        <question>
-            <text>Իրենք ... չեն</text>
-            <answer>они ... не есть</answer>
-        </question>
-        <question>
             <text>Որտե՞ղ հիմա Սաշան է</text>
             <answer>Где сейчас Саша?</answer>
         </question>
@@ -1969,54 +1938,6 @@
         <question>
             <text>երկրներ</text>
             <answer>страны</answer>
-        </question>
-        <question>
-            <text>իմն ա</text>
-            <answer>мое</answer>
-        </question>
-        <question>
-            <text>քոնն ա</text>
-            <answer>твое</answer>
-        </question>
-        <question>
-            <text>իրենն ա</text>
-            <answer>его</answer>
-        </question>
-        <question>
-            <text>մերն ա</text>
-            <answer>наше</answer>
-        </question>
-        <question>
-            <text>ձերն ա</text>
-            <answer>ваше</answer>
-        </question>
-        <question>
-            <text>իրենցն ա</text>
-            <answer>ихнее</answer>
-        </question>
-        <question>
-            <text>ի՛մը չի</text>
-            <answer>не мое</answer>
-        </question>
-        <question>
-            <text>քո՛նե չի</text>
-            <answer>не твое</answer>
-        </question>
-        <question>
-            <text>իրե՛նը չի</text>
-            <answer>не его</answer>
-        </question>
-        <question>
-            <text>մե՛րը չի</text>
-            <answer>не наше</answer>
-        </question>
-        <question>
-            <text>ձե՛րը չի</text>
-            <answer>не ваше</answer>
-        </question>
-        <question>
-            <text>իրե՛նցը չի</text>
-            <answer>не их</answer>
         </question>
         <question>
             <text>աղբ</text>

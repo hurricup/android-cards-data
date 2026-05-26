@@ -5,44 +5,29 @@
     <questions>
         <question>
             <text>ինձ</text>
-            <answer>мне, меня</answer>
+            <answer>мне|меня</answer>
         </question>
         <question>
             <text>քեզ</text>
-            <answer>тебе, тебя</answer>
+            <answer>тебе|тебя</answer>
         </question>
         <question>
-            <text>նրան</text>
-            <answer>ему/ей, её/его</answer>
-        </question>
-        <question>
-            <text>իրեն</text>
-            <answer>ему/ей, её/его</answer>
-        </question>
-        <question>
-            <text>իրան</text>
-            <answer>ему/ей, её/его</answer>
+            <text>նրան|իրեն|իրան</text>
+            <answer>ему/ей|её/его</answer>
         </question>
         <question>
             <text>մեզ</text>
-            <answer>нам, нас</answer>
+            <answer>нам|нас</answer>
         </question>
         <question>
             <text>ձեզ</text>
-            <answer>вам, вас</answer>
+            <answer>вам|вас</answer>
         </question>
         <question>
-            <text>նրանց</text>
-            <answer>им, их, ихний</answer>
+            <text>նրանց|իրենց|իրանց</text>
+            <answer>им| их (кого)|ихний</answer>
         </question>
-        <question>
-            <text>իրենց</text>
-            <answer>им, их, ихний</answer>
-        </question>
-        <question>
-            <text>իրանց</text>
-            <answer>им, их, ихний</answer>
-        </question>
+
         <question>
             <text>իմն ա</text>
             <answer>это мой</answer>
@@ -52,8 +37,8 @@
             <answer>это твой</answer>
         </question>
         <question>
-            <text>իրենն ա</text>
-            <answer>это их</answer>
+            <text>նրանն ա|իրենն ա|իրանն ա</text>
+            <answer>это его/ее</answer>
         </question>
         <question>
             <text>մերն ա</text>
@@ -64,9 +49,35 @@
             <answer>это ваш</answer>
         </question>
         <question>
-            <text>իրանցն ա</text>
-            <answer>это их (мн. число)</answer>
+            <text>նրանցն ա|իրենցն ա|իրանցն ա</text>
+            <answer>это ихний</answer>
         </question>
+
+        <question>
+            <text>ի՛մը չի</text>
+            <answer>это не мое</answer>
+        </question>
+        <question>
+            <text>քո՛նե չի</text>
+            <answer>это не твое</answer>
+        </question>
+        <question>
+            <text>իրե՛նը չի</text>
+            <answer>это не его/ee</answer>
+        </question>
+        <question>
+            <text>մե՛րը չի</text>
+            <answer>это не наше</answer>
+        </question>
+        <question>
+            <text>ձե՛րը չի</text>
+            <answer>это не ваше</answer>
+        </question>
+        <question>
+            <text>իրե՛նցը չի|իրա՛նցը չի|նրա՛նցը չի</text>
+            <answer>это не их</answer>
+        </question>
+
         <question>
             <text>Ես … եմ</text>
             <answer>я ... есть</answer>
@@ -76,7 +87,7 @@
             <answer>ты ... есть</answer>
         </question>
         <question>
-            <text>Ինքը … է/ա*</text>
+            <text>նա … է|նա … ա|ինքը … ա|ինքը … է</text>
             <answer>он(а) ... есть</answer>
         </question>
         <question>
@@ -88,13 +99,35 @@
             <answer>вы ... есть</answer>
         </question>
         <question>
-            <text>Նրանք … են</text>
+            <text>Նրանք … են|Իրենք … են</text>
             <answer>они ... есть</answer>
+        </question>
+
+        <question>
+            <text>Ես ... չեմ</text>
+            <answer>я ... не есть</answer>
         </question>
         <question>
-            <text>Իրենք … են</text>
-            <answer>они ... есть</answer>
+            <text>Դու ... չես</text>
+            <answer>ты ... не есть</answer>
         </question>
+        <question>
+            <text>Ինքե ... չի | նա ... չի</text>
+            <answer>он/она ... не есть</answer>
+        </question>
+        <question>
+            <text>Մենք ... չենք</text>
+            <answer>мы ... не есть</answer>
+        </question>
+        <question>
+            <text>Դուք ... չեք</text>
+            <answer>вы ... не есть</answer>
+        </question>
+        <question>
+            <text>Նրանք ... չեն | Իրենք ... չեն</text>
+            <answer>они ... не есть</answer>
+        </question>
+
         <question>
             <text>իմ</text>
             <answer>мой</answer>
@@ -104,20 +137,20 @@
             <answer>твой</answer>
         </question>
         <question>
-            <text>նրա</text>
+            <text>նրա|իր|իրա</text>
             <answer>его/ее (чей)</answer>
         </question>
         <question>
-            <text>իր</text>
-            <answer>его/ее (чей)</answer>
-        </question>
-        <question>
-            <text>իրա</text>
-            <answer>его/ее (чей)</answer>
+            <text>մեր</text>
+            <answer>наш</answer>
         </question>
         <question>
             <text>ձեր</text>
             <answer>ваш</answer>
+        </question>
+        <question>
+            <text>նրանց|իրենց|իրանց</text>
+            <answer>ихний</answer>
         </question>
     </questions>
 </questionary>
