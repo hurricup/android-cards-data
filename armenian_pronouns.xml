@@ -58,7 +58,7 @@
             <answer>это не мое</answer>
         </question>
         <question>
-            <text>քո՛նե չի</text>
+            <text>քո՛նը չի</text>
             <answer>это не твое</answer>
         </question>
         <question>
@@ -112,7 +112,7 @@
             <answer>ты ... не есть</answer>
         </question>
         <question>
-            <text>Ինքե ... չի | նա ... չի</text>
+            <text>Ինքը ... չի | նա ... չի</text>
             <answer>он/она ... не есть</answer>
         </question>
         <question>
@@ -151,6 +151,10 @@
         <question>
             <text>նրանց|իրենց|իրանց</text>
             <answer>ихний</answer>
+        </question>
+        <question>
+            <text>այն</text>
+            <answer>оно</answer>
         </question>
     </questions>
 </questionary>
