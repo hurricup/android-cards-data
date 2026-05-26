@@ -4,10 +4,6 @@
     <title>Разное (арм.)</title>
     <questions>
         <question>
-            <text>շատ</text>
-            <answer>много, очень</answer>
-        </question>
-        <question>
             <text>[ես] լավ եմ</text><answer>У меня все хорошо (я в порядке).</answer>
         </question>
         <question>
@@ -27,10 +23,6 @@
         </question>
         <question>
             <text>Ի՞նչ կա[-չկա]</text><answer>Что нового? (Что есть?)</answer>
-        </question>
-        <question>
-            <text>Լավ</text>
-            <answer>хороший, хорошо, также ОК</answer>
         </question>
         <question>
             <text>Լավ եմ, դո՞ւ</text><answer>Хорошо, ты (как)?</answer>
@@ -110,13 +102,7 @@
             <text>էլ</text><answer>тоже</answer>
         </question>
         <question>
-            <text>ընկեր</text><answer>друг</answer>
-        </question>
-        <question>
             <text>թաթիկ</text><answer>лапка</answer>
-        </question>
-        <question>
-            <text>ինքը</text><answer>он/она</answer>
         </question>
         <question>
             <text>լավ եմ, դու՞ք</text><answer>Хорошо, вы?</answer>
@@ -182,9 +168,6 @@
             <text>ներեցեք</text><answer>извините</answer>
         </question>
         <question>
-            <text>նոր</text><answer>новый</answer>
-        </question>
-        <question>
             <text>նույնպես</text><answer>тоже</answer>
         </question>
         <question>
@@ -221,16 +204,10 @@
             <text>պանիր</text><answer>сыр</answer>
         </question>
         <question>
-            <text>ջուր</text><answer>вода</answer>
-        </question>
-        <question>
             <text>ռոբոտ</text><answer>робот</answer>
         </question>
         <question>
             <text>սունկ</text><answer>гриб</answer>
-        </question>
-        <question>
-            <text>վատ</text><answer>плохо</answer>
         </question>
         <question>
             <text>տատիկ</text><answer>бабушка</answer>
@@ -344,10 +321,6 @@
         <question>
             <text>զրո</text>
             <answer>0</answer>
-        </question>
-        <question>
-            <text>հատ</text>
-            <answer>штука</answer>
         </question>
         <question>
             <text>հայկական</text>
@@ -490,32 +463,12 @@
             <answer>хлеб</answer>
         </question>
         <question>
-            <text>դաս</text>
-            <answer>урок</answer>
-        </question>
-        <question>
-            <text>խանութ</text>
-            <answer>магазин</answer>
-        </question>
-        <question>
             <text>հաշիվ</text>
             <answer>счет</answer>
         </question>
         <question>
-            <text>հեռախոս</text>
-            <answer>телефон</answer>
-        </question>
-        <question>
             <text>տոպրակ</text>
             <answer>пакет</answer>
-        </question>
-        <question>
-            <text>հին</text>
-            <answer>старый</answer>
-        </question>
-        <question>
-            <text>համով</text>
-            <answer>вкусный (более разговорный вариант)</answer>
         </question>
         <question>
             <text>հարմար</text>
@@ -572,10 +525,6 @@
         <question>
             <text>կաթ</text>
             <answer>молоко</answer>
-        </question>
-        <question>
-            <text>պայուսակ</text>
-            <answer>сумка</answer>
         </question>
         <question>
             <text>նայած</text>
@@ -654,10 +603,6 @@
             <answer>дома есть хлеб</answer>
         </question>
         <question>
-            <text>տուն</text>
-            <answer>дом</answer>
-        </question>
-        <question>
             <text>տա՛նը</text>
             <answer>дома (в смысле где)</answer>
         </question>
@@ -700,10 +645,6 @@
         <question>
             <text>բաժակներ</text>
             <answer>стаканы</answer>
-        </question>
-        <question>
-            <text>տներ</text>
-            <answer>дома (множ число), исключение</answer>
         </question>
         <question>
             <text>շներ</text>
@@ -788,90 +729,6 @@
         <question>
             <text>ափսոս</text>
             <answer>жаль</answer>
-        </question>
-        <question>
-            <text>աշխատանք</text>
-            <answer>работа</answer>
-        </question>
-        <question>
-            <text>աշխատանքներ</text>
-            <answer>работы</answer>
-        </question>
-        <question>
-            <text>գործ</text>
-            <answer>дело</answer>
-        </question>
-        <question>
-            <text>գործեր</text>
-            <answer>дела</answer>
-        </question>
-        <question>
-            <text>սենյակ</text>
-            <answer>комната</answer>
-        </question>
-        <question>
-            <text>սենյակներ</text>
-            <answer>комнаты</answer>
-        </question>
-        <question>
-            <text>գիրք</text>
-            <answer>книга</answer>
-        </question>
-        <question>
-            <text>գրքեր</text>
-            <answer>книги</answer>
-        </question>
-        <question>
-            <text>տետր</text>
-            <answer>тетрадь</answer>
-        </question>
-        <question>
-            <text>գրիչ</text>
-            <answer>ручка</answer>
-        </question>
-        <question>
-            <text>գրիչներ</text>
-            <answer>ручки</answer>
-        </question>
-        <question>
-            <text>աթոռ</text>
-            <answer>стул</answer>
-        </question>
-        <question>
-            <text>սեղան</text>
-            <answer>стол</answer>
-        </question>
-        <question>
-            <text>թեյ</text>
-            <answer>чай</answer>
-        </question>
-        <question>
-            <text>մեծ</text>
-            <answer>большой</answer>
-        </question>
-        <question>
-            <text>փոքր</text>
-            <answer>маленький</answer>
-        </question>
-        <question>
-            <text>համով ա</text>
-            <answer>вкусно</answer>
-        </question>
-        <question>
-            <text>համով չի</text>
-            <answer>невкусно</answer>
-        </question>
-        <question>
-            <text>սիրուն</text>
-            <answer>красивый (разговорный)</answer>
-        </question>
-        <question>
-            <text>գեղեցիկ</text>
-            <answer>красивый</answer>
-        </question>
-        <question>
-            <text>գեշ</text>
-            <answer>некрасивый</answer>
         </question>
         <question>
             <text>Ի՞նչ ա եղել</text>
@@ -1138,10 +995,6 @@
             <answer>утка</answer>
         </question>
         <question>
-            <text>մի քիչ</text>
-            <answer>немного, как то</answer>
-        </question>
-        <question>
             <text>լողավազան</text>
             <answer>бассейн</answer>
         </question>
@@ -1178,42 +1031,6 @@
             <answer>Как дела?</answer>
         </question>
         <question>
-            <text>տաք</text>
-            <answer>теплый/горячий</answer>
-        </question>
-        <question>
-            <text>սա՛ռը / սառն</text>
-            <answer>холодный</answer>
-        </question>
-        <question>
-            <text>շոգ ա</text>
-            <answer>жарко (о погоде)</answer>
-        </question>
-        <question>
-            <text>ցուրտ ա</text>
-            <answer>холодно (о погоде)</answer>
-        </question>
-        <question>
-            <text>արագ</text>
-            <answer>быстрый</answer>
-        </question>
-        <question>
-            <text>դանդաղ</text>
-            <answer>медленный</answer>
-        </question>
-        <question>
-            <text>հետաքրքիր</text>
-            <answer>интересный</answer>
-        </question>
-        <question>
-            <text>անհետաքրքիր</text>
-            <answer>неинтересный</answer>
-        </question>
-        <question>
-            <text>քիչ</text>
-            <answer>мало</answer>
-        </question>
-        <question>
             <text>փող չկա</text>
             <answer>денег нет</answer>
         </question>
@@ -1224,10 +1041,6 @@
         <question>
             <text>հունական</text>
             <answer>греческий (производство)</answer>
-        </question>
-        <question>
-            <text>ընկերուհի</text>
-            <answer>подруга (феминитив ընկեր + ուհի)</answer>
         </question>
         <question>
             <text>սուտ ա</text>
@@ -1538,34 +1351,6 @@
             <answer>поэтому</answer>
         </question>
         <question>
-            <text>փող</text>
-            <answer>деньги</answer>
-        </question>
-        <question>
-            <text>փողոց</text>
-            <answer>улица</answer>
-        </question>
-        <question>
-            <text>պողոտա</text>
-            <answer>проспект</answer>
-        </question>
-        <question>
-            <text>գյուղ</text>
-            <answer>деревня</answer>
-        </question>
-        <question>
-            <text>հայրենիք</text>
-            <answer>родина</answer>
-        </question>
-        <question>
-            <text>երկիր</text>
-            <answer>страна</answer>
-        </question>
-        <question>
-            <text>երկրներ</text>
-            <answer>страны</answer>
-        </question>
-        <question>
             <text>աղբ</text>
             <answer>мусор</answer>
         </question>
@@ -1612,50 +1397,6 @@
         <question>
             <text>ազատ</text>
             <answer>свободный</answer>
-        </question>
-        <question>
-            <text>հեշտ</text>
-            <answer>легкий (простой)</answer>
-        </question>
-        <question>
-            <text>դժվար</text>
-            <answer>трудный/сложный</answer>
-        </question>
-        <question>
-            <text>թանկ</text>
-            <answer>дорогой</answer>
-        </question>
-        <question>
-            <text>էժան</text>
-            <answer>дешевый</answer>
-        </question>
-        <question>
-            <text>խելացի</text>
-            <answer>умный</answer>
-        </question>
-        <question>
-            <text>հիմար</text>
-            <answer>глупый</answer>
-        </question>
-        <question>
-            <text>դեբիլ</text>
-            <answer>глупый</answer>
-        </question>
-        <question>
-            <text>նուրբ</text>
-            <answer>нежный, хрупкий</answer>
-        </question>
-        <question>
-            <text>կոպիտ</text>
-            <answer>грубый</answer>
-        </question>
-        <question>
-            <text>հարց</text>
-            <answer>вопрос</answer>
-        </question>
-        <question>
-            <text>պատասխան</text>
-            <answer>ответ</answer>
         </question>
         <question>
             <text>ես գնում եմ խմելու</text>
@@ -1828,22 +1569,6 @@
         <question>
             <text>լավագույն</text>
             <answer>лучший (суфф. форма)</answer>
-        </question>
-        <question>
-            <text>հեծանիվ</text>
-            <answer>велосипед</answer>
-        </question>
-        <question>
-            <text>մեքենա</text>
-            <answer>машина (любой механизм)</answer>
-        </question>
-        <question>
-            <text>ավտո</text>
-            <answer>автомобиль</answer>
-        </question>
-        <question>
-            <text>ավտոմեքենա</text>
-            <answer>автомобиль</answer>
         </question>
         <question>
             <text>ավելի քիչ</text>
