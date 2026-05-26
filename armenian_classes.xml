@@ -116,9 +116,6 @@
             <text>թաթիկ</text><answer>лапка</answer>
         </question>
         <question>
-            <text>ժամ</text><answer>час</answer>
-        </question>
-        <question>
             <text>ինքը</text><answer>он/она</answer>
         </question>
         <question>
@@ -237,9 +234,6 @@
         </question>
         <question>
             <text>տատիկ</text><answer>бабушка</answer>
-        </question>
-        <question>
-            <text>րոպե</text><answer>минута</answer>
         </question>
         <question>
             <text>ցուցակ</text><answer>список</answer>
@@ -624,10 +618,6 @@
             <answer>твой брат</answer>
         </question>
         <question>
-            <text>հիմա</text>
-            <answer>сейчас</answer>
-        </question>
-        <question>
             <text>Մոսկվայում</text>
             <answer>в Москве</answer>
         </question>
@@ -780,10 +770,6 @@
             <answer>что это?</answer>
         </question>
         <question>
-            <text>այսօր</text>
-            <answer>сегодня (этот день)</answer>
-        </question>
-        <question>
             <text>գլխարկ</text>
             <answer>головной убор</answer>
         </question>
@@ -890,86 +876,6 @@
         <question>
             <text>Ի՞նչ ա եղել</text>
             <answer>что случилось?</answer>
-        </question>
-        <question>
-            <text>երկուշաբթի</text>
-            <answer>понедельник</answer>
-        </question>
-        <question>
-            <text>երեքշաբթի</text>
-            <answer>вторник</answer>
-        </question>
-        <question>
-            <text>չորեքշաբթի</text>
-            <answer>среда</answer>
-        </question>
-        <question>
-            <text>հինգշաբթի</text>
-            <answer>четверг</answer>
-        </question>
-        <question>
-            <text>ուրբաթ</text>
-            <answer>пятница</answer>
-        </question>
-        <question>
-            <text>շաբաթ</text>
-            <answer>суббота или неделя</answer>
-        </question>
-        <question>
-            <text>կիրակի</text>
-            <answer>воскресенье</answer>
-        </question>
-        <question>
-            <text>երկուշաբթի օ՛րը</text>
-            <answer>в понедельник</answer>
-        </question>
-        <question>
-            <text>երեքշաբթի օ՛րը</text>
-            <answer>во вторник</answer>
-        </question>
-        <question>
-            <text>չորեքշաբթի օ՛րը</text>
-            <answer>в среду</answer>
-        </question>
-        <question>
-            <text>հինգշաբթի օ՛րը</text>
-            <answer>в четверг</answer>
-        </question>
-        <question>
-            <text>ուրբաթ օ՛րը</text>
-            <answer>в пятницу</answer>
-        </question>
-        <question>
-            <text>շաբաթ օ՛րը</text>
-            <answer>в субботу</answer>
-        </question>
-        <question>
-            <text>կիրակի օ՛րը</text>
-            <answer>в воскресенье</answer>
-        </question>
-        <question>
-            <text>ամեն օր</text>
-            <answer>каждый день</answer>
-        </question>
-        <question>
-            <text>երեկ</text>
-            <answer>вчера</answer>
-        </question>
-        <question>
-            <text>վաղը</text>
-            <answer>завтра</answer>
-        </question>
-        <question>
-            <text>հաճախ</text>
-            <answer>часто</answer>
-        </question>
-        <question>
-            <text>ավելի հաճախ</text>
-            <answer>чаще</answer>
-        </question>
-        <question>
-            <text>ամենահաճախ</text>
-            <answer>чаще всего</answer>
         </question>
         <question>
             <text>կռունկ</text>
@@ -1232,14 +1138,6 @@
             <answer>утка</answer>
         </question>
         <question>
-            <text>ժամանակ</text>
-            <answer>время</answer>
-        </question>
-        <question>
-            <text>ժամանակ չկա</text>
-            <answer>нет времени</answer>
-        </question>
-        <question>
             <text>մի քիչ</text>
             <answer>немного, как то</answer>
         </question>
@@ -1268,14 +1166,6 @@
             <answer>когда работа?</answer>
         </question>
         <question>
-            <text>տարի</text>
-            <answer>год</answer>
-        </question>
-        <question>
-            <text>ամիս</text>
-            <answer>месяц</answer>
-        </question>
-        <question>
             <text>Որտե՞ղ շաքար է</text>
             <answer>Где сахар?</answer>
         </question>
@@ -1286,150 +1176,6 @@
         <question>
             <text>Գործե՛րը ո՞նց է</text>
             <answer>Как дела?</answer>
-        </question>
-        <question>
-            <text>հունվար</text>
-            <answer>январь</answer>
-        </question>
-        <question>
-            <text>փետրվար</text>
-            <answer>февраль</answer>
-        </question>
-        <question>
-            <text>մարտ</text>
-            <answer>март</answer>
-        </question>
-        <question>
-            <text>ապրիլ</text>
-            <answer>апрель</answer>
-        </question>
-        <question>
-            <text>մայիս</text>
-            <answer>май</answer>
-        </question>
-        <question>
-            <text>հունիս</text>
-            <answer>июнь</answer>
-        </question>
-        <question>
-            <text>հուլիս</text>
-            <answer>июль</answer>
-        </question>
-        <question>
-            <text>օգոստոս</text>
-            <answer>август</answer>
-        </question>
-        <question>
-            <text>սեպտեմբեր</text>
-            <answer>сентябрь</answer>
-        </question>
-        <question>
-            <text>հոկտեմբեր</text>
-            <answer>октябрь</answer>
-        </question>
-        <question>
-            <text>նոյեմբեր</text>
-            <answer>ноябрь</answer>
-        </question>
-        <question>
-            <text>դեկտեմբեր</text>
-            <answer>декабрь</answer>
-        </question>
-        <question>
-            <text>հունվարին</text>
-            <answer>в январе</answer>
-        </question>
-        <question>
-            <text>փետրվարին</text>
-            <answer>в феврале</answer>
-        </question>
-        <question>
-            <text>մարտին</text>
-            <answer>в марте</answer>
-        </question>
-        <question>
-            <text>ապրիլին</text>
-            <answer>в апреле</answer>
-        </question>
-        <question>
-            <text>մայիսին</text>
-            <answer>в мае</answer>
-        </question>
-        <question>
-            <text>հունիսին</text>
-            <answer>в июне</answer>
-        </question>
-        <question>
-            <text>հուլիսին</text>
-            <answer>в июле</answer>
-        </question>
-        <question>
-            <text>օգոստոսին</text>
-            <answer>в августе</answer>
-        </question>
-        <question>
-            <text>սեպտեմբերին</text>
-            <answer>в сентябре</answer>
-        </question>
-        <question>
-            <text>հոկտեմբերին</text>
-            <answer>в октябре</answer>
-        </question>
-        <question>
-            <text>նոյեմբերին</text>
-            <answer>в ноябре</answer>
-        </question>
-        <question>
-            <text>դեկտեմբերին</text>
-            <answer>в декабре</answer>
-        </question>
-        <question>
-            <text>հունվարից</text>
-            <answer>с января</answer>
-        </question>
-        <question>
-            <text>փետրվարից</text>
-            <answer>с февраля</answer>
-        </question>
-        <question>
-            <text>մարտից</text>
-            <answer>с марта</answer>
-        </question>
-        <question>
-            <text>ապրիլից</text>
-            <answer>с апреля</answer>
-        </question>
-        <question>
-            <text>մայիսից</text>
-            <answer>с мая</answer>
-        </question>
-        <question>
-            <text>հունիսից</text>
-            <answer>с июня</answer>
-        </question>
-        <question>
-            <text>հուլիսից</text>
-            <answer>с июля</answer>
-        </question>
-        <question>
-            <text>օգոստոսից</text>
-            <answer>с августа</answer>
-        </question>
-        <question>
-            <text>սեպտեմբերից</text>
-            <answer>с сентября</answer>
-        </question>
-        <question>
-            <text>հոկտեմբերից</text>
-            <answer>с октября</answer>
-        </question>
-        <question>
-            <text>նոյեմբերից</text>
-            <answer>с ноября</answer>
-        </question>
-        <question>
-            <text>դեկտեմբերից</text>
-            <answer>с декабря</answer>
         </question>
         <question>
             <text>տաք</text>
@@ -1466,10 +1212,6 @@
         <question>
             <text>քիչ</text>
             <answer>мало</answer>
-        </question>
-        <question>
-            <text>փող</text>
-            <answer>деньги</answer>
         </question>
         <question>
             <text>փող չկա</text>
@@ -2020,22 +1762,6 @@
             <answer>ужасно</answer>
         </question>
         <question>
-            <text>արավոտյան</text>
-            <answer>утром</answer>
-        </question>
-        <question>
-            <text>ցերեկի</text>
-            <answer>днем (до+вечера)</answer>
-        </question>
-        <question>
-            <text>երեկոյան</text>
-            <answer>вечером</answer>
-        </question>
-        <question>
-            <text>գիշե՛րը</text>
-            <answer>ночью</answer>
-        </question>
-        <question>
             <text>խնդիր</text>
             <answer>проблема</answer>
         </question>
@@ -2262,14 +1988,6 @@
         <question>
             <text>բնակարան</text>
             <answer>квартира</answer>
-        </question>
-        <question>
-            <text>ուշ</text>
-            <answer>поздно</answer>
-        </question>
-        <question>
-            <text>շուտ</text>
-            <answer>рано</answer>
         </question>
         <question>
             <text>ինձ համար</text>
