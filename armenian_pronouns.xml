@@ -99,7 +99,7 @@
             <answer>вы ... есть</answer>
         </question>
         <question>
-            <text>Նրանք … են|Իրենք … են</text>
+            <text>Նրանք … են|Իրենք … են|Իրանք … են</text>
             <answer>они ... есть</answer>
         </question>
 
@@ -124,7 +124,7 @@
             <answer>вы ... не есть</answer>
         </question>
         <question>
-            <text>Նրանք ... չեն | Իրենք ... չեն</text>
+            <text>Նրանք ... չեն|Իրենք ... չեն|Իրանք ... չեն</text>
             <answer>они ... не есть</answer>
         </question>
 
