@@ -13,7 +13,7 @@
         </question>
         <question>
             <text>նրան|իրեն|իրան</text>
-            <answer>ему/ей|её/его</answer>
+            <answer>ему/ей|её/его (кого)</answer>
         </question>
         <question>
             <text>մեզ</text>
@@ -62,7 +62,7 @@
             <answer>это не твое</answer>
         </question>
         <question>
-            <text>իրե՛նը չի</text>
+            <text>իրե՛նը չի|իրա՛նը չի|նրա՛նը չի</text>
             <answer>это не его/ee</answer>
         </question>
         <question>
