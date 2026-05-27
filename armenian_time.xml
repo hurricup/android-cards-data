@@ -210,14 +210,14 @@
         </question>
         <question>
             <text>այսօր</text>
-            <answer>сегодня (этот день)</answer>
+            <answer>сегодня</answer>
         </question>
         <question>
             <text>երեկ</text>
             <answer>вчера</answer>
         </question>
         <question>
-            <text>վաղը</text>
+            <text>վա՛ղը</text>
             <answer>завтра</answer>
         </question>
         <question>
@@ -277,16 +277,16 @@
             <answer>год</answer>
         </question>
         <question>
-            <text>արավոտ</text>
+            <text>առավոտ</text>
             <answer>утро</answer>
         </question>
         <question>
-            <text>արավոտյան</text>
+            <text>առավոտյան</text>
             <answer>утром</answer>
         </question>
         <question>
             <text>ցերեկի</text>
-            <answer>днем (до+вечера)</answer>
+            <answer>днем</answer>
         </question>
         <question>
             <text>երեկո</text>
@@ -309,16 +309,28 @@
             <answer>опять</answer>
         </question>
         <question>
-            <text>յամը ութին</text>
+            <text>յա՛մը ութին</text>
             <answer>в 8 часов</answer>
         </question>
         <question>
-            <text>յամը ինըին</text>
+            <text>յա՛մը իննին</text>
             <answer>в 9 часов</answer>
         </question>
         <question>
-            <text>երեկոյան յամը ինըին</text>
+            <text>երեկոյան յա՛մը իննին</text>
             <answer>в 9 часов вечера</answer>
+        </question>
+        <question>
+            <text>առավոտյան յա՛մը իննին</text>
+            <answer>в 9 часов утра</answer>
+        </question>
+        <question>
+            <text>ցերեիի յա՛մը երկուին</text>
+            <answer>в 2 часа дня</answer>
+        </question>
+        <question>
+            <text>գիշե՛րը յա՛մը երեքին</text>
+            <answer>в 3 часов ночи</answer>
         </question>
         <question>
             <text>հազարից մեկ</text>
