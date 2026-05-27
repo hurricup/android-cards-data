@@ -199,5 +199,17 @@
             <text>արթնանալ</text>
             <answer>просыпаться</answer>
         </question>
+        <question>
+            <text>ուշանալ</text>
+            <answer>опаздывать</answer>
+        </question>
+        <question>
+            <text>դուր գալ</text>
+            <answer>нравиться</answer>
+        </question>
+        <question>
+            <text>զզվել</text>
+            <answer>ненавидеть</answer>
+        </question>
     </questions>
 </questionary>

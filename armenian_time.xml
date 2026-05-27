@@ -304,5 +304,25 @@
             <text>գիշե՛րը</text>
             <answer>ночью</answer>
         </question>
+        <question>
+            <text>նորից</text>
+            <answer>опять</answer>
+        </question>
+        <question>
+            <text>յամը ութին</text>
+            <answer>в 8 часов</answer>
+        </question>
+        <question>
+            <text>յամը ինըին</text>
+            <answer>в 9 часов</answer>
+        </question>
+        <question>
+            <text>երեկոյան յամը ինըին</text>
+            <answer>в 9 часов вечера</answer>
+        </question>
+        <question>
+            <text>հազարից մեկ</text>
+            <answer>очень редко</answer>
+        </question>
     </questions>
 </questionary>

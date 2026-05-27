@@ -1774,5 +1774,45 @@
             <text>Ես զանգում եմ Կարենին</text>
             <answer>я звоню Карену</answer>
         </question>
+        <question>
+            <text>ինձ դուր է գալիս</text>
+            <answer>мне нравится</answer>
+        </question>
+        <question>
+            <text>ինձ դուր չի գալիս</text>
+            <answer>мне не нравится</answer>
+        </question>
+        <question>
+            <text>ինչ է քեձ դուր գալիս</text>
+            <answer>что тебе нравится</answer>
+        </question>
+        <question>
+            <text>ձեզ ուր եգավ</text>
+            <answer>вам понравилось?</answer>
+        </question>
+        <question>
+            <text>ես զզվեւմ եմ</text>
+            <answer>я ненавижу</answer>
+        </question>
+        <question>
+            <text>ես զզվում եմ ֆոբոյից</text>
+            <answer>я ненавижу фобо</answer>
+        </question>
+        <question>
+            <text>ոս զզվում եմ քեձնից</text>
+            <answer>я ненавижу тебя</answer>
+        </question>
+        <question>
+            <text>վերծ</text>
+            <answer>всё</answer>
+        </question>
+        <question>
+            <text>աղջիկ</text>
+            <answer>девочка</answer>
+        </question>
+        <question>
+            <text>աղցան</text>
+            <answer>салат</answer>
+        </question>
     </questions>
 </questionary>
