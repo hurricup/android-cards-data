@@ -543,10 +543,6 @@
             <answer>очки</answer>
         </question>
         <question>
-            <text>թանկ</text>
-            <answer>дорогой</answer>
-        </question>
-        <question>
             <text>ախպեր</text>
             <answer>брат</answer>
         </question>
@@ -1227,10 +1223,6 @@
             <answer>аптека</answer>
         </question>
         <question>
-            <text>փողոց</text>
-            <answer>улица</answer>
-        </question>
-        <question>
             <text>քաղաք</text>
             <answer>город</answer>
         </question>
@@ -1813,6 +1805,14 @@
         <question>
             <text>աղցան</text>
             <answer>салат</answer>
+        </question>
+        <question>
+            <text>ազատ</text>
+            <answer>свободный</answer>
+        </question>
+        <question>
+            <text>շուտով</text>
+            <answer>скоро</answer>
         </question>
     </questions>
 </questionary>
