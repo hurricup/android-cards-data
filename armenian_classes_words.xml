@@ -117,8 +117,12 @@
             <answer>теплый|горячий</answer>
         </question>
         <question>
-            <text>սա՛ռը|սառն է</text>
+            <text>սա՛ռը</text>
             <answer>холодный</answer>
+        </question>
+        <question>
+            <text>սառն է</text>
+            <answer>[это] холодное</answer>
         </question>
         <question>
             <text>շոգ ա</text>
@@ -171,7 +175,7 @@
         </question>
         <question>
             <text>համով ա</text>
-            <answer>вкусно</answer>
+            <answer>[это] вкусно</answer>
         </question>
         <question>
             <text>համով չի</text>
