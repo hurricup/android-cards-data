@@ -279,5 +279,57 @@
             <text>տներ</text>
             <answer>дома (мн. число)</answer>
         </question>
+        <question>
+            <text>քաղցր</text>
+            <answer>сладкий</answer>
+        </question>
+        <question>
+            <text>թթու</text>
+            <answer>кислый</answer>
+        </question>
+        <question>
+            <text>դա՛ռը</text>
+            <answer>горький</answer>
+        </question>
+        <question>
+            <text>կծու</text>
+            <answer>острый</answer>
+        </question>
+        <question>
+            <text>աղի</text>
+            <answer>соленый</answer>
+        </question>
+        <question>
+            <text>աջ</text>
+            <answer>правый|направо</answer>
+        </question>
+        <question>
+            <text>ձախ</text>
+            <answer>левый|налево</answer>
+        </question>
+        <question>
+            <text>աջից</text>
+            <answer>справа</answer>
+        </question>
+        <question>
+            <text>ձախից</text>
+            <answer>слева</answer>
+        </question>
+        <question>
+            <text>առաջ նայել</text>
+            <answer>вперед смотреть</answer>
+        </question>
+        <question>
+            <text>հետ նայել</text>
+            <answer>назад смотреть</answer>
+        </question>
+        <question>
+            <text>առջևում</text>
+            <answer>впереди</answer>
+        </question>
+        <question>
+            <text>հետևում</text>
+            <answer>позади</answer>
+        </question>
     </questions>
 </questionary>

@@ -432,7 +432,7 @@
         </question>
         <question>
             <text>անուշ</text>
-            <answer>сладкий, приятный</answer>
+            <answer>приятный</answer>
         </question>
         <question>
             <text>սպիտակ</text>
@@ -677,10 +677,6 @@
         <question>
             <text>գինի</text>
             <answer>вино</answer>
-        </question>
-        <question>
-            <text>թթու</text>
-            <answer>кислый</answer>
         </question>
         <question>
             <text>պաղպաղակ</text>
@@ -1101,14 +1097,6 @@
         <question>
             <text>միշտ</text>
             <answer>всегда</answer>
-        </question>
-        <question>
-            <text>դա՛ռը</text>
-            <answer>горький</answer>
-        </question>
-        <question>
-            <text>արագ</text>
-            <answer>быстрый</answer>
         </question>
         <question>
             <text>այնտեղ</text>
@@ -1813,6 +1801,26 @@
         <question>
             <text>շուտով</text>
             <answer>скоро</answer>
+        </question>
+        <question>
+            <text>կանաչ թեյ</text>
+            <answer>зеленый чай</answer>
+        </question>
+        <question>
+            <text>հոտ</text>
+            <answer>запах</answer>
+        </question>
+        <question>
+            <text>վարդի հոտ</text>
+            <answer>запах роз</answer>
+        </question>
+        <question>
+            <text>մարդկանց</text>
+            <answer>людей|людям</answer>
+        </question>
+        <question>
+            <text>համեմ</text>
+            <answer>киндза</answer>
         </question>
     </questions>
 </questionary>

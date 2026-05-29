@@ -125,7 +125,7 @@
         </question>
         <question>
             <text>կարծել</text>
-            <answer>думать, считать</answer>
+            <answer>думать (считать)</answer>
         </question>
         <question>
             <text>պատրաստել</text>
@@ -153,7 +153,7 @@
         </question>
         <question>
             <text>նտածել</text>
-            <answer>думать, размышлять</answer>
+            <answer>думать (размышлять)</answer>
         </question>
         <question>
             <text>գրել</text>
@@ -210,6 +210,30 @@
         <question>
             <text>զզվել</text>
             <answer>ненавидеть</answer>
+        </question>
+        <question>
+            <text>սովորել</text>
+            <answer>учить|учиться</answer>
+        </question>
+        <question>
+            <text>լինել</text>
+            <answer>бывать|быть</answer>
+        </question>
+        <question>
+            <text>մաքրել</text>
+            <answer>убираться</answer>
+        </question>
+        <question>
+            <text>շփվել</text>
+            <answer>тереться (общаться)</answer>
+        </question>
+        <question>
+            <text>շփել</text>
+            <answer>тереть</answer>
+        </question>
+        <question>
+            <text>մեքենա քշել</text>
+            <answer>водить машину</answer>
         </question>
     </questions>
 </questionary>

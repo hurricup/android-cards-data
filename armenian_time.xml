@@ -242,7 +242,7 @@
         </question>
         <question>
             <text>շուտ</text>
-            <answer>рано</answer>
+            <answer>рано|давно</answer>
         </question>
         <question>
             <text>ժամանակ</text>
@@ -335,6 +335,54 @@
         <question>
             <text>հազարից մեկ</text>
             <answer>очень редко</answer>
+        </question>
+        <question>
+            <text>հետո</text>
+            <answer>потом</answer>
+        </question>
+        <question>
+            <text>առաջ</text>
+            <answer>раньше</answer>
+        </question>
+        <question>
+            <text>մի տարի առաջ</text>
+            <answer>год назад</answer>
+        </question>
+        <question>
+            <text>մի տարի հետո</text>
+            <answer>через год</answer>
+        </question>
+        <question>
+            <text>դասից առաջ</text>
+            <answer>до урока|перед уроком</answer>
+        </question>
+        <question>
+            <text>դասից հետո</text>
+            <answer>после урока</answer>
+        </question>
+        <question>
+            <text>սովորաբար</text>
+            <answer>обычно</answer>
+        </question>
+        <question>
+            <text>տարեկան</text>
+            <answer>год возраста</answer>
+        </question>
+        <question>
+            <text>քանի տարեկան ես</text>
+            <answer>сколько тебе лет</answer>
+        </question>
+        <question>
+            <text>քանի տարեկան է</text>
+            <answer>сколько ему лет</answer>
+        </question>
+        <question>
+            <text>քանի տարեկան եմ</text>
+            <answer>сколько мне лет</answer>
+        </question>
+        <question>
+            <text>քանի տարեկան եք</text>
+            <answer>сколько вам лет</answer>
         </question>
     </questions>
 </questionary>
