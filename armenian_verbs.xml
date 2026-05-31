@@ -109,15 +109,11 @@
         </question>
         <question>
             <text>լսել</text>
-            <answer>слышать/слушать</answer>
-        </question>
-        <question>
-            <text>քայլել</text>
-            <answer>ходить/гулять</answer>
+            <answer>слышать|слушать</answer>
         </question>
         <question>
             <text>առնել</text>
-            <answer>покупать/брать</answer>
+            <answer>покупать|брать</answer>
         </question>
         <question>
             <text>վերցնել</text>
@@ -137,11 +133,11 @@
         </question>
         <question>
             <text>պատրաստվել</text>
-            <answer>готовиться, собираться</answer>
+            <answer>готовиться|собираться</answer>
         </question>
         <question>
             <text>սարքել</text>
-            <answer>чинить, строить</answer>
+            <answer>чинить|строить</answer>
         </question>
         <question>
             <text>վերջացնել</text>
@@ -169,7 +165,7 @@
         </question>
         <question>
             <text>ուղարկել</text>
-            <answer>отправить, отправлять</answer>
+            <answer>отправить|отправлять</answer>
         </question>
         <question>
             <text>հանգստանալ</text>
