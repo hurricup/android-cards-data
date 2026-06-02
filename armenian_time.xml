@@ -338,11 +338,15 @@
         </question>
         <question>
             <text>հետո</text>
-            <answer>потом</answer>
+            <answer>потом|после</answer>
+        </question>
+        <question>
+            <text>հետ</text>
+            <answer>назад</answer>
         </question>
         <question>
             <text>առաջ</text>
-            <answer>раньше</answer>
+            <answer>перед|раньше</answer>
         </question>
         <question>
             <text>մի տարի առաջ</text>
