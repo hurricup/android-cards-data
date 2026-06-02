@@ -231,5 +231,37 @@
             <text>մեքենա քշել</text>
             <answer>водить машину</answer>
         </question>
+        <question>
+            <text>պետք ա|պետք է</text>
+            <answer>нужно</answer>
+        </question>
+        <question>
+            <text>պետք չի|պետք չէ</text>
+            <answer>не нужно</answer>
+        </question>
+        <question>
+            <text>ես կարող եմ</text>
+            <answer>я могу</answer>
+        </question>
+        <question>
+            <text>ես չեմ կարող</text>
+            <answer>я не могу</answer>
+        </question>
+        <question>
+            <text>կարելի է</text>
+            <answer>можно</answer>
+        </question>
+        <question>
+            <text>չի կարելի</text>
+            <answer>нельзя</answer>
+        </question>
+        <question>
+            <text>կարողանալ</text>
+            <answer>уметь (быть в состоянии)</answer>
+        </question>
+        <question>
+            <text>օգնել</text>
+            <answer>помогать</answer>
+        </question>
     </questions>
 </questionary>

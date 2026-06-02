@@ -384,5 +384,37 @@
             <text>քանի տարեկան եք</text>
             <answer>сколько вам лет</answer>
         </question>
+        <question>
+            <text>գարուն</text>
+            <answer>весна</answer>
+        </question>
+        <question>
+            <text>գարնա՛նը</text>
+            <answer>весной</answer>
+        </question>
+        <question>
+            <text>ամառ</text>
+            <answer>лето</answer>
+        </question>
+        <question>
+            <text>ամռա՛նը</text>
+            <answer>летом</answer>
+        </question>
+        <question>
+            <text>աշուն</text>
+            <answer>осень</answer>
+        </question>
+        <question>
+            <text>աշնա՛նը</text>
+            <answer>осенью</answer>
+        </question>
+        <question>
+            <text>ձմեռ</text>
+            <answer>зима</answer>
+        </question>
+        <question>
+            <text>ձմռա՛նը</text>
+            <answer>зимой</answer>
+        </question>
     </questions>
 </questionary>

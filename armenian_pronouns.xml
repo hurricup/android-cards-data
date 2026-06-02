@@ -156,5 +156,9 @@
             <text>այն</text>
             <answer>оно</answer>
         </question>
+        <question>
+            <text>քո մասին</text>
+            <answer>о тебе</answer>
+        </question>
     </questions>
 </questionary>
