@@ -1822,5 +1822,21 @@
             <text>համեմ</text>
             <answer>киндза</answer>
         </question>
+        <question>
+            <text>ահավոր ա</text>
+            <answer>ужасно</answer>
+        </question>
+        <question>
+            <text>բյիշկ</text>
+            <answer>врач</answer>
+        </question>
+        <question>
+            <text>մենակ</text>
+            <answer>один|только</answer>
+        </question>
+        <question>
+            <text>եթե</text>
+            <answer>если</answer>
+        </question>
     </questions>
 </questionary>
