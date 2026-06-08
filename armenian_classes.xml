@@ -1838,5 +1838,33 @@
             <text>եթե</text>
             <answer>если</answer>
         </question>
+        <question>
+            <text>ուղղակի</text>
+            <answer>просто (just)</answer>
+        </question>
+        <question>
+            <text>վարժ</text>
+            <answer>уметь что-то делать хорошо и опыт</answer>
+        </question>
+        <question>
+            <text>ուրախ եմ</text>
+            <answer>я рад</answer>
+        </question>
+        <question>
+            <text>իրականում</text>
+            <answer>на самом деле</answer>
+        </question>
+        <question>
+            <text>բարդ</text>
+            <answer>сложный</answer>
+        </question>
+        <question>
+            <text>օտար</text>
+            <answer>иностранный</answer>
+        </question>
+        <question>
+            <text>ցանկանաս</text>
+            <answer>если захочешь</answer>
+        </question>
     </questions>
 </questionary>
