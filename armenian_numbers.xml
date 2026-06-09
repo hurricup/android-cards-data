@@ -119,5 +119,65 @@
             <text>հազար</text>
             <answer>1000</answer>
         </question>
+        <question>
+            <text>վերջին</text>
+            <answer>последний</answer>
+        </question>
+        <question>
+            <text>զույգ</text>
+            <answer>пара</answer>
+        </question>
+        <question>
+            <text>առաջին</text>
+            <answer>первый</answer>
+        </question>
+        <question>
+            <text>երկրորդ</text>
+            <answer>второй</answer>
+        </question>
+        <question>
+            <text>երրորդ</text>
+            <answer>третий</answer>
+        </question>
+        <question>
+            <text>չորրորդ</text>
+            <answer>четвертый</answer>
+        </question>
+        <question>
+            <text>հինգերորդ</text>
+            <answer>пятый</answer>
+        </question>
+        <question>
+            <text>վեցերորդ</text>
+            <answer>шестой</answer>
+        </question>
+        <question>
+            <text>յոթերորդ</text>
+            <answer>седьмой</answer>
+        </question>
+        <question>
+            <text>ութերորդ</text>
+            <answer>восьмой</answer>
+        </question>
+        <question>
+            <text>իններորդ</text>
+            <answer>девятый</answer>
+        </question>
+        <question>
+            <text>տասներորդ</text>
+            <answer>десятый</answer>
+        </question>
+        <question>
+            <text>քսաներորդ</text>
+            <answer>двадцатый</answer>
+        </question>
+        <question>
+            <text>հարյուրերորդ</text>
+            <answer>сотый</answer>
+        </question>
+        <question>
+            <text>հազարերորդ</text>
+            <answer>тысячный</answer>
+        </question>
     </questions>
 </questionary>

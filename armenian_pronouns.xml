@@ -157,8 +157,44 @@
             <answer>оно</answer>
         </question>
         <question>
+            <text>իմ մասին</text>
+            <answer>обо мне</answer>
+        </question>
+        <question>
             <text>քո մասին</text>
             <answer>о тебе</answer>
+        </question>
+        <question>
+            <text>նա մասին|ինքը մասին</text>
+            <answer>о нем|о ней</answer>
+        </question>
+        <question>
+            <text>մեր մասին</text>
+            <answer>о нас</answer>
+        </question>
+        <question>
+            <text>ձեր մասին</text>
+            <answer>о вас</answer>
+        </question>
+        <question>
+            <text>նրանք մասին|իրենք մասին|իրանք մասին</text>
+            <answer>о них</answer>
+        </question>
+        <question>
+            <text>ինչից</text>
+            <answer>от чего</answer>
+        </question>
+        <question>
+            <text>ոչ թե</text>
+            <answer>... а не ...</answer>
+        </question>
+        <question>
+            <text>չափազանց</text>
+            <answer>слишком</answer>
+        </question>
+        <question>
+            <text>չի հերիքում</text>
+            <answer>недостаточно</answer>
         </question>
     </questions>
 </questionary>

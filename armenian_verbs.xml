@@ -120,10 +120,6 @@
             <answer>брать</answer>
         </question>
         <question>
-            <text>կարծել</text>
-            <answer>думать (считать)</answer>
-        </question>
-        <question>
             <text>պատրաստել</text>
             <answer>готовить</answer>
         </question>
@@ -148,8 +144,8 @@
             <answer>использовать</answer>
         </question>
         <question>
-            <text>մտածել</text>
-            <answer>думать (размышлять)</answer>
+            <text>մտածել|կարծել</text>
+            <answer>думать</answer>
         </question>
         <question>
             <text>գրել</text>
@@ -266,6 +262,18 @@
         <question>
             <text>փեսել</text>
             <answer>видеть</answer>
+        </question>
+        <question>
+            <text>ծխել</text>
+            <answer>курить</answer>
+        </question>
+        <question>
+            <text>մաղթալ</text>
+            <answer>желать</answer>
+        </question>
+        <question>
+            <text>կծել</text>
+            <answer>кусать</answer>
         </question>
     </questions>
 </questionary>

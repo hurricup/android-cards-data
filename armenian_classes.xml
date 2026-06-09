@@ -1866,5 +1866,21 @@
             <text>ցանկանաս</text>
             <answer>если захочешь</answer>
         </question>
+        <question>
+            <text>ապուր</text>
+            <answer>суп</answer>
+        </question>
+        <question>
+            <text>ծառ</text>
+            <answer>дерево</answer>
+        </question>
+        <question>
+            <text>բիբար|պղպեղ</text>
+            <answer>перец</answer>
+        </question>
+        <question>
+            <text>հրաշալի</text>
+            <answer>прекрасный</answer>
+        </question>
     </questions>
 </questionary>
