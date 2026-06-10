@@ -95,5 +95,9 @@
             <text>որտեղից</text>
             <answer>откуда</answer>
         </question>
+        <question>
+            <text>ինչից</text>
+            <answer>от чего</answer>
+        </question>
     </questions>
 </questionary>
