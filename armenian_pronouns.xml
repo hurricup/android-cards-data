@@ -165,7 +165,7 @@
             <answer>о тебе</answer>
         </question>
         <question>
-            <text>նա մասին|ինքը մասին</text>
+            <text>նրա մասին|իր մասին|իրա մասին</text>
             <answer>о нем|о ней</answer>
         </question>
         <question>
@@ -177,7 +177,7 @@
             <answer>о вас</answer>
         </question>
         <question>
-            <text>նրանք մասին|իրենք մասին|իրանք մասին</text>
+            <text>նրանց մասին|իրենց մասին|իրանց մասին</text>
             <answer>о них</answer>
         </question>
         <question>
