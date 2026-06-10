@@ -275,5 +275,13 @@
             <text>կծել</text>
             <answer>кусать</answer>
         </question>
+        <question>
+            <text>վճարել</text>
+            <answer>платить</answer>
+        </question>
+        <question>
+            <text>զբոսնել|ման գալ</text>
+            <answer>гулять</answer>
+        </question>
     </questions>
 </questionary>

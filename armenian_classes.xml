@@ -1882,5 +1882,13 @@
             <text>հրաշալի</text>
             <answer>прекрасный</answer>
         </question>
+        <question>
+            <text>առաջին անգամ</text>
+            <answer>первый раз</answer>
+        </question>
+        <question>
+            <text>մեկ անգամ</text>
+            <answer>один раз</answer>
+        </question>
     </questions>
 </questionary>
