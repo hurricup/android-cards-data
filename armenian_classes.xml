@@ -1890,5 +1890,13 @@
             <text>մեկ անգամ</text>
             <answer>один раз</answer>
         </question>
+        <question>
+            <text>չափազանց</text>
+            <answer>слишком</answer>
+        </question>
+        <question>
+            <text>չի հերիքում</text>
+            <answer>недостаточно</answer>
+        </question>
     </questions>
 </questionary>

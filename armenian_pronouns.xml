@@ -184,13 +184,5 @@
             <text>ոչ թե</text>
             <answer>... а не ...</answer>
         </question>
-        <question>
-            <text>չափազանց</text>
-            <answer>слишком</answer>
-        </question>
-        <question>
-            <text>չի հերիքում</text>
-            <answer>недостаточно</answer>
-        </question>
     </questions>
 </questionary>
