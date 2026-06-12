@@ -57,7 +57,7 @@
         </question>
         <question>
             <text>վաճառել</text>
-            <answer>продать</answer>
+            <answer>продать|продавать</answer>
         </question>
         <question>
             <text>բացել</text>
@@ -282,6 +282,18 @@
         <question>
             <text>զբոսնել|ման գալ</text>
             <answer>гулять</answer>
+        </question>
+        <question>
+            <text>վաճառվել</text>
+            <answer>продаваться</answer>
+        </question>
+        <question>
+            <text>ծախել</text>
+            <answer>продавать</answer>
+        </question>
+        <question>
+            <text>ծախսել</text>
+            <answer>тратить</answer>
         </question>
     </questions>
 </questionary>
