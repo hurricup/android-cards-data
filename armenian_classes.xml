@@ -1898,5 +1898,62 @@
             <text>չի հերիքում</text>
             <answer>недостаточно</answer>
         </question>
+        <question>
+            <text>արդեն</text>
+            <answer>уже</answer>
+        </question>
+        <question>
+            <text>դեռ</text>
+            <answer>еще</answer>
+        </question>
+
+        <question>
+            <text>հաջորդ</text>
+            <answer>следующий (по порядку)</answer>
+        </question>
+        <question>
+            <text>հաջորդ անգամ</text>
+            <answer>в следующий раз</answer>
+        </question>
+
+        <question>
+            <text>ուրիշ</text>
+            <answer>другой (какой-то неизвестный)</answer>
+        </question>
+        <question>
+            <text>ուրիշ չկա՞</text>
+            <answer>другой есть?</answer>
+        </question>
+
+        <question>
+            <text>դա ուրիսշ ֆիրմա</text>
+            <answer>это другая фирма</answer>
+        </question>
+        <question>
+            <text>մյուս</text>
+            <answer>другой (известный)|следующий (по порядку)</answer>
+        </question>
+
+        <question>
+            <text>մի քանի</text>
+            <answer>несколько</answer>
+        </question>
+        <question>
+            <text>նույն</text>
+            <answer>одинаковый</answer>
+        </question>
+
+        <question>
+            <text>մթերք</text>
+            <answer>продукты</answer>
+        </question>
+        <question>
+            <text>ճիշտ չի</text>
+            <answer>неправда</answer>
+        </question>
+        <question>
+            <text>սխալ ա</text>
+            <answer>неверно</answer>
+        </question>
     </questions>
 </questionary>
