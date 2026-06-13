@@ -420,5 +420,9 @@
             <text>ձմռա՛նը</text>
             <answer>зимой</answer>
         </question>
+        <question>
+            <text>միշտ</text>
+            <answer>всегда</answer>
+        </question>
     </questions>
 </questionary>

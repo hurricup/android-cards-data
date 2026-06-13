@@ -4,7 +4,8 @@
     <title>Разное (арм.)</title>
     <questions>
         <question>
-            <text>[ես] լավ եմ</text><answer>У меня все хорошо (я в порядке).</answer>
+            <text>ես լավ եմ</text>
+            <answer>У меня все хорошо</answer>
         </question>
         <question>
             <text>Այո</text><answer>Да</answer>
@@ -22,7 +23,8 @@
             <text>Երևան</text><answer>Ереван</answer>
         </question>
         <question>
-            <text>Ի՞նչ կա[-չկա]</text><answer>Что нового? (Что есть?)</answer>
+            <text>Ի՞նչ կա[-չկա]</text>
+            <answer>Что нового?</answer>
         </question>
         <question>
             <text>Լավ եմ, դո՞ւ</text><answer>Хорошо, ты (как)?</answer>
@@ -83,7 +85,8 @@
             <text>բարի օր</text><answer>добрый день</answer>
         </question>
         <question>
-            <text>բարի լույս</text><answer>доброе утро (добрый свет)</answer>
+            <text>բարի լույս</text>
+            <answer>доброе утро</answer>
         </question>
         <question>
             <text>բարև</text><answer>здравствуйте</answer>
@@ -93,7 +96,7 @@
         </question>
         <question>
             <text>դրսում</text>
-            <answer>снаружи (вне помещения)</answer>
+            <answer>снаружи</answer>
         </question>
         <question>
             <text>երազ</text><answer>сновидение</answer>
@@ -114,10 +117,12 @@
             <text>խաղ</text><answer>игра</answer>
         </question>
         <question>
-            <text>խնդրեմ</text><answer>пожалуйста (в ответ на спасибо)</answer>
+            <text>խնդրեմ</text>
+            <answer>пожалуйста</answer>
         </question>
         <question>
-            <text>խնդրում եմ</text><answer>прошу (пожалуйста просительно)</answer>
+            <text>խնդրում եմ</text>
+            <answer>прошу</answer>
         </question>
         <question>
             <text>ծիածան</text><answer>радуга</answer>
@@ -139,7 +144,8 @@
             <text>հաջող</text><answer>пока</answer>
         </question>
         <question>
-            <text>հաջողություն</text><answer>удачи (прощание)</answer>
+            <text>հաջողություն</text>
+            <answer>удачи</answer>
         </question>
         <question>
             <text>ձուկ</text><answer>рыба</answer>
@@ -181,11 +187,11 @@
         </question>
         <question>
             <text>ո՞նց ես</text>
-            <answer>Как ты? (как у тебя дела?)</answer>
+            <answer>Как ты?</answer>
         </question>
         <question>
             <text>ո՞նց եք</text>
-            <answer>Как вы? (как у вас дела)</answer>
+            <answer>Как вы?</answer>
         </question>
         <question>
             <text>ողջույն</text><answer>привет</answer>
@@ -198,7 +204,7 @@
         </question>
         <question>
             <text>չկա, դու ասա</text>
-            <answer>ничего, у тебя как? (Ничего нет, ты скажи)</answer>
+            <answer>ничего, у тебя как?</answer>
         </question>
         <question>
             <text>պանիր</text><answer>сыр</answer>
@@ -372,11 +378,11 @@
         </question>
         <question>
             <text>խաղերի</text>
-            <answer>игровой (дизайнер)</answer>
+            <answer>игровой</answer>
         </question>
         <question>
             <text>այստեղ</text>
-            <answer>здесь (это место)</answer>
+            <answer>здесь</answer>
         </question>
         <question>
             <text>համեղ</text>
@@ -396,7 +402,7 @@
         </question>
         <question>
             <text>Ուշ լինի նուշ լինի</text>
-            <answer>поздно но сладко. (тише едешь дальше будешь)</answer>
+            <answer>поздно но сладко</answer>
         </question>
         <question>
             <text>Սարի ուսին սիրուն լուսին</text>
@@ -412,7 +418,7 @@
         </question>
         <question>
             <text>Շուշան տատիկ</text>
-            <answer>бабушка Шушан (Лилия)</answer>
+            <answer>бабушка Шушан</answer>
         </question>
         <question>
             <text>Ուշ աշուն</text>
@@ -508,7 +514,7 @@
         </question>
         <question>
             <text>գարեջուր</text>
-            <answer>пиво (пшеничная вода)</answer>
+            <answer>пиво</answer>
         </question>
         <question>
             <text>մի՛սը արժի հազար դրամ</text>
@@ -528,7 +534,7 @@
         </question>
         <question>
             <text>նայած</text>
-            <answer>зависит (depends)</answer>
+            <answer>зависит</answer>
         </question>
         <question>
             <text>ժամացույց</text>
@@ -548,11 +554,11 @@
         </question>
         <question>
             <text>ախպերս</text>
-            <answer>мой брат (притяжательный артикль)</answer>
+            <answer>мой брат</answer>
         </question>
         <question>
             <text>ախպերդ</text>
-            <answer>твой брат (притяжательный артикль)</answer>
+            <answer>твой брат</answer>
         </question>
         <question>
             <text>իմ ախպե՛րը</text>
@@ -600,7 +606,7 @@
         </question>
         <question>
             <text>տա՛նը</text>
-            <answer>дома (в смысле где)</answer>
+            <answer>до՛ма</answer>
         </question>
         <question>
             <text>բայց</text>
@@ -612,11 +618,11 @@
         </question>
         <question>
             <text>կա</text>
-            <answer>есть (что-либо. аналог is. артикль не используется, неполный глагол, 3л)</answer>
+            <answer>есть (что-либо)</answer>
         </question>
         <question>
             <text>չկա</text>
-            <answer>нету (чего-либо. аналог isn't. артикль не используется, неполный глагол, 3л)</answer>
+            <answer>нету (чего-либо)</answer>
         </question>
         <question>
             <text>սա սուրճ ա</text>
@@ -652,15 +658,7 @@
         </question>
         <question>
             <text>մարդիկ</text>
-            <answer>люди. Исключение мн.ч.</answer>
-        </question>
-        <question>
-            <text>կին</text>
-            <answer>женщина, жена</answer>
-        </question>
-        <question>
-            <text>կանայք</text>
-            <answer>женщины, жены. Исключение мн.ч.</answer>
+            <answer>люди</answer>
         </question>
         <question>
             <text>օձ</text>
@@ -684,11 +682,11 @@
         </question>
         <question>
             <text>անյուղ</text>
-            <answer>обезжиренный (без жира)</answer>
+            <answer>обезжиренный</answer>
         </question>
         <question>
             <text>սովորական</text>
-            <answer>обычный (привычный)</answer>
+            <answer>обычный</answer>
         </question>
         <question>
             <text>տավարի միս</text>
@@ -732,7 +730,7 @@
         </question>
         <question>
             <text>առատ</text>
-            <answer>много (бесконечно, литературный)</answer>
+            <answer>много (бесконечно, лит.)</answer>
         </question>
         <question>
             <text>առանց շաքարի</text>
@@ -740,51 +738,51 @@
         </question>
         <question>
             <text>ունեմ</text>
-            <answer>имею (без артикля)</answer>
+            <answer>имею</answer>
         </question>
         <question>
             <text>ունես</text>
-            <answer>имеешь (без артикля)</answer>
+            <answer>имеешь</answer>
         </question>
         <question>
             <text>ունի</text>
-            <answer>имеет (без артикля)</answer>
+            <answer>имеет</answer>
         </question>
         <question>
             <text>ունենք</text>
-            <answer>имеем (без артикля)</answer>
+            <answer>имеем</answer>
         </question>
         <question>
             <text>ունեք</text>
-            <answer>имеете (без артикля)</answer>
+            <answer>имеете</answer>
         </question>
         <question>
             <text>ունեն</text>
-            <answer>имеют (без артикля)</answer>
+            <answer>имеют</answer>
         </question>
         <question>
             <text>չունեմ</text>
-            <answer>не имею (без артикля)</answer>
+            <answer>не имею</answer>
         </question>
         <question>
             <text>չունես</text>
-            <answer>не имеешь (без артикля)</answer>
+            <answer>не имеешь</answer>
         </question>
         <question>
             <text>չունի</text>
-            <answer>не имеет (без артикля)</answer>
+            <answer>не имеет</answer>
         </question>
         <question>
             <text>չունենք</text>
-            <answer>не имеем (без артикля)</answer>
+            <answer>не имеем</answer>
         </question>
         <question>
             <text>չունեք</text>
-            <answer>не имеете (без артикля)</answer>
+            <answer>не имеете</answer>
         </question>
         <question>
             <text>չունեն</text>
-            <answer>не имеют (без артикля)</answer>
+            <answer>не имеют</answer>
         </question>
         <question>
             <text>գիտեմ</text>
@@ -840,11 +838,11 @@
         </question>
         <question>
             <text>կան</text>
-            <answer>есть (что либо, мн. ч. аналог are. артикль не используется, неполный глагол, 3л)</answer>
+            <answer>есть (что либо, мн. ч.)</answer>
         </question>
         <question>
             <text>չկան</text>
-            <answer>нет (чего либо, мн. ч. аналог aren't. артикль не используется, неполный глагол, 3л)</answer>
+            <answer>нет (чего либо, мн. ч.)</answer>
         </question>
         <question>
             <text>վրացի</text>
@@ -899,7 +897,7 @@
             <answer>Где сейчас Саша?</answer>
         </question>
         <question>
-            <text>Ու՞ր գալիս է Սաշան</text>
+            <text>Ու՞ր գնում է Սաշան</text>
             <answer>Куда идет Саша?</answer>
         </question>
         <question>
@@ -940,7 +938,7 @@
         </question>
         <question>
             <text>պետք</text>
-            <answer>нуждаться (нужен)</answer>
+            <answer>нуждаться</answer>
         </question>
         <question>
             <text>Որտեղի՞ց Սաշան է</text>
@@ -993,10 +991,6 @@
         <question>
             <text>ինչպե՞ս է քո օ՛րը</text>
             <answer>как твой день?</answer>
-        </question>
-        <question>
-            <text>ինչպե՞ս է քո լողավազա՛նը</text>
-            <answer>как твой бассейн? (семантически - мы спрашиваем про сам бассейн, не про уроки)</answer>
         </question>
         <question>
             <text>Ե՞րբ դասն է</text>
@@ -1095,10 +1089,6 @@
             <answer>твой брат</answer>
         </question>
         <question>
-            <text>միշտ</text>
-            <answer>всегда</answer>
-        </question>
-        <question>
             <text>այնտեղ</text>
             <answer>там</answer>
         </question>
@@ -1112,23 +1102,23 @@
         </question>
         <question>
             <text>սա</text>
-            <answer>"это" конкретный видимый предмет, без описания. Типа это - ваза.</answer>
+            <answer>это (видим)</answer>
         </question>
         <question>
             <text>դա</text>
-            <answer>"это" какое-то или абстрактное понятие, или описание.</answer>
+            <answer>это (не видим)</answer>
         </question>
         <question>
             <text>այս</text>
-            <answer>"этот" - говорим про него и видим. Эта ручка.</answer>
+            <answer>этот (видим)</answer>
         </question>
         <question>
             <text>այդ</text>
-            <answer>"тот" - говорим, но не видим. Тот день.</answer>
+            <answer>этот (не видим)</answer>
         </question>
         <question>
             <text>այն</text>
-            <answer>"тот" - сильно далекий в сложносочиненных предложениях.</answer>
+            <answer>тот</answer>
         </question>
         <question>
             <text>բան</text>
@@ -1204,7 +1194,7 @@
         </question>
         <question>
             <text>կապ չունի</text>
-            <answer>не важно (не связано)</answer>
+            <answer>не важно</answer>
         </question>
         <question>
             <text>դեղատուն</text>
@@ -1243,12 +1233,8 @@
             <answer>штаны</answer>
         </question>
         <question>
-            <text>սոռոչկա</text>
-            <answer>рубашка (разговорный)</answer>
-        </question>
-        <question>
-            <text>վերնաշապիկ</text>
-            <answer>рубашка (лит.)</answer>
+            <text>սոռոչկա|վերնաշապիկ</text>
+            <answer>рубашка</answer>
         </question>
         <question>
             <text>եղանակ</text>
@@ -1256,43 +1242,43 @@
         </question>
         <question>
             <text>ես լավ եմ</text>
-            <answer>я в порядке (я есть хорошо)</answer>
+            <answer>я в порядке</answer>
         </question>
         <question>
             <text>ես լավն եմ</text>
-            <answer>я хорош (я есть хороший)</answer>
+            <answer>я хорош</answer>
         </question>
         <question>
             <text>Երևանի մասին</text>
-            <answer>о Еереване (послелог, род падеж)</answer>
+            <answer>о Еереване</answer>
         </question>
         <question>
             <text>Մոսկվայի մասին</text>
-            <answer>о Москве (послелог, род падеж)</answer>
+            <answer>о Москве</answer>
         </question>
         <question>
             <text>Երևանի համար</text>
-            <answer>для Еревана (послелог, род падеж)</answer>
+            <answer>для Еревана</answer>
         </question>
         <question>
             <text>Մոսկվայի համար</text>
-            <answer>для Москвы (послелог, род падеж)</answer>
+            <answer>для Москвы</answer>
         </question>
         <question>
             <text>Սաշայի հետ</text>
-            <answer>с Сашей (послелог, род падеж)</answer>
+            <answer>с Сашей</answer>
         </question>
         <question>
             <text>Մաշայի հետ</text>
-            <answer>с Машей (послелог, род падеж)</answer>
+            <answer>с Машей</answer>
         </question>
         <question>
             <text>առանց Սաշայի</text>
-            <answer>без Саши (предлог, род падеж)</answer>
+            <answer>без Саши</answer>
         </question>
         <question>
             <text>առանց Մաշայի</text>
-            <answer>без Маши (предлог, род падеж)</answer>
+            <answer>без Маши</answer>
         </question>
         <question>
             <text>ես հանգատանում եմ</text>
@@ -1324,7 +1310,7 @@
         </question>
         <question>
             <text>իհա՛րկե</text>
-            <answer>конечно (ударение - исключение)</answer>
+            <answer>конечно</answer>
         </question>
         <question>
             <text>դրա համար</text>
@@ -1336,27 +1322,27 @@
         </question>
         <question>
             <text>ես խոսել եմ</text>
-            <answer>я говорил (с кем то), заверш. время</answer>
+            <answer>я говорил</answer>
         </question>
         <question>
             <text>դու սիրել ես</text>
-            <answer>ты любил (кого-то), заверш. время</answer>
+            <answer>ты любил</answer>
         </question>
         <question>
             <text>ինքը աշխատել ը</text>
-            <answer>он работал, заверш. время</answer>
+            <answer>он работал</answer>
         </question>
         <question>
             <text>մենք ուզել ենք</text>
-            <answer>мы хотели, заверш. время</answer>
+            <answer>мы хотели</answer>
         </question>
         <question>
             <text>դուք խմել եք</text>
-            <answer>они пили, заверш. время</answer>
+            <answer>они пили</answer>
         </question>
         <question>
             <text>նրանք քնել են</text>
-            <answer>они спали, заверш. время</answer>
+            <answer>они спали</answer>
         </question>
         <question>
             <text>ես ուզում եմ ուղարկել մեկ միլլիոն րուբլ</text>
@@ -1412,35 +1398,35 @@
         </question>
         <question>
             <text>այս գրի՛չը վատն է</text>
-            <answer>эта ручка плохая (видим ее сейчас)</answer>
+            <answer>эта ручка плохая (видим)</answer>
         </question>
         <question>
             <text>այդ գրի՛չը վատն է</text>
-            <answer>эта ручка плохая (не видим. та ручка)</answer>
+            <answer>эта ручка плохая (не видим)</answer>
         </question>
         <question>
             <text>այն գրի՛չը վատն է</text>
-            <answer>эта ручка плохая (сильно далекое, сложносочиненные предложения)</answer>
+            <answer>эта ручка плохая (сильно далекое)</answer>
         </question>
         <question>
             <text>էս գրիչ է</text>
-            <answer>это ручка (видим ее сейчас)</answer>
+            <answer>это ручка (видим)</answer>
         </question>
         <question>
             <text>էդ տուն է</text>
-            <answer>это ручка (не видим или оцениваем)</answer>
+            <answer>это ручка (не видим)</answer>
         </question>
         <question>
             <text>էս գրի՛չը վատն է</text>
-            <answer>эта ручка плохая (видим ее сейчас)</answer>
+            <answer>эта ручка плохая (видим)</answer>
         </question>
         <question>
             <text>էդ գրի՛չը վատն է</text>
-            <answer>эта ручка плохая (не видим. та ручка)</answer>
+            <answer>эта ручка плохая (не видим)</answer>
         </question>
         <question>
             <text>էն գրի՛չը վատն է</text>
-            <answer>эта ручка плохая (сильно далекое, сложносочиненные предложения)</answer>
+            <answer>эта ручка плохая (сильно далекое)</answer>
         </question>
         <question>
             <text>ես չեմ ուզում</text>
@@ -1476,7 +1462,7 @@
         </question>
         <question>
             <text>վոչ մի բան</text>
-            <answer>без ничего (неформальное)</answer>
+            <answer>без ничего</answer>
         </question>
         <question>
             <text>ահավոր ա</text>
@@ -1500,7 +1486,7 @@
         </question>
         <question>
             <text>ամեն ինչ</text>
-            <answer>все</answer>
+            <answer>всё</answer>
         </question>
         <question>
             <text>ավելի սիրուն</text>
@@ -1539,16 +1525,12 @@
             <answer>самый маленький</answer>
         </question>
         <question>
-            <text>ամենալավ</text>
-            <answer>лучший (преф. форма)</answer>
+            <text>ամենալավ|լավագույն</text>
+            <answer>лучший</answer>
         </question>
         <question>
             <text>ամենավատ</text>
             <answer>худший</answer>
-        </question>
-        <question>
-            <text>լավագույն</text>
-            <answer>лучший (суфф. форма)</answer>
         </question>
         <question>
             <text>ավելի քիչ</text>
@@ -1564,7 +1546,7 @@
         </question>
         <question>
             <text>ի՞նչ է քո անո՛ւնը</text>
-            <answer>как тебя зовут (как твое имя)</answer>
+            <answer>как тебя зовут</answer>
         </question>
         <question>
             <text>անո՛ւնը</text>
@@ -1672,7 +1654,7 @@
         </question>
         <question>
             <text>մոտ</text>
-            <answer>рядом, у (послелог)</answer>
+            <answer>рядом|у (чего либо)</answer>
         </question>
         <question>
             <text>տունի մոտ</text>
@@ -1720,7 +1702,7 @@
         </question>
         <question>
             <text>քիչ</text>
-            <answer>мало (антоним շատ)</answer>
+            <answer>мало</answer>
         </question>
         <question>
             <text>շատ քիչ</text>
@@ -1744,7 +1726,7 @@
         </question>
         <question>
             <text>թխվածք</text>
-            <answer>выпечка (или кусок торта)</answer>
+            <answer>выпечка|кусок торта</answer>
         </question>
         <question>
             <text>Ես սիրում եմ Կարենին</text>
