@@ -424,5 +424,13 @@
             <text>միշտ</text>
             <answer>всегда</answer>
         </question>
+        <question>
+            <text>արդեն</text>
+            <answer>уже</answer>
+        </question>
+        <question>
+            <text>դեռ</text>
+            <answer>еще</answer>
+        </question>
     </questions>
 </questionary>

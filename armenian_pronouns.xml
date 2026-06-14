@@ -184,5 +184,21 @@
             <text>ոչ թե</text>
             <answer>... а не ...</answer>
         </question>
+        <question>
+            <text>իմ համար</text>
+            <answer>для меня</answer>
+        </question>
+        <question>
+            <text>իմ մասին</text>
+            <answer>обо мне</answer>
+        </question>
+        <question>
+            <text>իմ հետ</text>
+            <answer>со мной</answer>
+        </question>
+        <question>
+            <text>առաննց իմ</text>
+            <answer>без меня</answer>
+        </question>
     </questions>
 </questionary>

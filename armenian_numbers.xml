@@ -179,5 +179,49 @@
             <text>հազարերորդ</text>
             <answer>тысячный</answer>
         </question>
+        <question>
+            <text>մեկուկես</text>
+            <answer>полтора</answer>
+        </question>
+        <question>
+            <text>երկուուկես</text>
+            <answer>два с половиной</answer>
+        </question>
+        <question>
+            <text>երեքուկես</text>
+            <answer>три с половиной</answer>
+        </question>
+        <question>
+            <text>չորսուկես</text>
+            <answer>четыре с половиной</answer>
+        </question>
+        <question>
+            <text>հինգուկես</text>
+            <answer>пять с половиной</answer>
+        </question>
+        <question>
+            <text>վեցուկես</text>
+            <answer>шесть с половиной</answer>
+        </question>
+        <question>
+            <text>յոթուկես</text>
+            <answer>семь с половиной</answer>
+        </question>
+        <question>
+            <text>ութուկես</text>
+            <answer>восемь с половиной</answer>
+        </question>
+        <question>
+            <text>ինեուկես</text>
+            <answer>девять с половиной</answer>
+        </question>
+        <question>
+            <text>տասուկես</text>
+            <answer>десять с половиной</answer>
+        </question>
+        <question>
+            <text>զրո</text>
+            <answer>0</answer>
+        </question>
     </questions>
 </questionary>
