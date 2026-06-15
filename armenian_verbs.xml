@@ -295,5 +295,9 @@
             <text>ծախսել</text>
             <answer>тратить</answer>
         </question>
+        <question>
+            <text>գտնել</text>
+            <answer>находить</answer>
+        </question>
     </questions>
 </questionary>
