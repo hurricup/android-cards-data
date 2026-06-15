@@ -432,5 +432,17 @@
             <text>դեռ</text>
             <answer>еще</answer>
         </question>
+        <question>
+            <text>առաջին անգամ</text>
+            <answer>первый раз</answer>
+        </question>
+        <question>
+            <text>մեկ անգամ</text>
+            <answer>один раз</answer>
+        </question>
+        <question>
+            <text>այս անգամ</text>
+            <answer>каждый раз</answer>
+        </question>
     </questions>
 </questionary>
