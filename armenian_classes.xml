@@ -1856,5 +1856,9 @@
             <text>սխալ ա</text>
             <answer>неверно</answer>
         </question>
+        <question>
+            <text>ուսուցիչ</text>
+            <answer>учитель</answer>
+        </question>
     </questions>
 </questionary>
