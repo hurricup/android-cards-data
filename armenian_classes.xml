@@ -1860,5 +1860,25 @@
             <text>ուսուցիչ</text>
             <answer>учитель</answer>
         </question>
+        <question>
+            <text>անվճար</text>
+            <answer>бесплатно</answer>
+        </question>
+        <question>
+            <text>մոտավորապես</text>
+            <answer>примерно</answer>
+        </question>
+        <question>
+            <text>տարբեր</text>
+            <answer>другой|разные</answer>
+        </question>
+        <question>
+            <text>գիտելիք</text>
+            <answer>знание</answer>
+        </question>
+        <question>
+            <text>սուրճի վրա</text>
+            <answer>на кофе</answer>
+        </question>
     </questions>
 </questionary>

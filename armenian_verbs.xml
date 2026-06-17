@@ -299,5 +299,17 @@
             <text>գտնել</text>
             <answer>находить</answer>
         </question>
+        <question>
+            <text>ունենալ</text>
+            <answer>иметь</answer>
+        </question>
+        <question>
+            <text>իմանալ</text>
+            <answer>знать|узнавать</answer>
+        </question>
+        <question>
+            <text>հասկացա</text>
+            <answer>понял</answer>
+        </question>
     </questions>
 </questionary>
