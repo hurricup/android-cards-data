@@ -829,6 +829,54 @@
             <answer>не знают</answer>
         </question>
         <question>
+            <text>արժեմ</text>
+            <answer>сто́ю</answer>
+        </question>
+        <question>
+            <text>արժես</text>
+            <answer>сто́ишь</answer>
+        </question>
+        <question>
+            <text>արժի</text>
+            <answer>сто́ит</answer>
+        </question>
+        <question>
+            <text>արժենք</text>
+            <answer>сто́им</answer>
+        </question>
+        <question>
+            <text>արժեժ</text>
+            <answer>сто́ите</answer>
+        </question>
+        <question>
+            <text>արժեն</text>
+            <answer>сто́ят</answer>
+        </question>
+        <question>
+            <text>չարժեմ</text>
+            <answer>не сто́ю</answer>
+        </question>
+        <question>
+            <text>չարժես</text>
+            <answer>не сто́ишь</answer>
+        </question>
+        <question>
+            <text>չարժի</text>
+            <answer>не сто́ит</answer>
+        </question>
+        <question>
+            <text>չարժենք</text>
+            <answer>не сто́им</answer>
+        </question>
+        <question>
+            <text>չարժեժ</text>
+            <answer>не сто́ите</answer>
+        </question>
+        <question>
+            <text>չարժեն</text>
+            <answer>не сто́ят</answer>
+        </question>
+        <question>
             <text>հարգեր կան</text>
             <answer>вопросы есть</answer>
         </question>
