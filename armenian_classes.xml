@@ -1884,5 +1884,41 @@
             <text>աշխարհ</text>
             <answer>мир</answer>
         </question>
+        <question>
+            <text>ես զզվում եմ շոգից</text>
+            <answer>я ненавижу жару</answer>
+        </question>
+        <question>
+            <text>ես զզվում եմ ինձից</text>
+            <answer>я ненавижу себя</answer>
+        </question>
+        <question>
+            <text>ես զզվում եմ քեզից</text>
+            <answer>я ненавижу тебя</answer>
+        </question>
+        <question>
+            <text>ես զզվում եմ իրանից|ես զզվում եմ նարնից|ես զզվում եմ իրենից</text>
+            <answer>я ненавижу его</answer>
+        </question>
+        <question>
+            <text>ես զզվում եմ մեզից</text>
+            <answer>я ненавижу нас</answer>
+        </question>
+        <question>
+            <text>ես զզվում եմ ձեզից</text>
+            <answer>я ненавижу вас</answer>
+        </question>
+        <question>
+            <text>ես զզվում եմ իրանցից|ես զզվում եմ նարնցից|ես զզվում եմ իրենցից</text>
+            <answer>я ненавижу их</answer>
+        </question>
+        <question>
+            <text>ես զզվում եմ լողալուց</text>
+            <answer>я ненавижу плавание</answer>
+        </question>
+        <question>
+            <text>ես զզվում եմ վազելուց</text>
+            <answer>я ненавижу бег</answer>
+        </question>
     </questions>
 </questionary>
