@@ -141,7 +141,8 @@
             <text>հայ</text><answer>армянин</answer>
         </question>
         <question>
-            <text>հաջող</text><answer>пока</answer>
+            <text>հաջող</text>
+            <answer>пока (прощание)</answer>
         </question>
         <question>
             <text>հաջողություն</text>
@@ -869,7 +870,7 @@
             <answer>не сто́им</answer>
         </question>
         <question>
-            <text>չարժեժ</text>
+            <text>չարժեք</text>
             <answer>не сто́ите</answer>
         </question>
         <question>
@@ -1417,7 +1418,7 @@
             <answer>это ручка (видим)</answer>
         </question>
         <question>
-            <text>էդ տուն է</text>
+            <text>էդ գրիչ է</text>
             <answer>это ручка (не видим)</answer>
         </question>
         <question>
@@ -1510,7 +1511,7 @@
         </question>
         <question>
             <text>ավելի մեծ քան</text>
-            <answer>больше чем</answer>
+            <answer>больше чем (по размеру)</answer>
         </question>
         <question>
             <text>ավելի թոքր քան</text>
@@ -1747,10 +1748,6 @@
         <question>
             <text>ես զզվում եմ ֆոբոյից</text>
             <answer>я ненавижу фобо</answer>
-        </question>
-        <question>
-            <text>ես զզվում եմ քեձնից</text>
-            <answer>я ненавижу тебя</answer>
         </question>
         <question>
             <text>վերծ</text>

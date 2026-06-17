@@ -442,6 +442,10 @@
         </question>
         <question>
             <text>այս անգամ</text>
+            <answer>этот раз</answer>
+        </question>
+        <question>
+            <text>ամեն անգամ</text>
             <answer>каждый раз</answer>
         </question>
     </questions>
