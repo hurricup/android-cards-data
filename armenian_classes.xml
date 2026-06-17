@@ -1880,5 +1880,9 @@
             <text>սուրճի վրա</text>
             <answer>на кофе</answer>
         </question>
+        <question>
+            <text>աշխարհ</text>
+            <answer>мир</answer>
+        </question>
     </questions>
 </questionary>
