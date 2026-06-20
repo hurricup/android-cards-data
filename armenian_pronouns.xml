@@ -200,5 +200,25 @@
             <text>առաննց իմ</text>
             <answer>без меня</answer>
         </question>
+        <question>
+            <text>սա</text>
+            <answer>это (видим)</answer>
+        </question>
+        <question>
+            <text>դա</text>
+            <answer>это (не видим)</answer>
+        </question>
+        <question>
+            <text>այս</text>
+            <answer>этот (видим)</answer>
+        </question>
+        <question>
+            <text>այդ</text>
+            <answer>этот (не видим)</answer>
+        </question>
+        <question>
+            <text>այն</text>
+            <answer>тот</answer>
+        </question>
     </questions>
 </questionary>

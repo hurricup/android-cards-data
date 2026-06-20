@@ -64,18 +64,6 @@
             <answer>дешевый</answer>
         </question>
         <question>
-            <text>հեշտ</text>
-            <answer>легкий|простой</answer>
-        </question>
-        <question>
-            <text>դժվար</text>
-            <answer>трудный|сложный</answer>
-        </question>
-        <question>
-            <text>բարդ</text>
-            <answer>сложный</answer>
-        </question>
-        <question>
             <text>երկիր</text>
             <answer>страна</answer>
         </question>
@@ -102,19 +90,6 @@
         <question>
             <text>հայրենիք</text>
             <answer>родина</answer>
-        </question>
-
-        <question>
-            <text>մի քիչ</text>
-            <answer>немного|как то</answer>
-        </question>
-        <question>
-            <text>շատ</text>
-            <answer>много|очень</answer>
-        </question>
-        <question>
-            <text>քիչ</text>
-            <answer>мало</answer>
         </question>
         <question>
             <text>տաք</text>
@@ -152,15 +127,6 @@
             <text>անհետաքրքիր</text>
             <answer>неинтересный</answer>
         </question>
-
-        <question>
-            <text>լավ</text>
-            <answer>хороший|хорошо|ОК</answer>
-        </question>
-        <question>
-            <text>վատ</text>
-            <answer>плохо</answer>
-        </question>
         <question>
             <text>սիրուն|գեղեցիկ</text>
             <answer>красивый</answer>
@@ -197,11 +163,6 @@
             <text>համով</text>
             <answer>вкусный</answer>
         </question>
-
-        <question>
-            <text>հատ</text>
-            <answer>штука</answer>
-        </question>
         <question>
             <text>հեռախոս</text>
             <answer>телефон</answer>
@@ -226,7 +187,6 @@
             <text>սուրճ</text>
             <answer>кофе</answer>
         </question>
-
         <question>
             <text>աշխատանք</text>
             <answer>работа</answer>
@@ -302,38 +262,6 @@
         <question>
             <text>աղի</text>
             <answer>соленый</answer>
-        </question>
-        <question>
-            <text>աջ</text>
-            <answer>правый|направо</answer>
-        </question>
-        <question>
-            <text>ձախ</text>
-            <answer>левый|налево</answer>
-        </question>
-        <question>
-            <text>աջից</text>
-            <answer>справа</answer>
-        </question>
-        <question>
-            <text>ձախից</text>
-            <answer>слева</answer>
-        </question>
-        <question>
-            <text>առաջ նայել</text>
-            <answer>вперед смотреть</answer>
-        </question>
-        <question>
-            <text>հետ նայել</text>
-            <answer>назад смотреть</answer>
-        </question>
-        <question>
-            <text>առջևում</text>
-            <answer>впереди</answer>
-        </question>
-        <question>
-            <text>հետևում</text>
-            <answer>позади</answer>
         </question>
         <question>
             <text>մարդ</text>

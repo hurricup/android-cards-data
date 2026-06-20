@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questionary>
+    <id>Армянские вспомогательные слова</id>
+    <title>Вспомогательные (арм.)</title>
+    <questions>
+        <question>
+            <text>իսկ</text>
+            <answer>и (в смысле а)</answer>
+        </question>
+        <question>
+            <text>ու|և</text>
+            <answer>и</answer>
+        </question>
+        <question>
+            <text>բայց</text>
+            <answer>но</answer>
+        </question>
+        <question>
+            <text>թե</text>
+            <answer>или (в вопросительном предложении)</answer>
+        </question>
+        <question>
+            <text>կամ</text>
+            <answer>или (в утвердительном предложении)</answer>
+        </question>
+        <question>
+            <text>քան</text>
+            <answer>чем (в сравнении, больше чем)</answer>
+        </question>
+        <question>
+            <text>ավելի ...</text>
+            <answer>более ...</answer>
+        </question>
+        <question>
+            <text>չափազանց</text>
+            <answer>слишком</answer>
+        </question>
+        <question>
+            <text>չի հերիքում</text>
+            <answer>недостаточно</answer>
+        </question>
+        <question>
+            <text>հաջորդ</text>
+            <answer>следующий (по порядку)</answer>
+        </question>
+        <question>
+            <text>ուրիշ</text>
+            <answer>другой (какой-то неизвестный)</answer>
+        </question>
+        <question>
+            <text>տարբեր</text>
+            <answer>другой|разные</answer>
+        </question>
+        <question>
+            <text>մի քանի</text>
+            <answer>несколько</answer>
+        </question>
+        <question>
+            <text>նույն</text>
+            <answer>одинаковый</answer>
+        </question>
+        <question>
+            <text>այո</text>
+            <answer>да</answer>
+        </question>
+        <question>
+            <text>հա</text>
+            <answer>ага</answer>
+        </question>
+        <question>
+            <text>ոչ</text>
+            <answer>нет</answer>
+        </question>
+        <question>
+            <text>չէ</text>
+            <answer>не (разговорная форма нет)</answer>
+        </question>
+        <question>
+            <text>էլ</text>
+            <answer>тоже</answer>
+        </question>
+        <question>
+            <text>նույնպես</text>
+            <answer>тоже</answer>
+        </question>
+        <question>
+            <text>առատ</text>
+            <answer>много (бесконечно, лит.)</answer>
+        </question>
+        <question>
+            <text>որովհետև</text>
+            <answer>потому что</answer>
+        </question>
+        <question>
+            <text>կապ չունի</text>
+            <answer>не важно</answer>
+        </question>
+        <question>
+            <text>իհա՛րկե</text>
+            <answer>конечно</answer>
+        </question>
+        <question>
+            <text>դրա համար</text>
+            <answer>поэтому</answer>
+        </question>
+        <question>
+            <text>ճիշտ չի</text>
+            <answer>неправда</answer>
+        </question>
+        <question>
+            <text>սխալ ա</text>
+            <answer>неверно</answer>
+        </question>
+        <question>
+            <text>սուտ ա</text>
+            <answer>это ложь (неправда)</answer>
+        </question>
+        <question>
+            <text>ճիշտ ա</text>
+            <answer>правильно</answer>
+        </question>
+        <question>
+            <text>..ի համար</text>
+            <answer>для ...|за ...</answer>
+        </question>
+        <question>
+            <text>․․․ի մասին</text>
+            <answer>о ...|про ...</answer>
+        </question>
+        <question>
+            <text>․․․ի հետ</text>
+            <answer>с ...</answer>
+        </question>
+        <question>
+            <text>․․․ի մոտ</text>
+            <answer>рядом с ...|около ...|у ...</answer>
+        </question>
+        <question>
+            <text>․․․ի վրա</text>
+            <answer>на ...</answer>
+        </question>
+        <question>
+            <text>առանց ․․․ի</text>
+            <answer>без ...</answer>
+        </question>
+        <question>
+            <text>հեշտ</text>
+            <answer>легкий|простой</answer>
+        </question>
+        <question>
+            <text>դժվար</text>
+            <answer>трудный|сложный</answer>
+        </question>
+        <question>
+            <text>բարդ</text>
+            <answer>сложный</answer>
+        </question>
+        <question>
+            <text>մի քիչ</text>
+            <answer>немного|как то</answer>
+        </question>
+        <question>
+            <text>շատ</text>
+            <answer>много|очень</answer>
+        </question>
+        <question>
+            <text>քիչ</text>
+            <answer>мало</answer>
+        </question>
+        <question>
+            <text>վատ</text>
+            <answer>плохо</answer>
+        </question>
+        <question>
+            <text>լավ</text>
+            <answer>хороший|хорошо|ОК</answer>
+        </question>
+        <question>
+            <text>հատ</text>
+            <answer>штука</answer>
+        </question>
+    </questions>
+</questionary>

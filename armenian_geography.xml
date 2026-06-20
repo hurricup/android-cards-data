@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questionary>
+    <id>Армянские пространственные слова</id>
+    <title>Пространство (арм.)</title>
+    <questions>
+        <question>
+            <text>դրսում</text>
+            <answer>снаружи</answer>
+        </question>
+        <question>
+            <text>այստեղ</text>
+            <answer>здесь</answer>
+        </question>
+        <question>
+            <text>այնտեղ</text>
+            <answer>там</answer>
+        </question>
+        <question>
+            <text>աջ</text>
+            <answer>правый|направо</answer>
+        </question>
+        <question>
+            <text>ձախ</text>
+            <answer>левый|налево</answer>
+        </question>
+        <question>
+            <text>աջից</text>
+            <answer>справа</answer>
+        </question>
+        <question>
+            <text>ձախից</text>
+            <answer>слева</answer>
+        </question>
+        <question>
+            <text>առաջ նայել</text>
+            <answer>вперед смотреть</answer>
+        </question>
+        <question>
+            <text>հետ նայել</text>
+            <answer>назад смотреть</answer>
+        </question>
+        <question>
+            <text>առջևում</text>
+            <answer>впереди</answer>
+        </question>
+        <question>
+            <text>հետևում</text>
+            <answer>позади</answer>
+        </question>
+
+    </questions>
+</questionary>
