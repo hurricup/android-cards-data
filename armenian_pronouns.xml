@@ -220,5 +220,13 @@
             <text>այն</text>
             <answer>тот</answer>
         </question>
+        <question>
+            <text>ոչ ոք</text>
+            <answer>никто</answer>
+        </question>
+        <question>
+            <text>ոչինչ</text>
+            <answer>ничего</answer>
+        </question>
     </questions>
 </questionary>

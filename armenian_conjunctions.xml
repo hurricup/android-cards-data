@@ -179,5 +179,41 @@
             <text>հատ</text>
             <answer>штука</answer>
         </question>
+        <question>
+            <text>հակարա՛կը</text>
+            <answer>наоборот</answer>
+        </question>
+        <question>
+            <text>շատ քիչ</text>
+            <answer>очень мало</answer>
+        </question>
+        <question>
+            <text>սիրած</text>
+            <answer>любимый</answer>
+        </question>
+        <question>
+            <text>ամենասիրած</text>
+            <answer>самый любимый</answer>
+        </question>
+        <question>
+            <text>մենակ</text>
+            <answer>один|только</answer>
+        </question>
+        <question>
+            <text>եթե</text>
+            <answer>если</answer>
+        </question>
+        <question>
+            <text>ուղղակի</text>
+            <answer>просто (just)</answer>
+        </question>
+        <question>
+            <text>ուրախ եմ</text>
+            <answer>я рад</answer>
+        </question>
+        <question>
+            <text>իրականում</text>
+            <answer>на самом деле</answer>
+        </question>
     </questions>
 </questionary>

@@ -174,9 +174,6 @@
             <text>ողջույն</text><answer>привет</answer>
         </question>
         <question>
-            <text>ոչինչ</text><answer>ничего</answer>
-        </question>
-        <question>
             <text>չամիչ</text><answer>изюм</answer>
         </question>
         <question>
@@ -1238,10 +1235,6 @@
             <answer>проблема</answer>
         </question>
         <question>
-            <text>ոչ ոք</text>
-            <answer>никто</answer>
-        </question>
-        <question>
             <text>աշակերտ</text>
             <answer>ученик</answer>
         </question>
@@ -1442,26 +1435,6 @@
             <answer>аренда</answer>
         </question>
         <question>
-            <text>հակարա՛կը</text>
-            <answer>наоборот</answer>
-        </question>
-        <question>
-            <text>քիչ</text>
-            <answer>мало</answer>
-        </question>
-        <question>
-            <text>շատ քիչ</text>
-            <answer>очень мало</answer>
-        </question>
-        <question>
-            <text>սիրած</text>
-            <answer>любимый</answer>
-        </question>
-        <question>
-            <text>ամենասիրած</text>
-            <answer>самый любимый</answer>
-        </question>
-        <question>
             <text>ուտելի՛քը</text>
             <answer>еда</answer>
         </question>
@@ -1554,28 +1527,8 @@
             <answer>врач</answer>
         </question>
         <question>
-            <text>մենակ</text>
-            <answer>один|только</answer>
-        </question>
-        <question>
-            <text>եթե</text>
-            <answer>если</answer>
-        </question>
-        <question>
-            <text>ուղղակի</text>
-            <answer>просто (just)</answer>
-        </question>
-        <question>
             <text>վարժ</text>
             <answer>уметь что-то делать хорошо и опыт</answer>
-        </question>
-        <question>
-            <text>ուրախ եմ</text>
-            <answer>я рад</answer>
-        </question>
-        <question>
-            <text>իրականում</text>
-            <answer>на самом деле</answer>
         </question>
         <question>
             <text>օտար</text>
@@ -1600,10 +1553,6 @@
         <question>
             <text>հրաշալի</text>
             <answer>прекрасный</answer>
-        </question>
-        <question>
-            <text>հաջորդ անգամ</text>
-            <answer>в следующий раз</answer>
         </question>
 
         <question>

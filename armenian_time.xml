@@ -448,5 +448,9 @@
             <text>ամեն անգամ</text>
             <answer>каждый раз</answer>
         </question>
+        <question>
+            <text>հաջորդ անգամ</text>
+            <answer>в следующий раз</answer>
+        </question>
     </questions>
 </questionary>
