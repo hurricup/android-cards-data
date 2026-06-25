@@ -228,5 +228,9 @@
             <text>ոչինչ</text>
             <answer>ничего</answer>
         </question>
+        <question>
+            <text>բոլո՛րը</text>
+            <answer>все</answer>
+        </question>
     </questions>
 </questionary>

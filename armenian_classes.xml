@@ -1519,10 +1519,6 @@
             <answer>киндза</answer>
         </question>
         <question>
-            <text>ահավոր ա</text>
-            <answer>ужасно</answer>
-        </question>
-        <question>
             <text>բյիշկ</text>
             <answer>врач</answer>
         </question>
@@ -1554,7 +1550,6 @@
             <text>հրաշալի</text>
             <answer>прекрасный</answer>
         </question>
-
         <question>
             <text>ուրիշ չկա՞</text>
             <answer>другой есть?</answer>
@@ -1628,6 +1623,14 @@
         <question>
             <text>ես զզվում եմ վազելուց</text>
             <answer>я ненавижу бег</answer>
+        </question>
+        <question>
+            <text>նուշ</text>
+            <answer>миндаль</answer>
+        </question>
+        <question>
+            <text>առաքում</text>
+            <answer>доставка</answer>
         </question>
     </questions>
 </questionary>

@@ -311,5 +311,9 @@
             <text>հասկացա</text>
             <answer>понял</answer>
         </question>
+        <question>
+            <text>պատվիրել</text>
+            <answer>заказывать</answer>
+        </question>
     </questions>
 </questionary>
