@@ -232,5 +232,9 @@
             <text>բոլո՛րը</text>
             <answer>все</answer>
         </question>
+        <question>
+            <text>դրանք</text>
+            <answer>они (неодуш.)</answer>
+        </question>
     </questions>
 </questionary>
