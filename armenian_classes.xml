@@ -1111,7 +1111,7 @@
             <answer>я хочу отправить один миллион рублей</answer>
         </question>
         <question>
-            <text>ես ուզում եմ գնել մեկուկաս հազար դօլլար</text>
+            <text>ես ուզում եմ գնել հազար հինգ հարյուր դօլլար</text>
             <answer>я хочу купить полторы тысячи долларов</answer>
         </question>
         <question>
@@ -1397,10 +1397,6 @@
         <question>
             <text>չի կարող</text>
             <answer>не может</answer>
-        </question>
-        <question>
-            <text>մոտ</text>
-            <answer>рядом|у (чего либо)</answer>
         </question>
         <question>
             <text>տունի մոտ</text>
