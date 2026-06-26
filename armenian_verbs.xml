@@ -315,5 +315,37 @@
             <text>պատվիրել</text>
             <answer>заказывать</answer>
         </question>
+        <question>
+            <text>ճամփորդել</text>
+            <answer>путешествовать</answer>
+        </question>
+        <question>
+            <text>խնայել</text>
+            <answer>экономить|сохранять</answer>
+        </question>
+        <question>
+            <text>արի</text>
+            <answer>иди (со мной/ко мне)</answer>
+        </question>
+        <question>
+            <text>եկեք</text>
+            <answer>идите (со мной/ко мне)</answer>
+        </question>
+        <question>
+            <text>տուր</text>
+            <answer>давай</answer>
+        </question>
+        <question>
+            <text>տվեք</text>
+            <answer>давайте</answer>
+        </question>
+        <question>
+            <text>գնա</text>
+            <answer>иди|уходи</answer>
+        </question>
+        <question>
+            <text>գնացեք</text>
+            <answer>идите|уходите</answer>
+        </question>
     </questions>
 </questionary>

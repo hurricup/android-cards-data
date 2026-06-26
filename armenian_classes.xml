@@ -1331,14 +1331,6 @@
             <answer>послушайте</answer>
         </question>
         <question>
-            <text>տուր</text>
-            <answer>дай</answer>
-        </question>
-        <question>
-            <text>տվեք</text>
-            <answer>дайте</answer>
-        </question>
-        <question>
             <text>վերցրու</text>
             <answer>возьми</answer>
         </question>
@@ -1631,6 +1623,18 @@
         <question>
             <text>առաքում</text>
             <answer>доставка</answer>
+        </question>
+        <question>
+            <text>շոր</text>
+            <answer>одежда</answer>
+        </question>
+        <question>
+            <text>զգեստ</text>
+            <answer>платье</answer>
+        </question>
+        <question>
+            <text>դրանք</text>
+            <answer>они (неодуш.)</answer>
         </question>
     </questions>
 </questionary>

@@ -452,5 +452,21 @@
             <text>հաջորդ անգամ</text>
             <answer>в следующий раз</answer>
         </question>
+        <question>
+            <text>ամառային</text>
+            <answer>летний</answer>
+        </question>
+        <question>
+            <text>ձմեռային</text>
+            <answer>зимний</answer>
+        </question>
+        <question>
+            <text>աշունային</text>
+            <answer>осенний</answer>
+        </question>
+        <question>
+            <text>գարունային</text>
+            <answer>весенний</answer>
+        </question>
     </questions>
 </questionary>
