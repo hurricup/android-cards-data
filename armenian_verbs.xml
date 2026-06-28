@@ -347,5 +347,25 @@
             <text>գնացեք</text>
             <answer>идите|уходите</answer>
         </question>
+        <question>
+            <text>էինք</text>
+            <answer>мы были</answer>
+        </question>
+        <question>
+            <text>էր</text>
+            <answer>был</answer>
+        </question>
+        <question>
+            <text>գիտեմ</text>
+            <answer>я знаю</answer>
+        </question>
+        <question>
+            <text>հաշվել</text>
+            <answer>посчитать</answer>
+        </question>
+        <question>
+            <text>ստացվում</text>
+            <answer>получается</answer>
+        </question>
     </questions>
 </questionary>
