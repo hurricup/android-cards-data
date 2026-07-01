@@ -351,5 +351,81 @@
             <text>ճնճղուկ|ծիտիկ</text>
             <answer>воробей</answer>
         </question>
+        <question>
+            <text>ուղիղ</text>
+            <answer>прямо | прямой</answer>
+        </question>
+        <question>
+            <text>ծուռ</text>
+            <answer>криво | кривой</answer>
+        </question>
+        <question>
+            <text>հյուսիս</text>
+            <answer>север</answer>
+        </question>
+        <question>
+            <text>հյուսիսային</text>
+            <answer>северный</answer>
+        </question>
+        <question>
+            <text>հարավ</text>
+            <answer>юг</answer>
+        </question>
+        <question>
+            <text>հարավային</text>
+            <answer>южный</answer>
+        </question>
+        <question>
+            <text>արևելք</text>
+            <answer>восток</answer>
+        </question>
+        <question>
+            <text>արևելյան</text>
+            <answer>восточный</answer>
+        </question>
+        <question>
+            <text>արևմուտք</text>
+            <answer>запад</answer>
+        </question>
+        <question>
+            <text>արևմտյան</text>
+            <answer>западный</answer>
+        </question>
+        <question>
+            <text>լուսավոր</text>
+            <answer>светлый</answer>
+        </question>
+        <question>
+            <text>մութ</text>
+            <answer>темный</answer>
+        </question>
+        <question>
+            <text>ծանր</text>
+            <answer>тяжелый (по весу)</answer>
+        </question>
+        <question>
+            <text>թեթև</text>
+            <answer>легкий (по весу)</answer>
+        </question>
+        <question>
+            <text>հաստ</text>
+            <answer>толстый</answer>
+        </question>
+        <question>
+            <text>բարակ</text>
+            <answer>тонкий</answer>
+        </question>
+        <question>
+            <text>գեր</text>
+            <answer>толстый</answer>
+        </question>
+        <question>
+            <text>չաղ</text>
+            <answer>толстый (о человеке)</answer>
+        </question>
+        <question>
+            <text>նիհար</text>
+            <answer>худой</answer>
+        </question>
     </questions>
 </questionary>
