@@ -260,7 +260,7 @@
             <answer>помогать</answer>
         </question>
         <question>
-            <text>փեսել</text>
+            <text>տեսնել</text>
             <answer>видеть</answer>
         </question>
         <question>
@@ -366,6 +366,30 @@
         <question>
             <text>ստացվում</text>
             <answer>получается</answer>
+        </question>
+        <question>
+            <text>բերել</text>
+            <answer>приносить</answer>
+        </question>
+        <question>
+            <text>տանել</text>
+            <answer>относить|возить</answer>
+        </question>
+        <question>
+            <text>նստել</text>
+            <answer>сидеть</answer>
+        </question>
+        <question>
+            <text>կանգնել</text>
+            <answer>стоять</answer>
+        </question>
+        <question>
+            <text>պառկել</text>
+            <answer>лежать</answer>
+        </question>
+        <question>
+            <text>հոգնել</text>
+            <answer>уставать</answer>
         </question>
     </questions>
 </questionary>
