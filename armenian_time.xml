@@ -468,5 +468,17 @@
             <text>գարունային</text>
             <answer>весенний</answer>
         </question>
+        <question>
+            <text>շուտով</text>
+            <answer>скоро</answer>
+        </question>
+        <question>
+            <text>Ուշ աշուն</text>
+            <answer>поздняя осень</answer>
+        </question>
+        <question>
+            <text>օրերին</text>
+            <answer>в дни</answer>
+        </question>
     </questions>
 </questionary>

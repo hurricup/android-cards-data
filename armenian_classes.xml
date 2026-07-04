@@ -19,9 +19,6 @@
             <text>Ես էլ եմ լավ</text><answer>У меня тоже все хорошо</answer>
         </question>
         <question>
-            <text>Երևան</text><answer>Ереван</answer>
-        </question>
-        <question>
             <text>Ի՞նչ կա[-չկա]</text>
             <answer>Что нового?</answer>
         </question>
@@ -291,30 +288,6 @@
             <answer>Чай вкусный.</answer>
         </question>
         <question>
-            <text>հայկական</text>
-            <answer>армянский (про производство)</answer>
-        </question>
-        <question>
-            <text>հայերեն</text>
-            <answer>армянский (только про язык)</answer>
-        </question>
-        <question>
-            <text>րուսերեն</text>
-            <answer>русский (язык)</answer>
-        </question>
-        <question>
-            <text>իսպաներեն</text>
-            <answer>испанский (язык)</answer>
-        </question>
-        <question>
-            <text>անգլերեն</text>
-            <answer>английский (язык)</answer>
-        </question>
-        <question>
-            <text>վրաստան</text>
-            <answer>грузия</answer>
-        </question>
-        <question>
             <text>վրացական խինկալի</text>
             <answer>грузинский хинкали</answer>
         </question>
@@ -379,10 +352,6 @@
             <answer>бабушка Шушан</answer>
         </question>
         <question>
-            <text>Ուշ աշուն</text>
-            <answer>поздняя осень</answer>
-        </question>
-        <question>
             <text>Աշնան մշուշ</text>
             <answer>осенний туман</answer>
         </question>
@@ -417,10 +386,6 @@
         <question>
             <text>սանր</text>
             <answer>расческа</answer>
-        </question>
-        <question>
-            <text>ասա</text>
-            <answer>скажи</answer>
         </question>
         <question>
             <text>հաց</text>
@@ -487,10 +452,6 @@
             <answer>молоко</answer>
         </question>
         <question>
-            <text>նայած</text>
-            <answer>зависит</answer>
-        </question>
-        <question>
             <text>ժամացույց</text>
             <answer>часы</answer>
         </question>
@@ -523,22 +484,6 @@
             <answer>твой брат</answer>
         </question>
         <question>
-            <text>Մոսկվայում</text>
-            <answer>в Москве</answer>
-        </question>
-        <question>
-            <text>Մոսկվայից</text>
-            <answer>из Москвы</answer>
-        </question>
-        <question>
-            <text>Երևանում</text>
-            <answer>в Ереване</answer>
-        </question>
-        <question>
-            <text>Երևանից</text>
-            <answer>из Еревана</answer>
-        </question>
-        <question>
             <text>դու նայո՞ւմ ես կատվիկներին</text>
             <answer>Ты смотришь котиков?</answer>
         </question>
@@ -557,10 +502,6 @@
         <question>
             <text>տա՛նը հաց կա</text>
             <answer>дома есть хлеб</answer>
-        </question>
-        <question>
-            <text>տա՛նը</text>
-            <answer>до՛ма</answer>
         </question>
         <question>
             <text>կա</text>
@@ -661,10 +602,6 @@
         <question>
             <text>բոթաս</text>
             <answer>кроссовки</answer>
-        </question>
-        <question>
-            <text>ափսոս</text>
-            <answer>жаль</answer>
         </question>
         <question>
             <text>Ի՞նչ ա եղել</text>
@@ -867,14 +804,6 @@
             <answer>денег нет</answer>
         </question>
         <question>
-            <text>հունարեն</text>
-            <answer>греческий (язык)</answer>
-        </question>
-        <question>
-            <text>հունական</text>
-            <answer>греческий (производство)</answer>
-        </question>
-        <question>
             <text>քա՞նի հատ</text>
             <answer>сколько штук</answer>
         </question>
@@ -947,10 +876,6 @@
             <answer>плохие вещи</answer>
         </question>
         <question>
-            <text>կես</text>
-            <answer>половина</answer>
-        </question>
-        <question>
             <text>համարյա</text>
             <answer>почти</answer>
         </question>
@@ -969,14 +894,6 @@
         <question>
             <text>դեղատուն</text>
             <answer>аптека</answer>
-        </question>
-        <question>
-            <text>քաղաք</text>
-            <answer>город</answer>
-        </question>
-        <question>
-            <text>հյուրանոց</text>
-            <answer>гостиница</answer>
         </question>
         <question>
             <text>ընկերություն</text>
@@ -1483,10 +1400,6 @@
             <answer>свободный</answer>
         </question>
         <question>
-            <text>շուտով</text>
-            <answer>скоро</answer>
-        </question>
-        <question>
             <text>կանաչ թեյ</text>
             <answer>зеленый чай</answer>
         </question>
@@ -1542,16 +1455,10 @@
             <text>ուրիշ չկա՞</text>
             <answer>другой есть?</answer>
         </question>
-
         <question>
             <text>դա ուրիսշ ֆիրմա</text>
             <answer>это другая фирма</answer>
         </question>
-        <question>
-            <text>մյուս</text>
-            <answer>другой (известный)|следующий (по порядку)</answer>
-        </question>
-
         <question>
             <text>մթերք</text>
             <answer>продукты</answer>
@@ -1571,10 +1478,6 @@
         <question>
             <text>սուրճի վրա</text>
             <answer>на кофе</answer>
-        </question>
-        <question>
-            <text>աշխարհ</text>
-            <answer>мир</answer>
         </question>
         <question>
             <text>ես զզվում եմ շոգից</text>
@@ -1647,18 +1550,6 @@
         <question>
             <text>հաճելի</text>
             <answer>приятный</answer>
-        </question>
-        <question>
-            <text>մոտավորապես</text>
-            <answer>примерно</answer>
-        </question>
-        <question>
-            <text>քաղաքից դուրս</text>
-            <answer>за город</answer>
-        </question>
-        <question>
-            <text>օրերին</text>
-            <answer>в дни</answer>
         </question>
     </questions>
 </questionary>

@@ -391,5 +391,9 @@
             <text>հոգնել</text>
             <answer>уставать</answer>
         </question>
+        <question>
+            <text>ասա</text>
+            <answer>скажи</answer>
+        </question>
     </questions>
 </questionary>

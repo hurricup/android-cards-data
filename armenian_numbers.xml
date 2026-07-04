@@ -223,5 +223,9 @@
             <text>զրո</text>
             <answer>0</answer>
         </question>
+        <question>
+            <text>կես</text>
+            <answer>половина</answer>
+        </question>
     </questions>
 </questionary>

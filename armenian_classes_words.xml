@@ -76,18 +76,6 @@
             <answer>деньги</answer>
         </question>
         <question>
-            <text>փողոց</text>
-            <answer>улица</answer>
-        </question>
-        <question>
-            <text>պողոտա</text>
-            <answer>проспект</answer>
-        </question>
-        <question>
-            <text>գյուղ</text>
-            <answer>деревня</answer>
-        </question>
-        <question>
             <text>հայրենիք</text>
             <answer>родина</answer>
         </question>
@@ -204,14 +192,6 @@
             <answer>дела</answer>
         </question>
         <question>
-            <text>սենյակ</text>
-            <answer>комната</answer>
-        </question>
-        <question>
-            <text>սենյակներ</text>
-            <answer>комнаты</answer>
-        </question>
-        <question>
             <text>գիրք</text>
             <answer>книга</answer>
         </question>
@@ -234,14 +214,6 @@
         <question>
             <text>դաս</text>
             <answer>урок</answer>
-        </question>
-        <question>
-            <text>տուն</text>
-            <answer>дом</answer>
-        </question>
-        <question>
-            <text>տներ</text>
-            <answer>дома (мн. число)</answer>
         </question>
         <question>
             <text>քաղցր</text>
@@ -336,60 +308,12 @@
             <answer>русские</answer>
         </question>
         <question>
-            <text>այգի</text>
-            <answer>парк|сад</answer>
-        </question>
-        <question>
-            <text>այգում</text>
-            <answer>в парке|в саду</answer>
-        </question>
-        <question>
             <text>ագռավ</text>
             <answer>ворона</answer>
         </question>
         <question>
             <text>ճնճղուկ|ծիտիկ</text>
             <answer>воробей</answer>
-        </question>
-        <question>
-            <text>ուղիղ</text>
-            <answer>прямо | прямой</answer>
-        </question>
-        <question>
-            <text>ծուռ</text>
-            <answer>криво | кривой</answer>
-        </question>
-        <question>
-            <text>հյուսիս</text>
-            <answer>север</answer>
-        </question>
-        <question>
-            <text>հյուսիսային</text>
-            <answer>северный</answer>
-        </question>
-        <question>
-            <text>հարավ</text>
-            <answer>юг</answer>
-        </question>
-        <question>
-            <text>հարավային</text>
-            <answer>южный</answer>
-        </question>
-        <question>
-            <text>արևելք</text>
-            <answer>восток</answer>
-        </question>
-        <question>
-            <text>արևելյան</text>
-            <answer>восточный</answer>
-        </question>
-        <question>
-            <text>արևմուտք</text>
-            <answer>запад</answer>
-        </question>
-        <question>
-            <text>արևմտյան</text>
-            <answer>западный</answer>
         </question>
         <question>
             <text>լուսավոր</text>
@@ -416,11 +340,7 @@
             <answer>тонкий</answer>
         </question>
         <question>
-            <text>գեր</text>
-            <answer>толстый</answer>
-        </question>
-        <question>
-            <text>չաղ</text>
+            <text>գեր|չաղ</text>
             <answer>толстый (о человеке)</answer>
         </question>
         <question>

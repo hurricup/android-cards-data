@@ -47,6 +47,145 @@
             <text>հետևում</text>
             <answer>позади</answer>
         </question>
-
+        <question>
+            <text>հյուսիս</text>
+            <answer>север</answer>
+        </question>
+        <question>
+            <text>հյուսիսային</text>
+            <answer>северный</answer>
+        </question>
+        <question>
+            <text>հարավ</text>
+            <answer>юг</answer>
+        </question>
+        <question>
+            <text>հարավային</text>
+            <answer>южный</answer>
+        </question>
+        <question>
+            <text>արևելք</text>
+            <answer>восток</answer>
+        </question>
+        <question>
+            <text>արևելյան</text>
+            <answer>восточный</answer>
+        </question>
+        <question>
+            <text>արևմուտք</text>
+            <answer>запад</answer>
+        </question>
+        <question>
+            <text>արևմտյան</text>
+            <answer>западный</answer>
+        </question>
+        <question>
+            <text>ուղիղ</text>
+            <answer>прямо | прямой</answer>
+        </question>
+        <question>
+            <text>ծուռ</text>
+            <answer>криво | кривой</answer>
+        </question>
+        <question>
+            <text>փողոց</text>
+            <answer>улица</answer>
+        </question>
+        <question>
+            <text>պողոտա</text>
+            <answer>проспект</answer>
+        </question>
+        <question>
+            <text>գյուղ</text>
+            <answer>деревня</answer>
+        </question>
+        <question>
+            <text>սենյակ</text>
+            <answer>комната</answer>
+        </question>
+        <question>
+            <text>տուն</text>
+            <answer>дом</answer>
+        </question>
+        <question>
+            <text>տներ</text>
+            <answer>дома (мн. число)</answer>
+        </question>
+        <question>
+            <text>այգի</text>
+            <answer>парк|сад</answer>
+        </question>
+        <question>
+            <text>Երևան</text>
+            <answer>Ереван</answer>
+        </question>
+        <question>
+            <text>հայկական</text>
+            <answer>армянский (про производство)</answer>
+        </question>
+        <question>
+            <text>հայերեն</text>
+            <answer>армянский (только про язык)</answer>
+        </question>
+        <question>
+            <text>րուսերեն</text>
+            <answer>русский (язык)</answer>
+        </question>
+        <question>
+            <text>իսպաներեն</text>
+            <answer>испанский (язык)</answer>
+        </question>
+        <question>
+            <text>անգլերեն</text>
+            <answer>английский (язык)</answer>
+        </question>
+        <question>
+            <text>վրաստան</text>
+            <answer>грузия</answer>
+        </question>
+        <question>
+            <text>Մոսկվայում</text>
+            <answer>в Москве</answer>
+        </question>
+        <question>
+            <text>Մոսկվայից</text>
+            <answer>из Москвы</answer>
+        </question>
+        <question>
+            <text>Երևանում</text>
+            <answer>в Ереване</answer>
+        </question>
+        <question>
+            <text>Երևանից</text>
+            <answer>из Еревана</answer>
+        </question>
+        <question>
+            <text>տա՛նը</text>
+            <answer>до՛ма</answer>
+        </question>
+        <question>
+            <text>հունարեն</text>
+            <answer>греческий (язык)</answer>
+        </question>
+        <question>
+            <text>հունական</text>
+            <answer>греческий (производство)</answer>
+        </question>
+        <question>
+            <text>քաղաք</text>
+            <answer>город</answer>
+        </question>
+        <question>
+            <text>հյուրանոց</text>
+            <answer>гостиница</answer>
+        </question>
+        <question>
+            <text>քաղաքից դուրս</text>
+            <answer>за город</answer>
+        </question>
+        <question>
+            <text>աշխարհ</text>
+            <answer>мир</answer>
+        </question>
     </questions>
 </questionary>

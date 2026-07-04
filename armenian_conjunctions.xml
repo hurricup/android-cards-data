@@ -196,6 +196,30 @@
             <answer>самый любимый</answer>
         </question>
         <question>
+            <text>ուրախ եմ</text>
+            <answer>я рад</answer>
+        </question>
+        <question>
+            <text>իրականում</text>
+            <answer>на самом деле</answer>
+        </question>
+        <question>
+            <text>նայած</text>
+            <answer>зависит</answer>
+        </question>
+        <question>
+            <text>ափսոս</text>
+            <answer>жаль</answer>
+        </question>
+        <question>
+            <text>մյուս</text>
+            <answer>другой (известный)|следующий (по порядку)</answer>
+        </question>
+        <question>
+            <text>մոտավորապես</text>
+            <answer>примерно</answer>
+        </question>
+        <question>
             <text>մենակ</text>
             <answer>один|только</answer>
         </question>
@@ -206,14 +230,6 @@
         <question>
             <text>ուղղակի</text>
             <answer>просто (just)</answer>
-        </question>
-        <question>
-            <text>ուրախ եմ</text>
-            <answer>я рад</answer>
-        </question>
-        <question>
-            <text>իրականում</text>
-            <answer>на самом деле</answer>
         </question>
     </questions>
 </questionary>
