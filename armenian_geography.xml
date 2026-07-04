@@ -187,5 +187,13 @@
             <text>աշխարհ</text>
             <answer>мир</answer>
         </question>
+        <question>
+            <text>սրճարան</text>
+            <answer>кофейня|кафе</answer>
+        </question>
+        <question>
+            <text>խոհանոց</text>
+            <answer>кухня</answer>
+        </question>
     </questions>
 </questionary>

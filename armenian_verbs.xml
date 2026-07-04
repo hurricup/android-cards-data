@@ -395,5 +395,9 @@
             <text>ասա</text>
             <answer>скажи</answer>
         </question>
+        <question>
+            <text>եղել եք</text>
+            <answer>были (когда то)</answer>
+        </question>
     </questions>
 </questionary>

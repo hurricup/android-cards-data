@@ -1551,5 +1551,25 @@
             <text>հաճելի</text>
             <answer>приятный</answer>
         </question>
+        <question>
+            <text>ուսապարկ</text>
+            <answer>рюкзак</answer>
+        </question>
+        <question>
+            <text>թուղթ</text>
+            <answer>бумага</answer>
+        </question>
+        <question>
+            <text>փաստ</text>
+            <answer>факт</answer>
+        </question>
+        <question>
+            <text>փաստաթուղթ</text>
+            <answer>документ</answer>
+        </question>
+        <question>
+            <text>կնոջ</text>
+            <answer>жене|жену|женщине|женщину</answer>
+        </question>
     </questions>
 </questionary>

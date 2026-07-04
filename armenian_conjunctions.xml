@@ -231,5 +231,9 @@
             <text>ուղղակի</text>
             <answer>просто (just)</answer>
         </question>
+        <question>
+            <text>ցանկացած</text>
+            <answer>любой</answer>
+        </question>
     </questions>
 </questionary>
