@@ -399,5 +399,13 @@
             <text>եղել եք</text>
             <answer>были (когда то)</answer>
         </question>
+        <question>
+            <text>մտնել</text>
+            <answer>войти</answer>
+        </question>
+        <question>
+            <text>հիվանդանալ</text>
+            <answer>болеть</answer>
+        </question>
     </questions>
 </questionary>

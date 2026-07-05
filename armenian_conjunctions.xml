@@ -133,7 +133,7 @@
         </question>
         <question>
             <text>․․․ի մոտ</text>
-            <answer>рядом с ...|около ...|у ...</answer>
+            <answer>рядом с ...|около ...|у (чего-либо)|у (кого-либо)| к (кому либо)</answer>
         </question>
         <question>
             <text>․․․ի վրա</text>
@@ -234,6 +234,14 @@
         <question>
             <text>ցանկացած</text>
             <answer>любой</answer>
+        </question>
+        <question>
+            <text>մի քիչ էլ</text>
+            <answer>еще немного</answer>
+        </question>
+        <question>
+            <text>...մեչ</text>
+            <answer>во что-то</answer>
         </question>
     </questions>
 </questionary>

@@ -1571,5 +1571,53 @@
             <text>կնոջ</text>
             <answer>жене|жену|женщине|женщину</answer>
         </question>
+        <question>
+            <text>տանձ</text>
+            <answer>груша</answer>
+        </question>
+        <question>
+            <text>գիլաս</text>
+            <answer>вишня</answer>
+        </question>
+        <question>
+            <text>բալ</text>
+            <answer>черешня</answer>
+        </question>
+        <question>
+            <text>դեղձ</text>
+            <answer>персик</answer>
+        </question>
+        <question>
+            <text>խնձոր</text>
+            <answer>яблоко</answer>
+        </question>
+        <question>
+            <text>ձմերուկ</text>
+            <answer>арбуз</answer>
+        </question>
+        <question>
+            <text>խաղող</text>
+            <answer>виноград</answer>
+        </question>
+        <question>
+            <text>պահարան</text>
+            <answer>шкаф</answer>
+        </question>
+        <question>
+            <text>կշեռք</text>
+            <answer>весы</answer>
+        </question>
+        <question>
+            <text>խորոված</text>
+            <answer>жаркое</answer>
+        </question>
+        <question>
+            <text>հիվանդ</text>
+            <answer>больной</answer>
+        </question>
+        <question>
+            <text>ակումբ</text>
+            <answer>клуб</answer>
+        </question>
     </questions>
 </questionary>
