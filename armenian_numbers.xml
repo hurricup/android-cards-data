@@ -227,5 +227,9 @@
             <text>կես</text>
             <answer>половина</answer>
         </question>
+        <question>
+            <text>համարը</text>
+            <answer>число</answer>
+        </question>
     </questions>
 </questionary>

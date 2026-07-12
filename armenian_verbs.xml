@@ -407,5 +407,49 @@
             <text>հիվանդանալ</text>
             <answer>болеть</answer>
         </question>
+        <question>
+            <text>հավաքել</text>
+            <answer>собирать</answer>
+        </question>
+        <question>
+            <text>որսալ</text>
+            <answer>охотиться</answer>
+        </question>
+        <question>
+            <text>բռնել</text>
+            <answer>ловить</answer>
+        </question>
+        <question>
+            <text>նիհարել</text>
+            <answer>худеть</answer>
+        </question>
+        <question>
+            <text>քնած</text>
+            <answer>спящий</answer>
+        </question>
+        <question>
+            <text>պառկած</text>
+            <answer>лежащий</answer>
+        </question>
+        <question>
+            <text>նստած</text>
+            <answer>сидящий</answer>
+        </question>
+        <question>
+            <text>կանգնած</text>
+            <answer>стоящий</answer>
+        </question>
+        <question>
+            <text>հանգնած</text>
+            <answer>уставший</answer>
+        </question>
+        <question>
+            <text>տանջվել</text>
+            <answer>страдать</answer>
+        </question>
+        <question>
+            <text>կանտրոնանալ</text>
+            <answer>сосредоточится</answer>
+        </question>
     </questions>
 </questionary>

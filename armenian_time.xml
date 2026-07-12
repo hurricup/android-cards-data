@@ -480,5 +480,13 @@
             <text>օրերին</text>
             <answer>в дни</answer>
         </question>
+        <question>
+            <text>երբեք</text>
+            <answer>никогда</answer>
+        </question>
+        <question>
+            <text>միանգամից</text>
+            <answer>сразу</answer>
+        </question>
     </questions>
 </questionary>

@@ -1607,5 +1607,49 @@
             <text>ակումբ</text>
             <answer>клуб</answer>
         </question>
+        <question>
+            <text>հարբած</text>
+            <answer>пьяный</answer>
+        </question>
+        <question>
+            <text>հարևան</text>
+            <answer>сосед</answer>
+        </question>
+        <question>
+            <text>շինարար</text>
+            <answer>строитель</answer>
+        </question>
+        <question>
+            <text>ամուսին</text>
+            <answer>муж</answer>
+        </question>
+        <question>
+            <text>աստված</text>
+            <answer>бог</answer>
+        </question>
+        <question>
+            <text>աստված յան</text>
+            <answer>боже мой</answer>
+        </question>
+        <question>
+            <text>հույս ունեմ</text>
+            <answer>надеюсь</answer>
+        </question>
+        <question>
+            <text>պար</text>
+            <answer>танец</answer>
+        </question>
+        <question>
+            <text>բակ</text>
+            <answer>двор</answer>
+        </question>
+        <question>
+            <text>տրամադրություն</text>
+            <answer>настроение</answer>
+        </question>
+        <question>
+            <text>արձակուրդ</text>
+            <answer>отпуск|каникулы</answer>
+        </question>
     </questions>
 </questionary>
