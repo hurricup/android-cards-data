@@ -181,11 +181,15 @@
             <answer>о них</answer>
         </question>
         <question>
+            <text>այդ մասին|դրա մասին</text>
+            <answer>об этом</answer>
+        </question>
+        <question>
             <text>ոչ թե</text>
             <answer>... а не ...</answer>
         </question>
         <question>
-            <text>իմ համար</text>
+            <text>ինձ համար</text>
             <answer>для меня</answer>
         </question>
         <question>
@@ -193,12 +197,28 @@
             <answer>обо мне</answer>
         </question>
         <question>
-            <text>իմ հետ</text>
+            <text>ինձ հետ</text>
             <answer>со мной</answer>
         </question>
         <question>
-            <text>առաննց իմ</text>
+            <text>առաննց ինձ</text>
             <answer>без меня</answer>
+        </question>
+        <question>
+            <text>նրա համար|իր համար|իրա համար</text>
+            <answer>для него|для неё</answer>
+        </question>
+        <question>
+            <text>նրա մասին|իր մասին|իրա մասին</text>
+            <answer>о нем|о ней</answer>
+        </question>
+        <question>
+            <text>նրա հետ|իր հետ|իրա հետ</text>
+            <answer>с ним|с ней</answer>
+        </question>
+        <question>
+            <text>առանց նրան|առանց իրեն|առանց իրան</text>
+            <answer>без него|без неё</answer>
         </question>
         <question>
             <text>սա</text>

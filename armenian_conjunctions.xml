@@ -243,5 +243,9 @@
             <text>...մեչ</text>
             <answer>во что-то</answer>
         </question>
+        <question>
+            <text>համարյա</text>
+            <answer>почти</answer>
+        </question>
     </questions>
 </questionary>

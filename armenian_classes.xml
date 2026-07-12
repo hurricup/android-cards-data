@@ -876,10 +876,6 @@
             <answer>плохие вещи</answer>
         </question>
         <question>
-            <text>համարյա</text>
-            <answer>почти</answer>
-        </question>
-        <question>
             <text>ապուշ</text>
             <answer>глупый, дурацкий</answer>
         </question>
@@ -1118,14 +1114,6 @@
         <question>
             <text>ով է այստեղ</text>
             <answer>кто здесь</answer>
-        </question>
-        <question>
-            <text>այդ մասին</text>
-            <answer>об этом</answer>
-        </question>
-        <question>
-            <text>դրա մասին</text>
-            <answer>об этом</answer>
         </question>
         <question>
             <text>երաժշտություն</text>
