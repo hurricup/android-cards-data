@@ -231,5 +231,9 @@
             <text>համարը</text>
             <answer>число</answer>
         </question>
+        <question>
+            <text>մի քանի</text>
+            <answer>несколько</answer>
+        </question>
     </questions>
 </questionary>
