@@ -451,5 +451,13 @@
             <text>կանտրոնանալ</text>
             <answer>сосредоточится</answer>
         </question>
+        <question>
+            <text>կրկնել</text>
+            <answer>повторять</answer>
+        </question>
+        <question>
+            <text>ուրախանալ</text>
+            <answer>радоваться</answer>
+        </question>
     </questions>
 </questionary>

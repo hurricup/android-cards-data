@@ -488,5 +488,25 @@
             <text>միանգամից</text>
             <answer>сразу</answer>
         </question>
+        <question>
+            <text>անցած</text>
+            <answer>прошлый</answer>
+        </question>
+        <question>
+            <text>անցած շաբատ</text>
+            <answer>на прошлой неделе</answer>
+        </question>
+        <question>
+            <text>երեկ չէ առաջի օրը</text>
+            <answer>позавчера</answer>
+        </question>
+        <question>
+            <text>երկու օրը առաջ</text>
+            <answer>2 дня назад</answer>
+        </question>
+        <question>
+            <text>մի շաբաթ առաջ</text>
+            <answer>неделю назад</answer>
+        </question>
     </questions>
 </questionary>

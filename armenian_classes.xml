@@ -1647,5 +1647,37 @@
             <text>արձակուրդ</text>
             <answer>отпуск|каникулы</answer>
         </question>
+        <question>
+            <text>ուժեղ</text>
+            <answer>сильный</answer>
+        </question>
+        <question>
+            <text>ուժ</text>
+            <answer>сила</answer>
+        </question>
+        <question>
+            <text>քաղաքապետ</text>
+            <answer>мэр</answer>
+        </question>
+        <question>
+            <text>պետ</text>
+            <answer>главный</answer>
+        </question>
+        <question>
+            <text>քաղաքապետարան</text>
+            <answer>мэрия</answer>
+        </question>
+        <question>
+            <text>հաղթանակ</text>
+            <answer>победа</answer>
+        </question>
+        <question>
+            <text>պահպանակ</text>
+            <answer>презерватив</answer>
+        </question>
+        <question>
+            <text>իրեր</text>
+            <answer>вещи</answer>
+        </question>
     </questions>
 </questionary>

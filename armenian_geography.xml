@@ -195,5 +195,9 @@
             <text>խոհանոց</text>
             <answer>кухня</answer>
         </question>
+        <question>
+            <text>հրապարակ</text>
+            <answer>площадь</answer>
+        </question>
     </questions>
 </questionary>

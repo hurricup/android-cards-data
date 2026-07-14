@@ -256,5 +256,30 @@
             <text>դրանք</text>
             <answer>они (неодуш.)</answer>
         </question>
+        <question>
+            <text>ես ․․․ էի</text>
+            <answer>я ․․․ был</answer>
+        </question>
+        <question>
+            <text>դու ․․․ էիր</text>
+            <answer>ты ․․․ был</answer>
+        </question>
+        <question>
+            <text>նա ․․․ էր|ինքը ․․․ էր</text>
+            <answer>он ․․․ был|она ․․․ была</answer>
+        </question>
+
+        <question>
+            <text>մենք ․․․ էինք</text>
+            <answer>мы были</answer>
+        </question>
+        <question>
+            <text>դուք ․․․ էիք</text>
+            <answer>вы были</answer>
+        </question>
+        <question>
+            <text>նրանք ․․․ էրն|իրենք ․․․ էրն|իրանք ․․․ էրն</text>
+            <answer>они были</answer>
+        </question>
     </questions>
 </questionary>
