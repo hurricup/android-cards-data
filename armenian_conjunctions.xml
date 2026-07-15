@@ -243,5 +243,9 @@
             <text>համարյա</text>
             <answer>почти</answer>
         </question>
+        <question>
+            <text>այլևս</text>
+            <answer>больше (anymore)</answer>
+        </question>
     </questions>
 </questionary>

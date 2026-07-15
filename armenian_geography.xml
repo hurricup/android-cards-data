@@ -199,5 +199,9 @@
             <text>հրապարակ</text>
             <answer>площадь</answer>
         </question>
+        <question>
+            <text>չինական</text>
+            <answer>китайский</answer>
+        </question>
     </questions>
 </questionary>
