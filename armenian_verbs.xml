@@ -459,5 +459,9 @@
             <text>ուրախանալ</text>
             <answer>радоваться</answer>
         </question>
+        <question>
+            <text>հանդիպել</text>
+            <answer>встретиться|встречаться</answer>
+        </question>
     </questions>
 </questionary>
