@@ -38,7 +38,7 @@
         </question>
         <question>
             <text>նրանն ա|իրենն ա|իրանն ա</text>
-            <answer>это его/ее</answer>
+            <answer>это его|это её</answer>
         </question>
         <question>
             <text>մերն ա</text>
@@ -63,7 +63,7 @@
         </question>
         <question>
             <text>իրե՛նը չի|իրա՛նը չի|նրա՛նը չի</text>
-            <answer>это не его/ee</answer>
+            <answer>это не его|это не eё</answer>
         </question>
         <question>
             <text>մե՛րը չի</text>
@@ -138,7 +138,7 @@
         </question>
         <question>
             <text>նրա|իր|իրա</text>
-            <answer>его/ее (чей)</answer>
+            <answer>его (чей)|её (чей)</answer>
         </question>
         <question>
             <text>մեր</text>
@@ -271,15 +271,15 @@
 
         <question>
             <text>մենք ․․․ էինք</text>
-            <answer>мы были</answer>
+            <answer>мы ․․․ были</answer>
         </question>
         <question>
             <text>դուք ․․․ էիք</text>
-            <answer>вы были</answer>
+            <answer>вы ․․․ были</answer>
         </question>
         <question>
-            <text>նրանք ․․․ էրն|իրենք ․․․ էրն|իրանք ․․․ էրն</text>
-            <answer>они были</answer>
+            <text>նրանք ․․․ էին|իրենք ․․․ էին|իրանք ․․․ էին</text>
+            <answer>они ․․․ были</answer>
         </question>
     </questions>
 </questionary>
