@@ -225,8 +225,16 @@
             <answer>это (видим)</answer>
         </question>
         <question>
+            <text>սրանք</text>
+            <answer>это (видим, мн.ч)</answer>
+        </question>
+        <question>
             <text>դա</text>
             <answer>это (не видим)</answer>
+        </question>
+        <question>
+            <text>դրանք</text>
+            <answer>это (не видим, мн.ч.)</answer>
         </question>
         <question>
             <text>այս</text>
@@ -253,10 +261,6 @@
             <answer>все</answer>
         </question>
         <question>
-            <text>դրանք</text>
-            <answer>они (неодуш.)</answer>
-        </question>
-        <question>
             <text>ես ․․․ էի</text>
             <answer>я ․․․ был</answer>
         </question>
@@ -281,5 +285,32 @@
             <text>նրանք ․․․ էին|իրենք ․․․ էին|իրանք ․․․ էին</text>
             <answer>они ․․․ были</answer>
         </question>
+
+        <question>
+            <text>ես ․․․ չէի</text>
+            <answer>я ․․․ не был</answer>
+        </question>
+        <question>
+            <text>դու ․․․ չէիր</text>
+            <answer>ты ․․․ не был</answer>
+        </question>
+        <question>
+            <text>նա ․․․ չէր|ինքը ․․․ չէր</text>
+            <answer>он ․․․ не был|она ․․․ не была</answer>
+        </question>
+
+        <question>
+            <text>մենք ․․․ չէինք</text>
+            <answer>мы ․․․ не были</answer>
+        </question>
+        <question>
+            <text>դուք ․․․ չէիք</text>
+            <answer>вы ․․․ не были</answer>
+        </question>
+        <question>
+            <text>նրանք ․․․ չէին|իրենք ․․․ չէին|իրանք ․․․ չէին</text>
+            <answer>они ․․․ не были</answer>
+        </question>
+
     </questions>
 </questionary>

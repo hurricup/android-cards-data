@@ -508,5 +508,9 @@
             <text>մի շաբաթ առաջ</text>
             <answer>неделю назад</answer>
         </question>
+        <question>
+            <text>ինչպես միշտ</text>
+            <answer>как всегда</answer>
+        </question>
     </questions>
 </questionary>

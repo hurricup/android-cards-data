@@ -463,5 +463,9 @@
             <text>հանդիպել</text>
             <answer>встретиться|встречаться</answer>
         </question>
+        <question>
+            <text>ստանալ</text>
+            <answer>получать</answer>
+        </question>
     </questions>
 </questionary>

@@ -1000,7 +1000,7 @@
             <answer>я говорил</answer>
         </question>
         <question>
-            <text>դու սիրել ես</text>
+            <text>դու սիրում էիր</text>
             <answer>ты любил</answer>
         </question>
         <question>
@@ -1008,7 +1008,7 @@
             <answer>он работал</answer>
         </question>
         <question>
-            <text>մենք ուզել ենք</text>
+            <text>մենք ուզում էինք</text>
             <answer>мы хотели</answer>
         </question>
         <question>
@@ -1056,7 +1056,7 @@
             <answer>с клубникой</answer>
         </question>
         <question>
-            <text>ես սիրել եմ</text>
+            <text>ես սիրում էի</text>
             <answer>я любил</answer>
         </question>
         <question>
@@ -1682,6 +1682,38 @@
         <question>
             <text>արիշտա</text>
             <answer>лапша</answer>
+        </question>
+        <question>
+            <text>պարտք</text>
+            <answer>долг</answer>
+        </question>
+        <question>
+            <text>թույն</text>
+            <answer>яд</answer>
+        </question>
+        <question>
+            <text>հավես</text>
+            <answer>настроение</answer>
+        </question>
+        <question>
+            <text>թույն ա</text>
+            <answer>круто</answer>
+        </question>
+        <question>
+            <text>հավես ա</text>
+            <answer>прикольно</answer>
+        </question>
+        <question>
+            <text>ես ուզում եի</text>
+            <answer>я хотел</answer>
+        </question>
+        <question>
+            <text>ես մտածեում եի</text>
+            <answer>я думал</answer>
+        </question>
+        <question>
+            <text>ես կարծում եի</text>
+            <answer>я считал (имел мнение)</answer>
         </question>
     </questions>
 </questionary>
