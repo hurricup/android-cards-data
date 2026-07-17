@@ -13,7 +13,7 @@
         </question>
         <question>
             <text>նրան|իրեն|իրան</text>
-            <answer>ему/ей|её/его (кого)</answer>
+            <answer>ему|ей|её (кого)|его (кого)</answer>
         </question>
         <question>
             <text>մեզ</text>
@@ -88,7 +88,7 @@
         </question>
         <question>
             <text>նա … է|նա … ա|ինքը … ա|ինքը … է</text>
-            <answer>он(а) ... есть</answer>
+            <answer>он ... есть|она ... есть</answer>
         </question>
         <question>
             <text>Մենք … ենք</text>
