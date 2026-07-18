@@ -79,56 +79,6 @@
         </question>
 
         <question>
-            <text>Ես … եմ</text>
-            <answer>я ... есть</answer>
-        </question>
-        <question>
-            <text>Դու … ես</text>
-            <answer>ты ... есть</answer>
-        </question>
-        <question>
-            <text>նա … է|նա … ա|ինքը … ա|ինքը … է</text>
-            <answer>он ... есть|она ... есть</answer>
-        </question>
-        <question>
-            <text>Մենք … ենք</text>
-            <answer>мы ... есть</answer>
-        </question>
-        <question>
-            <text>Դուք … եք</text>
-            <answer>вы ... есть</answer>
-        </question>
-        <question>
-            <text>Նրանք … են|Իրենք … են|Իրանք … են</text>
-            <answer>они ... есть</answer>
-        </question>
-
-        <question>
-            <text>Ես ... չեմ</text>
-            <answer>я ... не есть</answer>
-        </question>
-        <question>
-            <text>Դու ... չես</text>
-            <answer>ты ... не есть</answer>
-        </question>
-        <question>
-            <text>Ինքը ... չի | նա ... չի</text>
-            <answer>он/она ... не есть</answer>
-        </question>
-        <question>
-            <text>Մենք ... չենք</text>
-            <answer>мы ... не есть</answer>
-        </question>
-        <question>
-            <text>Դուք ... չեք</text>
-            <answer>вы ... не есть</answer>
-        </question>
-        <question>
-            <text>Նրանք ... չեն|Իրենք ... չեն|Իրանք ... չեն</text>
-            <answer>они ... не есть</answer>
-        </question>
-
-        <question>
             <text>իմ</text>
             <answer>мой</answer>
         </question>
@@ -260,57 +210,5 @@
             <text>բոլո՛րը</text>
             <answer>все</answer>
         </question>
-        <question>
-            <text>ես ․․․ էի</text>
-            <answer>я ․․․ был</answer>
-        </question>
-        <question>
-            <text>դու ․․․ էիր</text>
-            <answer>ты ․․․ был</answer>
-        </question>
-        <question>
-            <text>նա ․․․ էր|ինքը ․․․ էր</text>
-            <answer>он ․․․ был|она ․․․ была</answer>
-        </question>
-
-        <question>
-            <text>մենք ․․․ էինք</text>
-            <answer>мы ․․․ были</answer>
-        </question>
-        <question>
-            <text>դուք ․․․ էիք</text>
-            <answer>вы ․․․ были</answer>
-        </question>
-        <question>
-            <text>նրանք ․․․ էին|իրենք ․․․ էին|իրանք ․․․ էին</text>
-            <answer>они ․․․ были</answer>
-        </question>
-
-        <question>
-            <text>ես ․․․ չէի</text>
-            <answer>я ․․․ не был</answer>
-        </question>
-        <question>
-            <text>դու ․․․ չէիր</text>
-            <answer>ты ․․․ не был</answer>
-        </question>
-        <question>
-            <text>նա ․․․ չէր|ինքը ․․․ չէր</text>
-            <answer>он ․․․ не был|она ․․․ не была</answer>
-        </question>
-
-        <question>
-            <text>մենք ․․․ չէինք</text>
-            <answer>мы ․․․ не были</answer>
-        </question>
-        <question>
-            <text>դուք ․․․ չէիք</text>
-            <answer>вы ․․․ не были</answer>
-        </question>
-        <question>
-            <text>նրանք ․․․ չէին|իրենք ․․․ չէին|իրանք ․․․ չէին</text>
-            <answer>они ․․․ не были</answer>
-        </question>
-
     </questions>
 </questionary>
