@@ -512,5 +512,9 @@
             <text>ինչպես միշտ</text>
             <answer>как всегда</answer>
         </question>
+        <question>
+            <text>երկար ժամանակ</text>
+            <answer>долго</answer>
+        </question>
     </questions>
 </questionary>

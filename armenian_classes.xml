@@ -1715,5 +1715,17 @@
             <text>ես կարծում եի</text>
             <answer>я считал (имел мнение)</answer>
         </question>
+        <question>
+            <text>հանգիստ</text>
+            <answer>спокойно</answer>
+        </question>
+        <question>
+            <text>միրգ</text>
+            <answer>фрукт</answer>
+        </question>
+        <question>
+            <text>ճանապարհ</text>
+            <answer>дорога</answer>
+        </question>
     </questions>
 </questionary>
