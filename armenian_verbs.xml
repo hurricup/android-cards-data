@@ -494,7 +494,7 @@
         </question>
         <question>
             <text>Ինքը ... չի | նա ... չի</text>
-            <answer>он/она ... не есть</answer>
+            <answer>он ... не есть|она ... не есть</answer>
         </question>
         <question>
             <text>Մենք ... չենք</text>

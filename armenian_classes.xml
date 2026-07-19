@@ -1289,7 +1289,7 @@
         </question>
         <question>
             <text>կարող է</text>
-            <answer>[он/она] может</answer>
+            <answer>он может|она может</answer>
         </question>
         <question>
             <text>չեմ կարող</text>
@@ -1593,7 +1593,7 @@
         </question>
         <question>
             <text>խորոված</text>
-            <answer>жаркое</answer>
+            <answer>жарко́е</answer>
         </question>
         <question>
             <text>հիվանդ</text>
