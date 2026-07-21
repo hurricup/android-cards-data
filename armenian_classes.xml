@@ -504,14 +504,6 @@
             <answer>дома есть хлеб</answer>
         </question>
         <question>
-            <text>կա</text>
-            <answer>есть (что-либо)</answer>
-        </question>
-        <question>
-            <text>չկա</text>
-            <answer>нету (чего-либо)</answer>
-        </question>
-        <question>
             <text>սա սուրճ ա</text>
             <answer>это кофе</answer>
         </question>
@@ -618,14 +610,6 @@
         <question>
             <text>հարգեր կան</text>
             <answer>вопросы есть</answer>
-        </question>
-        <question>
-            <text>կան</text>
-            <answer>есть (что либо, мн. ч.)</answer>
-        </question>
-        <question>
-            <text>չկան</text>
-            <answer>нет (чего либо, мн. ч.)</answer>
         </question>
         <question>
             <text>վրացի</text>

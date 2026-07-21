@@ -147,5 +147,271 @@
             <text>չունեն</text>
             <answer>не имеют</answer>
         </question>
+        <question>
+            <text>գիտեի</text>
+            <answer>я знал</answer>
+        </question>
+        <question>
+            <text>գիտեիր</text>
+            <answer>ты знал</answer>
+        </question>
+        <question>
+            <text>գիտեր</text>
+            <answer>он знал | она знала</answer>
+        </question>
+        <question>
+            <text>գիտեինք</text>
+            <answer>мы знали</answer>
+        </question>
+        <question>
+            <text>գիտեիք</text>
+            <answer>вы знали</answer>
+        </question>
+        <question>
+            <text>գիտեին</text>
+            <answer>они знали</answer>
+        </question>
+
+        <question>
+            <text>ունեի</text>
+            <answer>я имел</answer>
+        </question>
+        <question>
+            <text>ունեիր</text>
+            <answer>ты имел</answer>
+        </question>
+        <question>
+            <text>ուներ</text>
+            <answer>он имел | она имела</answer>
+        </question>
+        <question>
+            <text>ունեինք</text>
+            <answer>мы имели</answer>
+        </question>
+        <question>
+            <text>ունեիք</text>
+            <answer>вы имели</answer>
+        </question>
+        <question>
+            <text>ունեին</text>
+            <answer>они имели</answer>
+        </question>
+
+        <question>
+            <text>կամ</text>
+            <answer>есть (1 л. ед. ч)</answer>
+        </question>
+        <question>
+            <text>կաս</text>
+            <answer>есть (2 л. ед. ч)</answer>
+        </question>
+        <question>
+            <text>կա</text>
+            <answer>есть (3 л. ед. ч)</answer>
+        </question>
+        <question>
+            <text>կանք</text>
+            <answer>есть (1 л. мн. ч)</answer>
+        </question>
+        <question>
+            <text>կաք</text>
+            <answer>есть (2 л. мн. ч)</answer>
+        </question>
+        <question>
+            <text>կան</text>
+            <answer>есть (3 л. мн. ч)</answer>
+        </question>
+
+        <question>
+            <text>կայի</text>
+            <answer>было (1 л. ед. ч)</answer>
+        </question>
+        <question>
+            <text>կայիր</text>
+            <answer>было (2 л. ед. ч)</answer>
+        </question>
+        <question>
+            <text>կար</text>
+            <answer>было (3 л. ед. ч)</answer>
+        </question>
+        <question>
+            <text>կայինք</text>
+            <answer>были (1 л. мн. ч)</answer>
+        </question>
+        <question>
+            <text>կայիք</text>
+            <answer>были (2 л. мн. ч)</answer>
+        </question>
+        <question>
+            <text>կային</text>
+            <answer>были (3 л. мн. ч)</answer>
+        </question>
+
+        <question>
+            <text>արժեի</text>
+            <answer>я стоил</answer>
+        </question>
+        <question>
+            <text>արժեիր</text>
+            <answer>ты стоил</answer>
+        </question>
+        <question>
+            <text>արժեր</text>
+            <answer>он стоил | она стоила</answer>
+        </question>
+        <question>
+            <text>արժեինք</text>
+            <answer>мы стоили</answer>
+        </question>
+        <question>
+            <text>արժեիք</text>
+            <answer>вы стоили</answer>
+        </question>
+        <question>
+            <text>արժեին</text>
+            <answer>они стоили</answer>
+        </question>
+
+        <question>
+            <text>զբաղվել</text>
+            <answer>заниматься</answer>
+        </question>
+        <question>
+            <text>պարապել</text>
+            <answer>заниматься | тренироваться</answer>
+        </question>
+        <question>
+            <text>դառնալ</text>
+            <answer>стать|становиться</answer>
+        </question>
+        <question>
+            <text>քայլել</text>
+            <answer>ходить</answer>
+        </question>
+
+        <question>
+            <text>չգիտեի</text>
+            <answer>я не знал</answer>
+        </question>
+        <question>
+            <text>չգիտեիր</text>
+            <answer>ты не знал</answer>
+        </question>
+        <question>
+            <text>չգիտեր</text>
+            <answer>он не знал | она знала</answer>
+        </question>
+        <question>
+            <text>չգիտեինք</text>
+            <answer>мы не знали</answer>
+        </question>
+        <question>
+            <text>չգիտեիք</text>
+            <answer>вы не знали</answer>
+        </question>
+        <question>
+            <text>չգիտեին</text>
+            <answer>они не знали</answer>
+        </question>
+
+        <question>
+            <text>չունեի</text>
+            <answer>я не имел</answer>
+        </question>
+        <question>
+            <text>չունեիր</text>
+            <answer>ты не имел</answer>
+        </question>
+        <question>
+            <text>չուներ</text>
+            <answer>он не имел | она не имела</answer>
+        </question>
+        <question>
+            <text>չունեինք</text>
+            <answer>мы не имели</answer>
+        </question>
+        <question>
+            <text>չունեիք</text>
+            <answer>вы не имели</answer>
+        </question>
+        <question>
+            <text>չունեին</text>
+            <answer>они не имели</answer>
+        </question>
+
+        <question>
+            <text>չկամ</text>
+            <answer>нет (1 л. ед. ч)</answer>
+        </question>
+        <question>
+            <text>չկաս</text>
+            <answer>нет (2 л. ед. ч)</answer>
+        </question>
+        <question>
+            <text>չկա</text>
+            <answer>нет (3 л. ед. ч)</answer>
+        </question>
+        <question>
+            <text>չկանք</text>
+            <answer>нет (1 л. мн. ч)</answer>
+        </question>
+        <question>
+            <text>չկաք</text>
+            <answer>нет (2 л. мн. ч)</answer>
+        </question>
+        <question>
+            <text>չկան</text>
+            <answer>нет (3 л. мн. ч)</answer>
+        </question>
+
+        <question>
+            <text>չկայի</text>
+            <answer>не было (1 л. ед. ч)</answer>
+        </question>
+        <question>
+            <text>չկայիր</text>
+            <answer>не было (2 л. ед. ч)</answer>
+        </question>
+        <question>
+            <text>չկար</text>
+            <answer>не было (3 л. ед. ч)</answer>
+        </question>
+        <question>
+            <text>չկայինք</text>
+            <answer>не было (1 л. мн. ч)</answer>
+        </question>
+        <question>
+            <text>չկայիք</text>
+            <answer>не было (2 л. мн. ч)</answer>
+        </question>
+        <question>
+            <text>չկային</text>
+            <answer>не было (3 л. мн. ч)</answer>
+        </question>
+
+        <question>
+            <text>չարժեի</text>
+            <answer>я не стоил</answer>
+        </question>
+        <question>
+            <text>չարժեիր</text>
+            <answer>ты не стоил</answer>
+        </question>
+        <question>
+            <text>չարժեր</text>
+            <answer>он не стоил | она не стоила</answer>
+        </question>
+        <question>
+            <text>չարժեինք</text>
+            <answer>мы не стоили</answer>
+        </question>
+        <question>
+            <text>չարժեիք</text>
+            <answer>вы не стоили</answer>
+        </question>
+        <question>
+            <text>չարժեին</text>
+            <answer>они не стоили</answer>
+        </question>
     </questions>
 </questionary>
