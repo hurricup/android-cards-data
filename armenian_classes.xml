@@ -1711,5 +1711,21 @@
             <text>ճանապարհ</text>
             <answer>дорога</answer>
         </question>
+        <question>
+            <text>յոգայով</text>
+            <answer>йогой</answer>
+        </question>
+        <question>
+            <text>խումբ</text>
+            <answer>группа</answer>
+        </question>
+        <question>
+            <text>ձյուն</text>
+            <answer>снег</answer>
+        </question>
+        <question>
+            <text>հոգի</text>
+            <answer>душа</answer>
+        </question>
     </questions>
 </questionary>

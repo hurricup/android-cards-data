@@ -235,5 +235,9 @@
             <text>մի քանի</text>
             <answer>несколько</answer>
         </question>
+        <question>
+            <text>յոթ հոգով</text>
+            <answer>всемером</answer>
+        </question>
     </questions>
 </questionary>

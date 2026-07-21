@@ -516,5 +516,9 @@
             <text>երկար ժամանակ</text>
             <answer>долго</answer>
         </question>
+        <question>
+            <text>ամսից</text>
+            <answer>с месяца</answer>
+        </question>
     </questions>
 </questionary>

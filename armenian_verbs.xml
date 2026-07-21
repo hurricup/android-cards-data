@@ -556,6 +556,17 @@
             <text>նրանք ․․․ չէին|իրենք ․․․ չէին|իրանք ․․․ չէին</text>
             <answer>они ․․․ не были</answer>
         </question>
-
+        <question>
+            <text>հագնել</text>
+            <answer>носить</answer>
+        </question>
+        <question>
+            <text>զբաղվել</text>
+            <answer>заниматься</answer>
+        </question>
+        <question>
+            <text>շարումակել</text>
+            <answer>продолжать</answer>
+        </question>
     </questions>
 </questionary>

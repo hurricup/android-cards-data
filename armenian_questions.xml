@@ -99,5 +99,13 @@
             <text>ինչից</text>
             <answer>от чего</answer>
         </question>
+        <question>
+            <text>ինչով</text>
+            <answer>чем</answer>
+        </question>
+        <question>
+            <text>ումով</text>
+            <answer>кем</answer>
+        </question>
     </questions>
 </questionary>

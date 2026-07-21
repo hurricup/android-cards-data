@@ -203,5 +203,13 @@
             <text>չինական</text>
             <answer>китайский</answer>
         </question>
+        <question>
+            <text>ամենտեղ</text>
+            <answer>везде</answer>
+        </question>
+        <question>
+            <text>ոչ մի տեղ</text>
+            <answer>нигде</answer>
+        </question>
     </questions>
 </questionary>
