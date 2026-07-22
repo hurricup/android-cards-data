@@ -568,5 +568,9 @@
             <text>շարումակել</text>
             <answer>продолжать</answer>
         </question>
+        <question>
+            <text>վարել</text>
+            <answer>ездить</answer>
+        </question>
     </questions>
 </questionary>
