@@ -101,11 +101,11 @@
         </question>
         <question>
             <text>ինչով</text>
-            <answer>чем</answer>
+            <answer>чем?</answer>
         </question>
         <question>
             <text>ումով</text>
-            <answer>кем</answer>
+            <answer>кем?</answer>
         </question>
     </questions>
 </questionary>
