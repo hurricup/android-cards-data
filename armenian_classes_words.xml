@@ -347,5 +347,97 @@
             <text>նիհար</text>
             <answer>худой</answer>
         </question>
+        <question>
+            <text>միրգ</text>
+            <answer>фрукт</answer>
+        </question>
+        <question>
+            <text>խնձոր</text>
+            <answer>яблоко</answer>
+        </question>
+        <question>
+            <text>տանձ</text>
+            <answer>груша</answer>
+        </question>
+        <question>
+            <text>ծիրան</text>
+            <answer>абрикос</answer>
+        </question>
+        <question>
+            <text>դեղձ</text>
+            <answer>персик</answer>
+        </question>
+        <question>
+            <text>նարինջ</text>
+            <answer>апельсин</answer>
+        </question>
+        <question>
+            <text>թուրինջ</text>
+            <answer>грейпфрут</answer>
+        </question>
+        <question>
+            <text>բալ</text>
+            <answer>вишня</answer>
+        </question>
+        <question>
+            <text>կեռաս | գիլաս</text>
+            <answer>черешня</answer>
+        </question>
+        <question>
+            <text>սալոր</text>
+            <answer>слива</answer>
+        </question>
+        <question>
+            <text>շլոր</text>
+            <answer>алыча</answer>
+        </question>
+        <question>
+            <text>արքայախնձոր</text>
+            <answer>ананас</answer>
+        </question>
+        <question>
+            <text>արքա</text>
+            <answer>король</answer>
+        </question>
+        <question>
+            <text>ադամաթուզ | բանան</text>
+            <answer>банан</answer>
+        </question>
+        <question>
+            <text>թուզ</text>
+            <answer>инжир</answer>
+        </question>
+        <question>
+            <text>խաղող</text>
+            <answer>виноград</answer>
+        </question>
+        <question>
+            <text>ելակ</text>
+            <answer>клубника</answer>
+        </question>
+        <question>
+            <text>մորի | մալինա</text>
+            <answer>малина</answer>
+        </question>
+        <question>
+            <text>նուռ</text>
+            <answer>гранат</answer>
+        </question>
+        <question>
+            <text>սերկևիլ</text>
+            <answer>айва</answer>
+        </question>
+        <question>
+            <text>ձմերուկ</text>
+            <answer>арбуз</answer>
+        </question>
+        <question>
+            <text>սեխ | եմիշ</text>
+            <answer>дыня</answer>
+        </question>
+        <question>
+            <text>թութ</text>
+            <answer>шелковица</answer>
+        </question>
     </questions>
 </questionary>

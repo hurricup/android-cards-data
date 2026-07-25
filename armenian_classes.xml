@@ -151,9 +151,6 @@
             <text>ներեցեք</text><answer>извините</answer>
         </question>
         <question>
-            <text>նուռ</text><answer>гранат</answer>
-        </question>
-        <question>
             <text>շնորհակալ եմ</text><answer>благодарю</answer>
         </question>
         <question>
@@ -1540,34 +1537,6 @@
             <answer>жене|жену|женщине|женщину</answer>
         </question>
         <question>
-            <text>տանձ</text>
-            <answer>груша</answer>
-        </question>
-        <question>
-            <text>գիլաս|կեռաս</text>
-            <answer>черешня</answer>
-        </question>
-        <question>
-            <text>բալ</text>
-            <answer>вишня</answer>
-        </question>
-        <question>
-            <text>դեղձ</text>
-            <answer>персик</answer>
-        </question>
-        <question>
-            <text>խնձոր</text>
-            <answer>яблоко</answer>
-        </question>
-        <question>
-            <text>ձմերուկ</text>
-            <answer>арбуз</answer>
-        </question>
-        <question>
-            <text>խաղող</text>
-            <answer>виноград</answer>
-        </question>
-        <question>
             <text>պահարան</text>
             <answer>шкаф</answer>
         </question>
@@ -1702,10 +1671,6 @@
         <question>
             <text>հանգիստ</text>
             <answer>спокойно</answer>
-        </question>
-        <question>
-            <text>միրգ</text>
-            <answer>фрукт</answer>
         </question>
         <question>
             <text>ճանապարհ</text>
