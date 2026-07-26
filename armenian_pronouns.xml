@@ -143,10 +143,6 @@
             <answer>для меня</answer>
         </question>
         <question>
-            <text>իմ մասին</text>
-            <answer>обо мне</answer>
-        </question>
-        <question>
             <text>ինձ հետ</text>
             <answer>со мной</answer>
         </question>
@@ -157,10 +153,6 @@
         <question>
             <text>նրա համար|իր համար|իրա համար</text>
             <answer>для него|для неё</answer>
-        </question>
-        <question>
-            <text>նրա մասին|իր մասին|իրա մասին</text>
-            <answer>о нем|о ней</answer>
         </question>
         <question>
             <text>նրա հետ|իր հետ|իրա հետ</text>

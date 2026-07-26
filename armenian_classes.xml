@@ -465,22 +465,6 @@
             <answer>брат</answer>
         </question>
         <question>
-            <text>ախպերս</text>
-            <answer>мой брат</answer>
-        </question>
-        <question>
-            <text>ախպերդ</text>
-            <answer>твой брат</answer>
-        </question>
-        <question>
-            <text>իմ ախպե՛րը</text>
-            <answer>мой брат</answer>
-        </question>
-        <question>
-            <text>քո ախպե՛րը</text>
-            <answer>твой брат</answer>
-        </question>
-        <question>
             <text>դու նայո՞ւմ ես կատվիկներին</text>
             <answer>Ты смотришь котиков?</answer>
         </question>
@@ -1361,10 +1345,6 @@
             <answer>салат</answer>
         </question>
         <question>
-            <text>ազատ</text>
-            <answer>свободный</answer>
-        </question>
-        <question>
             <text>կանաչ թեյ</text>
             <answer>зеленый чай</answer>
         </question>
@@ -1499,10 +1479,6 @@
         <question>
             <text>կհանդիպենք</text>
             <answer>увидимся</answer>
-        </question>
-        <question>
-            <text>խնդիր</text>
-            <answer>проблема</answer>
         </question>
         <question>
             <text>ծախս</text>
