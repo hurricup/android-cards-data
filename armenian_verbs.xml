@@ -565,16 +565,16 @@
             <answer>продолжать</answer>
         </question>
         <question>
-            <text>վարել</text>
-            <answer>ездить</answer>
+            <text>վարել|քշել</text>
+            <answer>ездить|водить (тс)</answer>
         </question>
         <question>
             <text>զբաղվել</text>
-            <answer>заниматься</answer>
+            <answer>заниматься (хобби)</answer>
         </question>
         <question>
             <text>պարապել</text>
-            <answer>заниматься | тренироваться</answer>
+            <answer>тренироваться (тренироваться)</answer>
         </question>
         <question>
             <text>դառնալ</text>

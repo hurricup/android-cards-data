@@ -1692,5 +1692,49 @@
             <text>հոգի</text>
             <answer>душа</answer>
         </question>
+        <question>
+            <text>սկզբում</text>
+            <answer>в начале</answer>
+        </question>
+        <question>
+            <text>լակոտ</text>
+            <answer>щенок</answer>
+        </question>
+        <question>
+            <text>մեծերի</text>
+            <answer>взрослые</answer>
+        </question>
+        <question>
+            <text>հանդիպում</text>
+            <answer>встреча</answer>
+        </question>
+        <question>
+            <text>յուղ</text>
+            <answer>масло (съедобное)</answer>
+        </question>
+        <question>
+            <text>մարզասրահ</text>
+            <answer>спортзал</answer>
+        </question>
+        <question>
+            <text>մարզիչ</text>
+            <answer>тренер</answer>
+        </question>
+        <question>
+            <text>փորձ</text>
+            <answer>опыт</answer>
+        </question>
+        <question>
+            <text>վազք</text>
+            <answer>бег</answer>
+        </question>
+        <question>
+            <text>աման</text>
+            <answer>посуда|чаша</answer>
+        </question>
+        <question>
+            <text>ամանի փրփուր</text>
+            <answer>пенка для посуды</answer>
+        </question>
     </questions>
 </questionary>

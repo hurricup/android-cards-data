@@ -247,5 +247,17 @@
             <text>այլևս</text>
             <answer>больше (anymore)</answer>
         </question>
+        <question>
+            <text>երևի</text>
+            <answer>наверное</answer>
+        </question>
+        <question>
+            <text>սկիզբ</text>
+            <answer>начало</answer>
+        </question>
+        <question>
+            <text>լիքը</text>
+            <answer>полный</answer>
+        </question>
     </questions>
 </questionary>
