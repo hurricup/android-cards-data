@@ -580,5 +580,17 @@
             <text>քայլել</text>
             <answer>ходить</answer>
         </question>
+        <question>
+            <text>որոշել</text>
+            <answer>решить</answer>
+        </question>
+        <question>
+            <text>ծանոթանալ</text>
+            <answer>знакомиться</answer>
+        </question>
+        <question>
+            <text>պատվիրել</text>
+            <answer>заказать</answer>
+        </question>
     </questions>
 </questionary>

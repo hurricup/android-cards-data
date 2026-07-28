@@ -439,5 +439,21 @@
             <text>թութ</text>
             <answer>шелковица</answer>
         </question>
+        <question>
+            <text>թարմ</text>
+            <answer>свежий</answer>
+        </question>
+        <question>
+            <text>հասած</text>
+            <answer>спелый</answer>
+        </question>
+        <question>
+            <text>խակ</text>
+            <answer>неспелый</answer>
+        </question>
+        <question>
+            <text>անհամ</text>
+            <answer>несладкий</answer>
+        </question>
     </questions>
 </questionary>
