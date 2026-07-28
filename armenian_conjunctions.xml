@@ -259,5 +259,9 @@
             <text>լիքը</text>
             <answer>полный</answer>
         </question>
+        <question>
+            <text>ոչ միայն</text>
+            <answer>не только</answer>
+        </question>
     </questions>
 </questionary>

@@ -882,7 +882,7 @@
         </question>
         <question>
             <text>եղանակ</text>
-            <answer>погода</answer>
+            <answer>погода|сезон</answer>
         </question>
         <question>
             <text>ես լավ եմ</text>
@@ -1298,7 +1298,7 @@
         </question>
         <question>
             <text>թխվածք</text>
-            <answer>выпечка|кусок торта</answer>
+            <answer>выпечка|кусок торта|пирожное</answer>
         </question>
         <question>
             <text>Ես սիրում եմ Կարենին</text>
@@ -1707,6 +1707,34 @@
         <question>
             <text>ամանի փրփուր</text>
             <answer>пенка для посуды</answer>
+        </question>
+        <question>
+            <text>արշավ</text>
+            <answer>поход|экспедиция|кампания</answer>
+        </question>
+        <question>
+            <text>շատ չեմ սիրում</text>
+            <answer>не очень люблю</answer>
+        </question>
+        <question>
+            <text>շիշ</text>
+            <answer>бутылка</answer>
+        </question>
+        <question>
+            <text>հարսանիք</text>
+            <answer>свадьба</answer>
+        </question>
+        <question>
+            <text>ստիպված</text>
+            <answer>вынужден</answer>
+        </question>
+        <question>
+            <text>պատվեր</text>
+            <answer>заказ</answer>
+        </question>
+        <question>
+            <text>թավա</text>
+            <answer>сковородка</answer>
         </question>
     </questions>
 </questionary>

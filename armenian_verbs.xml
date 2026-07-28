@@ -592,5 +592,9 @@
             <text>պատվիրել</text>
             <answer>заказать</answer>
         </question>
+        <question>
+            <text>ստիպել</text>
+            <answer>вынуждать | заставлять</answer>
+        </question>
     </questions>
 </questionary>

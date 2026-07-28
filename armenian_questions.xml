@@ -28,6 +28,10 @@
             <answer>почему</answer>
         </question>
         <question>
+            <text>ինչի</text>
+            <answer>из чего (сделано)</answer>
+        </question>
+        <question>
             <text>ինչի համար</text>
             <answer>для чего|зачем</answer>
         </question>
@@ -106,6 +110,10 @@
         <question>
             <text>ումով</text>
             <answer>кем?</answer>
+        </question>
+        <question>
+            <text>այսի՞նքն</text>
+            <answer>в смысле?</answer>
         </question>
     </questions>
 </questionary>
