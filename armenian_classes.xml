@@ -1736,5 +1736,25 @@
             <text>թավա</text>
             <answer>сковородка</answer>
         </question>
+        <question>
+            <text>սառնարան</text>
+            <answer>холодильник</answer>
+        </question>
+        <question>
+            <text>քաղցած</text>
+            <answer>голодный</answer>
+        </question>
+        <question>
+            <text>դեսպանատուն</text>
+            <answer>посольство</answer>
+        </question>
+        <question>
+            <text>նամակ</text>
+            <answer>письмо</answer>
+        </question>
+        <question>
+            <text>դպրոց</text>
+            <answer>школа</answer>
+        </question>
     </questions>
 </questionary>

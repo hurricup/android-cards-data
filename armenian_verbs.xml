@@ -361,7 +361,7 @@
         </question>
         <question>
             <text>տանել</text>
-            <answer>относить|возить</answer>
+            <answer>относить|возить|забирать</answer>
         </question>
         <question>
             <text>նստել</text>
@@ -595,6 +595,10 @@
         <question>
             <text>ստիպել</text>
             <answer>вынуждать | заставлять</answer>
+        </question>
+        <question>
+            <text>քաղցել</text>
+            <answer>голодать</answer>
         </question>
     </questions>
 </questionary>
