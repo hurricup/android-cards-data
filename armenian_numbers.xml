@@ -239,5 +239,13 @@
             <text>յոթ հոգով</text>
             <answer>всемером</answer>
         </question>
+        <question>
+            <text>տոկոս</text>
+            <answer>процент</answer>
+        </question>
+        <question>
+            <text>մաս</text>
+            <answer>часть</answer>
+        </question>
     </questions>
 </questionary>

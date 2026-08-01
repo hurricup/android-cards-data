@@ -1756,5 +1756,41 @@
             <text>դպրոց</text>
             <answer>школа</answer>
         </question>
+        <question>
+            <text>աշխատավարձ</text>
+            <answer>зарплата</answer>
+        </question>
+        <question>
+            <text>սոված</text>
+            <answer>голодный</answer>
+        </question>
+        <question>
+            <text>բոլոր մարդիկ</text>
+            <answer>все люди</answer>
+        </question>
+        <question>
+            <text>բարև բոլորին</text>
+            <answer>всем привет</answer>
+        </question>
+        <question>
+            <text>կեր</text>
+            <answer>корм</answer>
+        </question>
+        <question>
+            <text>կատվիր</text>
+            <answer>кошачий</answer>
+        </question>
+        <question>
+            <text>հարկ</text>
+            <answer>налог | этаж</answer>
+        </question>
+        <question>
+            <text>ոսկի</text>
+            <answer>золото</answer>
+        </question>
+        <question>
+            <text>ոսկե</text>
+            <answer>золотой</answer>
+        </question>
     </questions>
 </questionary>

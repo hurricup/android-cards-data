@@ -263,5 +263,13 @@
             <text>ոչ միայն</text>
             <answer>не только</answer>
         </question>
+        <question>
+            <text>քանի որ</text>
+            <answer>так как | поскольку</answer>
+        </question>
+        <question>
+            <text>ոնց որ</text>
+            <answer>как будто | кажется</answer>
+        </question>
     </questions>
 </questionary>

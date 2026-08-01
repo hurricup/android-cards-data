@@ -520,5 +520,13 @@
             <text>ամսից</text>
             <answer>с месяца</answer>
         </question>
+        <question>
+            <text>շտապ</text>
+            <answer>срочный</answer>
+        </question>
+        <question>
+            <text>ամսի տասներկուին</text>
+            <answer>12-го числа</answer>
+        </question>
     </questions>
 </questionary>

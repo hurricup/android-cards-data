@@ -344,10 +344,6 @@
             <answer>идите|уходите</answer>
         </question>
         <question>
-            <text>գիտեմ</text>
-            <answer>я знаю</answer>
-        </question>
-        <question>
             <text>հաշվել</text>
             <answer>посчитать</answer>
         </question>
@@ -599,6 +595,14 @@
         <question>
             <text>քաղցել</text>
             <answer>голодать</answer>
+        </question>
+        <question>
+            <text>բարևել</text>
+            <answer>здоровваться</answer>
+        </question>
+        <question>
+            <text>արժենալ</text>
+            <answer>стоить</answer>
         </question>
     </questions>
 </questionary>
