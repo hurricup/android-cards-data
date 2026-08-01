@@ -108,13 +108,7 @@
             <answer>правило</answer>
         </question>
         <question>
-            <text>կատու</text><answer>кот</answer>
-        </question>
-        <question>
             <text>կներես</text><answer>извини</answer>
-        </question>
-        <question>
-            <text>հայ</text><answer>армянин</answer>
         </question>
         <question>
             <text>հաջող</text>
@@ -152,9 +146,6 @@
         </question>
         <question>
             <text>շնորհակալ եմ</text><answer>благодарю</answer>
-        </question>
-        <question>
-            <text>շուն</text><answer>собака</answer>
         </question>
         <question>
             <text>ո՞նց ես</text>
@@ -505,18 +496,6 @@
             <answer>стаканы</answer>
         </question>
         <question>
-            <text>շներ</text>
-            <answer>собаки</answer>
-        </question>
-        <question>
-            <text>մարդ</text>
-            <answer>человек</answer>
-        </question>
-        <question>
-            <text>մարդիկ</text>
-            <answer>люди</answer>
-        </question>
-        <question>
             <text>օձ</text>
             <answer>змея</answer>
         </question>
@@ -591,10 +570,6 @@
         <question>
             <text>վրացի</text>
             <answer>грузин</answer>
-        </question>
-        <question>
-            <text>երեխա</text>
-            <answer>ребенок</answer>
         </question>
         <question>
             <text>հյութ</text>
@@ -715,10 +690,6 @@
         <question>
             <text>Ես տանն եմ</text>
             <answer>Я дома</answer>
-        </question>
-        <question>
-            <text>ելակ</text>
-            <answer>клубника</answer>
         </question>
         <question>
             <text>ոզնի</text>
