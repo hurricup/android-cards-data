@@ -604,5 +604,9 @@
             <text>արժենալ</text>
             <answer>стоить</answer>
         </question>
+        <question>
+            <text>փնտրել</text>
+            <answer>искать</answer>
+        </question>
     </questions>
 </questionary>
