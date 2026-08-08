@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questionary>
+    <id>oxford-c1</id>
+    <title>Oxford (C1)</title>
+    <questions>
+        <question>
+            <text>to arm</text>
+            <answer>вооружиться</answer>
+        </question>
+        <question>
+            <text>to bat</text>
+            <answer>бить палкой</answer>
+        </question>
+        <question>
+            <text>to counter</text>
+            <answer>противостоять</answer>
+        </question>
+        <question>
+            <text>to craft</text>
+            <answer>ремесло</answer>
+        </question>
+        <question>
+            <text>to deposit</text>
+            <answer>депонировать</answer>
+        </question>
+        <question>
+            <text>to exit</text>
+            <answer>выходить</answer>
+        </question>
+        <question>
+            <text>to extract</text>
+            <answer>извлекать</answer>
+        </question>
+        <question>
+            <text>to fine</text>
+            <answer>оштрафовать</answer>
+        </question>
+        <question>
+            <text>to pop</text>
+            <answer>хлопнуть</answer>
+        </question>
+        <question>
+            <text>to rock</text>
+            <answer>качаться</answer>
+        </question>
+        <question>
+            <text>say</text>
+            <answer>слово</answer>
+        </question>
+        <question>
+            <text>shoot</text>
+            <answer>побег</answer>
+        </question>
+        <question>
+            <text>spell</text>
+            <answer>заклинание</answer>
+        </question>
+        <question>
+            <text>to top</text>
+            <answer>быть первым</answer>
+        </question>
+        <question>
+            <text>to total</text>
+            <answer>составлять</answer>
+        </question>
+    </questions>
+</questionary>

@@ -1,0 +1,3303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questionary>
+    <id>oxford-b2</id>
+    <title>Oxford (B2)</title>
+    <questions>
+        <question>
+            <text>abandon</text>
+            <answer>развязность</answer>
+        </question>
+        <question>
+            <text>to abandon</text>
+            <answer>отказываться от</answer>
+        </question>
+        <question>
+            <text>absolute</text>
+            <answer>абсолютный|абсолют</answer>
+        </question>
+        <question>
+            <text>to absorb</text>
+            <answer>поглощать</answer>
+        </question>
+        <question>
+            <text>abstract</text>
+            <answer>абстрактный|реферат</answer>
+        </question>
+        <question>
+            <text>to abstract</text>
+            <answer>абстрагировать</answer>
+        </question>
+        <question>
+            <text>accent</text>
+            <answer>акцент</answer>
+        </question>
+        <question>
+            <text>to accent</text>
+            <answer>акцентировать</answer>
+        </question>
+        <question>
+            <text>acceptable</text>
+            <answer>приемлемый</answer>
+        </question>
+        <question>
+            <text>accidentally</text>
+            <answer>случайно</answer>
+        </question>
+        <question>
+            <text>to accommodate</text>
+            <answer>вмещать</answer>
+        </question>
+        <question>
+            <text>to accompany</text>
+            <answer>сопровождать</answer>
+        </question>
+        <question>
+            <text>to accomplish</text>
+            <answer>выполнять</answer>
+        </question>
+        <question>
+            <text>to account</text>
+            <answer>приходиться</answer>
+        </question>
+        <question>
+            <text>accountant</text>
+            <answer>бухгалтер</answer>
+        </question>
+        <question>
+            <text>accuracy</text>
+            <answer>точность</answer>
+        </question>
+        <question>
+            <text>accurate</text>
+            <answer>точный</answer>
+        </question>
+        <question>
+            <text>accurately</text>
+            <answer>точно</answer>
+        </question>
+        <question>
+            <text>to accuse</text>
+            <answer>обвинять</answer>
+        </question>
+        <question>
+            <text>acid</text>
+            <answer>кислота|кислотный</answer>
+        </question>
+        <question>
+            <text>to acknowledge</text>
+            <answer>признавать</answer>
+        </question>
+        <question>
+            <text>to acquire</text>
+            <answer>приобретать</answer>
+        </question>
+        <question>
+            <text>to activate</text>
+            <answer>активировать</answer>
+        </question>
+        <question>
+            <text>actual</text>
+            <answer>фактический</answer>
+        </question>
+        <question>
+            <text>to adapt</text>
+            <answer>адаптировать</answer>
+        </question>
+        <question>
+            <text>addiction</text>
+            <answer>наркомания</answer>
+        </question>
+        <question>
+            <text>additional</text>
+            <answer>дополнительный</answer>
+        </question>
+        <question>
+            <text>additionally</text>
+            <answer>дополнительно</answer>
+        </question>
+        <question>
+            <text>to address</text>
+            <answer>обращаться</answer>
+        </question>
+        <question>
+            <text>adequate</text>
+            <answer>адекватный</answer>
+        </question>
+        <question>
+            <text>to adequate</text>
+            <answer>быть достаточным</answer>
+        </question>
+        <question>
+            <text>adequately</text>
+            <answer>адекватно</answer>
+        </question>
+        <question>
+            <text>to adjust</text>
+            <answer>регулировать</answer>
+        </question>
+        <question>
+            <text>administration</text>
+            <answer>администрация</answer>
+        </question>
+        <question>
+            <text>to adopt</text>
+            <answer>принимать</answer>
+        </question>
+        <question>
+            <text>advance</text>
+            <answer>продвижение|авансовый</answer>
+        </question>
+        <question>
+            <text>to advance</text>
+            <answer>продвигать</answer>
+        </question>
+        <question>
+            <text>affair</text>
+            <answer>дело</answer>
+        </question>
+        <question>
+            <text>affordable</text>
+            <answer>по средствам</answer>
+        </question>
+        <question>
+            <text>afterwards</text>
+            <answer>потом</answer>
+        </question>
+        <question>
+            <text>agency</text>
+            <answer>агентство</answer>
+        </question>
+        <question>
+            <text>agenda</text>
+            <answer>повестка дня</answer>
+        </question>
+        <question>
+            <text>aggressive</text>
+            <answer>агрессивный</answer>
+        </question>
+        <question>
+            <text>agriculture</text>
+            <answer>сельское хозяйство</answer>
+        </question>
+        <question>
+            <text>aid</text>
+            <answer>помощь</answer>
+        </question>
+        <question>
+            <text>to aid</text>
+            <answer>способствовать</answer>
+        </question>
+        <question>
+            <text>AIDS</text>
+            <answer>СПИД</answer>
+        </question>
+        <question>
+            <text>aircraft</text>
+            <answer>самолет|авиационный</answer>
+        </question>
+        <question>
+            <text>to alarm</text>
+            <answer>встревожить</answer>
+        </question>
+        <question>
+            <text>alien</text>
+            <answer>иностранец|чужой</answer>
+        </question>
+        <question>
+            <text>to alien</text>
+            <answer>отчуждать</answer>
+        </question>
+        <question>
+            <text>alongside</text>
+            <answer>рядом</answer>
+        </question>
+        <question>
+            <text>to alter</text>
+            <answer>изменять</answer>
+        </question>
+        <question>
+            <text>altogether</text>
+            <answer>совсем|целое</answer>
+        </question>
+        <question>
+            <text>ambulance</text>
+            <answer>скорая помощь</answer>
+        </question>
+        <question>
+            <text>to amount</text>
+            <answer>составлять</answer>
+        </question>
+        <question>
+            <text>amusing</text>
+            <answer>забавный</answer>
+        </question>
+        <question>
+            <text>analyst</text>
+            <answer>аналитик</answer>
+        </question>
+        <question>
+            <text>ancestor</text>
+            <answer>предок</answer>
+        </question>
+        <question>
+            <text>anger</text>
+            <answer>гнев</answer>
+        </question>
+        <question>
+            <text>to anger</text>
+            <answer>злить</answer>
+        </question>
+        <question>
+            <text>angle</text>
+            <answer>угол|угловой</answer>
+        </question>
+        <question>
+            <text>to angle</text>
+            <answer>удить рыбу</answer>
+        </question>
+        <question>
+            <text>animation</text>
+            <answer>анимация</answer>
+        </question>
+        <question>
+            <text>anniversary</text>
+            <answer>годовщина|юбилейный</answer>
+        </question>
+        <question>
+            <text>annual</text>
+            <answer>ежегодный|ежегодник</answer>
+        </question>
+        <question>
+            <text>to annual</text>
+            <answer>кассировать</answer>
+        </question>
+        <question>
+            <text>annually</text>
+            <answer>ежегодно</answer>
+        </question>
+        <question>
+            <text>to anticipate</text>
+            <answer>предвидеть</answer>
+        </question>
+        <question>
+            <text>anxiety</text>
+            <answer>беспокойство</answer>
+        </question>
+        <question>
+            <text>anxious</text>
+            <answer>тревожный</answer>
+        </question>
+        <question>
+            <text>apology</text>
+            <answer>извинение</answer>
+        </question>
+        <question>
+            <text>apparent</text>
+            <answer>очевидный</answer>
+        </question>
+        <question>
+            <text>apparently</text>
+            <answer>видимо</answer>
+        </question>
+        <question>
+            <text>appeal</text>
+            <answer>обращение</answer>
+        </question>
+        <question>
+            <text>to appeal</text>
+            <answer>обращаться</answer>
+        </question>
+        <question>
+            <text>applicant</text>
+            <answer>кандидат</answer>
+        </question>
+        <question>
+            <text>approach</text>
+            <answer>подход</answer>
+        </question>
+        <question>
+            <text>to approach</text>
+            <answer>подходить</answer>
+        </question>
+        <question>
+            <text>appropriate</text>
+            <answer>соответствующий</answer>
+        </question>
+        <question>
+            <text>to appropriate</text>
+            <answer>присваивать</answer>
+        </question>
+        <question>
+            <text>appropriately</text>
+            <answer>соответственно</answer>
+        </question>
+        <question>
+            <text>approval</text>
+            <answer>утверждение</answer>
+        </question>
+        <question>
+            <text>to approve</text>
+            <answer>утверждать</answer>
+        </question>
+        <question>
+            <text>to arise</text>
+            <answer>возникать</answer>
+        </question>
+        <question>
+            <text>armed</text>
+            <answer>вооруженный</answer>
+        </question>
+        <question>
+            <text>arms</text>
+            <answer>оружие</answer>
+        </question>
+        <question>
+            <text>arrow</text>
+            <answer>стрелка</answer>
+        </question>
+        <question>
+            <text>to arrow</text>
+            <answer>пускать стрелы</answer>
+        </question>
+        <question>
+            <text>artificial</text>
+            <answer>искусственный|искусственное удобрение</answer>
+        </question>
+        <question>
+            <text>artistic</text>
+            <answer>художественный</answer>
+        </question>
+        <question>
+            <text>artwork</text>
+            <answer>произведение искусства</answer>
+        </question>
+        <question>
+            <text>ashamed</text>
+            <answer>совестно|пристыженный</answer>
+        </question>
+        <question>
+            <text>aside</text>
+            <answer>в сторону</answer>
+        </question>
+        <question>
+            <text>aspect</text>
+            <answer>аспект|видовое</answer>
+        </question>
+        <question>
+            <text>to assess</text>
+            <answer>оценивать</answer>
+        </question>
+        <question>
+            <text>assessment</text>
+            <answer>оценка</answer>
+        </question>
+        <question>
+            <text>asset</text>
+            <answer>имущество</answer>
+        </question>
+        <question>
+            <text>assign</text>
+            <answer>правопреемник</answer>
+        </question>
+        <question>
+            <text>to assign</text>
+            <answer>назначать</answer>
+        </question>
+        <question>
+            <text>assistance</text>
+            <answer>помощь</answer>
+        </question>
+        <question>
+            <text>associate</text>
+            <answer>партнер|связанный</answer>
+        </question>
+        <question>
+            <text>to associate</text>
+            <answer>ассоциировать</answer>
+        </question>
+        <question>
+            <text>associated</text>
+            <answer>связанный</answer>
+        </question>
+        <question>
+            <text>association</text>
+            <answer>объединение</answer>
+        </question>
+        <question>
+            <text>to assume</text>
+            <answer>предполагать</answer>
+        </question>
+        <question>
+            <text>assumption</text>
+            <answer>предположение</answer>
+        </question>
+        <question>
+            <text>to assure</text>
+            <answer>гарантировать</answer>
+        </question>
+        <question>
+            <text>astonishing</text>
+            <answer>удивительный</answer>
+        </question>
+        <question>
+            <text>attachment</text>
+            <answer>привязанность</answer>
+        </question>
+        <question>
+            <text>attempt</text>
+            <answer>попытка</answer>
+        </question>
+        <question>
+            <text>to attempt</text>
+            <answer>пытаться</answer>
+        </question>
+        <question>
+            <text>auction</text>
+            <answer>аукцион|аукционный</answer>
+        </question>
+        <question>
+            <text>to auction</text>
+            <answer>продавать с аукциона</answer>
+        </question>
+        <question>
+            <text>audio</text>
+            <answer>звуковой|звукозапись</answer>
+        </question>
+        <question>
+            <text>automatic</text>
+            <answer>автоматический|автомат</answer>
+        </question>
+        <question>
+            <text>automatically</text>
+            <answer>автоматически</answer>
+        </question>
+        <question>
+            <text>awareness</text>
+            <answer>осознание</answer>
+        </question>
+        <question>
+            <text>awkward</text>
+            <answer>неуклюжий|жопа</answer>
+        </question>
+        <question>
+            <text>to back</text>
+            <answer>поддерживать</answer>
+        </question>
+        <question>
+            <text>bacteria</text>
+            <answer>бактерия</answer>
+        </question>
+        <question>
+            <text>badge</text>
+            <answer>значок</answer>
+        </question>
+        <question>
+            <text>to badge</text>
+            <answer>отмечать знаком</answer>
+        </question>
+        <question>
+            <text>balanced</text>
+            <answer>сбалансированный</answer>
+        </question>
+        <question>
+            <text>ballet</text>
+            <answer>балет|балетный</answer>
+        </question>
+        <question>
+            <text>balloon</text>
+            <answer>воздушный шар</answer>
+        </question>
+        <question>
+            <text>to balloon</text>
+            <answer>подниматься на воздушном шаре</answer>
+        </question>
+        <question>
+            <text>to bar</text>
+            <answer>запирать</answer>
+        </question>
+        <question>
+            <text>barely</text>
+            <answer>едва</answer>
+        </question>
+        <question>
+            <text>bargain</text>
+            <answer>сделка</answer>
+        </question>
+        <question>
+            <text>to bargain</text>
+            <answer>торговаться</answer>
+        </question>
+        <question>
+            <text>barrier</text>
+            <answer>барьер</answer>
+        </question>
+        <question>
+            <text>to barrier</text>
+            <answer>заграждать</answer>
+        </question>
+        <question>
+            <text>basement</text>
+            <answer>подвал</answer>
+        </question>
+        <question>
+            <text>basically</text>
+            <answer>в основном</answer>
+        </question>
+        <question>
+            <text>basket</text>
+            <answer>корзина</answer>
+        </question>
+        <question>
+            <text>to basket</text>
+            <answer>бросать в корзину</answer>
+        </question>
+        <question>
+            <text>bat</text>
+            <answer>летучая мышь</answer>
+        </question>
+        <question>
+            <text>to battle</text>
+            <answer>сражаться</answer>
+        </question>
+        <question>
+            <text>to bear</text>
+            <answer>нести</answer>
+        </question>
+        <question>
+            <text>beat</text>
+            <answer>удар|усталый</answer>
+        </question>
+        <question>
+            <text>to beg</text>
+            <answer>просить</answer>
+        </question>
+        <question>
+            <text>being</text>
+            <answer>существо|являющийся</answer>
+        </question>
+        <question>
+            <text>beneficial</text>
+            <answer>полезный</answer>
+        </question>
+        <question>
+            <text>bent</text>
+            <answer>изогнутый|склонность</answer>
+        </question>
+        <question>
+            <text>beside</text>
+            <answer>рядом|рядом с</answer>
+        </question>
+        <question>
+            <text>besides</text>
+            <answer>кроме</answer>
+        </question>
+        <question>
+            <text>bet</text>
+            <answer>ставка</answer>
+        </question>
+        <question>
+            <text>to bet</text>
+            <answer>держать пари</answer>
+        </question>
+        <question>
+            <text>beyond</text>
+            <answer>за|за пределами|загробная жизнь</answer>
+        </question>
+        <question>
+            <text>bias</text>
+            <answer>смещение|косой|косо</answer>
+        </question>
+        <question>
+            <text>to bias</text>
+            <answer>оказывать влияние</answer>
+        </question>
+        <question>
+            <text>bid</text>
+            <answer>заявка|два раза в день</answer>
+        </question>
+        <question>
+            <text>to bid</text>
+            <answer>предлагать цену</answer>
+        </question>
+        <question>
+            <text>to bill</text>
+            <answer>целоваться клювиками</answer>
+        </question>
+        <question>
+            <text>biological</text>
+            <answer>биологический</answer>
+        </question>
+        <question>
+            <text>bitter</text>
+            <answer>горький|горько|горечь</answer>
+        </question>
+        <question>
+            <text>blame</text>
+            <answer>вина</answer>
+        </question>
+        <question>
+            <text>to blame</text>
+            <answer>обвинять</answer>
+        </question>
+        <question>
+            <text>blanket</text>
+            <answer>одеяло|общий</answer>
+        </question>
+        <question>
+            <text>to blanket</text>
+            <answer>охватывать</answer>
+        </question>
+        <question>
+            <text>blind</text>
+            <answer>слепой</answer>
+        </question>
+        <question>
+            <text>to blind</text>
+            <answer>ослеплять</answer>
+        </question>
+        <question>
+            <text>blow</text>
+            <answer>удар</answer>
+        </question>
+        <question>
+            <text>bold</text>
+            <answer>смелый</answer>
+        </question>
+        <question>
+            <text>bombing</text>
+            <answer>бомбежка</answer>
+        </question>
+        <question>
+            <text>bond</text>
+            <answer>связь|крепостной</answer>
+        </question>
+        <question>
+            <text>to bond</text>
+            <answer>связывать</answer>
+        </question>
+        <question>
+            <text>booking</text>
+            <answer>заказ</answer>
+        </question>
+        <question>
+            <text>boost</text>
+            <answer>поддержка</answer>
+        </question>
+        <question>
+            <text>to boost</text>
+            <answer>форсировать</answer>
+        </question>
+        <question>
+            <text>to border</text>
+            <answer>граничить</answer>
+        </question>
+        <question>
+            <text>bound</text>
+            <answer>связанный|граница</answer>
+        </question>
+        <question>
+            <text>to bound</text>
+            <answer>связывать</answer>
+        </question>
+        <question>
+            <text>breast</text>
+            <answer>грудь</answer>
+        </question>
+        <question>
+            <text>to breast</text>
+            <answer>стать грудью против</answer>
+        </question>
+        <question>
+            <text>brick</text>
+            <answer>кирпич|кирпичный</answer>
+        </question>
+        <question>
+            <text>to brick</text>
+            <answer>облицовывать</answer>
+        </question>
+        <question>
+            <text>brief</text>
+            <answer>краткий|резюме</answer>
+        </question>
+        <question>
+            <text>to brief</text>
+            <answer>резюмировать</answer>
+        </question>
+        <question>
+            <text>briefly</text>
+            <answer>кратко</answer>
+        </question>
+        <question>
+            <text>broad</text>
+            <answer>широкий|широко|баба</answer>
+        </question>
+        <question>
+            <text>broadcast</text>
+            <answer>радиовещание|радиовещательный</answer>
+        </question>
+        <question>
+            <text>to broadcast</text>
+            <answer>вещать</answer>
+        </question>
+        <question>
+            <text>broadcaster</text>
+            <answer>диктор</answer>
+        </question>
+        <question>
+            <text>broadly</text>
+            <answer>широко</answer>
+        </question>
+        <question>
+            <text>budget</text>
+            <answer>бюджет</answer>
+        </question>
+        <question>
+            <text>to budget</text>
+            <answer>составлять бюджет</answer>
+        </question>
+        <question>
+            <text>bug</text>
+            <answer>жук</answer>
+        </question>
+        <question>
+            <text>to bug</text>
+            <answer>подслушивать</answer>
+        </question>
+        <question>
+            <text>bullet</text>
+            <answer>пуля</answer>
+        </question>
+        <question>
+            <text>bunch</text>
+            <answer>пучок</answer>
+        </question>
+        <question>
+            <text>to bunch</text>
+            <answer>сбиваться в кучу</answer>
+        </question>
+        <question>
+            <text>burn</text>
+            <answer>ожог</answer>
+        </question>
+        <question>
+            <text>bush</text>
+            <answer>втулка</answer>
+        </question>
+        <question>
+            <text>to bush</text>
+            <answer>бороновать</answer>
+        </question>
+        <question>
+            <text>cabin</text>
+            <answer>кабина</answer>
+        </question>
+        <question>
+            <text>to cabin</text>
+            <answer>помещать</answer>
+        </question>
+        <question>
+            <text>cable</text>
+            <answer>кабель|кабельный</answer>
+        </question>
+        <question>
+            <text>to cable</text>
+            <answer>телеграфировать</answer>
+        </question>
+        <question>
+            <text>to calculate</text>
+            <answer>вычислять</answer>
+        </question>
+        <question>
+            <text>canal</text>
+            <answer>канал|канальный</answer>
+        </question>
+        <question>
+            <text>to canal</text>
+            <answer>проводить канал</answer>
+        </question>
+        <question>
+            <text>cancel</text>
+            <answer>отмена</answer>
+        </question>
+        <question>
+            <text>to cancel</text>
+            <answer>аннулировать</answer>
+        </question>
+        <question>
+            <text>cancer</text>
+            <answer>рак</answer>
+        </question>
+        <question>
+            <text>candle</text>
+            <answer>свеча</answer>
+        </question>
+        <question>
+            <text>to candle</text>
+            <answer>проверять свежесть яиц</answer>
+        </question>
+        <question>
+            <text>capable</text>
+            <answer>способный</answer>
+        </question>
+        <question>
+            <text>capacity</text>
+            <answer>мощность</answer>
+        </question>
+        <question>
+            <text>capture</text>
+            <answer>захват</answer>
+        </question>
+        <question>
+            <text>to capture</text>
+            <answer>захватывать</answer>
+        </question>
+        <question>
+            <text>carbon</text>
+            <answer>углерод|угольный</answer>
+        </question>
+        <question>
+            <text>cast</text>
+            <answer>литье</answer>
+        </question>
+        <question>
+            <text>to cast</text>
+            <answer>бросать</answer>
+        </question>
+        <question>
+            <text>casual</text>
+            <answer>случайный|случайный посетитель</answer>
+        </question>
+        <question>
+            <text>catch</text>
+            <answer>улов</answer>
+        </question>
+        <question>
+            <text>cave</text>
+            <answer>пещера</answer>
+        </question>
+        <question>
+            <text>to cave</text>
+            <answer>выдалбливать</answer>
+        </question>
+        <question>
+            <text>cell</text>
+            <answer>ячейка</answer>
+        </question>
+        <question>
+            <text>to cell</text>
+            <answer>помещать в клетку</answer>
+        </question>
+        <question>
+            <text>certainty</text>
+            <answer>уверенность</answer>
+        </question>
+        <question>
+            <text>certificate</text>
+            <answer>сертификат</answer>
+        </question>
+        <question>
+            <text>to certificate</text>
+            <answer>сертифицировать</answer>
+        </question>
+        <question>
+            <text>to chain</text>
+            <answer>сковать</answer>
+        </question>
+        <question>
+            <text>to chair</text>
+            <answer>председательствовать</answer>
+        </question>
+        <question>
+            <text>chairman</text>
+            <answer>председатель</answer>
+        </question>
+        <question>
+            <text>to chairman</text>
+            <answer>председательствовать</answer>
+        </question>
+        <question>
+            <text>to challenge</text>
+            <answer>оспаривать</answer>
+        </question>
+        <question>
+            <text>challenging</text>
+            <answer>стимулирующий</answer>
+        </question>
+        <question>
+            <text>championship</text>
+            <answer>чемпионат</answer>
+        </question>
+        <question>
+            <text>characteristic</text>
+            <answer>характерный|характеристика</answer>
+        </question>
+        <question>
+            <text>charming</text>
+            <answer>очаровательный</answer>
+        </question>
+        <question>
+            <text>to chart</text>
+            <answer>наносить на карту</answer>
+        </question>
+        <question>
+            <text>chase</text>
+            <answer>погоня</answer>
+        </question>
+        <question>
+            <text>to chase</text>
+            <answer>преследовать</answer>
+        </question>
+        <question>
+            <text>cheek</text>
+            <answer>щека</answer>
+        </question>
+        <question>
+            <text>to cheek</text>
+            <answer>нахальничать</answer>
+        </question>
+        <question>
+            <text>cheer</text>
+            <answer>настроение</answer>
+        </question>
+        <question>
+            <text>to cheer</text>
+            <answer>аплодировать</answer>
+        </question>
+        <question>
+            <text>chief</text>
+            <answer>главный|начальник</answer>
+        </question>
+        <question>
+            <text>choir</text>
+            <answer>хор</answer>
+        </question>
+        <question>
+            <text>to choir</text>
+            <answer>петь хором</answer>
+        </question>
+        <question>
+            <text>chop</text>
+            <answer>отбивная|привередливый</answer>
+        </question>
+        <question>
+            <text>to chop</text>
+            <answer>нарезать</answer>
+        </question>
+        <question>
+            <text>circuit</text>
+            <answer>схема</answer>
+        </question>
+        <question>
+            <text>to circuit</text>
+            <answer>обходить вокруг</answer>
+        </question>
+        <question>
+            <text>circumstance</text>
+            <answer>обстоятельство</answer>
+        </question>
+        <question>
+            <text>to cite</text>
+            <answer>ссылаться</answer>
+        </question>
+        <question>
+            <text>citizen</text>
+            <answer>гражданин</answer>
+        </question>
+        <question>
+            <text>civil</text>
+            <answer>гражданский</answer>
+        </question>
+        <question>
+            <text>civilization</text>
+            <answer>цивилизация</answer>
+        </question>
+        <question>
+            <text>to clarify</text>
+            <answer>прояснить</answer>
+        </question>
+        <question>
+            <text>classic</text>
+            <answer>классика|классический</answer>
+        </question>
+        <question>
+            <text>to classify</text>
+            <answer>классифицировать</answer>
+        </question>
+        <question>
+            <text>clerk</text>
+            <answer>клерк</answer>
+        </question>
+        <question>
+            <text>to clerk</text>
+            <answer>быть чиновником</answer>
+        </question>
+        <question>
+            <text>cliff</text>
+            <answer>утес</answer>
+        </question>
+        <question>
+            <text>clinic</text>
+            <answer>клиника|клинический</answer>
+        </question>
+        <question>
+            <text>clip</text>
+            <answer>клип</answer>
+        </question>
+        <question>
+            <text>to clip</text>
+            <answer>обрезать</answer>
+        </question>
+        <question>
+            <text>closely</text>
+            <answer>тесно</answer>
+        </question>
+        <question>
+            <text>coincidence</text>
+            <answer>совпадение</answer>
+        </question>
+        <question>
+            <text>collapse</text>
+            <answer>крах</answer>
+        </question>
+        <question>
+            <text>to collapse</text>
+            <answer>рухнуть</answer>
+        </question>
+        <question>
+            <text>collector</text>
+            <answer>коллектор</answer>
+        </question>
+        <question>
+            <text>colony</text>
+            <answer>колония</answer>
+        </question>
+        <question>
+            <text>colourful</text>
+            <answer>красочный</answer>
+        </question>
+        <question>
+            <text>combination</text>
+            <answer>сочетание</answer>
+        </question>
+        <question>
+            <text>comfort</text>
+            <answer>комфорт</answer>
+        </question>
+        <question>
+            <text>to comfort</text>
+            <answer>утешить</answer>
+        </question>
+        <question>
+            <text>comic</text>
+            <answer>комический|комик</answer>
+        </question>
+        <question>
+            <text>command</text>
+            <answer>команда|командный</answer>
+        </question>
+        <question>
+            <text>to command</text>
+            <answer>командовать</answer>
+        </question>
+        <question>
+            <text>commander</text>
+            <answer>командир|командующий</answer>
+        </question>
+        <question>
+            <text>commission</text>
+            <answer>комиссия</answer>
+        </question>
+        <question>
+            <text>to commission</text>
+            <answer>поручать</answer>
+        </question>
+        <question>
+            <text>commitment</text>
+            <answer>обязательство</answer>
+        </question>
+        <question>
+            <text>committee</text>
+            <answer>комитет</answer>
+        </question>
+        <question>
+            <text>commonly</text>
+            <answer>обычно</answer>
+        </question>
+        <question>
+            <text>comparative</text>
+            <answer>сравнительный|сравнительная степень</answer>
+        </question>
+        <question>
+            <text>completion</text>
+            <answer>завершение</answer>
+        </question>
+        <question>
+            <text>complicated</text>
+            <answer>сложный</answer>
+        </question>
+        <question>
+            <text>component</text>
+            <answer>компонент|составной</answer>
+        </question>
+        <question>
+            <text>to compose</text>
+            <answer>сочинять</answer>
+        </question>
+        <question>
+            <text>composer</text>
+            <answer>композитор</answer>
+        </question>
+        <question>
+            <text>compound</text>
+            <answer>соединение|составной</answer>
+        </question>
+        <question>
+            <text>to compound</text>
+            <answer>составлять</answer>
+        </question>
+        <question>
+            <text>comprehensive</text>
+            <answer>всесторонний|общеобразовательная школа</answer>
+        </question>
+        <question>
+            <text>to comprise</text>
+            <answer>содержать</answer>
+        </question>
+        <question>
+            <text>compulsory</text>
+            <answer>обязательный</answer>
+        </question>
+        <question>
+            <text>concentration</text>
+            <answer>концентрация</answer>
+        </question>
+        <question>
+            <text>concept</text>
+            <answer>концепция</answer>
+        </question>
+        <question>
+            <text>concern</text>
+            <answer>концерн</answer>
+        </question>
+        <question>
+            <text>to concern</text>
+            <answer>касаться</answer>
+        </question>
+        <question>
+            <text>concerned</text>
+            <answer>обеспокоенный</answer>
+        </question>
+        <question>
+            <text>concrete</text>
+            <answer>бетон|конкретный</answer>
+        </question>
+        <question>
+            <text>to concrete</text>
+            <answer>бетонировать</answer>
+        </question>
+        <question>
+            <text>conduct</text>
+            <answer>поведение</answer>
+        </question>
+        <question>
+            <text>to conduct</text>
+            <answer>проводить</answer>
+        </question>
+        <question>
+            <text>to confess</text>
+            <answer>исповедовать</answer>
+        </question>
+        <question>
+            <text>confidence</text>
+            <answer>уверенность</answer>
+        </question>
+        <question>
+            <text>conflict</text>
+            <answer>конфликт</answer>
+        </question>
+        <question>
+            <text>to conflict</text>
+            <answer>противоречить</answer>
+        </question>
+        <question>
+            <text>to confusing</text>
+            <answer>смешивать</answer>
+        </question>
+        <question>
+            <text>confusion</text>
+            <answer>путаница</answer>
+        </question>
+        <question>
+            <text>conscious</text>
+            <answer>сознательный|сознание</answer>
+        </question>
+        <question>
+            <text>consequently</text>
+            <answer>следовательно</answer>
+        </question>
+        <question>
+            <text>conservation</text>
+            <answer>сохранение</answer>
+        </question>
+        <question>
+            <text>conservative</text>
+            <answer>консервативный|консерватор</answer>
+        </question>
+        <question>
+            <text>considerable</text>
+            <answer>значительный|много</answer>
+        </question>
+        <question>
+            <text>considerably</text>
+            <answer>изрядно</answer>
+        </question>
+        <question>
+            <text>consideration</text>
+            <answer>рассмотрение</answer>
+        </question>
+        <question>
+            <text>consistent</text>
+            <answer>последовательный</answer>
+        </question>
+        <question>
+            <text>consistently</text>
+            <answer>последовательно</answer>
+        </question>
+        <question>
+            <text>conspiracy</text>
+            <answer>заговор</answer>
+        </question>
+        <question>
+            <text>constant</text>
+            <answer>постоянная|постоянный</answer>
+        </question>
+        <question>
+            <text>constantly</text>
+            <answer>постоянно</answer>
+        </question>
+        <question>
+            <text>construct</text>
+            <answer>конструкция</answer>
+        </question>
+        <question>
+            <text>to construct</text>
+            <answer>строить</answer>
+        </question>
+        <question>
+            <text>construction</text>
+            <answer>строительство</answer>
+        </question>
+        <question>
+            <text>to consult</text>
+            <answer>консультироваться</answer>
+        </question>
+        <question>
+            <text>consultant</text>
+            <answer>консультант</answer>
+        </question>
+        <question>
+            <text>consumption</text>
+            <answer>расход</answer>
+        </question>
+        <question>
+            <text>contemporary</text>
+            <answer>современный|современник</answer>
+        </question>
+        <question>
+            <text>contest</text>
+            <answer>конкурс</answer>
+        </question>
+        <question>
+            <text>to contest</text>
+            <answer>оспаривать</answer>
+        </question>
+        <question>
+            <text>contract</text>
+            <answer>контракт|договорный</answer>
+        </question>
+        <question>
+            <text>to contract</text>
+            <answer>сокращаться</answer>
+        </question>
+        <question>
+            <text>to contribute</text>
+            <answer>способствовать</answer>
+        </question>
+        <question>
+            <text>contribution</text>
+            <answer>вклад</answer>
+        </question>
+        <question>
+            <text>controversial</text>
+            <answer>спорный</answer>
+        </question>
+        <question>
+            <text>controversy</text>
+            <answer>спор</answer>
+        </question>
+        <question>
+            <text>convenience</text>
+            <answer>удобство</answer>
+        </question>
+        <question>
+            <text>convention</text>
+            <answer>конвенция</answer>
+        </question>
+        <question>
+            <text>conventional</text>
+            <answer>обычный</answer>
+        </question>
+        <question>
+            <text>convert</text>
+            <answer>новообращенный</answer>
+        </question>
+        <question>
+            <text>to convert</text>
+            <answer>превращать</answer>
+        </question>
+        <question>
+            <text>to convey</text>
+            <answer>передавать</answer>
+        </question>
+        <question>
+            <text>convinced</text>
+            <answer>убежденный</answer>
+        </question>
+        <question>
+            <text>convincing</text>
+            <answer>убедительный</answer>
+        </question>
+        <question>
+            <text>cope</text>
+            <answer>риза</answer>
+        </question>
+        <question>
+            <text>to cope</text>
+            <answer>справляться</answer>
+        </question>
+        <question>
+            <text>core</text>
+            <answer>ядро</answer>
+        </question>
+        <question>
+            <text>to core</text>
+            <answer>вырезать сердцевину</answer>
+        </question>
+        <question>
+            <text>corporate</text>
+            <answer>корпоративный</answer>
+        </question>
+        <question>
+            <text>corporation</text>
+            <answer>корпорация</answer>
+        </question>
+        <question>
+            <text>corridor</text>
+            <answer>коридор</answer>
+        </question>
+        <question>
+            <text>council</text>
+            <answer>совет</answer>
+        </question>
+        <question>
+            <text>counter</text>
+            <answer>счетчик|встречный|обратно</answer>
+        </question>
+        <question>
+            <text>county</text>
+            <answer>графство|окружной</answer>
+        </question>
+        <question>
+            <text>courage</text>
+            <answer>мужество</answer>
+        </question>
+        <question>
+            <text>coverage</text>
+            <answer>охват</answer>
+        </question>
+        <question>
+            <text>crack</text>
+            <answer>трещина|первоклассный</answer>
+        </question>
+        <question>
+            <text>to crack</text>
+            <answer>трескаться</answer>
+        </question>
+        <question>
+            <text>craft</text>
+            <answer>ремесло|цеховой</answer>
+        </question>
+        <question>
+            <text>crash</text>
+            <answer>крах|интенсивный|с грохотом</answer>
+        </question>
+        <question>
+            <text>to crash</text>
+            <answer>разбивать</answer>
+        </question>
+        <question>
+            <text>creation</text>
+            <answer>создание</answer>
+        </question>
+        <question>
+            <text>creativity</text>
+            <answer>креативность</answer>
+        </question>
+        <question>
+            <text>creature</text>
+            <answer>создание</answer>
+        </question>
+        <question>
+            <text>to credit</text>
+            <answer>кредитовать</answer>
+        </question>
+        <question>
+            <text>crew</text>
+            <answer>экипаж</answer>
+        </question>
+        <question>
+            <text>to crew</text>
+            <answer>кричать кукареку</answer>
+        </question>
+        <question>
+            <text>crisis</text>
+            <answer>кризис|кризисный</answer>
+        </question>
+        <question>
+            <text>criterion</text>
+            <answer>критерий</answer>
+        </question>
+        <question>
+            <text>critic</text>
+            <answer>критик|критический</answer>
+        </question>
+        <question>
+            <text>critical</text>
+            <answer>критический</answer>
+        </question>
+        <question>
+            <text>critically</text>
+            <answer>критически</answer>
+        </question>
+        <question>
+            <text>criticism</text>
+            <answer>критика</answer>
+        </question>
+        <question>
+            <text>to criticize</text>
+            <answer>критиковать</answer>
+        </question>
+        <question>
+            <text>crop</text>
+            <answer>урожай</answer>
+        </question>
+        <question>
+            <text>to crop</text>
+            <answer>обрезать</answer>
+        </question>
+        <question>
+            <text>crucial</text>
+            <answer>решающий</answer>
+        </question>
+        <question>
+            <text>cruise</text>
+            <answer>круиз</answer>
+        </question>
+        <question>
+            <text>to cruise</text>
+            <answer>крейсировать</answer>
+        </question>
+        <question>
+            <text>cry</text>
+            <answer>крик</answer>
+        </question>
+        <question>
+            <text>cue</text>
+            <answer>сигнал</answer>
+        </question>
+        <question>
+            <text>cure</text>
+            <answer>кюре</answer>
+        </question>
+        <question>
+            <text>to cure</text>
+            <answer>лечить</answer>
+        </question>
+        <question>
+            <text>curious</text>
+            <answer>любопытный</answer>
+        </question>
+        <question>
+            <text>curriculum</text>
+            <answer>учебный план</answer>
+        </question>
+        <question>
+            <text>curve</text>
+            <answer>кривая</answer>
+        </question>
+        <question>
+            <text>to curve</text>
+            <answer>изгибаться</answer>
+        </question>
+        <question>
+            <text>curved</text>
+            <answer>изогнутый</answer>
+        </question>
+        <question>
+            <text>cute</text>
+            <answer>милый</answer>
+        </question>
+        <question>
+            <text>dairy</text>
+            <answer>молочная|молочный</answer>
+        </question>
+        <question>
+            <text>dare</text>
+            <answer>вызов</answer>
+        </question>
+        <question>
+            <text>to dare</text>
+            <answer>дерзать</answer>
+        </question>
+        <question>
+            <text>darkness</text>
+            <answer>темнота</answer>
+        </question>
+        <question>
+            <text>database</text>
+            <answer>база данных</answer>
+        </question>
+        <question>
+            <text>to date</text>
+            <answer>датировать</answer>
+        </question>
+        <question>
+            <text>deadline</text>
+            <answer>предельный срок</answer>
+        </question>
+        <question>
+            <text>to deadline</text>
+            <answer>сдать в ремонт</answer>
+        </question>
+        <question>
+            <text>deadly</text>
+            <answer>смертельный|смертельно</answer>
+        </question>
+        <question>
+            <text>dealer</text>
+            <answer>дилер</answer>
+        </question>
+        <question>
+            <text>debate</text>
+            <answer>дебаты</answer>
+        </question>
+        <question>
+            <text>to debate</text>
+            <answer>обсуждать</answer>
+        </question>
+        <question>
+            <text>debt</text>
+            <answer>долг</answer>
+        </question>
+        <question>
+            <text>decent</text>
+            <answer>приличный</answer>
+        </question>
+        <question>
+            <text>deck</text>
+            <answer>палуба|палубный</answer>
+        </question>
+        <question>
+            <text>to deck</text>
+            <answer>украшать</answer>
+        </question>
+        <question>
+            <text>to declare</text>
+            <answer>объявлять</answer>
+        </question>
+        <question>
+            <text>decline</text>
+            <answer>снижение</answer>
+        </question>
+        <question>
+            <text>to decline</text>
+            <answer>уменьшаться</answer>
+        </question>
+        <question>
+            <text>decoration</text>
+            <answer>украшение</answer>
+        </question>
+        <question>
+            <text>decrease</text>
+            <answer>уменьшение</answer>
+        </question>
+        <question>
+            <text>to decrease</text>
+            <answer>уменьшить</answer>
+        </question>
+        <question>
+            <text>deeply</text>
+            <answer>глубоко</answer>
+        </question>
+        <question>
+            <text>defeat</text>
+            <answer>поражение</answer>
+        </question>
+        <question>
+            <text>to defeat</text>
+            <answer>побеждать</answer>
+        </question>
+        <question>
+            <text>defence</text>
+            <answer>защита</answer>
+        </question>
+        <question>
+            <text>to defend</text>
+            <answer>защищать</answer>
+        </question>
+        <question>
+            <text>defender</text>
+            <answer>защитник</answer>
+        </question>
+        <question>
+            <text>delay</text>
+            <answer>задержка</answer>
+        </question>
+        <question>
+            <text>to delay</text>
+            <answer>задерживать</answer>
+        </question>
+        <question>
+            <text>to delete</text>
+            <answer>удалять</answer>
+        </question>
+        <question>
+            <text>deliberate</text>
+            <answer>преднамеренный</answer>
+        </question>
+        <question>
+            <text>to deliberate</text>
+            <answer>совещаться</answer>
+        </question>
+        <question>
+            <text>deliberately</text>
+            <answer>умышленно</answer>
+        </question>
+        <question>
+            <text>delight</text>
+            <answer>восторг</answer>
+        </question>
+        <question>
+            <text>to delight</text>
+            <answer>наслаждаться</answer>
+        </question>
+        <question>
+            <text>delighted</text>
+            <answer>восхищенный</answer>
+        </question>
+        <question>
+            <text>delivery</text>
+            <answer>доставка|нагнетательный</answer>
+        </question>
+        <question>
+            <text>demand</text>
+            <answer>спрос</answer>
+        </question>
+        <question>
+            <text>to demand</text>
+            <answer>требовать</answer>
+        </question>
+        <question>
+            <text>democracy</text>
+            <answer>демократия</answer>
+        </question>
+        <question>
+            <text>democratic</text>
+            <answer>демократический</answer>
+        </question>
+        <question>
+            <text>to demonstrate</text>
+            <answer>демонстрировать</answer>
+        </question>
+        <question>
+            <text>demonstration</text>
+            <answer>демонстрация</answer>
+        </question>
+        <question>
+            <text>to deny</text>
+            <answer>отрицать</answer>
+        </question>
+        <question>
+            <text>to depart</text>
+            <answer>отступать</answer>
+        </question>
+        <question>
+            <text>dependent</text>
+            <answer>зависимый|иждивенец</answer>
+        </question>
+        <question>
+            <text>deposit</text>
+            <answer>депозит</answer>
+        </question>
+        <question>
+            <text>depressed</text>
+            <answer>подавленный</answer>
+        </question>
+        <question>
+            <text>depressing</text>
+            <answer>гнетущий</answer>
+        </question>
+        <question>
+            <text>depression</text>
+            <answer>депрессия</answer>
+        </question>
+        <question>
+            <text>depth</text>
+            <answer>глубина</answer>
+        </question>
+        <question>
+            <text>to derive</text>
+            <answer>получать</answer>
+        </question>
+        <question>
+            <text>to desert</text>
+            <answer>дезертировать</answer>
+        </question>
+        <question>
+            <text>to deserve</text>
+            <answer>заслуживать</answer>
+        </question>
+        <question>
+            <text>desire</text>
+            <answer>желание</answer>
+        </question>
+        <question>
+            <text>to desire</text>
+            <answer>желать</answer>
+        </question>
+        <question>
+            <text>desperate</text>
+            <answer>отчаянный</answer>
+        </question>
+        <question>
+            <text>desperately</text>
+            <answer>в отчаянии</answer>
+        </question>
+        <question>
+            <text>destruction</text>
+            <answer>разрушение</answer>
+        </question>
+        <question>
+            <text>to detail</text>
+            <answer>детализировать</answer>
+        </question>
+        <question>
+            <text>detailed</text>
+            <answer>подробный</answer>
+        </question>
+        <question>
+            <text>to detect</text>
+            <answer>обнаруживать</answer>
+        </question>
+        <question>
+            <text>determination</text>
+            <answer>определение</answer>
+        </question>
+        <question>
+            <text>to devote</text>
+            <answer>уделять</answer>
+        </question>
+        <question>
+            <text>to differ</text>
+            <answer>отличаться</answer>
+        </question>
+        <question>
+            <text>dig</text>
+            <answer>тычок</answer>
+        </question>
+        <question>
+            <text>to dig</text>
+            <answer>копать</answer>
+        </question>
+        <question>
+            <text>disability</text>
+            <answer>инвалидность</answer>
+        </question>
+        <question>
+            <text>disabled</text>
+            <answer>инвалид|нетрудоспособный</answer>
+        </question>
+        <question>
+            <text>disagreement</text>
+            <answer>разногласие</answer>
+        </question>
+        <question>
+            <text>to disappoint</text>
+            <answer>разочаровывать</answer>
+        </question>
+        <question>
+            <text>disappointment</text>
+            <answer>разочарование</answer>
+        </question>
+        <question>
+            <text>disc</text>
+            <answer>диск|дисковый</answer>
+        </question>
+        <question>
+            <text>to disc</text>
+            <answer>дисковать</answer>
+        </question>
+        <question>
+            <text>discipline</text>
+            <answer>дисциплина</answer>
+        </question>
+        <question>
+            <text>to discipline</text>
+            <answer>дисциплинировать</answer>
+        </question>
+        <question>
+            <text>to discount</text>
+            <answer>дисконтировать</answer>
+        </question>
+        <question>
+            <text>to discourage</text>
+            <answer>отговаривать</answer>
+        </question>
+        <question>
+            <text>dishonest</text>
+            <answer>нечестный</answer>
+        </question>
+        <question>
+            <text>disk</text>
+            <answer>диск|дисковый</answer>
+        </question>
+        <question>
+            <text>to disk</text>
+            <answer>дисковать</answer>
+        </question>
+        <question>
+            <text>to dismiss</text>
+            <answer>увольнять</answer>
+        </question>
+        <question>
+            <text>disorder</text>
+            <answer>расстройство</answer>
+        </question>
+        <question>
+            <text>to disorder</text>
+            <answer>расстраивать</answer>
+        </question>
+        <question>
+            <text>display</text>
+            <answer>дисплей</answer>
+        </question>
+        <question>
+            <text>to display</text>
+            <answer>показывать</answer>
+        </question>
+        <question>
+            <text>distant</text>
+            <answer>далекий</answer>
+        </question>
+        <question>
+            <text>distinct</text>
+            <answer>особый</answer>
+        </question>
+        <question>
+            <text>distinguish</text>
+            <answer>значительный</answer>
+        </question>
+        <question>
+            <text>to distinguish</text>
+            <answer>различать</answer>
+        </question>
+        <question>
+            <text>to distract</text>
+            <answer>отвлекать</answer>
+        </question>
+        <question>
+            <text>to distribute</text>
+            <answer>распространять</answer>
+        </question>
+        <question>
+            <text>distribution</text>
+            <answer>распределение</answer>
+        </question>
+        <question>
+            <text>district</text>
+            <answer>район|районный</answer>
+        </question>
+        <question>
+            <text>to district</text>
+            <answer>делить на округа</answer>
+        </question>
+        <question>
+            <text>to disturb</text>
+            <answer>беспокоить</answer>
+        </question>
+        <question>
+            <text>dive</text>
+            <answer>погружение</answer>
+        </question>
+        <question>
+            <text>to dive</text>
+            <answer>нырять</answer>
+        </question>
+        <question>
+            <text>diverse</text>
+            <answer>разнообразный</answer>
+        </question>
+        <question>
+            <text>diversity</text>
+            <answer>разнообразие</answer>
+        </question>
+        <question>
+            <text>divide</text>
+            <answer>разделение</answer>
+        </question>
+        <question>
+            <text>division</text>
+            <answer>разделение|разделяющий</answer>
+        </question>
+        <question>
+            <text>divorce</text>
+            <answer>развод|бракоразводный</answer>
+        </question>
+        <question>
+            <text>to divorce</text>
+            <answer>разводиться</answer>
+        </question>
+        <question>
+            <text>to document</text>
+            <answer>документировать</answer>
+        </question>
+        <question>
+            <text>domestic</text>
+            <answer>внутренний|прислуга</answer>
+        </question>
+        <question>
+            <text>dominant</text>
+            <answer>доминанта|доминирующий</answer>
+        </question>
+        <question>
+            <text>to dominate</text>
+            <answer>доминировать</answer>
+        </question>
+        <question>
+            <text>donation</text>
+            <answer>пожертвование</answer>
+        </question>
+        <question>
+            <text>dot</text>
+            <answer>точка</answer>
+        </question>
+        <question>
+            <text>to dot</text>
+            <answer>ставить точки</answer>
+        </question>
+        <question>
+            <text>downtown</text>
+            <answer>в деловой части города|деловая часть города</answer>
+        </question>
+        <question>
+            <text>downwards</text>
+            <answer>вниз</answer>
+        </question>
+        <question>
+            <text>dozen</text>
+            <answer>дюжина</answer>
+        </question>
+        <question>
+            <text>draft</text>
+            <answer>проект|тяговый</answer>
+        </question>
+        <question>
+            <text>to draft</text>
+            <answer>призывать</answer>
+        </question>
+        <question>
+            <text>drag</text>
+            <answer>лобовое сопротивление</answer>
+        </question>
+        <question>
+            <text>to drag</text>
+            <answer>тащить</answer>
+        </question>
+        <question>
+            <text>dramatic</text>
+            <answer>драматический</answer>
+        </question>
+        <question>
+            <text>dramatically</text>
+            <answer>драматично</answer>
+        </question>
+        <question>
+            <text>drought</text>
+            <answer>засуха</answer>
+        </question>
+        <question>
+            <text>dull</text>
+            <answer>тусклый</answer>
+        </question>
+        <question>
+            <text>to dull</text>
+            <answer>притуплять</answer>
+        </question>
+        <question>
+            <text>dump</text>
+            <answer>свалка|самосвальный</answer>
+        </question>
+        <question>
+            <text>to dump</text>
+            <answer>сбрасывать</answer>
+        </question>
+        <question>
+            <text>duration</text>
+            <answer>продолжительность</answer>
+        </question>
+        <question>
+            <text>dynamic</text>
+            <answer>динамический|динамика</answer>
+        </question>
+        <question>
+            <text>economics</text>
+            <answer>экономика</answer>
+        </question>
+        <question>
+            <text>economist</text>
+            <answer>экономист</answer>
+        </question>
+        <question>
+            <text>edit</text>
+            <answer>монтаж</answer>
+        </question>
+        <question>
+            <text>to edit</text>
+            <answer>редактировать</answer>
+        </question>
+        <question>
+            <text>edition</text>
+            <answer>издание</answer>
+        </question>
+        <question>
+            <text>editorial</text>
+            <answer>редакционный|передовица</answer>
+        </question>
+        <question>
+            <text>efficient</text>
+            <answer>эффективный|сомножитель</answer>
+        </question>
+        <question>
+            <text>efficiently</text>
+            <answer>продуктивно</answer>
+        </question>
+        <question>
+            <text>elbow</text>
+            <answer>локоть</answer>
+        </question>
+        <question>
+            <text>to elbow</text>
+            <answer>толкать локтем</answer>
+        </question>
+        <question>
+            <text>elderly</text>
+            <answer>пожилой|престарелые</answer>
+        </question>
+        <question>
+            <text>elect</text>
+            <answer>избранный|избранные</answer>
+        </question>
+        <question>
+            <text>to elect</text>
+            <answer>избирать</answer>
+        </question>
+        <question>
+            <text>electronics</text>
+            <answer>электроника</answer>
+        </question>
+        <question>
+            <text>elegant</text>
+            <answer>элегантный|щеголь</answer>
+        </question>
+        <question>
+            <text>elementary</text>
+            <answer>элементарный</answer>
+        </question>
+        <question>
+            <text>to eliminate</text>
+            <answer>ликвидировать</answer>
+        </question>
+        <question>
+            <text>elsewhere</text>
+            <answer>где-то в другом месте</answer>
+        </question>
+        <question>
+            <text>embrace</text>
+            <answer>объятия</answer>
+        </question>
+        <question>
+            <text>to embrace</text>
+            <answer>обнимать</answer>
+        </question>
+        <question>
+            <text>to emerge</text>
+            <answer>появляться</answer>
+        </question>
+        <question>
+            <text>emission</text>
+            <answer>эмиссия</answer>
+        </question>
+        <question>
+            <text>emotional</text>
+            <answer>эмоциональный</answer>
+        </question>
+        <question>
+            <text>emotionally</text>
+            <answer>эмоционально</answer>
+        </question>
+        <question>
+            <text>emphasis</text>
+            <answer>акцент</answer>
+        </question>
+        <question>
+            <text>to emphasize</text>
+            <answer>подчеркивать</answer>
+        </question>
+        <question>
+            <text>empire</text>
+            <answer>империя|имперский</answer>
+        </question>
+        <question>
+            <text>to enable</text>
+            <answer>разрешать</answer>
+        </question>
+        <question>
+            <text>encounter</text>
+            <answer>столкновение</answer>
+        </question>
+        <question>
+            <text>to encounter</text>
+            <answer>сталкиваться</answer>
+        </question>
+        <question>
+            <text>to engage</text>
+            <answer>заниматься</answer>
+        </question>
+        <question>
+            <text>to enhance</text>
+            <answer>усиливать</answer>
+        </question>
+        <question>
+            <text>enjoyable</text>
+            <answer>приятный</answer>
+        </question>
+        <question>
+            <text>enquiry</text>
+            <answer>запрос</answer>
+        </question>
+        <question>
+            <text>to ensure</text>
+            <answer>гарантировать</answer>
+        </question>
+        <question>
+            <text>entertaining</text>
+            <answer>развлекательный</answer>
+        </question>
+        <question>
+            <text>enthusiasm</text>
+            <answer>энтузиазм</answer>
+        </question>
+        <question>
+            <text>enthusiastic</text>
+            <answer>восторженный</answer>
+        </question>
+        <question>
+            <text>entire</text>
+            <answer>весь|целое</answer>
+        </question>
+        <question>
+            <text>entirely</text>
+            <answer>полностью</answer>
+        </question>
+        <question>
+            <text>entrepreneur</text>
+            <answer>предприниматель</answer>
+        </question>
+        <question>
+            <text>envelope</text>
+            <answer>конверт</answer>
+        </question>
+        <question>
+            <text>to equip</text>
+            <answer>оборудовать</answer>
+        </question>
+        <question>
+            <text>equivalent</text>
+            <answer>эквивалент|эквивалентный</answer>
+        </question>
+        <question>
+            <text>era</text>
+            <answer>эра</answer>
+        </question>
+        <question>
+            <text>to erupt</text>
+            <answer>извергаться</answer>
+        </question>
+        <question>
+            <text>essentially</text>
+            <answer>по существу</answer>
+        </question>
+        <question>
+            <text>to establish</text>
+            <answer>устанавливать</answer>
+        </question>
+        <question>
+            <text>estate</text>
+            <answer>имущество</answer>
+        </question>
+        <question>
+            <text>estimate</text>
+            <answer>оценка</answer>
+        </question>
+        <question>
+            <text>to estimate</text>
+            <answer>оценивать</answer>
+        </question>
+        <question>
+            <text>ethic</text>
+            <answer>этика|этический</answer>
+        </question>
+        <question>
+            <text>ethical</text>
+            <answer>этический</answer>
+        </question>
+        <question>
+            <text>ethnic</text>
+            <answer>этнический|язычник</answer>
+        </question>
+        <question>
+            <text>to evaluate</text>
+            <answer>оценивать</answer>
+        </question>
+        <question>
+            <text>evaluation</text>
+            <answer>оценка</answer>
+        </question>
+        <question>
+            <text>evident</text>
+            <answer>очевидный</answer>
+        </question>
+        <question>
+            <text>evil</text>
+            <answer>зло|злой</answer>
+        </question>
+        <question>
+            <text>evolution</text>
+            <answer>эволюция</answer>
+        </question>
+        <question>
+            <text>to evolve</text>
+            <answer>развиваться</answer>
+        </question>
+        <question>
+            <text>examination</text>
+            <answer>экспертиза</answer>
+        </question>
+        <question>
+            <text>to exceed</text>
+            <answer>превышать</answer>
+        </question>
+        <question>
+            <text>exception</text>
+            <answer>исключение</answer>
+        </question>
+        <question>
+            <text>excessive</text>
+            <answer>чрезмерный|эксцессив</answer>
+        </question>
+        <question>
+            <text>to exclude</text>
+            <answer>исключать</answer>
+        </question>
+        <question>
+            <text>excuse</text>
+            <answer>оправдание</answer>
+        </question>
+        <question>
+            <text>to excuse</text>
+            <answer>служить оправданием</answer>
+        </question>
+        <question>
+            <text>executive</text>
+            <answer>исполнительный|руководитель</answer>
+        </question>
+        <question>
+            <text>exhibit</text>
+            <answer>экспонат</answer>
+        </question>
+        <question>
+            <text>to exhibit</text>
+            <answer>выставлять</answer>
+        </question>
+        <question>
+            <text>existence</text>
+            <answer>существование</answer>
+        </question>
+        <question>
+            <text>exit</text>
+            <answer>выход|выходной</answer>
+        </question>
+        <question>
+            <text>exotic</text>
+            <answer>экзотический|экзот</answer>
+        </question>
+        <question>
+            <text>expansion</text>
+            <answer>расширение</answer>
+        </question>
+        <question>
+            <text>expectation</text>
+            <answer>ожидание</answer>
+        </question>
+        <question>
+            <text>expense</text>
+            <answer>расходы</answer>
+        </question>
+        <question>
+            <text>expertise</text>
+            <answer>экспертиза</answer>
+        </question>
+        <question>
+            <text>exploit</text>
+            <answer>подвиг</answer>
+        </question>
+        <question>
+            <text>to exploit</text>
+            <answer>эксплуатировать</answer>
+        </question>
+        <question>
+            <text>exploration</text>
+            <answer>исследование</answer>
+        </question>
+        <question>
+            <text>expose</text>
+            <answer>публичное разоблачение</answer>
+        </question>
+        <question>
+            <text>to expose</text>
+            <answer>подвергать</answer>
+        </question>
+        <question>
+            <text>exposure</text>
+            <answer>экспозиция</answer>
+        </question>
+        <question>
+            <text>to extend</text>
+            <answer>продлить</answer>
+        </question>
+        <question>
+            <text>extension</text>
+            <answer>расширение</answer>
+        </question>
+        <question>
+            <text>extensive</text>
+            <answer>обширный</answer>
+        </question>
+        <question>
+            <text>extensively</text>
+            <answer>широко</answer>
+        </question>
+        <question>
+            <text>extent</text>
+            <answer>экстент</answer>
+        </question>
+        <question>
+            <text>external</text>
+            <answer>внешний|внешняя поверхность</answer>
+        </question>
+        <question>
+            <text>extract</text>
+            <answer>экстракт</answer>
+        </question>
+        <question>
+            <text>extraordinary</text>
+            <answer>внеочередной</answer>
+        </question>
+        <question>
+            <text>fabric</text>
+            <answer>ткань|матерчатый</answer>
+        </question>
+        <question>
+            <text>fabulous</text>
+            <answer>невероятный</answer>
+        </question>
+        <question>
+            <text>facility</text>
+            <answer>объект</answer>
+        </question>
+        <question>
+            <text>failed</text>
+            <answer>неудачный</answer>
+        </question>
+        <question>
+            <text>failure</text>
+            <answer>недостаточность</answer>
+        </question>
+        <question>
+            <text>faith</text>
+            <answer>вера</answer>
+        </question>
+        <question>
+            <text>fake</text>
+            <answer>подделка</answer>
+        </question>
+        <question>
+            <text>to fake</text>
+            <answer>фальсифицировать</answer>
+        </question>
+        <question>
+            <text>fame</text>
+            <answer>известность</answer>
+        </question>
+        <question>
+            <text>to fame</text>
+            <answer>прославлять</answer>
+        </question>
+        <question>
+            <text>fantasy</text>
+            <answer>фантастика</answer>
+        </question>
+        <question>
+            <text>to fantasy</text>
+            <answer>представлять себе</answer>
+        </question>
+        <question>
+            <text>fare</text>
+            <answer>плата за проезд</answer>
+        </question>
+        <question>
+            <text>to fare</text>
+            <answer>поживать</answer>
+        </question>
+        <question>
+            <text>fault</text>
+            <answer>вина</answer>
+        </question>
+        <question>
+            <text>to fault</text>
+            <answer>придираться</answer>
+        </question>
+        <question>
+            <text>to favour</text>
+            <answer>благоприятствовать</answer>
+        </question>
+        <question>
+            <text>feather</text>
+            <answer>перо</answer>
+        </question>
+        <question>
+            <text>to feather</text>
+            <answer>оперять</answer>
+        </question>
+        <question>
+            <text>federal</text>
+            <answer>федеральный|федералист</answer>
+        </question>
+        <question>
+            <text>fee</text>
+            <answer>вознаграждение</answer>
+        </question>
+        <question>
+            <text>to fee</text>
+            <answer>платить гонорар</answer>
+        </question>
+        <question>
+            <text>feed</text>
+            <answer>корм|кормовой</answer>
+        </question>
+        <question>
+            <text>feedback</text>
+            <answer>обратная связь</answer>
+        </question>
+        <question>
+            <text>feel</text>
+            <answer>ощущение</answer>
+        </question>
+        <question>
+            <text>fellow</text>
+            <answer>парень|принадлежащий к той же группе</answer>
+        </question>
+        <question>
+            <text>to fellow</text>
+            <answer>дружески обращаться</answer>
+        </question>
+        <question>
+            <text>fever</text>
+            <answer>лихорадка|лихорадочный</answer>
+        </question>
+        <question>
+            <text>to fever</text>
+            <answer>лихорадить</answer>
+        </question>
+        <question>
+            <text>to figure</text>
+            <answer>фигурировать</answer>
+        </question>
+        <question>
+            <text>to file</text>
+            <answer>хранить</answer>
+        </question>
+        <question>
+            <text>finance</text>
+            <answer>финансы</answer>
+        </question>
+        <question>
+            <text>to finance</text>
+            <answer>финансировать</answer>
+        </question>
+        <question>
+            <text>finding</text>
+            <answer>открытие</answer>
+        </question>
+        <question>
+            <text>firefighter</text>
+            <answer>пожарный</answer>
+        </question>
+        <question>
+            <text>firework</text>
+            <answer>фейерверк</answer>
+        </question>
+        <question>
+            <text>firm</text>
+            <answer>фирма|твердо|твердый</answer>
+        </question>
+        <question>
+            <text>to firm</text>
+            <answer>укреплять</answer>
+        </question>
+        <question>
+            <text>firmly</text>
+            <answer>твердо</answer>
+        </question>
+        <question>
+            <text>fix</text>
+            <answer>затруднительное положение</answer>
+        </question>
+        <question>
+            <text>flame</text>
+            <answer>пламя</answer>
+        </question>
+        <question>
+            <text>to flame</text>
+            <answer>пылать</answer>
+        </question>
+        <question>
+            <text>flash</text>
+            <answer>вспышка</answer>
+        </question>
+        <question>
+            <text>to flash</text>
+            <answer>блеснуть</answer>
+        </question>
+        <question>
+            <text>flavour</text>
+            <answer>вкус</answer>
+        </question>
+        <question>
+            <text>to flavour</text>
+            <answer>сдабривать</answer>
+        </question>
+        <question>
+            <text>flexible</text>
+            <answer>гибкий</answer>
+        </question>
+        <question>
+            <text>float</text>
+            <answer>поплавок|плавающий</answer>
+        </question>
+        <question>
+            <text>to float</text>
+            <answer>плавать</answer>
+        </question>
+        <question>
+            <text>fold</text>
+            <answer>складка</answer>
+        </question>
+        <question>
+            <text>folding</text>
+            <answer>складной|фальцовка</answer>
+        </question>
+        <question>
+            <text>fond</text>
+            <answer>любящий|фон</answer>
+        </question>
+        <question>
+            <text>fool</text>
+            <answer>дурак|глупый</answer>
+        </question>
+        <question>
+            <text>to fool</text>
+            <answer>дурачить</answer>
+        </question>
+        <question>
+            <text>to forbid</text>
+            <answer>запрещать</answer>
+        </question>
+        <question>
+            <text>forecast</text>
+            <answer>прогноз</answer>
+        </question>
+        <question>
+            <text>to forecast</text>
+            <answer>прогнозировать</answer>
+        </question>
+        <question>
+            <text>to forgive</text>
+            <answer>прощать</answer>
+        </question>
+        <question>
+            <text>format</text>
+            <answer>формат</answer>
+        </question>
+        <question>
+            <text>to format</text>
+            <answer>форматировать</answer>
+        </question>
+        <question>
+            <text>formation</text>
+            <answer>образование</answer>
+        </question>
+        <question>
+            <text>former</text>
+            <answer>бывший|шаблон</answer>
+        </question>
+        <question>
+            <text>formerly</text>
+            <answer>прежде</answer>
+        </question>
+        <question>
+            <text>fortunate</text>
+            <answer>удачный</answer>
+        </question>
+        <question>
+            <text>fortune</text>
+            <answer>состояние</answer>
+        </question>
+        <question>
+            <text>to fortune</text>
+            <answer>наткнуться</answer>
+        </question>
+        <question>
+            <text>forum</text>
+            <answer>форум</answer>
+        </question>
+        <question>
+            <text>fossil</text>
+            <answer>окаменелость|ископаемый</answer>
+        </question>
+        <question>
+            <text>found</text>
+            <answer>найденный|геологоразведка</answer>
+        </question>
+        <question>
+            <text>to found</text>
+            <answer>основывать</answer>
+        </question>
+        <question>
+            <text>foundation</text>
+            <answer>фундамент</answer>
+        </question>
+        <question>
+            <text>founder</text>
+            <answer>основатель</answer>
+        </question>
+        <question>
+            <text>to founder</text>
+            <answer>оседать</answer>
+        </question>
+        <question>
+            <text>fraction</text>
+            <answer>фракция</answer>
+        </question>
+        <question>
+            <text>to fraction</text>
+            <answer>дробить</answer>
+        </question>
+        <question>
+            <text>fragment</text>
+            <answer>фрагмент</answer>
+        </question>
+        <question>
+            <text>to fragment</text>
+            <answer>разваливаться</answer>
+        </question>
+        <question>
+            <text>framework</text>
+            <answer>рамки</answer>
+        </question>
+        <question>
+            <text>fraud</text>
+            <answer>мошенничество</answer>
+        </question>
+        <question>
+            <text>to free</text>
+            <answer>освобождать</answer>
+        </question>
+        <question>
+            <text>freedom</text>
+            <answer>свобода</answer>
+        </question>
+        <question>
+            <text>freely</text>
+            <answer>свободно</answer>
+        </question>
+        <question>
+            <text>frequency</text>
+            <answer>частота|частотный</answer>
+        </question>
+        <question>
+            <text>frequent</text>
+            <answer>частый</answer>
+        </question>
+        <question>
+            <text>to frequent</text>
+            <answer>часто посещать</answer>
+        </question>
+        <question>
+            <text>to fuel</text>
+            <answer>разжигать</answer>
+        </question>
+        <question>
+            <text>to fulfil</text>
+            <answer>выполнять</answer>
+        </question>
+        <question>
+            <text>full-time</text>
+            <answer>рабочий|полная рабочая неделя</answer>
+        </question>
+        <question>
+            <text>fully</text>
+            <answer>полностью</answer>
+        </question>
+        <question>
+            <text>to function</text>
+            <answer>функционировать</answer>
+        </question>
+        <question>
+            <text>fund</text>
+            <answer>фонд</answer>
+        </question>
+        <question>
+            <text>to fund</text>
+            <answer>финансировать</answer>
+        </question>
+        <question>
+            <text>fundamental</text>
+            <answer>основной|основы</answer>
+        </question>
+        <question>
+            <text>fundamentally</text>
+            <answer>принципиально</answer>
+        </question>
+        <question>
+            <text>funding</text>
+            <answer>субсидирование</answer>
+        </question>
+        <question>
+            <text>furious</text>
+            <answer>яростный</answer>
+        </question>
+        <question>
+            <text>furthermore</text>
+            <answer>более того</answer>
+        </question>
+        <question>
+            <text>gain</text>
+            <answer>усиление</answer>
+        </question>
+        <question>
+            <text>to gain</text>
+            <answer>получать</answer>
+        </question>
+        <question>
+            <text>gaming</text>
+            <answer>азартная игра</answer>
+        </question>
+        <question>
+            <text>gang</text>
+            <answer>банда</answer>
+        </question>
+        <question>
+            <text>to gang</text>
+            <answer>организовать шайку</answer>
+        </question>
+        <question>
+            <text>gay</text>
+            <answer>гей</answer>
+        </question>
+        <question>
+            <text>gender</text>
+            <answer>пол</answer>
+        </question>
+        <question>
+            <text>to gender</text>
+            <answer>порождать</answer>
+        </question>
+        <question>
+            <text>gene</text>
+            <answer>ген</answer>
+        </question>
+        <question>
+            <text>to generate</text>
+            <answer>генерировать</answer>
+        </question>
+        <question>
+            <text>genetic</text>
+            <answer>генетический</answer>
+        </question>
+        <question>
+            <text>genius</text>
+            <answer>гений</answer>
+        </question>
+        <question>
+            <text>genre</text>
+            <answer>жанр|жанровый</answer>
+        </question>
+        <question>
+            <text>genuine</text>
+            <answer>подлинный</answer>
+        </question>
+        <question>
+            <text>genuinely</text>
+            <answer>искренне</answer>
+        </question>
+        <question>
+            <text>gesture</text>
+            <answer>жест</answer>
+        </question>
+        <question>
+            <text>to gesture</text>
+            <answer>жестикулировать</answer>
+        </question>
+        <question>
+            <text>gig</text>
+            <answer>кабриолет</answer>
+        </question>
+        <question>
+            <text>to gig</text>
+            <answer>ловить рыбу острогой</answer>
+        </question>
+        <question>
+            <text>globalization</text>
+            <answer>глобализация</answer>
+        </question>
+        <question>
+            <text>globe</text>
+            <answer>глобус</answer>
+        </question>
+        <question>
+            <text>to globe</text>
+            <answer>делать круглым</answer>
+        </question>
+        <question>
+            <text>golden</text>
+            <answer>золотой</answer>
+        </question>
+        <question>
+            <text>goodness</text>
+            <answer>доброта</answer>
+        </question>
+        <question>
+            <text>gorgeous</text>
+            <answer>великолепный</answer>
+        </question>
+        <question>
+            <text>to govern</text>
+            <answer>управлять</answer>
+        </question>
+        <question>
+            <text>governor</text>
+            <answer>губернатор</answer>
+        </question>
+        <question>
+            <text>grab</text>
+            <answer>захват</answer>
+        </question>
+        <question>
+            <text>to grab</text>
+            <answer>захватывать</answer>
+        </question>
+        <question>
+            <text>to grade</text>
+            <answer>сортировать</answer>
+        </question>
+        <question>
+            <text>gradually</text>
+            <answer>постепенно</answer>
+        </question>
+        <question>
+            <text>grand</text>
+            <answer>большой|рояль</answer>
+        </question>
+        <question>
+            <text>grant</text>
+            <answer>грант</answer>
+        </question>
+        <question>
+            <text>to grant</text>
+            <answer>предоставлять</answer>
+        </question>
+        <question>
+            <text>graphic</text>
+            <answer>графический</answer>
+        </question>
+        <question>
+            <text>graphics</text>
+            <answer>графика</answer>
+        </question>
+        <question>
+            <text>greatly</text>
+            <answer>значительно</answer>
+        </question>
+        <question>
+            <text>greenhouse</text>
+            <answer>парник</answer>
+        </question>
+        <question>
+            <text>grocery</text>
+            <answer>бакалея|продуктовый</answer>
+        </question>
+        <question>
+            <text>guarantee</text>
+            <answer>гарантия|гарантийный</answer>
+        </question>
+        <question>
+            <text>to guarantee</text>
+            <answer>гарантировать</answer>
+        </question>
+        <question>
+            <text>guideline</text>
+            <answer>директива</answer>
+        </question>
+        <question>
+            <text>habitat</text>
+            <answer>среда обитания</answer>
+        </question>
+        <question>
+            <text>handle</text>
+            <answer>ручка</answer>
+        </question>
+        <question>
+            <text>to handle</text>
+            <answer>обращаться</answer>
+        </question>
+        <question>
+            <text>harbour</text>
+            <answer>гавань</answer>
+        </question>
+        <question>
+            <text>to harbour</text>
+            <answer>питать</answer>
+        </question>
+        <question>
+            <text>harm</text>
+            <answer>вред</answer>
+        </question>
+        <question>
+            <text>to harm</text>
+            <answer>вредить</answer>
+        </question>
+        <question>
+            <text>harmful</text>
+            <answer>вредный</answer>
+        </question>
+        <question>
+            <text>headquarters</text>
+            <answer>штаб</answer>
+        </question>
+        <question>
+            <text>to heal</text>
+            <answer>исцелять</answer>
+        </question>
+        <question>
+            <text>healthcare</text>
+            <answer>здравоохранение</answer>
+        </question>
+        <question>
+            <text>hearing</text>
+            <answer>слух|слышащий</answer>
+        </question>
+        <question>
+            <text>heaven</text>
+            <answer>небо</answer>
+        </question>
+        <question>
+            <text>heel</text>
+            <answer>каблук</answer>
+        </question>
+        <question>
+            <text>to heel</text>
+            <answer>крениться</answer>
+        </question>
+        <question>
+            <text>hell</text>
+            <answer>ад</answer>
+        </question>
+        <question>
+            <text>helmet</text>
+            <answer>шлем</answer>
+        </question>
+        <question>
+            <text>hence</text>
+            <answer>следовательно</answer>
+        </question>
+        <question>
+            <text>herb</text>
+            <answer>трава</answer>
+        </question>
+        <question>
+            <text>hire</text>
+            <answer>прокат</answer>
+        </question>
+        <question>
+            <text>hold</text>
+            <answer>владение</answer>
+        </question>
+        <question>
+            <text>to host</text>
+            <answer>принимать гостей</answer>
+        </question>
+        <question>
+            <text>to house</text>
+            <answer>жить</answer>
+        </question>
+        <question>
+            <text>hunt</text>
+            <answer>охота</answer>
+        </question>
+        <question>
+            <text>ID</text>
+            <answer>идентификация</answer>
+        </question>
+        <question>
+            <text>to issue</text>
+            <answer>выдавать</answer>
+        </question>
+        <question>
+            <text>leave</text>
+            <answer>отпуск</answer>
+        </question>
+        <question>
+            <text>to level</text>
+            <answer>нивелировать</answer>
+        </question>
+        <question>
+            <text>to line</text>
+            <answer>проводить линию</answer>
+        </question>
+        <question>
+            <text>make</text>
+            <answer>марка</answer>
+        </question>
+        <question>
+            <text>to map</text>
+            <answer>картографировать</answer>
+        </question>
+        <question>
+            <text>to mistake</text>
+            <answer>заблуждаться</answer>
+        </question>
+        <question>
+            <text>to model</text>
+            <answer>моделировать</answer>
+        </question>
+        <question>
+            <text>to narrow</text>
+            <answer>уменьшать</answer>
+        </question>
+        <question>
+            <text>to object</text>
+            <answer>возражать</answer>
+        </question>
+        <question>
+            <text>to package</text>
+            <answer>упаковывать</answer>
+        </question>
+        <question>
+            <text>pick</text>
+            <answer>выбор</answer>
+        </question>
+        <question>
+            <text>to picture</text>
+            <answer>изобразить</answer>
+        </question>
+        <question>
+            <text>to plot</text>
+            <answer>вычерчивать</answer>
+        </question>
+        <question>
+            <text>to position</text>
+            <answer>помещать</answer>
+        </question>
+        <question>
+            <text>to power</text>
+            <answer>снабжать силовым двигателем</answer>
+        </question>
+        <question>
+            <text>to price</text>
+            <answer>оценивать</answer>
+        </question>
+        <question>
+            <text>print</text>
+            <answer>печать|печатный</answer>
+        </question>
+        <question>
+            <text>to process</text>
+            <answer>обрабатывать</answer>
+        </question>
+        <question>
+            <text>produce</text>
+            <answer>продукция</answer>
+        </question>
+        <question>
+            <text>to progress</text>
+            <answer>прогрессировать</answer>
+        </question>
+        <question>
+            <text>to project</text>
+            <answer>проецировать</answer>
+        </question>
+        <question>
+            <text>to range</text>
+            <answer>выстраивать в ряд</answer>
+        </question>
+        <question>
+            <text>to rate</text>
+            <answer>оценивать</answer>
+        </question>
+        <question>
+            <text>reach</text>
+            <answer>охват</answer>
+        </question>
+        <question>
+            <text>to sample</text>
+            <answer>пробовать</answer>
+        </question>
+        <question>
+            <text>to schedule</text>
+            <answer>планировать</answer>
+        </question>
+        <question>
+            <text>to screen</text>
+            <answer>экранировать</answer>
+        </question>
+        <question>
+            <text>to seat</text>
+            <answer>сидеть</answer>
+        </question>
+        <question>
+            <text>to sense</text>
+            <answer>чувствовать</answer>
+        </question>
+        <question>
+            <text>to sentence</text>
+            <answer>приговорить</answer>
+        </question>
+        <question>
+            <text>to shape</text>
+            <answer>формировать</answer>
+        </question>
+        <question>
+            <text>to shift</text>
+            <answer>сдвигать</answer>
+        </question>
+        <question>
+            <text>to ship</text>
+            <answer>перевозить груз</answer>
+        </question>
+        <question>
+            <text>to speed</text>
+            <answer>ускорять</answer>
+        </question>
+        <question>
+            <text>to spot</text>
+            <answer>определить</answer>
+        </question>
+        <question>
+            <text>spread</text>
+            <answer>распространение|распространенный</answer>
+        </question>
+        <question>
+            <text>to spring</text>
+            <answer>возникать</answer>
+        </question>
+        <question>
+            <text>to stage</text>
+            <answer>ставить</answer>
+        </question>
+        <question>
+            <text>stand</text>
+            <answer>стенд</answer>
+        </question>
+        <question>
+            <text>to step</text>
+            <answer>шагать</answer>
+        </question>
+        <question>
+            <text>to structure</text>
+            <answer>структурировать</answer>
+        </question>
+        <question>
+            <text>to stuff</text>
+            <answer>набивать</answer>
+        </question>
+        <question>
+            <text>to survey</text>
+            <answer>обследовать</answer>
+        </question>
+        <question>
+            <text>switch</text>
+            <answer>переключатель</answer>
+        </question>
+        <question>
+            <text>to target</text>
+            <answer>нацеливать</answer>
+        </question>
+        <question>
+            <text>to term</text>
+            <answer>называть</answer>
+        </question>
+        <question>
+            <text>to time</text>
+            <answer>приурочить</answer>
+        </question>
+        <question>
+            <text>to title</text>
+            <answer>называть</answer>
+        </question>
+        <question>
+            <text>to track</text>
+            <answer>следить</answer>
+        </question>
+        <question>
+            <text>to trip</text>
+            <answer>спотыкаться</answer>
+        </question>
+        <question>
+            <text>to trouble</text>
+            <answer>беспокоить</answer>
+        </question>
+        <question>
+            <text>try</text>
+            <answer>попытка</answer>
+        </question>
+        <question>
+            <text>to value</text>
+            <answer>ценить</answer>
+        </question>
+        <question>
+            <text>to wind</text>
+            <answer>наматывать</answer>
+        </question>
+    </questions>
+</questionary>
