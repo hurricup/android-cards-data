@@ -608,5 +608,9 @@
             <text>փնտրել</text>
             <answer>искать</answer>
         </question>
+        <question>
+            <text>լողանալ</text>
+            <answer>мыться</answer>
+        </question>
     </questions>
 </questionary>

@@ -271,5 +271,21 @@
             <text>ոնց որ</text>
             <answer>как будто | кажется</answer>
         </question>
+        <question>
+            <text>տենց</text>
+            <answer>вот так</answer>
+        </question>
+        <question>
+            <text>կարող ա</text>
+            <answer>может быть</answer>
+        </question>
+        <question>
+            <text>դրանից արաջ</text>
+            <answer>перед этим</answer>
+        </question>
+        <question>
+            <text>դրանից հետո</text>
+            <answer>после этого</answer>
+        </question>
     </questions>
 </questionary>

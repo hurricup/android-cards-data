@@ -528,5 +528,9 @@
             <text>ամսի տասներկուին</text>
             <answer>12-го числа</answer>
         </question>
+        <question>
+            <text>ապագա</text>
+            <answer>будущее</answer>
+        </question>
     </questions>
 </questionary>
