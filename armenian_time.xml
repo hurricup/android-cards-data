@@ -532,5 +532,21 @@
             <text>ապագա</text>
             <answer>будущее</answer>
         </question>
+        <question>
+            <text>օրը մի անգամ</text>
+            <answer>один раз в день</answer>
+        </question>
+        <question>
+            <text>շաբաթը մի անգամ</text>
+            <answer>один раз в неделю</answer>
+        </question>
+        <question>
+            <text>ամիսը մի անգամ</text>
+            <answer>один раз в месяц</answer>
+        </question>
+        <question>
+            <text>տարին մի անգամ</text>
+            <answer>один раз в год</answer>
+        </question>
     </questions>
 </questionary>

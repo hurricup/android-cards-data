@@ -1779,5 +1779,37 @@
             <text>թուրքիա</text>
             <answer>турция</answer>
         </question>
+        <question>
+            <text>քամի</text>
+            <answer>ветер</answer>
+        </question>
+        <question>
+            <text>մաքուր</text>
+            <answer>чистый</answer>
+        </question>
+        <question>
+            <text>զուգարան</text>
+            <answer>туалет</answer>
+        </question>
+        <question>
+            <text>ընտանիք</text>
+            <answer>семья</answer>
+        </question>
+        <question>
+            <text>ատամ</text>
+            <answer>зуб</answer>
+        </question>
+        <question>
+            <text>ատամնաբույժ</text>
+            <answer>стоматолог</answer>
+        </question>
+        <question>
+            <text>եսիմ</text>
+            <answer>фиг знает</answer>
+        </question>
+        <question>
+            <text>նախաճաշ</text>
+            <answer>завтрак</answer>
+        </question>
     </questions>
 </questionary>

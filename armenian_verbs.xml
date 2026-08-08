@@ -612,5 +612,13 @@
             <text>լողանալ</text>
             <answer>мыться</answer>
         </question>
+        <question>
+            <text>կտրել</text>
+            <answer>резать</answer>
+        </question>
+        <question>
+            <text>նշել</text>
+            <answer>отмечать</answer>
+        </question>
     </questions>
 </questionary>
