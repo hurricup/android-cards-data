@@ -115,5 +115,60 @@
             <text>այսի՞նքն</text>
             <answer>в смысле?</answer>
         </question>
+        <question>
+            <text>ինչպիսի</text>
+            <answer>какой</answer>
+        </question>
+        <question>
+            <text>այսպես</text>
+            <answer>так (показываем)</answer>
+        </question>
+        <question>
+            <text>այդպես</text>
+            <answer>так (не показываем)</answer>
+        </question>
+        <question>
+            <text>այնպես</text>
+            <answer>так (эмоции, спп)</answer>
+        </question>
+
+        <question>
+            <text>այսպիսի</text>
+            <answer>такой (видим)</answer>
+        </question>
+        <question>
+            <text>այդպիսի</text>
+            <answer>такой (не видим)</answer>
+        </question>
+        <question>
+            <text>այնպիսի</text>
+            <answer>такой (эмоции, спп)</answer>
+        </question>
+
+        <question>
+            <text>սենց</text>
+            <answer>так (показываем) | такой (видим)</answer>
+        </question>
+        <question>
+            <text>տենց</text>
+            <answer>так (не показываем) | такой (не видим)</answer>
+        </question>
+        <question>
+            <text>նենց</text>
+            <answer>так (эмоции, спп) | такой (эмоции, спп)</answer>
+        </question>
+
+        <question>
+            <text>այսքան</text>
+            <answer>столько (показываем)</answer>
+        </question>
+        <question>
+            <text>այդքան</text>
+            <answer>столько (не видим)</answer>
+        </question>
+        <question>
+            <text>այնքան</text>
+            <answer>столько (эмоции, спп)</answer>
+        </question>
     </questions>
 </questionary>
