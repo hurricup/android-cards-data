@@ -573,7 +573,7 @@
         </question>
         <question>
             <text>close</text>
-            <answer>близко|конец|близкий</answer>
+            <answer>близкий|близко</answer>
         </question>
         <question>
             <text>closed</text>
@@ -1725,7 +1725,7 @@
         </question>
         <question>
             <text>to last</text>
-            <answer>длиться</answer>
+            <answer>длиться|продолжаться</answer>
         </question>
         <question>
             <text>laughter</text>

@@ -9,7 +9,7 @@
         </question>
         <question>
             <text>above</text>
-            <answer>выше</answer>
+            <answer>над|выше</answer>
         </question>
         <question>
             <text>across</text>
@@ -21,7 +21,7 @@
         </question>
         <question>
             <text>activity</text>
-            <answer>активность</answer>
+            <answer>деятельность|занятие</answer>
         </question>
         <question>
             <text>actor</text>
@@ -41,7 +41,7 @@
         </question>
         <question>
             <text>adult</text>
-            <answer>взрослый|взрослый человек</answer>
+            <answer>взрослый</answer>
         </question>
         <question>
             <text>advice</text>
@@ -49,7 +49,7 @@
         </question>
         <question>
             <text>afraid</text>
-            <answer>испуганный</answer>
+            <answer>испуганный|боящийся</answer>
         </question>
         <question>
             <text>after</text>
@@ -57,11 +57,11 @@
         </question>
         <question>
             <text>afternoon</text>
-            <answer>послеобеденное время</answer>
+            <answer>вторая половина дня</answer>
         </question>
         <question>
             <text>again</text>
-            <answer>снова</answer>
+            <answer>снова|опять</answer>
         </question>
         <question>
             <text>age</text>
@@ -69,7 +69,7 @@
         </question>
         <question>
             <text>ago</text>
-            <answer>тому назад</answer>
+            <answer>тому назад|назад</answer>
         </question>
         <question>
             <text>to agree</text>
@@ -85,11 +85,11 @@
         </question>
         <question>
             <text>all</text>
-            <answer>все|совершенно</answer>
+            <answer>все|весь</answer>
         </question>
         <question>
             <text>also</text>
-            <answer>также</answer>
+            <answer>также|тоже</answer>
         </question>
         <question>
             <text>always</text>
@@ -105,7 +105,7 @@
         </question>
         <question>
             <text>angry</text>
-            <answer>сердитый</answer>
+            <answer>злой|сердитый</answer>
         </question>
         <question>
             <text>animal</text>
@@ -113,7 +113,7 @@
         </question>
         <question>
             <text>another</text>
-            <answer>еще один</answer>
+            <answer>другой|еще один</answer>
         </question>
         <question>
             <text>answer</text>
@@ -125,15 +125,15 @@
         </question>
         <question>
             <text>any</text>
-            <answer>любой|вообще</answer>
+            <answer>любой|какой-нибудь</answer>
         </question>
         <question>
             <text>anyone</text>
-            <answer>любой</answer>
+            <answer>кто-нибудь|кто-то</answer>
         </question>
         <question>
             <text>anything</text>
-            <answer>что-либо</answer>
+            <answer>что-нибудь|что-то</answer>
         </question>
         <question>
             <text>apartment</text>
@@ -149,7 +149,7 @@
         </question>
         <question>
             <text>area</text>
-            <answer>область</answer>
+            <answer>район|область</answer>
         </question>
         <question>
             <text>arm</text>
@@ -181,11 +181,11 @@
         </question>
         <question>
             <text>to ask</text>
-            <answer>просить</answer>
+            <answer>спрашивать|просить</answer>
         </question>
         <question>
             <text>at</text>
-            <answer>в</answer>
+            <answer>в|на|у</answer>
         </question>
         <question>
             <text>August</text>
@@ -201,15 +201,15 @@
         </question>
         <question>
             <text>away</text>
-            <answer>прочь</answer>
+            <answer>прочь|далеко</answer>
         </question>
         <question>
             <text>baby</text>
-            <answer>малыш</answer>
+            <answer>малыш|ребенок|младенец</answer>
         </question>
         <question>
             <text>back</text>
-            <answer>назад|защитник|задний</answer>
+            <answer>назад|спина</answer>
         </question>
         <question>
             <text>bad</text>
@@ -217,7 +217,7 @@
         </question>
         <question>
             <text>bag</text>
-            <answer>сумка</answer>
+            <answer>сумка|мешок</answer>
         </question>
         <question>
             <text>ball</text>
@@ -229,11 +229,11 @@
         </question>
         <question>
             <text>band</text>
-            <answer>полоса</answer>
+            <answer>группа|оркестр</answer>
         </question>
         <question>
             <text>bank</text>
-            <answer>банк</answer>
+            <answer>банк|берег</answer>
         </question>
         <question>
             <text>bath</text>
@@ -245,7 +245,7 @@
         </question>
         <question>
             <text>to be</text>
-            <answer>быть|должен</answer>
+            <answer>быть|находиться</answer>
         </question>
         <question>
             <text>beach</text>
@@ -265,7 +265,7 @@
         </question>
         <question>
             <text>bed</text>
-            <answer>кровать</answer>
+            <answer>кровать|постель</answer>
         </question>
         <question>
             <text>bedroom</text>
@@ -277,7 +277,7 @@
         </question>
         <question>
             <text>before</text>
-            <answer>до|прежде чем</answer>
+            <answer>до|перед|прежде чем</answer>
         </question>
         <question>
             <text>to begin</text>
@@ -289,11 +289,11 @@
         </question>
         <question>
             <text>behind</text>
-            <answer>позади</answer>
+            <answer>за|позади</answer>
         </question>
         <question>
             <text>to believe</text>
-            <answer>полагать</answer>
+            <answer>верить|полагать</answer>
         </question>
         <question>
             <text>below</text>
@@ -305,7 +305,7 @@
         </question>
         <question>
             <text>better</text>
-            <answer>лучше|лучший|держащий пари</answer>
+            <answer>лучше|лучший</answer>
         </question>
         <question>
             <text>between</text>
@@ -325,7 +325,7 @@
         </question>
         <question>
             <text>bill</text>
-            <answer>счет</answer>
+            <answer>счет|законопроект</answer>
         </question>
         <question>
             <text>bird</text>
@@ -337,7 +337,7 @@
         </question>
         <question>
             <text>black</text>
-            <answer>черный цвет|темный</answer>
+            <answer>черный|черный цвет</answer>
         </question>
         <question>
             <text>blog</text>
@@ -345,11 +345,11 @@
         </question>
         <question>
             <text>blonde</text>
-            <answer>светлый</answer>
+            <answer>блондинка|белокурый</answer>
         </question>
         <question>
             <text>blue</text>
-            <answer>синий|синий цвет</answer>
+            <answer>синий|голубой</answer>
         </question>
         <question>
             <text>boat</text>
@@ -365,7 +365,7 @@
         </question>
         <question>
             <text>boot</text>
-            <answer>ботинок</answer>
+            <answer>ботинок|сапог</answer>
         </question>
         <question>
             <text>bored</text>
@@ -377,7 +377,7 @@
         </question>
         <question>
             <text>to born</text>
-            <answer>рожденный</answer>
+            <answer>родиться</answer>
         </question>
         <question>
             <text>both</text>
@@ -397,7 +397,7 @@
         </question>
         <question>
             <text>boyfriend</text>
-            <answer>дружок</answer>
+            <answer>парень|бойфренд</answer>
         </question>
         <question>
             <text>bread</text>
@@ -409,7 +409,7 @@
         </question>
         <question>
             <text>to break</text>
-            <answer>сломить</answer>
+            <answer>ломать|разбивать</answer>
         </question>
         <question>
             <text>breakfast</text>
@@ -425,7 +425,7 @@
         </question>
         <question>
             <text>brown</text>
-            <answer>коричневый|коричневый цвет</answer>
+            <answer>коричневый</answer>
         </question>
         <question>
             <text>to build</text>
@@ -461,11 +461,11 @@
         </question>
         <question>
             <text>by</text>
-            <answer>к|мимо</answer>
+            <answer>к|мимо|при помощи</answer>
         </question>
         <question>
             <text>bye</text>
-            <answer>пока</answer>
+            <answer>пока|до свидания</answer>
         </question>
         <question>
             <text>cafe</text>
@@ -477,11 +477,11 @@
         </question>
         <question>
             <text>call</text>
-            <answer>вызов</answer>
+            <answer>звонок|вызов</answer>
         </question>
         <question>
             <text>to call</text>
-            <answer>называть</answer>
+            <answer>звать|называть|звонить</answer>
         </question>
         <question>
             <text>camera</text>
@@ -489,23 +489,23 @@
         </question>
         <question>
             <text>can</text>
-            <answer>может|баллончик|мочь</answer>
+            <answer>мочь|уметь|банка</answer>
         </question>
         <question>
             <text>cannot</text>
-            <answer>не могу</answer>
+            <answer>не могу|нельзя</answer>
         </question>
         <question>
             <text>capital</text>
-            <answer>капитал|капитальный</answer>
+            <answer>столица|капитал</answer>
         </question>
         <question>
             <text>car</text>
-            <answer>машина</answer>
+            <answer>машина|автомобиль</answer>
         </question>
         <question>
             <text>card</text>
-            <answer>карта</answer>
+            <answer>карта|карточка|открытка</answer>
         </question>
         <question>
             <text>career</text>
@@ -521,11 +521,11 @@
         </question>
         <question>
             <text>cat</text>
-            <answer>кот</answer>
+            <answer>кот|кошка</answer>
         </question>
         <question>
             <text>CD</text>
-            <answer>компакт-диск</answer>
+            <answer>компакт-диск|диск</answer>
         </question>
         <question>
             <text>cent</text>
@@ -541,7 +541,7 @@
         </question>
         <question>
             <text>chair</text>
-            <answer>стул</answer>
+            <answer>стул|кресло</answer>
         </question>
         <question>
             <text>change</text>
@@ -593,11 +593,11 @@
         </question>
         <question>
             <text>class</text>
-            <answer>сорт</answer>
+            <answer>класс|урок</answer>
         </question>
         <question>
             <text>classroom</text>
-            <answer>классная комната</answer>
+            <answer>класс|классная комната</answer>
         </question>
         <question>
             <text>clean</text>
@@ -669,7 +669,7 @@
         </question>
         <question>
             <text>to complete</text>
-            <answer>дополнить</answer>
+            <answer>завершать|заканчивать</answer>
         </question>
         <question>
             <text>computer</text>
@@ -681,15 +681,15 @@
         </question>
         <question>
             <text>conversation</text>
-            <answer>беседа</answer>
+            <answer>разговор|беседа</answer>
         </question>
         <question>
             <text>to cook</text>
-            <answer>готовить</answer>
+            <answer>готовить|варить</answer>
         </question>
         <question>
             <text>cooking</text>
-            <answer>варка</answer>
+            <answer>готовка|приготовление пищи</answer>
         </question>
         <question>
             <text>cool</text>
@@ -705,7 +705,7 @@
         </question>
         <question>
             <text>cost</text>
-            <answer>расходы</answer>
+            <answer>стоимость|расходы</answer>
         </question>
         <question>
             <text>to cost</text>
@@ -713,7 +713,7 @@
         </question>
         <question>
             <text>could</text>
-            <answer>мог</answer>
+            <answer>мог|мог бы</answer>
         </question>
         <question>
             <text>country</text>
@@ -741,7 +741,7 @@
         </question>
         <question>
             <text>culture</text>
-            <answer>разведение</answer>
+            <answer>культура</answer>
         </question>
         <question>
             <text>cup</text>
@@ -809,7 +809,7 @@
         </question>
         <question>
             <text>delicious</text>
-            <answer>восхитительный</answer>
+            <answer>вкусный</answer>
         </question>
         <question>
             <text>to describe</text>
@@ -829,7 +829,7 @@
         </question>
         <question>
             <text>desk</text>
-            <answer>рабочий стол</answer>
+            <answer>письменный стол|парта</answer>
         </question>
         <question>
             <text>detail</text>
@@ -865,7 +865,7 @@
         </question>
         <question>
             <text>dinner</text>
-            <answer>ужин</answer>
+            <answer>ужин|обед</answer>
         </question>
         <question>
             <text>dirty</text>
@@ -885,7 +885,7 @@
         </question>
         <question>
             <text>doctor</text>
-            <answer>врач</answer>
+            <answer>врач|доктор</answer>
         </question>
         <question>
             <text>dog</text>
@@ -905,7 +905,7 @@
         </question>
         <question>
             <text>downstairs</text>
-            <answer>внизу|расположенный в нижнем этаже</answer>
+            <answer>вниз|внизу</answer>
         </question>
         <question>
             <text>to draw</text>
@@ -929,7 +929,7 @@
         </question>
         <question>
             <text>to drive</text>
-            <answer>управлять</answer>
+            <answer>водить машину|вести|ехать</answer>
         </question>
         <question>
             <text>driver</text>
@@ -937,7 +937,7 @@
         </question>
         <question>
             <text>during</text>
-            <answer>в течение</answer>
+            <answer>во время|в течение</answer>
         </question>
         <question>
             <text>each</text>
@@ -996,10 +996,6 @@
             <answer>электронная почта</answer>
         </question>
         <question>
-            <text>to email</text>
-            <answer>электронная почта</answer>
-        </question>
-        <question>
             <text>end</text>
             <answer>конец</answer>
         </question>
@@ -1033,7 +1029,7 @@
         </question>
         <question>
             <text>ever</text>
-            <answer>всегда</answer>
+            <answer>когда-либо</answer>
         </question>
         <question>
             <text>everybody</text>
@@ -1041,7 +1037,7 @@
         </question>
         <question>
             <text>everyone</text>
-            <answer>каждый</answer>
+            <answer>все|каждый</answer>
         </question>
         <question>
             <text>everything</text>
@@ -1069,7 +1065,7 @@
         </question>
         <question>
             <text>to exercise</text>
-            <answer>осуществлять</answer>
+            <answer>тренироваться|упражняться</answer>
         </question>
         <question>
             <text>expensive</text>
@@ -1081,7 +1077,7 @@
         </question>
         <question>
             <text>extra</text>
-            <answer>дополнительный|дополнительно|статист</answer>
+            <answer>дополнительный|дополнительно</answer>
         </question>
         <question>
             <text>eye</text>
@@ -1161,7 +1157,7 @@
         </question>
         <question>
             <text>few</text>
-            <answer>немногие</answer>
+            <answer>мало|немногие</answer>
         </question>
         <question>
             <text>fifteen</text>
@@ -1185,7 +1181,7 @@
         </question>
         <question>
             <text>final</text>
-            <answer>финальный|выпускные экзамены</answer>
+            <answer>последний|окончательный|финальный</answer>
         </question>
         <question>
             <text>to find</text>
@@ -1193,7 +1189,7 @@
         </question>
         <question>
             <text>fine</text>
-            <answer>штраф|прекрасный</answer>
+            <answer>хорошо|прекрасный|штраф</answer>
         </question>
         <question>
             <text>to finish</text>
@@ -1205,7 +1201,7 @@
         </question>
         <question>
             <text>first</text>
-            <answer>сначала|начало</answer>
+            <answer>первый|сначала</answer>
         </question>
         <question>
             <text>fish</text>
@@ -1217,15 +1213,15 @@
         </question>
         <question>
             <text>flat</text>
-            <answer>плоский|бемоль</answer>
+            <answer>квартира|плоский</answer>
         </question>
         <question>
             <text>flight</text>
-            <answer>полет</answer>
+            <answer>полет|рейс</answer>
         </question>
         <question>
             <text>floor</text>
-            <answer>пол</answer>
+            <answer>пол|этаж</answer>
         </question>
         <question>
             <text>flower</text>
@@ -1245,7 +1241,7 @@
         </question>
         <question>
             <text>foot</text>
-            <answer>ступня</answer>
+            <answer>нога|ступня</answer>
         </question>
         <question>
             <text>football</text>
@@ -1297,7 +1293,7 @@
         </question>
         <question>
             <text>friendly</text>
-            <answer>дружественный</answer>
+            <answer>дружелюбный|дружеский</answer>
         </question>
         <question>
             <text>from</text>
@@ -1345,7 +1341,7 @@
         </question>
         <question>
             <text>girl</text>
-            <answer>девочка</answer>
+            <answer>девушка|девочка</answer>
         </question>
         <question>
             <text>girlfriend</text>
@@ -1365,11 +1361,11 @@
         </question>
         <question>
             <text>good</text>
-            <answer>хороший|благо</answer>
+            <answer>хороший|добро</answer>
         </question>
         <question>
             <text>goodbye</text>
-            <answer>прощание</answer>
+            <answer>до свидания|прощание</answer>
         </question>
         <question>
             <text>grandfather</text>
@@ -1385,7 +1381,7 @@
         </question>
         <question>
             <text>great</text>
-            <answer>большой</answer>
+            <answer>отличный|великий|большой</answer>
         </question>
         <question>
             <text>green</text>
@@ -1393,7 +1389,7 @@
         </question>
         <question>
             <text>grey</text>
-            <answer>Грэй</answer>
+            <answer>серый</answer>
         </question>
         <question>
             <text>group</text>
@@ -1417,7 +1413,7 @@
         </question>
         <question>
             <text>gym</text>
-            <answer>гимнастический зал</answer>
+            <answer>спортзал</answer>
         </question>
         <question>
             <text>hair</text>
@@ -1433,7 +1429,7 @@
         </question>
         <question>
             <text>to happen</text>
-            <answer>случаться</answer>
+            <answer>происходить|случаться</answer>
         </question>
         <question>
             <text>happy</text>
@@ -1457,7 +1453,7 @@
         </question>
         <question>
             <text>have to</text>
-            <answer>должен|быть должным</answer>
+            <answer>должен|быть обязанным</answer>
         </question>
         <question>
             <text>he</text>
@@ -1481,7 +1477,7 @@
         </question>
         <question>
             <text>hello</text>
-            <answer>приветствие</answer>
+            <answer>привет|здравствуйте</answer>
         </question>
         <question>
             <text>help</text>
@@ -1501,7 +1497,7 @@
         </question>
         <question>
             <text>hey</text>
-            <answer>Эй!</answer>
+            <answer>эй</answer>
         </question>
         <question>
             <text>hi</text>
@@ -1509,7 +1505,7 @@
         </question>
         <question>
             <text>high</text>
-            <answer>высокий|максимум|высоко</answer>
+            <answer>высокий|высоко</answer>
         </question>
         <question>
             <text>him</text>
@@ -1529,7 +1525,7 @@
         </question>
         <question>
             <text>holiday</text>
-            <answer>праздник</answer>
+            <answer>праздник|отпуск|каникулы</answer>
         </question>
         <question>
             <text>home</text>
@@ -1553,7 +1549,7 @@
         </question>
         <question>
             <text>hot</text>
-            <answer>горячий</answer>
+            <answer>горячий|жаркий</answer>
         </question>
         <question>
             <text>hotel</text>
@@ -1637,7 +1633,7 @@
         </question>
         <question>
             <text>to interest</text>
-            <answer>заинтересовать</answer>
+            <answer>интересовать|заинтересовать</answer>
         </question>
         <question>
             <text>interested</text>
@@ -1665,7 +1661,7 @@
         </question>
         <question>
             <text>to introduce</text>
-            <answer>представлять</answer>
+            <answer>представлять|знакомить|вводить</answer>
         </question>
         <question>
             <text>island</text>
@@ -1713,7 +1709,7 @@
         </question>
         <question>
             <text>just</text>
-            <answer>просто|справедливый</answer>
+            <answer>просто|только что</answer>
         </question>
         <question>
             <text>to keep</text>
@@ -1753,7 +1749,7 @@
         </question>
         <question>
             <text>last</text>
-            <answer>в последний раз|конец</answer>
+            <answer>последний|прошлый</answer>
         </question>
         <question>
             <text>late</text>
@@ -1761,7 +1757,7 @@
         </question>
         <question>
             <text>later</text>
-            <answer>позже|поздний</answer>
+            <answer>позже|позднее</answer>
         </question>
         <question>
             <text>laugh</text>
@@ -1773,15 +1769,15 @@
         </question>
         <question>
             <text>to learn</text>
-            <answer>учиться</answer>
+            <answer>учить|учиться|узнавать</answer>
         </question>
         <question>
             <text>to leave</text>
-            <answer>оставлять</answer>
+            <answer>оставлять|уходить|уезжать</answer>
         </question>
         <question>
             <text>left</text>
-            <answer>левый|слева|левые</answer>
+            <answer>левый|слева</answer>
         </question>
         <question>
             <text>leg</text>
@@ -1797,7 +1793,7 @@
         </question>
         <question>
             <text>letter</text>
-            <answer>письмо</answer>
+            <answer>письмо|буква</answer>
         </question>
         <question>
             <text>library</text>
@@ -1805,7 +1801,7 @@
         </question>
         <question>
             <text>to lie</text>
-            <answer>лежать</answer>
+            <answer>лежать|лгать</answer>
         </question>
         <question>
             <text>life</text>
@@ -1813,11 +1809,11 @@
         </question>
         <question>
             <text>light</text>
-            <answer>свет|световой</answer>
+            <answer>свет|лёгкий|светлый</answer>
         </question>
         <question>
             <text>like</text>
-            <answer>подобно|нечто подобное</answer>
+            <answer>как|подобно</answer>
         </question>
         <question>
             <text>to like</text>
@@ -1853,7 +1849,7 @@
         </question>
         <question>
             <text>local</text>
-            <answer>местный|местный житель</answer>
+            <answer>местный</answer>
         </question>
         <question>
             <text>long</text>
@@ -1901,11 +1897,11 @@
         </question>
         <question>
             <text>man</text>
-            <answer>мужчина</answer>
+            <answer>мужчина|человек</answer>
         </question>
         <question>
             <text>many</text>
-            <answer>много</answer>
+            <answer>многие|много</answer>
         </question>
         <question>
             <text>map</text>
@@ -1921,7 +1917,7 @@
         </question>
         <question>
             <text>married</text>
-            <answer>женатый</answer>
+            <answer>женатый|замужем</answer>
         </question>
         <question>
             <text>match</text>
@@ -1941,7 +1937,7 @@
         </question>
         <question>
             <text>me</text>
-            <answer>мне</answer>
+            <answer>меня|мне</answer>
         </question>
         <question>
             <text>meal</text>
@@ -1949,11 +1945,11 @@
         </question>
         <question>
             <text>to mean</text>
-            <answer>иметь в виду</answer>
+            <answer>значить|означать|иметь в виду</answer>
         </question>
         <question>
             <text>meaning</text>
-            <answer>значение</answer>
+            <answer>значение|смысл</answer>
         </question>
         <question>
             <text>meat</text>
@@ -2001,7 +1997,7 @@
         </question>
         <question>
             <text>minute</text>
-            <answer>минута|мельчайший</answer>
+            <answer>минута</answer>
         </question>
         <question>
             <text>to miss</text>
@@ -2045,7 +2041,7 @@
         </question>
         <question>
             <text>most</text>
-            <answer>больше всего</answer>
+            <answer>больше всего|большинство</answer>
         </question>
         <question>
             <text>mother</text>
@@ -2069,7 +2065,7 @@
         </question>
         <question>
             <text>movie</text>
-            <answer>кино</answer>
+            <answer>фильм|кино</answer>
         </question>
         <question>
             <text>much</text>
@@ -2089,7 +2085,7 @@
         </question>
         <question>
             <text>must</text>
-            <answer>должен|быть должным</answer>
+            <answer>должен|нужно</answer>
         </question>
         <question>
             <text>name</text>
@@ -2177,7 +2173,7 @@
         </question>
         <question>
             <text>north</text>
-            <answer>север|на север|северный</answer>
+            <answer>север|северный</answer>
         </question>
         <question>
             <text>nose</text>
@@ -2185,11 +2181,11 @@
         </question>
         <question>
             <text>not</text>
-            <answer>нет</answer>
+            <answer>не</answer>
         </question>
         <question>
             <text>note</text>
-            <answer>примечание</answer>
+            <answer>записка|заметка|примечание</answer>
         </question>
         <question>
             <text>nothing</text>
@@ -2201,19 +2197,15 @@
         </question>
         <question>
             <text>now</text>
-            <answer>сейчас|раз</answer>
+            <answer>сейчас|теперь</answer>
         </question>
         <question>
             <text>number</text>
-            <answer>число</answer>
+            <answer>номер|число|количество</answer>
         </question>
         <question>
             <text>nurse</text>
             <answer>медсестра</answer>
-        </question>
-        <question>
-            <text>o'clock</text>
-            <answer>по часам</answer>
         </question>
         <question>
             <text>object</text>
@@ -2245,7 +2237,7 @@
         </question>
         <question>
             <text>OK</text>
-            <answer>хорошо|исправный</answer>
+            <answer>хорошо|ладно</answer>
         </question>
         <question>
             <text>old</text>
@@ -2253,7 +2245,7 @@
         </question>
         <question>
             <text>on</text>
-            <answer>на|согласно</answer>
+            <answer>на</answer>
         </question>
         <question>
             <text>once</text>
@@ -2269,7 +2261,7 @@
         </question>
         <question>
             <text>online</text>
-            <answer>диалоговый</answer>
+            <answer>онлайн|интерактивный</answer>
         </question>
         <question>
             <text>only</text>
@@ -2341,7 +2333,7 @@
         </question>
         <question>
             <text>painting</text>
-            <answer>живопись</answer>
+            <answer>картина|живопись</answer>
         </question>
         <question>
             <text>pair</text>
@@ -2377,7 +2369,7 @@
         </question>
         <question>
             <text>party</text>
-            <answer>вечеринка</answer>
+            <answer>вечеринка|партия</answer>
         </question>
         <question>
             <text>passport</text>
@@ -2429,7 +2421,7 @@
         </question>
         <question>
             <text>to phone</text>
-            <answer>звонить по телефону</answer>
+            <answer>звонить</answer>
         </question>
         <question>
             <text>photo</text>
@@ -2461,7 +2453,7 @@
         </question>
         <question>
             <text>pink</text>
-            <answer>розовый|пинка</answer>
+            <answer>розовый</answer>
         </question>
         <question>
             <text>place</text>
@@ -2525,7 +2517,7 @@
         </question>
         <question>
             <text>positive</text>
-            <answer>позитивный|позитив</answer>
+            <answer>положительный|позитивный</answer>
         </question>
         <question>
             <text>possible</text>
@@ -2533,11 +2525,11 @@
         </question>
         <question>
             <text>post</text>
-            <answer>почта</answer>
+            <answer>почта|пост</answer>
         </question>
         <question>
             <text>to post</text>
-            <answer>вывешивать</answer>
+            <answer>отправлять по почте</answer>
         </question>
         <question>
             <text>potato</text>
@@ -2553,7 +2545,7 @@
         </question>
         <question>
             <text>to practise</text>
-            <answer>практиковать</answer>
+            <answer>тренироваться|практиковаться</answer>
         </question>
         <question>
             <text>to prefer</text>
@@ -2597,11 +2589,11 @@
         </question>
         <question>
             <text>purple</text>
-            <answer>фиолетовый|пурпур</answer>
+            <answer>фиолетовый|пурпурный</answer>
         </question>
         <question>
             <text>to put</text>
-            <answer>помещать</answer>
+            <answer>класть|ставить|помещать</answer>
         </question>
         <question>
             <text>quarter</text>
@@ -2636,10 +2628,6 @@
             <answer>дождь</answer>
         </question>
         <question>
-            <text>to rain</text>
-            <answer>литься</answer>
-        </question>
-        <question>
             <text>to read</text>
             <answer>читать</answer>
         </question>
@@ -2657,7 +2645,7 @@
         </question>
         <question>
             <text>real</text>
-            <answer>настоящий</answer>
+            <answer>настоящий|реальный</answer>
         </question>
         <question>
             <text>really</text>
@@ -2669,7 +2657,7 @@
         </question>
         <question>
             <text>red</text>
-            <answer>красный|красный цвет</answer>
+            <answer>красный</answer>
         </question>
         <question>
             <text>to relax</text>
@@ -2717,7 +2705,7 @@
         </question>
         <question>
             <text>right</text>
-            <answer>верно|право|правый</answer>
+            <answer>правильный|право|направо</answer>
         </question>
         <question>
             <text>river</text>
@@ -2733,7 +2721,7 @@
         </question>
         <question>
             <text>routine</text>
-            <answer>рутина|рутинный</answer>
+            <answer>распорядок|рутина</answer>
         </question>
         <question>
             <text>rule</text>
@@ -2789,7 +2777,7 @@
         </question>
         <question>
             <text>second</text>
-            <answer>секунда|вторым номером</answer>
+            <answer>второй|секунда</answer>
         </question>
         <question>
             <text>section</text>
@@ -2845,7 +2833,7 @@
         </question>
         <question>
             <text>shoe</text>
-            <answer>туфля</answer>
+            <answer>ботинок|туфля</answer>
         </question>
         <question>
             <text>shop</text>
@@ -2857,7 +2845,7 @@
         </question>
         <question>
             <text>shopping</text>
-            <answer>шопинг</answer>
+            <answer>покупки|шопинг</answer>
         </question>
         <question>
             <text>short</text>
@@ -2948,10 +2936,6 @@
             <answer>снег</answer>
         </question>
         <question>
-            <text>to snow</text>
-            <answer>заносить снегом</answer>
-        </question>
-        <question>
             <text>so</text>
             <answer>так|поэтому</answer>
         </question>
@@ -2989,7 +2973,7 @@
         </question>
         <question>
             <text>sorry</text>
-            <answer>сожалеющий</answer>
+            <answer>извини|прости|сожалею</answer>
         </question>
         <question>
             <text>sound</text>
@@ -3009,7 +2993,7 @@
         </question>
         <question>
             <text>space</text>
-            <answer>космос</answer>
+            <answer>пространство|космос</answer>
         </question>
         <question>
             <text>to speak</text>
@@ -3021,7 +3005,7 @@
         </question>
         <question>
             <text>to spell</text>
-            <answer>означать</answer>
+            <answer>писать по буквам</answer>
         </question>
         <question>
             <text>spelling</text>
@@ -3105,7 +3089,7 @@
         </question>
         <question>
             <text>subject</text>
-            <answer>предмет|подлежащий</answer>
+            <answer>предмет|тема</answer>
         </question>
         <question>
             <text>success</text>
@@ -3133,7 +3117,7 @@
         </question>
         <question>
             <text>sure</text>
-            <answer>конечно|верный</answer>
+            <answer>конечно|уверенный</answer>
         </question>
         <question>
             <text>sweater</text>
@@ -3197,7 +3181,7 @@
         </question>
         <question>
             <text>to telephone</text>
-            <answer>телефонировать</answer>
+            <answer>звонить по телефону</answer>
         </question>
         <question>
             <text>television</text>
@@ -3241,7 +3225,7 @@
         </question>
         <question>
             <text>thanks</text>
-            <answer>благодарность</answer>
+            <answer>спасибо</answer>
         </question>
         <question>
             <text>that</text>
@@ -3277,11 +3261,11 @@
         </question>
         <question>
             <text>third</text>
-            <answer>треть</answer>
+            <answer>третий|треть</answer>
         </question>
         <question>
             <text>thirsty</text>
-            <answer>жаждущий</answer>
+            <answer>испытывающий жажду</answer>
         </question>
         <question>
             <text>thirteen</text>
@@ -3325,7 +3309,7 @@
         </question>
         <question>
             <text>title</text>
-            <answer>звание</answer>
+            <answer>название|заголовок|титул</answer>
         </question>
         <question>
             <text>to</text>
@@ -3357,7 +3341,7 @@
         </question>
         <question>
             <text>too</text>
-            <answer>слишком</answer>
+            <answer>тоже|слишком</answer>
         </question>
         <question>
             <text>tooth</text>
@@ -3397,7 +3381,7 @@
         </question>
         <question>
             <text>trip</text>
-            <answer>путешествие</answer>
+            <answer>поездка</answer>
         </question>
         <question>
             <text>trousers</text>
@@ -3425,7 +3409,7 @@
         </question>
         <question>
             <text>TV</text>
-            <answer>телевизор</answer>
+            <answer>телевизор|телевидение</answer>
         </question>
         <question>
             <text>twelve</text>
@@ -3537,15 +3521,15 @@
         </question>
         <question>
             <text>to wake</text>
-            <answer>будить</answer>
+            <answer>будить|просыпаться</answer>
         </question>
         <question>
             <text>walk</text>
-            <answer>аллея</answer>
+            <answer>прогулка</answer>
         </question>
         <question>
             <text>to walk</text>
-            <answer>ходить</answer>
+            <answer>ходить|гулять</answer>
         </question>
         <question>
             <text>wall</text>
@@ -3553,7 +3537,7 @@
         </question>
         <question>
             <text>to want</text>
-            <answer>хотеть</answer>
+            <answer>хотеть|желать</answer>
         </question>
         <question>
             <text>warm</text>
@@ -3561,7 +3545,7 @@
         </question>
         <question>
             <text>to wash</text>
-            <answer>стирать</answer>
+            <answer>мыть|стирать</answer>
         </question>
         <question>
             <text>watch</text>
@@ -3605,11 +3589,11 @@
         </question>
         <question>
             <text>weekend</text>
-            <answer>уик-энд</answer>
+            <answer>выходные</answer>
         </question>
         <question>
             <text>welcome</text>
-            <answer>приветствие|желанный</answer>
+            <answer>добро пожаловать|желанный</answer>
         </question>
         <question>
             <text>to welcome</text>
@@ -3617,7 +3601,7 @@
         </question>
         <question>
             <text>well</text>
-            <answer>хорошо|колодец|хороший</answer>
+            <answer>хорошо|ну|колодец</answer>
         </question>
         <question>
             <text>west</text>
@@ -3657,11 +3641,11 @@
         </question>
         <question>
             <text>will</text>
-            <answer>воля|завещать</answer>
+            <answer>воля|завещание</answer>
         </question>
         <question>
             <text>to win</text>
-            <answer>выигрывать</answer>
+            <answer>выигрывать|побеждать</answer>
         </question>
         <question>
             <text>window</text>
@@ -3705,7 +3689,7 @@
         </question>
         <question>
             <text>worker</text>
-            <answer>рабочий</answer>
+            <answer>работник|рабочий</answer>
         </question>
         <question>
             <text>world</text>
@@ -3725,15 +3709,15 @@
         </question>
         <question>
             <text>writing</text>
-            <answer>письмо</answer>
+            <answer>письмо|письменность</answer>
         </question>
         <question>
             <text>wrong</text>
-            <answer>неправильный|неправильно|несправедливость</answer>
+            <answer>неправильный|неправильно</answer>
         </question>
         <question>
             <text>yeah</text>
-            <answer>ага</answer>
+            <answer>ага|да</answer>
         </question>
         <question>
             <text>year</text>
@@ -3741,7 +3725,7 @@
         </question>
         <question>
             <text>yellow</text>
-            <answer>желтый|желтый цвет</answer>
+            <answer>желтый</answer>
         </question>
         <question>
             <text>yes</text>
@@ -3749,19 +3733,19 @@
         </question>
         <question>
             <text>yesterday</text>
-            <answer>вчера|вчерашний день</answer>
+            <answer>вчера</answer>
         </question>
         <question>
             <text>you</text>
-            <answer>ты</answer>
+            <answer>ты|вы</answer>
         </question>
         <question>
             <text>young</text>
-            <answer>молодой|молодежь</answer>
+            <answer>молодой</answer>
         </question>
         <question>
             <text>yourself</text>
-            <answer>сам</answer>
+            <answer>сам|себя</answer>
         </question>
     </questions>
 </questionary>
