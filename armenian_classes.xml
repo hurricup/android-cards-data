@@ -1803,5 +1803,9 @@
             <text>նախաճաշ</text>
             <answer>завтрак</answer>
         </question>
+        <question>
+            <text>լուրջ</text>
+            <answer>серьезный</answer>
+        </question>
     </questions>
 </questionary>

@@ -616,5 +616,9 @@
             <text>նշել</text>
             <answer>отмечать</answer>
         </question>
+        <question>
+            <text>մնալ</text>
+            <answer>оставаться</answer>
+        </question>
     </questions>
 </questionary>

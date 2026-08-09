@@ -287,5 +287,9 @@
             <text>դրանից հետո</text>
             <answer>после этого</answer>
         </question>
+        <question>
+            <text>կարևոր չէ</text>
+            <answer>не важно</answer>
+        </question>
     </questions>
 </questionary>
