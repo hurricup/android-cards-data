@@ -25,7 +25,7 @@
         </question>
         <question>
             <text>abundance</text>
-            <answer>изобилие</answer>
+            <answer>избыток</answer>
         </question>
         <question>
             <text>abuse</text>
@@ -41,7 +41,7 @@
         </question>
         <question>
             <text>to accelerate</text>
-            <answer>ускорять</answer>
+            <answer>ускоряться</answer>
         </question>
         <question>
             <text>acceptance</text>
@@ -117,11 +117,11 @@
         </question>
         <question>
             <text>adjacent</text>
-            <answer>смежный</answer>
+            <answer>соседний</answer>
         </question>
         <question>
             <text>adjustment</text>
-            <answer>регулировка</answer>
+            <answer>корректирование</answer>
         </question>
         <question>
             <text>to administer</text>
@@ -153,7 +153,7 @@
         </question>
         <question>
             <text>advocate</text>
-            <answer>адвокат</answer>
+            <answer>защитник</answer>
         </question>
         <question>
             <text>to advocate</text>
@@ -221,7 +221,7 @@
         </question>
         <question>
             <text>alliance</text>
-            <answer>союз</answer>
+            <answer>альянс</answer>
         </question>
         <question>
             <text>to allocate</text>
@@ -233,7 +233,7 @@
         </question>
         <question>
             <text>allowance</text>
-            <answer>припуск</answer>
+            <answer>разрешение</answer>
         </question>
         <question>
             <text>ally</text>
@@ -253,7 +253,7 @@
         </question>
         <question>
             <text>to amend</text>
-            <answer>вносить поправки</answer>
+            <answer>исправлять</answer>
         </question>
         <question>
             <text>amendment</text>
@@ -361,7 +361,7 @@
         </question>
         <question>
             <text>to assault</text>
-            <answer>штурмовать</answer>
+            <answer>атаковать</answer>
         </question>
         <question>
             <text>to assemble</text>
@@ -381,7 +381,7 @@
         </question>
         <question>
             <text>assurance</text>
-            <answer>уверенность</answer>
+            <answer>гарантия</answer>
         </question>
         <question>
             <text>asylum</text>
@@ -401,7 +401,7 @@
         </question>
         <question>
             <text>attorney</text>
-            <answer>прокурор</answer>
+            <answer>адвокат</answer>
         </question>
         <question>
             <text>attribute</text>
@@ -417,7 +417,7 @@
         </question>
         <question>
             <text>authentic</text>
-            <answer>подлинный</answer>
+            <answer>аутентичный</answer>
         </question>
         <question>
             <text>to authorize</text>
@@ -457,7 +457,7 @@
         </question>
         <question>
             <text>ballot</text>
-            <answer>голосование</answer>
+            <answer>избирательный бюллетень</answer>
         </question>
         <question>
             <text>banner</text>
@@ -469,7 +469,7 @@
         </question>
         <question>
             <text>barrel</text>
-            <answer>баррель</answer>
+            <answer>бочка</answer>
         </question>
         <question>
             <text>bass</text>
@@ -553,7 +553,7 @@
         </question>
         <question>
             <text>to bleed</text>
-            <answer>кровоточить</answer>
+            <answer>истекать кровью</answer>
         </question>
         <question>
             <text>blend</text>
@@ -573,7 +573,7 @@
         </question>
         <question>
             <text>to boast</text>
-            <answer>похвастать</answer>
+            <answer>хвастаться</answer>
         </question>
         <question>
             <text>bonus</text>
@@ -593,7 +593,7 @@
         </question>
         <question>
             <text>bow</text>
-            <answer>лук</answer>
+            <answer>поклон</answer>
         </question>
         <question>
             <text>to bow</text>
@@ -609,7 +609,7 @@
         </question>
         <question>
             <text>breakdown</text>
-            <answer>пробой</answer>
+            <answer>авария</answer>
         </question>
         <question>
             <text>breakthrough</text>
@@ -653,7 +653,7 @@
         </question>
         <question>
             <text>burden</text>
-            <answer>бремя</answer>
+            <answer>груз</answer>
         </question>
         <question>
             <text>bureaucracy</text>
@@ -665,7 +665,7 @@
         </question>
         <question>
             <text>to burst</text>
-            <answer>лопнуть</answer>
+            <answer>лопаться</answer>
         </question>
         <question>
             <text>cabinet</text>
@@ -681,7 +681,7 @@
         </question>
         <question>
             <text>capability</text>
-            <answer>возможности</answer>
+            <answer>способность</answer>
         </question>
         <question>
             <text>capitalism</text>
@@ -709,7 +709,7 @@
         </question>
         <question>
             <text>casualty</text>
-            <answer>несчастный случай</answer>
+            <answer>жертва</answer>
         </question>
         <question>
             <text>catalogue</text>
@@ -749,7 +749,7 @@
         </question>
         <question>
             <text>to characterize</text>
-            <answer>охарактеризовать</answer>
+            <answer>характеризовать</answer>
         </question>
         <question>
             <text>charm</text>
@@ -757,7 +757,7 @@
         </question>
         <question>
             <text>charter</text>
-            <answer>чартер</answer>
+            <answer>устав</answer>
         </question>
         <question>
             <text>chronic</text>
@@ -769,11 +769,11 @@
         </question>
         <question>
             <text>to circulate</text>
-            <answer>циркулировать</answer>
+            <answer>распространять</answer>
         </question>
         <question>
             <text>circulation</text>
-            <answer>циркуляция</answer>
+            <answer>обращение</answer>
         </question>
         <question>
             <text>citizenship</text>
@@ -933,7 +933,7 @@
         </question>
         <question>
             <text>to compile</text>
-            <answer>скомпилировать</answer>
+            <answer>компилировать</answer>
         </question>
         <question>
             <text>to complement</text>
@@ -953,11 +953,11 @@
         </question>
         <question>
             <text>to comply</text>
-            <answer>подчиняться</answer>
+            <answer>исполнять</answer>
         </question>
         <question>
             <text>composition</text>
-            <answer>состав</answer>
+            <answer>композиция</answer>
         </question>
         <question>
             <text>compromise</text>
@@ -1037,7 +1037,7 @@
         </question>
         <question>
             <text>to conquer</text>
-            <answer>покорять</answer>
+            <answer>завоевывать</answer>
         </question>
         <question>
             <text>conscience</text>
@@ -1113,11 +1113,11 @@
         </question>
         <question>
             <text>contender</text>
-            <answer>соперник</answer>
+            <answer>претендент</answer>
         </question>
         <question>
             <text>contention</text>
-            <answer>утверждение</answer>
+            <answer>раздор</answer>
         </question>
         <question>
             <text>continually</text>
@@ -1185,7 +1185,7 @@
         </question>
         <question>
             <text>correction</text>
-            <answer>коррекция</answer>
+            <answer>исправление</answer>
         </question>
         <question>
             <text>to correlate</text>
@@ -1197,11 +1197,11 @@
         </question>
         <question>
             <text>to correspond</text>
-            <answer>соответствовать</answer>
+            <answer>переписываться</answer>
         </question>
         <question>
             <text>correspondence</text>
-            <answer>соответствие</answer>
+            <answer>переписка</answer>
         </question>
         <question>
             <text>correspondent</text>
@@ -1233,7 +1233,7 @@
         </question>
         <question>
             <text>counsellor</text>
-            <answer>советник</answer>
+            <answer>консультант</answer>
         </question>
         <question>
             <text>to counter</text>
@@ -1253,7 +1253,7 @@
         </question>
         <question>
             <text>courtesy</text>
-            <answer>вежливость</answer>
+            <answer>учтивость</answer>
         </question>
         <question>
             <text>to craft</text>
@@ -1261,11 +1261,11 @@
         </question>
         <question>
             <text>to crawl</text>
-            <answer>ползать</answer>
+            <answer>ползти</answer>
         </question>
         <question>
             <text>creator</text>
-            <answer>автор</answer>
+            <answer>создатель</answer>
         </question>
         <question>
             <text>credibility</text>
@@ -1313,7 +1313,7 @@
         </question>
         <question>
             <text>custody</text>
-            <answer>хранение</answer>
+            <answer>попечение</answer>
         </question>
         <question>
             <text>cutting</text>
@@ -1353,7 +1353,7 @@
         </question>
         <question>
             <text>declaration</text>
-            <answer>заявление</answer>
+            <answer>декларация</answer>
         </question>
         <question>
             <text>dedicated</text>
@@ -1365,7 +1365,7 @@
         </question>
         <question>
             <text>deed</text>
-            <answer>дело</answer>
+            <answer>поступок</answer>
         </question>
         <question>
             <text>to deem</text>
@@ -1385,7 +1385,7 @@
         </question>
         <question>
             <text>deficiency</text>
-            <answer>дефицит</answer>
+            <answer>недостаток</answer>
         </question>
         <question>
             <text>deficit</text>
@@ -1405,7 +1405,7 @@
         </question>
         <question>
             <text>delicate</text>
-            <answer>тонкий</answer>
+            <answer>нежный</answer>
         </question>
         <question>
             <text>demon</text>
@@ -1413,7 +1413,7 @@
         </question>
         <question>
             <text>denial</text>
-            <answer>отказ</answer>
+            <answer>отрицание</answer>
         </question>
         <question>
             <text>to denounce</text>
@@ -1453,7 +1453,7 @@
         </question>
         <question>
             <text>deputy</text>
-            <answer>заместитель</answer>
+            <answer>депутат</answer>
         </question>
         <question>
             <text>to descend</text>
@@ -1541,7 +1541,7 @@
         </question>
         <question>
             <text>to diminish</text>
-            <answer>уменьшить</answer>
+            <answer>уменьшать</answer>
         </question>
         <question>
             <text>to dip</text>
@@ -1569,7 +1569,7 @@
         </question>
         <question>
             <text>to discharge</text>
-            <answer>выполнять</answer>
+            <answer>увольнять</answer>
         </question>
         <question>
             <text>to disclose</text>
@@ -1585,7 +1585,7 @@
         </question>
         <question>
             <text>discretion</text>
-            <answer>усмотрение</answer>
+            <answer>осмотрительность</answer>
         </question>
         <question>
             <text>discrimination</text>
@@ -1625,7 +1625,7 @@
         </question>
         <question>
             <text>to dissolve</text>
-            <answer>растворить</answer>
+            <answer>растворяться</answer>
         </question>
         <question>
             <text>distinction</text>
@@ -1685,7 +1685,7 @@
         </question>
         <question>
             <text>to drain</text>
-            <answer>дренировать</answer>
+            <answer>осушать</answer>
         </question>
         <question>
             <text>to drift</text>
@@ -1705,7 +1705,7 @@
         </question>
         <question>
             <text>dumb</text>
-            <answer>немой</answer>
+            <answer>тупой</answer>
         </question>
         <question>
             <text>duo</text>
@@ -1717,7 +1717,7 @@
         </question>
         <question>
             <text>earnings</text>
-            <answer>прибыль</answer>
+            <answer>заработок</answer>
         </question>
         <question>
             <text>ease</text>
@@ -1765,7 +1765,7 @@
         </question>
         <question>
             <text>to elevate</text>
-            <answer>возвысить</answer>
+            <answer>возвышать</answer>
         </question>
         <question>
             <text>eligible</text>
@@ -1833,11 +1833,11 @@
         </question>
         <question>
             <text>to endorse</text>
-            <answer>поддерживать</answer>
+            <answer>одобрять</answer>
         </question>
         <question>
             <text>endorsement</text>
-            <answer>индоссамент</answer>
+            <answer>поддержка</answer>
         </question>
         <question>
             <text>to endure</text>
@@ -1889,7 +1889,7 @@
         </question>
         <question>
             <text>entity</text>
-            <answer>объект</answer>
+            <answer>сущность</answer>
         </question>
         <question>
             <text>epidemic</text>
@@ -1909,7 +1909,7 @@
         </question>
         <question>
             <text>to escalate</text>
-            <answer>обостряться</answer>
+            <answer>обострять</answer>
         </question>
         <question>
             <text>essence</text>
@@ -1917,7 +1917,7 @@
         </question>
         <question>
             <text>establishment</text>
-            <answer>установление</answer>
+            <answer>учреждение</answer>
         </question>
         <question>
             <text>eternal</text>
@@ -1969,7 +1969,7 @@
         </question>
         <question>
             <text>execution</text>
-            <answer>выполнение</answer>
+            <answer>исполнение</answer>
         </question>
         <question>
             <text>to exert</text>
@@ -2009,7 +2009,7 @@
         </question>
         <question>
             <text>explosive</text>
-            <answer>взрывчатое вещество|взрывной</answer>
+            <answer>взрывчатый|взрывчатое вещество</answer>
         </question>
         <question>
             <text>to extract</text>
@@ -2041,7 +2041,7 @@
         </question>
         <question>
             <text>fatal</text>
-            <answer>роковой</answer>
+            <answer>смертельный</answer>
         </question>
         <question>
             <text>fate</text>
@@ -2133,7 +2133,7 @@
         </question>
         <question>
             <text>to forge</text>
-            <answer>выковать</answer>
+            <answer>ковать</answer>
         </question>
         <question>
             <text>formula</text>
@@ -2141,7 +2141,7 @@
         </question>
         <question>
             <text>to formulate</text>
-            <answer>сформулировать</answer>
+            <answer>формулировать</answer>
         </question>
         <question>
             <text>forth</text>
@@ -2201,7 +2201,7 @@
         </question>
         <question>
             <text>gathering</text>
-            <answer>сбор</answer>
+            <answer>встреча</answer>
         </question>
         <question>
             <text>gaze</text>
@@ -2249,7 +2249,7 @@
         </question>
         <question>
             <text>grace</text>
-            <answer>благодать</answer>
+            <answer>милость</answer>
         </question>
         <question>
             <text>grasp</text>
@@ -2293,11 +2293,11 @@
         </question>
         <question>
             <text>to grip</text>
-            <answer>захватывать</answer>
+            <answer>схватить</answer>
         </question>
         <question>
             <text>gross</text>
-            <answer>брутто</answer>
+            <answer>валовой</answer>
         </question>
         <question>
             <text>guerrilla</text>
@@ -2357,7 +2357,7 @@
         </question>
         <question>
             <text>harsh</text>
-            <answer>резкий</answer>
+            <answer>жесткий</answer>
         </question>
         <question>
             <text>harvest</text>
@@ -2385,7 +2385,7 @@
         </question>
         <question>
             <text>heritage</text>
-            <answer>наследие</answer>
+            <answer>наследство</answer>
         </question>
         <question>
             <text>hierarchy</text>
@@ -2485,11 +2485,11 @@
         </question>
         <question>
             <text>implementation</text>
-            <answer>реализация</answer>
+            <answer>выполнение</answer>
         </question>
         <question>
             <text>to imprison</text>
-            <answer>сажать в тюрьму</answer>
+            <answer>заключать в тюрьму</answer>
         </question>
         <question>
             <text>imprisonment</text>
@@ -2501,7 +2501,7 @@
         </question>
         <question>
             <text>inadequate</text>
-            <answer>недостаточный</answer>
+            <answer>неадекватный</answer>
         </question>
         <question>
             <text>inappropriate</text>
@@ -2573,7 +2573,7 @@
         </question>
         <question>
             <text>to inhibit</text>
-            <answer>подавлять</answer>
+            <answer>тормозить</answer>
         </question>
         <question>
             <text>to initiate</text>
@@ -2609,7 +2609,7 @@
         </question>
         <question>
             <text>inspection</text>
-            <answer>осмотр</answer>
+            <answer>инспекция</answer>
         </question>
         <question>
             <text>inspiration</text>
@@ -2645,7 +2645,7 @@
         </question>
         <question>
             <text>intact</text>
-            <answer>неповрежденный</answer>
+            <answer>нетронутый</answer>
         </question>
         <question>
             <text>intake</text>
@@ -2665,7 +2665,7 @@
         </question>
         <question>
             <text>integrity</text>
-            <answer>целостность</answer>
+            <answer>честность</answer>
         </question>
         <question>
             <text>to intensify</text>
@@ -2697,11 +2697,11 @@
         </question>
         <question>
             <text>interference</text>
-            <answer>помехи</answer>
+            <answer>вмешательство</answer>
         </question>
         <question>
             <text>interim</text>
-            <answer>промежуточный</answer>
+            <answer>временный</answer>
         </question>
         <question>
             <text>interior</text>
@@ -2709,7 +2709,7 @@
         </question>
         <question>
             <text>intermediate</text>
-            <answer>промежуточный</answer>
+            <answer>средний</answer>
         </question>
         <question>
             <text>to intervene</text>
@@ -2769,7 +2769,7 @@
         </question>
         <question>
             <text>junction</text>
-            <answer>соединение</answer>
+            <answer>перекресток</answer>
         </question>
         <question>
             <text>jurisdiction</text>
@@ -2789,7 +2789,7 @@
         </question>
         <question>
             <text>kingdom</text>
-            <answer>царство</answer>
+            <answer>королевство</answer>
         </question>
         <question>
             <text>lad</text>
@@ -2805,7 +2805,7 @@
         </question>
         <question>
             <text>lap</text>
-            <answer>круг</answer>
+            <answer>колени</answer>
         </question>
         <question>
             <text>large-scale</text>
@@ -2821,7 +2821,7 @@
         </question>
         <question>
             <text>lawn</text>
-            <answer>газон</answer>
+            <answer>лужайка</answer>
         </question>
         <question>
             <text>lawsuit</text>
@@ -2889,11 +2889,11 @@
         </question>
         <question>
             <text>liable</text>
-            <answer>подлежащий</answer>
+            <answer>ответственный</answer>
         </question>
         <question>
             <text>liberal</text>
-            <answer>либерал|либеральный</answer>
+            <answer>либеральный|либерал</answer>
         </question>
         <question>
             <text>liberation</text>
@@ -2953,7 +2953,7 @@
         </question>
         <question>
             <text>log</text>
-            <answer>журнал</answer>
+            <answer>бревно</answer>
         </question>
         <question>
             <text>to log</text>
@@ -2981,7 +2981,7 @@
         </question>
         <question>
             <text>loyalty</text>
-            <answer>лояльность</answer>
+            <answer>верность</answer>
         </question>
         <question>
             <text>machinery</text>
@@ -2993,7 +2993,7 @@
         </question>
         <question>
             <text>magistrate</text>
-            <answer>судья</answer>
+            <answer>мировой судья</answer>
         </question>
         <question>
             <text>magnetic</text>
@@ -3125,7 +3125,7 @@
         </question>
         <question>
             <text>mercy</text>
-            <answer>милость</answer>
+            <answer>милосердие</answer>
         </question>
         <question>
             <text>mere</text>
@@ -3161,7 +3161,7 @@
         </question>
         <question>
             <text>militant</text>
-            <answer>боевой|активист</answer>
+            <answer>воинственный|активист</answer>
         </question>
         <question>
             <text>militia</text>
@@ -3193,7 +3193,7 @@
         </question>
         <question>
             <text>misery</text>
-            <answer>страдание</answer>
+            <answer>невзгоды</answer>
         </question>
         <question>
             <text>misleading</text>
@@ -3265,7 +3265,7 @@
         </question>
         <question>
             <text>naval</text>
-            <answer>морской</answer>
+            <answer>военно-морской</answer>
         </question>
         <question>
             <text>neglect</text>
@@ -3341,11 +3341,11 @@
         </question>
         <question>
             <text>notorious</text>
-            <answer>пресловутый</answer>
+            <answer>печально известный</answer>
         </question>
         <question>
             <text>nursery</text>
-            <answer>питомник</answer>
+            <answer>детская</answer>
         </question>
         <question>
             <text>objection</text>
@@ -3353,7 +3353,7 @@
         </question>
         <question>
             <text>to oblige</text>
-            <answer>обязать</answer>
+            <answer>обязывать</answer>
         </question>
         <question>
             <text>to obsess</text>
@@ -3401,7 +3401,7 @@
         </question>
         <question>
             <text>oral</text>
-            <answer>устный</answer>
+            <answer>оральный</answer>
         </question>
         <question>
             <text>organizational</text>
@@ -3413,7 +3413,7 @@
         </question>
         <question>
             <text>to originate</text>
-            <answer>происходить</answer>
+            <answer>возникать</answer>
         </question>
         <question>
             <text>outbreak</text>
@@ -3457,7 +3457,7 @@
         </question>
         <question>
             <text>to overturn</text>
-            <answer>опрокидываться</answer>
+            <answer>опрокидывать</answer>
         </question>
         <question>
             <text>to overwhelm</text>
@@ -3469,7 +3469,7 @@
         </question>
         <question>
             <text>pad</text>
-            <answer>блокнот</answer>
+            <answer>подушечка</answer>
         </question>
         <question>
             <text>parameter</text>
@@ -3509,7 +3509,7 @@
         </question>
         <question>
             <text>patch</text>
-            <answer>заплата</answer>
+            <answer>пластырь</answer>
         </question>
         <question>
             <text>patent</text>
@@ -3549,7 +3549,7 @@
         </question>
         <question>
             <text>persistent</text>
-            <answer>постоянный</answer>
+            <answer>настойчивый</answer>
         </question>
         <question>
             <text>personnel</text>
@@ -3557,7 +3557,7 @@
         </question>
         <question>
             <text>petition</text>
-            <answer>ходатайство</answer>
+            <answer>петиция</answer>
         </question>
         <question>
             <text>philosopher</text>
@@ -3593,7 +3593,7 @@
         </question>
         <question>
             <text>plea</text>
-            <answer>заявление</answer>
+            <answer>просьба</answer>
         </question>
         <question>
             <text>to plead</text>
@@ -3613,7 +3613,7 @@
         </question>
         <question>
             <text>to plug</text>
-            <answer>вставлять</answer>
+            <answer>затыкать</answer>
         </question>
         <question>
             <text>to plunge</text>
@@ -3621,7 +3621,7 @@
         </question>
         <question>
             <text>pole</text>
-            <answer>полюс</answer>
+            <answer>столб</answer>
         </question>
         <question>
             <text>poll</text>
@@ -3641,7 +3641,7 @@
         </question>
         <question>
             <text>to portray</text>
-            <answer>изобразить</answer>
+            <answer>изображать</answer>
         </question>
         <question>
             <text>post-war</text>
@@ -3741,7 +3741,7 @@
         </question>
         <question>
             <text>to presume</text>
-            <answer>полагать</answer>
+            <answer>предполагать</answer>
         </question>
         <question>
             <text>to prevail</text>
@@ -3809,7 +3809,7 @@
         </question>
         <question>
             <text>profitable</text>
-            <answer>доходный</answer>
+            <answer>прибыльный</answer>
         </question>
         <question>
             <text>profound</text>
@@ -3821,7 +3821,7 @@
         </question>
         <question>
             <text>prominent</text>
-            <answer>известный</answer>
+            <answer>видный</answer>
         </question>
         <question>
             <text>pronounced</text>
@@ -3837,11 +3837,11 @@
         </question>
         <question>
             <text>to prosecute</text>
-            <answer>преследовать в судебном порядке</answer>
+            <answer>преследовать по суду</answer>
         </question>
         <question>
             <text>prosecution</text>
-            <answer>обвинение</answer>
+            <answer>судебное преследование</answer>
         </question>
         <question>
             <text>prosecutor</text>
@@ -3873,7 +3873,7 @@
         </question>
         <question>
             <text>provision</text>
-            <answer>положение</answer>
+            <answer>обеспечение</answer>
         </question>
         <question>
             <text>to provoke</text>
@@ -3885,7 +3885,7 @@
         </question>
         <question>
             <text>pulse</text>
-            <answer>импульс</answer>
+            <answer>пульс</answer>
         </question>
         <question>
             <text>pump</text>
@@ -3969,7 +3969,7 @@
         </question>
         <question>
             <text>readily</text>
-            <answer>легко</answer>
+            <answer>с готовностью</answer>
         </question>
         <question>
             <text>realization</text>
@@ -3985,7 +3985,7 @@
         </question>
         <question>
             <text>reasoning</text>
-            <answer>рассуждения</answer>
+            <answer>рассуждение</answer>
         </question>
         <question>
             <text>to reassure</text>
@@ -3997,7 +3997,7 @@
         </question>
         <question>
             <text>rebellion</text>
-            <answer>восстание</answer>
+            <answer>бунт</answer>
         </question>
         <question>
             <text>recipient</text>
@@ -4081,7 +4081,7 @@
         </question>
         <question>
             <text>reluctant</text>
-            <answer>неохотный</answer>
+            <answer>вынужденный</answer>
         </question>
         <question>
             <text>remainder</text>
@@ -4089,7 +4089,7 @@
         </question>
         <question>
             <text>remains</text>
-            <answer>остатки</answer>
+            <answer>останки</answer>
         </question>
         <question>
             <text>remedy</text>
@@ -4109,7 +4109,7 @@
         </question>
         <question>
             <text>to renew</text>
-            <answer>обновлять</answer>
+            <answer>возобновлять</answer>
         </question>
         <question>
             <text>renowned</text>
@@ -4129,7 +4129,7 @@
         </question>
         <question>
             <text>representation</text>
-            <answer>представление</answer>
+            <answer>представительство</answer>
         </question>
         <question>
             <text>to reproduce</text>
@@ -4137,7 +4137,7 @@
         </question>
         <question>
             <text>reproduction</text>
-            <answer>воспроизведение</answer>
+            <answer>воспроизводство</answer>
         </question>
         <question>
             <text>republic</text>
@@ -4265,7 +4265,7 @@
         </question>
         <question>
             <text>to rotate</text>
-            <answer>вращаться</answer>
+            <answer>вращать</answer>
         </question>
         <question>
             <text>rotation</text>
@@ -4333,11 +4333,11 @@
         </question>
         <question>
             <text>scrutiny</text>
-            <answer>изучение</answer>
+            <answer>исследование</answer>
         </question>
         <question>
             <text>seal</text>
-            <answer>печать</answer>
+            <answer>тюлень</answer>
         </question>
         <question>
             <text>to seal</text>
@@ -4349,7 +4349,7 @@
         </question>
         <question>
             <text>seemingly</text>
-            <answer>на вид</answer>
+            <answer>по-видимому</answer>
         </question>
         <question>
             <text>segment</text>
@@ -4357,7 +4357,7 @@
         </question>
         <question>
             <text>to seize</text>
-            <answer>воспользоваться</answer>
+            <answer>захватывать</answer>
         </question>
         <question>
             <text>seldom</text>
@@ -4365,7 +4365,7 @@
         </question>
         <question>
             <text>selective</text>
-            <answer>селективный</answer>
+            <answer>избирательный</answer>
         </question>
         <question>
             <text>senator</text>
@@ -4381,7 +4381,7 @@
         </question>
         <question>
             <text>sentiment</text>
-            <answer>чувство</answer>
+            <answer>настроение</answer>
         </question>
         <question>
             <text>separation</text>
@@ -4413,7 +4413,7 @@
         </question>
         <question>
             <text>to shed</text>
-            <answer>пролить</answer>
+            <answer>сбрасывать</answer>
         </question>
         <question>
             <text>sheer</text>
@@ -4429,7 +4429,7 @@
         </question>
         <question>
             <text>to shrink</text>
-            <answer>сокращаться</answer>
+            <answer>сокращать</answer>
         </question>
         <question>
             <text>to shrug</text>
@@ -4445,7 +4445,7 @@
         </question>
         <question>
             <text>to simulate</text>
-            <answer>имитировать</answer>
+            <answer>моделировать</answer>
         </question>
         <question>
             <text>simulation</text>
@@ -4601,7 +4601,7 @@
         </question>
         <question>
             <text>spouse</text>
-            <answer>супруга</answer>
+            <answer>супруг</answer>
         </question>
         <question>
             <text>spy</text>
@@ -4617,7 +4617,7 @@
         </question>
         <question>
             <text>to squeeze</text>
-            <answer>выжимать</answer>
+            <answer>сжимать</answer>
         </question>
         <question>
             <text>to stab</text>
@@ -4633,7 +4633,7 @@
         </question>
         <question>
             <text>stake</text>
-            <answer>доля</answer>
+            <answer>ставка</answer>
         </question>
         <question>
             <text>standing</text>
@@ -4669,11 +4669,11 @@
         </question>
         <question>
             <text>to stir</text>
-            <answer>размешивать</answer>
+            <answer>помешивать</answer>
         </question>
         <question>
             <text>storage</text>
-            <answer>хранение</answer>
+            <answer>хранилище</answer>
         </question>
         <question>
             <text>straightforward</text>
@@ -4681,7 +4681,7 @@
         </question>
         <question>
             <text>strain</text>
-            <answer>штамм</answer>
+            <answer>напряжение</answer>
         </question>
         <question>
             <text>strand</text>
@@ -4697,7 +4697,7 @@
         </question>
         <question>
             <text>strip</text>
-            <answer>полоса</answer>
+            <answer>полоска</answer>
         </question>
         <question>
             <text>to strip</text>
@@ -4721,11 +4721,11 @@
         </question>
         <question>
             <text>submission</text>
-            <answer>представление</answer>
+            <answer>подчинение</answer>
         </question>
         <question>
             <text>subscriber</text>
-            <answer>абонент</answer>
+            <answer>подписчик</answer>
         </question>
         <question>
             <text>subscription</text>
@@ -4749,7 +4749,7 @@
         </question>
         <question>
             <text>to substitute</text>
-            <answer>подставлять</answer>
+            <answer>заменять</answer>
         </question>
         <question>
             <text>substitution</text>
@@ -4765,11 +4765,11 @@
         </question>
         <question>
             <text>succession</text>
-            <answer>последовательность</answer>
+            <answer>преемственность</answer>
         </question>
         <question>
             <text>successive</text>
-            <answer>последующий</answer>
+            <answer>последовательный</answer>
         </question>
         <question>
             <text>successor</text>
@@ -4837,7 +4837,7 @@
         </question>
         <question>
             <text>supreme</text>
-            <answer>высший</answer>
+            <answer>верховный</answer>
         </question>
         <question>
             <text>surge</text>
@@ -4853,7 +4853,7 @@
         </question>
         <question>
             <text>surplus</text>
-            <answer>избыток</answer>
+            <answer>излишек</answer>
         </question>
         <question>
             <text>to surrender</text>
@@ -4865,7 +4865,7 @@
         </question>
         <question>
             <text>suspension</text>
-            <answer>подвеска</answer>
+            <answer>приостановка</answer>
         </question>
         <question>
             <text>suspicion</text>
@@ -4929,7 +4929,7 @@
         </question>
         <question>
             <text>tenant</text>
-            <answer>арендатор</answer>
+            <answer>жилец</answer>
         </question>
         <question>
             <text>tender</text>
@@ -4937,7 +4937,7 @@
         </question>
         <question>
             <text>tenure</text>
-            <answer>срок пребывания</answer>
+            <answer>срок владения</answer>
         </question>
         <question>
             <text>to terminate</text>
@@ -5033,7 +5033,7 @@
         </question>
         <question>
             <text>tolerance</text>
-            <answer>толерантность</answer>
+            <answer>терпимость</answer>
         </question>
         <question>
             <text>to tolerate</text>
@@ -5097,7 +5097,7 @@
         </question>
         <question>
             <text>transformation</text>
-            <answer>преобразование</answer>
+            <answer>трансформация</answer>
         </question>
         <question>
             <text>transit</text>
@@ -5133,7 +5133,7 @@
         </question>
         <question>
             <text>tribunal</text>
-            <answer>суд</answer>
+            <answer>трибунал</answer>
         </question>
         <question>
             <text>tribute</text>
@@ -5189,7 +5189,7 @@
         </question>
         <question>
             <text>underlying</text>
-            <answer>основной</answer>
+            <answer>лежащий в основе</answer>
         </question>
         <question>
             <text>to undermine</text>
@@ -5229,7 +5229,7 @@
         </question>
         <question>
             <text>utility</text>
-            <answer>утилита</answer>
+            <answer>полезность</answer>
         </question>
         <question>
             <text>to utilize</text>
@@ -5333,7 +5333,7 @@
         </question>
         <question>
             <text>virtue</text>
-            <answer>добродетель</answer>
+            <answer>достоинство</answer>
         </question>
         <question>
             <text>vocal</text>
@@ -5401,7 +5401,7 @@
         </question>
         <question>
             <text>whilst</text>
-            <answer>в то время как</answer>
+            <answer>пока</answer>
         </question>
         <question>
             <text>to whip</text>
@@ -5429,7 +5429,7 @@
         </question>
         <question>
             <text>to wipe</text>
-            <answer>протирать</answer>
+            <answer>вытирать</answer>
         </question>
         <question>
             <text>wit</text>
@@ -5465,7 +5465,7 @@
         </question>
         <question>
             <text>yield</text>
-            <answer>доходность</answer>
+            <answer>урожай</answer>
         </question>
         <question>
             <text>to yield</text>
@@ -5473,7 +5473,7 @@
         </question>
         <question>
             <text>youngster</text>
-            <answer>мальчик</answer>
+            <answer>юноша</answer>
         </question>
     </questions>
 </questionary>
