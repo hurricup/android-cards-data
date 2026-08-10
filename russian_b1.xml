@@ -1,0 +1,3853 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questionary>
+    <id>russian-b1</id>
+    <title>Russian (B1)</title>
+    <cards>
+        <card>
+            <question>автобусный</question>
+            <answer>Такой, который связан с большой машиной, что возит людей по городу.</answer>
+            <answerNote>Извините, где здесь автобусная остановка?</answerNote>
+        </card>
+        <card>
+            <question>автомат</question>
+            <answer>Оружие, из которого можно быстро стрелять много раз подряд. Ещё так называют ящик, который сам продаёт билеты или воду.</answer>
+            <answerNote>По команде солдаты начали стрелять из автоматов.</answerNote>
+        </card>
+        <card>
+            <question>автомобиль</question>
+            <answer>Машина на четырёх колёсах, в которой ездят люди.</answer>
+            <answerNote>Тебе нравится твой новый автомобиль?</answerNote>
+        </card>
+        <card>
+            <question>азиатский</question>
+            <answer>Из Азии — большой части света, где Китай, Индия, Япония.</answer>
+            <answerNote>Камилла увлечена азиатской культурой.</answerNote>
+        </card>
+        <card>
+            <question>академия</question>
+            <answer>Место, где учат взрослых какой-то серьёзной работе или где работают учёные.</answer>
+            <answerNote>Среди гостей были ученые из Академии наук.</answerNote>
+        </card>
+        <card>
+            <question>алгебра</question>
+            <answer>Часть математики, где вместо чисел пишут буквы и решают задачи.</answer>
+            <answerNote>Ты сдал экзамен по алгебре?</answerNote>
+        </card>
+        <card>
+            <question>альбом</question>
+            <answer>Толстая тетрадь для рисунков или фотографий. Ещё так называют сборник песен музыкантов.</answer>
+            <answerNote>Я обещала купить дочке альбом и краски.</answerNote>
+        </card>
+        <card>
+            <question>американец</question>
+            <answer>Человек из США — большой страны за океаном.</answer>
+            <answerNote>Новый муж моей подруги — американец из Бостона.</answerNote>
+        </card>
+        <card>
+            <question>американка</question>
+            <answer>Женщина из США — большой страны за океаном.</answer>
+            <answerNote>Наш преподаватель английского — американка. Она переехала в Москву из Чикаго.</answerNote>
+        </card>
+        <card>
+            <question>американский</question>
+            <answer>Из США — большой страны за океаном.</answer>
+            <answerNote>На прошлой неделе вышел новый американский фильм.</answerNote>
+        </card>
+        <card>
+            <question>анализ</question>
+            <answer>Когда что-то внимательно изучают по частям, чтобы понять. Ещё так называют проверку крови у врача.</answer>
+            <answerNote>Результаты анализа крови будут готовы завтра.</answerNote>
+        </card>
+        <card>
+            <question>анализировать</question>
+            <answer>Внимательно разбирать что-то по частям, чтобы понять, как оно устроено.</answer>
+            <answerNote>Как анализировать данные, которые мы получили в эксперименте?</answerNote>
+        </card>
+        <card>
+            <question>ангина</question>
+            <answer>Болезнь, когда сильно болит горло и поднимается температура.</answer>
+            <answerNote>Я не приду на занятия завтра: у меня ангина.</answerNote>
+        </card>
+        <card>
+            <question>ансамбль</question>
+            <answer>Группа людей, которые вместе поют, играют или танцуют.</answer>
+            <answerNote>На фестиваль народной музыки собрались ансамбли со всей России.</answerNote>
+        </card>
+        <card>
+            <question>армия</question>
+            <answer>Все солдаты страны вместе. Они защищают страну.</answer>
+            <answerNote>Их сын на прошлой неделе вернулся из армии.</answerNote>
+        </card>
+        <card>
+            <question>архитектурный</question>
+            <answer>Связанный со строительством домов и их видом.</answer>
+            <answerNote>Новый вокзал признан лучшим по архитектурному решению в Европе.</answerNote>
+        </card>
+        <card>
+            <question>атмосфера</question>
+            <answer>Воздух вокруг Земли. Ещё так говорят про настроение в каком-то месте.</answer>
+            <answerNote>Машины в больших городах загрязняют атмосферу.</answerNote>
+        </card>
+        <card>
+            <question>атомный</question>
+            <answer>Работающий на силе, которая спрятана внутри самых маленьких частичек вещества.</answer>
+            <answerNote>Взрыв атомной бомбы — катастрофа для Земного шара.</answerNote>
+        </card>
+        <card>
+            <question>афиша</question>
+            <answer>Большой лист на стене, где написано, какой будет концерт или спектакль.</answer>
+            <answerNote>Она увидела на афише двух своих любимых актёров.</answerNote>
+        </card>
+        <card>
+            <question>балерина</question>
+            <answer>Женщина, которая красиво танцует на сцене, часто на кончиках пальцев.</answer>
+            <answerNote>Анна Павлова с детства мечтала стать балериной.</answerNote>
+        </card>
+        <card>
+            <question>балкон</question>
+            <answer>Площадка с оградой, которая торчит наружу из стены дома. На неё выходят из квартиры.</answer>
+            <answerNote>— Где наши велосипеды? — Они на балконе.</answerNote>
+        </card>
+        <card>
+            <question>банан</question>
+            <answer>Длинный жёлтый сладкий фрукт. Растёт в жарких странах, его чистят от кожуры.</answer>
+            <answerNote>Хочешь банан? У меня их много.</answerNote>
+        </card>
+        <card>
+            <question>бандероль</question>
+            <answer>Небольшой свёрток, который посылают по почте.</answer>
+            <answerNote>Я пойду, мне нужно успеть забрать бандероль с почты.</answerNote>
+        </card>
+        <card>
+            <question>банка</question>
+            <answer>Стеклянная посуда с широким горлышком. В ней хранят варенье или огурцы.</answer>
+            <answerNote>Она никак не могла открыть банку с вареньем.</answerNote>
+        </card>
+        <card>
+            <question>баскетболист</question>
+            <answer>Спортсмен, который играет в игру с мячом и высокой корзиной.</answer>
+            <answerNote>Российские баскетболисты проиграли американцам в финале Олимпийских игр.</answerNote>
+        </card>
+        <card>
+            <question>башня</question>
+            <answer>Высокое узкое строение. Сверху далеко видно.</answer>
+            <answerNote>В каком году была построена Эйфелева башня?</answerNote>
+        </card>
+        <card>
+            <question>бензин</question>
+            <answer>Жидкость, которую заливают в машину, чтобы она ехала.</answer>
+            <answerNote>Сколько стоит бензин на этой заправке?</answerNote>
+        </card>
+        <card>
+            <question>берёза</question>
+            <answer>Дерево с белым стволом и чёрными полосками. Очень часто растёт в России.</answer>
+            <answerNote>Рядом с нашим домом растёт большая старая берёза.</answerNote>
+        </card>
+        <card>
+            <question>беседа</question>
+            <answer>Спокойный разговор двух или нескольких людей.</answer>
+            <answerNote>Извините, что прерываю вашу беседу!</answerNote>
+        </card>
+        <card>
+            <question>беспокоиться</question>
+            <answer>Волноваться, думать, что может случиться плохое.</answer>
+            <answerNote>Мои родители всё время беспокоятся за меня.</answerNote>
+        </card>
+        <card>
+            <question>библиотекарь</question>
+            <answer>Человек, который работает с книгами в специальном доме и выдаёт их людям.</answer>
+            <answerNote>Тяжело ли работать библиотекарем?</answerNote>
+        </card>
+        <card>
+            <question>бланк</question>
+            <answer>Лист бумаги с пустыми местами, куда нужно вписать свои данные.</answer>
+            <answerNote>Возьмите эти бланки и заполните их.</answerNote>
+        </card>
+        <card>
+            <question>бледный</question>
+            <answer>С очень белым лицом, без румянца. Так бывает, когда человек болеет или испугался.</answer>
+            <answerNote>Что случилось? Ты весь бледный!</answerNote>
+        </card>
+        <card>
+            <question>близкий</question>
+            <answer>Находится недалеко. Ещё так говорят про людей, которых очень любишь.</answer>
+            <answerNote>Моя семья — это самые близкие мне люди.</answerNote>
+        </card>
+        <card>
+            <question>блюдо</question>
+            <answer>Еда, которую приготовили и подают на стол. Например, суп или салат.</answer>
+            <answerNote>В этом блюде слишком много соли.</answerNote>
+        </card>
+        <card>
+            <question>богатство</question>
+            <answer>Очень много денег и дорогих вещей. Ещё так говорят про то, что для человека главное и ценное.</answer>
+            <answerNote>Моё главное богатство — это мои дети и внуки.</answerNote>
+        </card>
+        <card>
+            <question>бой</question>
+            <answer>Когда две стороны дерутся друг с другом на войне или в спорте.</answer>
+            <answerNote>Почему вы сдались без боя?</answerNote>
+        </card>
+        <card>
+            <question>болезнь</question>
+            <answer>Когда человек нездоров: у него что-то болит или высокая температура.</answer>
+            <answerNote>Как защитить себя и семью от болезней зимой?</answerNote>
+        </card>
+        <card>
+            <question>болельщик</question>
+            <answer>Человек, который любит какую-то команду и радуется её победам.</answer>
+            <answerNote>Мой папа — активный футбольный болельщик.</answerNote>
+        </card>
+        <card>
+            <question>болеть(е)</question>
+            <answer>Быть нездоровым: лежать дома с температурой, ходить к врачу.</answer>
+            <answerNote>В прошлом году он два раза болел гриппом.</answerNote>
+        </card>
+        <card>
+            <question>болеть(и)</question>
+            <answer>Так говорят про часть тела, которая доставляет неприятное чувство. Например, голова или зуб.</answer>
+            <answerNote>Что у тебя болит? Скажи мне.</answerNote>
+        </card>
+        <card>
+            <question>большинство</question>
+            <answer>Почти все, самая большая часть людей или вещей.</answer>
+            <answerNote>Большинство жителей Москвы пользуется общественным транспортом.</answerNote>
+        </card>
+        <card>
+            <question>борода</question>
+            <answer>Волосы, которые растут у мужчины на щеках и подбородке.</answer>
+            <answerNote>Михаил два месяца отращивал бороду.</answerNote>
+        </card>
+        <card>
+            <question>бороться</question>
+            <answer>Изо всех сил стараться победить кого-то или что-то плохое.</answer>
+            <answerNote>Родители учили меня бороться до последнего.</answerNote>
+        </card>
+        <card>
+            <question>борщ</question>
+            <answer>Красный суп из свёклы и капусты. Его часто едят со сметаной.</answer>
+            <answerNote>Моя бабушка лучше всех умела готовить борщ.</answerNote>
+        </card>
+        <card>
+            <question>борьба</question>
+            <answer>Когда изо всех сил стараются победить кого-то или что-то плохое.</answer>
+            <answerNote>Некоторые считают, что жизнь — это постоянная борьба.</answerNote>
+        </card>
+        <card>
+            <question>ботинок</question>
+            <answer>Тёплая закрытая обувь выше щиколотки, со шнурками.</answer>
+            <answerNote>У Коли нет зимних ботинок.</answerNote>
+        </card>
+        <card>
+            <question>бояться</question>
+            <answer>Чувствовать страх, думать, что случится что-то плохое.</answer>
+            <answerNote>Почему люди часто боятся пауков?</answerNote>
+        </card>
+        <card>
+            <question>бриться</question>
+            <answer>Убирать волосы с лица острым предметом.</answer>
+            <answerNote>Мой брат не любит бриться, поэтому всегда ходит с бородой.</answerNote>
+        </card>
+        <card>
+            <question>бросать</question>
+            <answer>Кидать что-то рукой. Ещё: переставать что-то делать.</answer>
+            <answerNote>Мальчики ловили рыбу и снова бросали её в море.</answerNote>
+        </card>
+        <card>
+            <question>брюки</question>
+            <answer>Одежда для ног, обычно строгая. Похожа на штаны.</answer>
+            <answerNote>Тебе нравятся эти синие брюки?</answerNote>
+        </card>
+        <card>
+            <question>буфет</question>
+            <answer>Маленькое кафе в школе, театре или на работе. Там покупают чай и еду.</answer>
+            <answerNote>Буфет на втором этаже закрыт, идите на первый этаж.</answerNote>
+        </card>
+        <card>
+            <question>бывший</question>
+            <answer>Который был раньше, но теперь уже нет.</answer>
+            <answerNote>Наши бывшие соседи переехали в Сочи.</answerNote>
+        </card>
+        <card>
+            <question>ваза</question>
+            <answer>Красивая посуда, в которую ставят цветы с водой.</answer>
+            <answerNote>Секундочку, я только поставлю цветы в вазу.</answerNote>
+        </card>
+        <card>
+            <question>ванная</question>
+            <answer>Комната в доме, где моются. Там есть душ и раковина.</answer>
+            <answerNote>— Где фен? — Он в ванной.</answerNote>
+        </card>
+        <card>
+            <question>вежливый</question>
+            <answer>Тот, кто говорит «спасибо», «пожалуйста» и не грубит.</answer>
+            <answerNote>— Ольга, добрый день! — с вежливой улыбкой сказал Сергей.</answerNote>
+        </card>
+        <card>
+            <question>велосипед</question>
+            <answer>Машина на двух колёсах. На ней едут, крутя педали ногами.</answer>
+            <answerNote>Он сел на велосипед и поехал на пляж.</answerNote>
+        </card>
+        <card>
+            <question>верный</question>
+            <answer>Правильный, без ошибки. Ещё: тот, кто никогда не предаст.</answer>
+            <answerNote>Молодец! Это абсолютно верный ответ.</answerNote>
+        </card>
+        <card>
+            <question>верхний</question>
+            <answer>Который находится выше других.</answer>
+            <answerNote>Коробка стояла на самой верхней полке, и я никак не могла её достать.</answerNote>
+        </card>
+        <card>
+            <question>весть</question>
+            <answer>Новость, сообщение о том, что случилось.</answer>
+            <answerNote>Моя жена приехала домой с радостной вестью.</answerNote>
+        </card>
+        <card>
+            <question>вечерний</question>
+            <answer>Который бывает в конце дня, когда темнеет.</answer>
+            <answerNote>В вечерних новостях показали моего мужа.</answerNote>
+        </card>
+        <card>
+            <question>вешать</question>
+            <answer>Помещать что-то так, чтобы оно висело — на крючок, на стену.</answer>
+            <answerNote>Почему ты не хочешь вешать мою картину на стену? Она тебе не нравится?</answerNote>
+        </card>
+        <card>
+            <question>взгляд</question>
+            <answer>То, как человек смотрит на кого-то. А ещё так называют мнение человека о чём-то.</answer>
+            <answerNote>Он встретился с ней взглядом и улыбнулся.</answerNote>
+        </card>
+        <card>
+            <question>взрослый</question>
+            <answer>Человек, который уже вырос, не ребёнок.</answer>
+            <answerNote>Дети всегда должны плавать под присмотром взрослых!</answerNote>
+        </card>
+        <card>
+            <question>видеокассета</question>
+            <answer>Старая коробочка с плёнкой внутри, на которой записан фильм.</answer>
+            <answerNote>Они нашли в гараже коробку со старыми видеокассетами.</answerNote>
+        </card>
+        <card>
+            <question>видеофильм</question>
+            <answer>Кино, записанное так, чтобы его можно было смотреть дома.</answer>
+            <answerNote>Вечером мы смотрели видеофильм про животных.</answerNote>
+        </card>
+        <card>
+            <question>визитный</question>
+            <answer>Связанный с маленькой карточкой, где написано имя и телефон человека.</answer>
+            <answerNote>Вот моя визитная карточка. Звоните в любое время.</answerNote>
+        </card>
+        <card>
+            <question>виноград</question>
+            <answer>Сладкие круглые ягоды, которые растут гроздьями.</answer>
+            <answerNote>Купи, пожалуйста, к столу виноград, орехи и сыр.</answerNote>
+        </card>
+        <card>
+            <question>виться</question>
+            <answer>Идти не прямо, а колечками и волнами.</answer>
+            <answerNote>Когда твои волосы перестали виться?</answerNote>
+        </card>
+        <card>
+            <question>воевать</question>
+            <answer>Сражаться с врагом с оружием в руках.</answer>
+            <answerNote>Иван ушёл воевать, когда ему было всего двадцать лет.</answerNote>
+        </card>
+        <card>
+            <question>военный</question>
+            <answer>Связанный с армией и войной. Так же называют человека из армии.</answer>
+            <answerNote>Вечером они уехали с военной базы.</answerNote>
+        </card>
+        <card>
+            <question>волейболист</question>
+            <answer>Спортсмен, который играет в волейбол.</answer>
+            <answerNote>Как проходят тренировки профессиональных волейболистов?</answerNote>
+        </card>
+        <card>
+            <question>волк</question>
+            <answer>Дикий зверь, похожий на большую серую собаку. Живёт в лесу.</answer>
+            <answerNote>В лесу они увидели волков.</answerNote>
+        </card>
+        <card>
+            <question>воспитание</question>
+            <answer>Когда взрослые учат ребёнка, как жить и вести себя хорошо.</answer>
+            <answerNote>Мы с мужем постоянно спорим о воспитании детей.</answerNote>
+        </card>
+        <card>
+            <question>воспитывать</question>
+            <answer>Растить ребёнка и учить его, как надо себя вести.</answer>
+            <answerNote>Они воспитывали дочку в любви и заботе.</answerNote>
+        </card>
+        <card>
+            <question>воспоминание</question>
+            <answer>То, что человек помнит о прошлом.</answer>
+            <answerNote>Аня говорит, что у неё почти не осталось воспоминаний из детства.</answerNote>
+        </card>
+        <card>
+            <question>впечатление</question>
+            <answer>След в душе от того, что человек увидел или пережил.</answer>
+            <answerNote>Какие впечатления у вас остались от вчерашнего фильма?</answerNote>
+        </card>
+        <card>
+            <question>вредный</question>
+            <answer>Такой, от которого становится плохо или хуже.</answer>
+            <answerNote>Оказалось, что жвачка вредна для зубов.</answerNote>
+        </card>
+        <card>
+            <question>выезжать</question>
+            <answer>Уезжать откуда-то на машине или другом транспорте.</answer>
+            <answerNote>Собирайся! Нам выезжать в аэропорт через час.</answerNote>
+        </card>
+        <card>
+            <question>выздоравливать</question>
+            <answer>Переставать болеть, снова становиться здоровым.</answer>
+            <answerNote>Выздоравливай скорее! Мы ждём тебя!</answerNote>
+        </card>
+        <card>
+            <question>вызов</question>
+            <answer>Когда человека срочно зовут куда-то по делу.</answer>
+            <answerNote>Полицейские получили вызов о драке.</answerNote>
+        </card>
+        <card>
+            <question>вызывать</question>
+            <answer>Звать кого-то к себе. А ещё — быть причиной чего-то.</answer>
+            <answerNote>Этот фильм всегда вызывает у меня улыбку.</answerNote>
+        </card>
+        <card>
+            <question>выигрывать</question>
+            <answer>Побеждать в игре или споре.</answer>
+            <answerNote>Он два раза выигрывал чемпионат мира по гандболу.</answerNote>
+        </card>
+        <card>
+            <question>вылечивать</question>
+            <answer>Делать больного здоровым.</answer>
+            <answerNote>Раньше от этой болезни умирали, а теперь её успешно вылечивают антибиотиками.</answerNote>
+        </card>
+        <card>
+            <question>выполнять</question>
+            <answer>Делать то, что нужно или что тебе сказали.</answer>
+            <answerNote>Для пилотов важно чётко выполнять свои инструкции.</answerNote>
+        </card>
+        <card>
+            <question>выражать</question>
+            <answer>Показывать словами или лицом то, что чувствуешь или думаешь.</answer>
+            <answerNote>Она не любит открыто выражать свои эмоции.</answerNote>
+        </card>
+        <card>
+            <question>выступ</question>
+            <answer>Часть скалы или стены, которая торчит наружу.</answer>
+            <answerNote>Лёша быстро забрался на выступ скалы.</answerNote>
+        </card>
+        <card>
+            <question>выступление</question>
+            <answer>Когда человек показывает что-то на сцене перед людьми.</answer>
+            <answerNote>Больше всего нам понравилось выступление китайских гимнастов.</answerNote>
+        </card>
+        <card>
+            <question>газ</question>
+            <answer>Вещество без формы, как воздух. Дома по трубам идёт такое вещество, на котором готовят еду.</answer>
+            <answerNote>Ты выключил газ?</answerNote>
+        </card>
+        <card>
+            <question>галстук</question>
+            <answer>Длинная полоска ткани. Мужчины завязывают её на шее под воротником рубашки.</answer>
+            <answerNote>Надень синий галстук! Он подходит к этой рубашке.</answerNote>
+        </card>
+        <card>
+            <question>гараж</question>
+            <answer>Небольшое помещение, где стоит машина.</answer>
+            <answerNote>Твоя машина в гараже или на улице?</answerNote>
+        </card>
+        <card>
+            <question>гастроном</question>
+            <answer>Большой магазин, где продают еду.</answer>
+            <answerNote>Моя бабушка всегда ходила в центральный гастроном за продуктами.</answerNote>
+        </card>
+        <card>
+            <question>генерал</question>
+            <answer>Очень большой начальник в армии.</answer>
+            <answerNote>Его дедушка — генерал армии.</answerNote>
+        </card>
+        <card>
+            <question>геология</question>
+            <answer>Наука о том, из чего состоит Земля: о камнях, горах и том, что под землёй.</answer>
+            <answerNote>Вчера мы ходили в музей геологии.</answerNote>
+        </card>
+        <card>
+            <question>гимназия</question>
+            <answer>Школа, где учат больше и строже, чем в обычной.</answer>
+            <answerNote>Наша гимназия — лучшая в городе.</answerNote>
+        </card>
+        <card>
+            <question>гимнастика</question>
+            <answer>Спорт, где делают упражнения телом: прыжки, кувырки, растяжку.</answer>
+            <answerNote>Три раза в неделю мои дети ходят на гимнастику.</answerNote>
+        </card>
+        <card>
+            <question>глава</question>
+            <answer>Часть книги. Книгу делят на такие части, и у каждой есть номер.</answer>
+            <answerNote>О чём эта глава?</answerNote>
+        </card>
+        <card>
+            <question>говядина</question>
+            <answer>Мясо коровы или быка.</answer>
+            <answerNote>Из мяса Оля ест только говядину.</answerNote>
+        </card>
+        <card>
+            <question>голодный</question>
+            <answer>Такой, который давно не ел и очень хочет есть.</answer>
+            <answerNote>Мои дети всегда капризничают, когда они голодные.</answerNote>
+        </card>
+        <card>
+            <question>гордиться</question>
+            <answer>Радоваться и считать, что кто-то или что-то очень хорошее и твоё.</answer>
+            <answerNote>Мои родители всегда мной гордятся.</answerNote>
+        </card>
+        <card>
+            <question>гордый</question>
+            <answer>Такой, который уважает себя и не позволяет собой командовать.</answer>
+            <answerNote>Она сказала, что её родители — очень гордые люди.</answerNote>
+        </card>
+        <card>
+            <question>горе</question>
+            <answer>Очень сильная печаль из-за большой беды.</answer>
+            <answerNote>Она знала, что есть ещё добрые люди, способные разделить её горе.</answerNote>
+        </card>
+        <card>
+            <question>гореть</question>
+            <answer>Быть в огне. Ещё так говорят про лампу, которая светит.</answer>
+            <answerNote>Это дом горит вдали?</answerNote>
+        </card>
+        <card>
+            <question>горло</question>
+            <answer>Место внутри шеи. Через него еда идёт в живот, а воздух — в лёгкие.</answer>
+            <answerNote>Купи мне, пожалуйста, таблетки от боли в горле.</answerNote>
+        </card>
+        <card>
+            <question>гостеприимный</question>
+            <answer>Такой, который рад людям в своём доме и хорошо их принимает.</answer>
+            <answerNote>Гостеприимные хозяева приготовили вкусный ужин.</answerNote>
+        </card>
+        <card>
+            <question>готовиться</question>
+            <answer>Заранее делать всё нужное перед важным делом.</answer>
+            <answerNote>Лёша всю неделю готовится к экзамену.</answerNote>
+        </card>
+        <card>
+            <question>гражданин</question>
+            <answer>Человек, который по закону принадлежит своей стране: у него её паспорт и права.</answer>
+            <answerNote>Ходить на выборы — долг любого гражданина.</answerNote>
+        </card>
+        <card>
+            <question>гражданка</question>
+            <answer>Женщина, которая по закону принадлежит своей стране и имеет её паспорт.</answer>
+            <answerNote>Его жена — гражданка Австрии.</answerNote>
+        </card>
+        <card>
+            <question>гражданство</question>
+            <answer>Право быть по закону человеком своей страны и иметь её паспорт.</answer>
+            <answerNote>Александр получил гражданство США в прошлом году.</answerNote>
+        </card>
+        <card>
+            <question>громкий</question>
+            <answer>Такой звук, который хорошо слышно даже далеко. От него можно закрыть уши.</answer>
+            <answerNote>Громкий звук фейерверка испугал нашу собаку.</answerNote>
+        </card>
+        <card>
+            <question>грубый</question>
+            <answer>Злой и обидный в словах. Ещё так говорят про жёсткий, неприятный на ощупь материал.</answer>
+            <answerNote>Почему она всегда такая грубая?</answerNote>
+        </card>
+        <card>
+            <question>грудь</question>
+            <answer>Передняя часть тела между шеей и животом. Внутри сердце и лёгкие.</answer>
+            <answerNote>Он пожаловался на боль в груди.</answerNote>
+        </card>
+        <card>
+            <question>гуманитарный</question>
+            <answer>Связанный с науками о человеке: язык, история, литература. Не про числа и технику.</answer>
+            <answerNote>Валя учится на факультете гуманитарных наук.</answerNote>
+        </card>
+        <card>
+            <question>дальний</question>
+            <answer>Тот, который находится не рядом, а на большом расстоянии.</answer>
+            <answerNote>Его отправили в командировку на Дальний Восток.</answerNote>
+        </card>
+        <card>
+            <question>дача</question>
+            <answer>Домик за городом с садом. Туда ездят летом и на выходные.</answer>
+            <answerNote>Больше всего моя бабушка любит проводить время на даче.</answerNote>
+        </card>
+        <card>
+            <question>двигаться</question>
+            <answer>Менять своё место, идти или ехать. Не стоять на одном месте.</answer>
+            <answerNote>Врачи советуют горожанам больше двигаться и чаще бывать на свежем воздухе.</answerNote>
+        </card>
+        <card>
+            <question>движение</question>
+            <answer>Когда что-то перемещается или шевелится, а не стоит на месте.</answer>
+            <answerNote>Он никак не мог запомнить нужных танцевальных движений.</answerNote>
+        </card>
+        <card>
+            <question>двойка</question>
+            <answer>Плохая отметка в школе. Её ставят, когда ученик почти ничего не знает.</answer>
+            <answerNote>Он получил двойку за последнюю контрольную.</answerNote>
+        </card>
+        <card>
+            <question>двор</question>
+            <answer>Место рядом с домом под открытым небом. Там дети играют, а машины стоят.</answer>
+            <answerNote>В детстве мы любили играть с соседскими ребятами во дворе.</answerNote>
+        </card>
+        <card>
+            <question>декларация</question>
+            <answer>Важная бумага, где человек или страна пишет и объявляет что-то официально.</answer>
+            <answerNote>Российские госслужащие каждый год заполняют декларацию своего имущества и доходов за год.</answerNote>
+        </card>
+        <card>
+            <question>делегация</question>
+            <answer>Группа людей, которую послали куда-то представлять свою страну или организацию.</answer>
+            <answerNote>Делегация из России заняла свои места в зале заседаний.</answerNote>
+        </card>
+        <card>
+            <question>делить</question>
+            <answer>Разрезать или разбирать что-то на части и раздавать их.</answer>
+            <answerNote>Домашние дела мы с мужем делим поровну.</answerNote>
+        </card>
+        <card>
+            <question>делиться</question>
+            <answer>Отдавать кому-то часть своего или рассказывать другому что-то своё.</answer>
+            <answerNote>Мои дети всегда делятся игрушками друг с другом.</answerNote>
+        </card>
+        <card>
+            <question>демократический</question>
+            <answer>Такой, где власть выбирают сами люди голосованием.</answer>
+            <answerNote>Он победил в ходе демократических выборов и стал президентом.</answerNote>
+        </card>
+        <card>
+            <question>демонстрация</question>
+            <answer>Когда много людей выходят на улицу вместе, чтобы показать, чего они хотят. Ещё так называют показ чего-то другим.</answer>
+            <answerNote>По всей стране прошли демонстрации против коррупции.</answerNote>
+        </card>
+        <card>
+            <question>деревянный</question>
+            <answer>Сделанный из дерева.</answer>
+            <answerNote>Дома они установили деревянную лестницу.</answerNote>
+        </card>
+        <card>
+            <question>детектив</question>
+            <answer>Книга или фильм про поиск преступника. Ещё так называют человека, который ищет преступников.</answer>
+            <answerNote>Его сестра — большая любительница детективов.</answerNote>
+        </card>
+        <card>
+            <question>деятель</question>
+            <answer>Известный человек, который много работает в науке, искусстве или политике.</answer>
+            <answerNote>На приёме у президента собралось много деятелей культуры.</answerNote>
+        </card>
+        <card>
+            <question>джинсы</question>
+            <answer>Штаны из плотной ткани, чаще всего синие.</answer>
+            <answerNote>Марина всегда ходит в джинсах.</answerNote>
+        </card>
+        <card>
+            <question>диск</question>
+            <answer>Плоский круглый предмет. Так называют круглые пластинки, на которых хранят музыку, фильмы и файлы.</answer>
+            <answerNote>Он увидел на полке коллекцию дисков с музыкой.</answerNote>
+        </card>
+        <card>
+            <question>дискета</question>
+            <answer>Маленькая квадратная штука, на которую раньше записывали файлы. Сейчас её не используют.</answer>
+            <answerNote>Раньше файлы носили на дискете.</answerNote>
+        </card>
+        <card>
+            <question>дискуссия</question>
+            <answer>Разговор, в котором люди спорят и обсуждают важный вопрос.</answer>
+            <answerNote>Вскоре обычный разговор превратился в бурную дискуссию.</answerNote>
+        </card>
+        <card>
+            <question>диссертация</question>
+            <answer>Большая научная работа, которую пишет учёный, чтобы получить звание.</answer>
+            <answerNote>Какая тема Вашей диссертации?</answerNote>
+        </card>
+        <card>
+            <question>длина</question>
+            <answer>Сколько сантиметров или метров от одного конца предмета до другого.</answer>
+            <answerNote>Олимпийский бассейн — пятьдесят метров в длину.</answerNote>
+        </card>
+        <card>
+            <question>добавлять</question>
+            <answer>Класть ещё немного к тому, что уже есть.</answer>
+            <answerNote>Саша никогда не добавляет сахар в чай.</answerNote>
+        </card>
+        <card>
+            <question>добиваться</question>
+            <answer>Долго стараться и получать то, что хочешь.</answer>
+            <answerNote>Он привык всего добиваться сам.</answerNote>
+        </card>
+        <card>
+            <question>доброта</question>
+            <answer>Качество человека, который жалеет других и помогает им.</answer>
+            <answerNote>Валя ценила в людях доброту и ответственность.</answerNote>
+        </card>
+        <card>
+            <question>договариваться</question>
+            <answer>Поговорить с человеком и вместе решить, как сделать.</answer>
+            <answerNote>Умение договариваться — очень важный навык в бизнесе.</answerNote>
+        </card>
+        <card>
+            <question>док</question>
+            <answer>Место у воды, где строят и чинят корабли.</answer>
+            <answerNote>Дом стоял рядом с заливом, за доком.</answerNote>
+        </card>
+        <card>
+            <question>доклад</question>
+            <answer>Рассказ перед людьми о том, что человек узнал или изучил. Ещё так называют такой текст.</answer>
+            <answerNote>Авторы представили совместный доклад на конференции.</answerNote>
+        </card>
+        <card>
+            <question>документальный</question>
+            <answer>Такой фильм или книга, где показывают настоящую жизнь, а не выдумку.</answer>
+            <answerNote>Вы уже посмотрели новый документальный фильм этого режиссёра?</answerNote>
+        </card>
+        <card>
+            <question>долгий</question>
+            <answer>Такой, который длится много времени.</answer>
+            <answerNote>Впервые за долгое время Даша почувствовала себя счастливой.</answerNote>
+        </card>
+        <card>
+            <question>доска</question>
+            <answer>Плоский длинный кусок дерева. Ещё так называют чёрную или белую стену в классе, на которой пишут.</answer>
+            <answerNote>Новый забор был построен из досок.</answerNote>
+        </card>
+        <card>
+            <question>достигать</question>
+            <answer>Доходить до какого-то размера или получать то, к чему шёл.</answer>
+            <answerNote>Китовая акула достигает двенадцати метров в длину.</answerNote>
+        </card>
+        <card>
+            <question>достижение</question>
+            <answer>Хороший результат, которого человек добился своим трудом.</answer>
+            <answerNote>Список её достижений был огромен!</answerNote>
+        </card>
+        <card>
+            <question>доходить</question>
+            <answer>Идти пешком и добираться до нужного места.</answer>
+            <answerNote>Обычно он доходит до работы пешком.</answerNote>
+        </card>
+        <card>
+            <question>дочка</question>
+            <answer>Девочка по отношению к своим родителям (ласково).</answer>
+            <answerNote>Моя дочка ходит в детский сад.</answerNote>
+        </card>
+        <card>
+            <question>драма</question>
+            <answer>Серьёзная пьеса или фильм про тяжёлые события в жизни людей.</answer>
+            <answerNote>Его новый фильм — психологическая драма.</answerNote>
+        </card>
+        <card>
+            <question>древний</question>
+            <answer>Очень-очень старый, живший или сделанный тысячи лет назад.</answer>
+            <answerNote>Мои дети любят читать мифы Древней Греции.</answerNote>
+        </card>
+        <card>
+            <question>дружеский</question>
+            <answer>Тёплый и добрый, как между близкими людьми.</answer>
+            <answerNote>Разговор прошёл в дружеской атмосфере.</answerNote>
+        </card>
+        <card>
+            <question>дружить</question>
+            <answer>Быть близкими людьми, часто общаться и помогать друг другу.</answer>
+            <answerNote>Камилла и Ярослав дружат с детства.</answerNote>
+        </card>
+        <card>
+            <question>дуть</question>
+            <answer>Гнать воздух ртом. Так же говорят про ветер.</answer>
+            <answerNote>Из окна дул холодный ветер.</answerNote>
+        </card>
+        <card>
+            <question>душа</question>
+            <answer>Внутренний мир человека: его чувства и мысли. Её нельзя увидеть.</answer>
+            <answerNote>Он понимал, что его ждёт провал, но в душе надеялся на везение.</answerNote>
+        </card>
+        <card>
+            <question>дышать</question>
+            <answer>Втягивать воздух в себя и выпускать обратно.</answer>
+            <answerNote>Мы забрались так высоко в горы, что даже дышать было тяжело.</answerNote>
+        </card>
+        <card>
+            <question>единый</question>
+            <answer>Один и тот же для всех, общий.</answer>
+            <answerNote>Страны союза предложили ввести единую валюту.</answerNote>
+        </card>
+        <card>
+            <question>ежегодный</question>
+            <answer>Такой, который бывает каждый год.</answer>
+            <answerNote>На ежегодную конференцию собрались лучшие учёные.</answerNote>
+        </card>
+        <card>
+            <question>ежедневный</question>
+            <answer>Такой, который бывает каждый день.</answer>
+            <answerNote>Мы так устали от ежедневных совещаний!</answerNote>
+        </card>
+        <card>
+            <question>естественный</question>
+            <answer>Такой, какой бывает сам в природе, без вмешательства людей. Ещё — обычный, нормальный.</answer>
+            <answerNote>Дарвин считал, что естественный отбор — движущая сила эволюции.</answerNote>
+        </card>
+        <card>
+            <question>жареный</question>
+            <answer>Приготовленный на сковороде в масле.</answer>
+            <answerNote>На обед была картошка с жареными грибами.</answerNote>
+        </card>
+        <card>
+            <question>жарить</question>
+            <answer>Готовить еду на сковороде в горячем масле.</answer>
+            <answerNote>Его бабушка жарила самую вкусную картошку.</answerNote>
+        </card>
+        <card>
+            <question>железный</question>
+            <answer>Сделанный из твёрдого серого металла.</answer>
+            <answerNote>Тяжёлые железные ворота со скрипом закрылись.</answerNote>
+        </card>
+        <card>
+            <question>желудок</question>
+            <answer>Орган внутри живота, куда попадает съеденная пища.</answer>
+            <answerNote>У Паши часто болит желудок.</answerNote>
+        </card>
+        <card>
+            <question>жених</question>
+            <answer>Мужчина в день свадьбы или тот, кто скоро возьмёт себе жену.</answer>
+            <answerNote>Все гости уже собрались, но жениха ещё не было.</answerNote>
+        </card>
+        <card>
+            <question>жестокий</question>
+            <answer>Такой, кто делает больно другим и не жалеет их.</answer>
+            <answerNote>В природе часто идёт жестокая борьба за выживание.</answerNote>
+        </card>
+        <card>
+            <question>живот</question>
+            <answer>Часть тела спереди, ниже груди.</answer>
+            <answerNote>Он пожаловался на боль в животе.</answerNote>
+        </card>
+        <card>
+            <question>заболевать</question>
+            <answer>Становиться больным.</answer>
+            <answerNote>Никита почувствовал, что заболевает.</answerNote>
+        </card>
+        <card>
+            <question>заботиться</question>
+            <answer>Делать так, чтобы кому-то было хорошо: кормить, помогать, следить за здоровьем.</answer>
+            <answerNote>Мама заботится о нас, когда мы болеем.</answerNote>
+        </card>
+        <card>
+            <question>загадка</question>
+            <answer>Хитрый вопрос, на который надо догадаться. Ещё: то, что непонятно и хочется разгадать.</answer>
+            <answerNote>В этой книжке больше тысячи загадок по разным темам.</answerNote>
+        </card>
+        <card>
+            <question>загорать</question>
+            <answer>Лежать на солнце, чтобы кожа стала темнее.</answer>
+            <answerNote>Вчера она весь день провела у озера: загорала, плавала, читала книжку.</answerNote>
+        </card>
+        <card>
+            <question>зайти</question>
+            <answer>Войти внутрь ненадолго или по пути.</answer>
+            <answerNote>По пути домой Ваня зашёл в магазин.</answerNote>
+        </card>
+        <card>
+            <question>заказ</question>
+            <answer>Просьба принести или сделать то, что тебе нужно, за деньги.</answer>
+            <answerNote>Их фирма принимает заказы на изготовление мебели.</answerNote>
+        </card>
+        <card>
+            <question>заканчиваться</question>
+            <answer>Подходить к концу; когда чего-то больше не остаётся.</answer>
+            <answerNote>У нас заканчивается сахар, надо не забыть купить.</answerNote>
+        </card>
+        <card>
+            <question>закричать</question>
+            <answer>Вдруг громко сказать или издать громкий звук.</answer>
+            <answerNote>Оказавшись в темноте, дети закричали от страха.</answerNote>
+        </card>
+        <card>
+            <question>закрываться</question>
+            <answer>Переставать быть открытым.</answer>
+            <answerNote>Осторожно, двери закрываются!</answerNote>
+        </card>
+        <card>
+            <question>закуривать</question>
+            <answer>Начинать курить сигарету.</answer>
+            <answerNote>Проходит пять минут, и Марк закуривает ещё одну сигарету.</answerNote>
+        </card>
+        <card>
+            <question>закуска</question>
+            <answer>Небольшая еда перед главным блюдом: салат, бутерброды, сыр.</answer>
+            <answerNote>Когда мы пришли, закуска уже стояла на столе.</answerNote>
+        </card>
+        <card>
+            <question>заменять</question>
+            <answer>Ставить одно вместо другого или делать работу вместо кого-то.</answer>
+            <answerNote>Я сейчас заменяю коллегу, пока она в отпуске.</answerNote>
+        </card>
+        <card>
+            <question>замолчать</question>
+            <answer>Перестать говорить, стать тихим.</answer>
+            <answerNote>Все замолчали от резкого хлопка.</answerNote>
+        </card>
+        <card>
+            <question>записка</question>
+            <answer>Короткое письмо на маленьком листке бумаги.</answer>
+            <answerNote>Перед уходом на работу жена оставила мне записку на столе.</answerNote>
+        </card>
+        <card>
+            <question>записывать</question>
+            <answer>Писать что-то на бумаге, чтобы не забыть.</answer>
+            <answerNote>На лекции они подробно записывали слова профессора.</answerNote>
+        </card>
+        <card>
+            <question>заплакать</question>
+            <answer>Начать плакать, когда больно или грустно.</answer>
+            <answerNote>Мальчик ударил руку и заплакал.</answerNote>
+        </card>
+        <card>
+            <question>запрещать</question>
+            <answer>Говорить, что так делать нельзя.</answer>
+            <answerNote>Она ничего не запрещает своим детям.</answerNote>
+        </card>
+        <card>
+            <question>зарплата</question>
+            <answer>Деньги, которые человек получает за работу каждый месяц.</answer>
+            <answerNote>Он уже второй месяц работает без зарплаты.</answerNote>
+        </card>
+        <card>
+            <question>зарубежный</question>
+            <answer>Из другой страны.</answer>
+            <answerNote>Какие зарубежные банки существуют в России?</answerNote>
+        </card>
+        <card>
+            <question>засмеяться</question>
+            <answer>Начать смеяться.</answer>
+            <answerNote>Катя засмеялась, услышав шутку Кирилла.</answerNote>
+        </card>
+        <card>
+            <question>заходить</question>
+            <answer>Входить куда-то ненадолго или по пути.</answer>
+            <answerNote>Лена часто заходит к Наташе в гости.</answerNote>
+        </card>
+        <card>
+            <question>захотеть</question>
+            <answer>Почувствовать желание сделать или получить что-то.</answer>
+            <answerNote>Артём не захотел идти с нами на каток.</answerNote>
+        </card>
+        <card>
+            <question>зачёт</question>
+            <answer>Проверка в университете: студент отвечает, и ему пишут «сдал» или «не сдал».</answer>
+            <answerNote>Мне нужно сдать зачёт по экономике.</answerNote>
+        </card>
+        <card>
+            <question>защищать</question>
+            <answer>Не давать кого-то обидеть, беречь от опасности.</answer>
+            <answerNote>Он подрался, когда защищал девушку в клубе.</answerNote>
+        </card>
+        <card>
+            <question>заявление</question>
+            <answer>Бумага с просьбой к начальству. Ещё: то, что человек громко сказал всем.</answer>
+            <answerNote>Я хочу написать заявление об уходе с работы.</answerNote>
+        </card>
+        <card>
+            <question>заяц</question>
+            <answer>Небольшой зверёк с длинными ушами, который живёт в лесу и быстро бегает.</answer>
+            <answerNote>Мы зашли в лес и увидели, что под кустом сидит заяц.</answerNote>
+        </card>
+        <card>
+            <question>заём</question>
+            <answer>Деньги, которые взяли в долг и обещали вернуть.</answer>
+            <answerNote>Они взяли в банке заём на покупку машины.</answerNote>
+        </card>
+        <card>
+            <question>звезда</question>
+            <answer>Маленький светлый огонёк на ночном небе. На самом деле это огромное далёкое солнце.</answer>
+            <answerNote>В ясную ночь на небе видны тысячи звёзд.</answerNote>
+        </card>
+        <card>
+            <question>зверь</question>
+            <answer>Дикое животное с шерстью и четырьмя лапами: волк, медведь, лиса.</answer>
+            <answerNote>Почему льва называют царём зверей?</answerNote>
+        </card>
+        <card>
+            <question>здороваться</question>
+            <answer>Говорить «привет» или «здравствуйте» при встрече.</answer>
+            <answerNote>Я всегда здороваюсь первым.</answerNote>
+        </card>
+        <card>
+            <question>землетрясение</question>
+            <answer>Когда земля вдруг сильно трясётся и дома могут упасть.</answer>
+            <answerNote>В результате землетрясения обрушились сотни зданий.</answerNote>
+        </card>
+        <card>
+            <question>знакомить</question>
+            <answer>Сводить людей вместе в первый раз и называть их имена. Ещё: показывать кому-то что-то новое.</answer>
+            <answerNote>Мама познакомила меня с новым соседом.</answerNote>
+        </card>
+        <card>
+            <question>знаменитый</question>
+            <answer>Такой, о котором слышали очень многие люди.</answer>
+            <answerNote>На вечере собралось много знаменитых актёров.</answerNote>
+        </card>
+        <card>
+            <question>знание</question>
+            <answer>То, что человек выучил и держит в голове.</answer>
+            <answerNote>Для этой должности не требуется знания экономики.</answerNote>
+        </card>
+        <card>
+            <question>зрение</question>
+            <answer>Способность видеть глазами.</answer>
+            <answerNote>У бабушки плохое зрение, она носит очки.</answerNote>
+        </card>
+        <card>
+            <question>зритель</question>
+            <answer>Человек, который смотрит кино, спектакль или матч.</answer>
+            <answerNote>Все зрители уже собрались в зале.</answerNote>
+        </card>
+        <card>
+            <question>зубной</question>
+            <answer>Связанный с тем, чем мы жуём: паста, щётка, врач.</answer>
+            <answerNote>Не забудь купить в магазине зубную пасту.</answerNote>
+        </card>
+        <card>
+            <question>идея</question>
+            <answer>Мысль о том, что можно сделать.</answer>
+            <answerNote>Я считаю, что это замечательная идея!</answerNote>
+        </card>
+        <card>
+            <question>изменяться</question>
+            <answer>Становиться другим.</answer>
+            <answerNote>Погода в горах изменяется очень быстро.</answerNote>
+        </card>
+        <card>
+            <question>изображать</question>
+            <answer>Показывать кого-то или что-то — на рисунке или своей игрой.</answer>
+            <answerNote>Мой сын берёт фен, как микрофон, и изображает, что поёт на сцене.</answerNote>
+        </card>
+        <card>
+            <question>изучение</question>
+            <answer>Когда человек долго узнаёт что-то новое, чтобы понять это как следует.</answer>
+            <answerNote>Он посвятил всю свою жизнь изучению микроорганизмов.</answerNote>
+        </card>
+        <card>
+            <question>именительный</question>
+            <answer>Так называют главную форму слова — ту, которая стоит в словаре. Отвечает на вопрос «кто?» или «что?».</answer>
+            <answerNote>Подлежащее обычно стоит в именительном падеже.</answerNote>
+        </card>
+        <card>
+            <question>иметь</question>
+            <answer>Когда у тебя что-то есть.</answer>
+            <answerNote>Он считал, что внешность не имеет значения. Важнее, какой человек по характеру.</answerNote>
+        </card>
+        <card>
+            <question>императив</question>
+            <answer>Строгое правило, которое надо выполнять. Ещё так называют форму слова, которой просят или приказывают: «иди», «читай».</answer>
+            <answerNote>Иммануил Кант ― создатель категорического императива.</answerNote>
+        </card>
+        <card>
+            <question>импорт</question>
+            <answer>Когда товары привозят из другой страны и продают здесь.</answer>
+            <answerNote>С 2014 года в России запрещён импорт мяса из ЕС.</answerNote>
+        </card>
+        <card>
+            <question>интересовать</question>
+            <answer>Быть таким, что человеку хочется об этом узнать.</answer>
+            <answerNote>Меня не интересует, чем ты был занят. Ты не выполнил свои обещания!</answerNote>
+        </card>
+        <card>
+            <question>интернациональный</question>
+            <answer>Общий для многих стран и народов.</answer>
+            <answerNote>Английский в последние десятилетия — интернациональный язык общения.</answerNote>
+        </card>
+        <card>
+            <question>интонация</question>
+            <answer>Как звучит голос, когда человек говорит: весело, сердито или удивлённо.</answer>
+            <answerNote>Она сказала это с удивлённой интонацией.</answerNote>
+        </card>
+        <card>
+            <question>информация</question>
+            <answer>Сведения о чём-то: что где происходит, как что устроено.</answer>
+            <answerNote>С появлением интернета поиск информации стал значительно легче.</answerNote>
+        </card>
+        <card>
+            <question>исполняться</question>
+            <answer>Становиться правдой, сбываться. Ещё говорят про возраст: сколько лет стало.</answer>
+            <answerNote>Я желаю вам счастья и любви! И пусть исполняются все желания!</answerNote>
+        </card>
+        <card>
+            <question>использовать</question>
+            <answer>Брать вещь и делать ею то, для чего она нужна.</answer>
+            <answerNote>В качестве строительного материала на Руси использовали дерево.</answerNote>
+        </card>
+        <card>
+            <question>исправлять</question>
+            <answer>Убирать ошибку, делать правильно.</answer>
+            <answerNote>Учителя в нашей школе не исправляют ошибки, а только указывают на них.</answerNote>
+        </card>
+        <card>
+            <question>исследование</question>
+            <answer>Долгая работа учёных, которые хотят узнать, как что-то устроено.</answer>
+            <answerNote>Что показали результаты исследования?</answerNote>
+        </card>
+        <card>
+            <question>кавычка</question>
+            <answer>Значок в тексте. Такие значки ставят с двух сторон, когда пишут чужие слова или название.</answer>
+            <answerNote>Название книги надо писать в кавычках.</answerNote>
+        </card>
+        <card>
+            <question>календарь</question>
+            <answer>Таблица со всеми днями и месяцами года. По ней смотрят, какое сегодня число.</answer>
+            <answerNote>Он посмотрел на стену: календарь показывал первое февраля.</answerNote>
+        </card>
+        <card>
+            <question>каменный</question>
+            <answer>Сделанный из твёрдых серых кусков, которые лежат в горах и в земле.</answer>
+            <answerNote>Они поселились в большом каменном доме.</answerNote>
+        </card>
+        <card>
+            <question>камень</question>
+            <answer>Твёрдый тяжёлый кусок горной породы. Из него строят дома.</answer>
+            <answerNote>Эта стена сделана из камня.</answerNote>
+        </card>
+        <card>
+            <question>капуста</question>
+            <answer>Овощ круглой формы из плотных белых или зелёных листьев.</answer>
+            <answerNote>Жена попросила меня купить капусту для супа.</answerNote>
+        </card>
+        <card>
+            <question>карточка</question>
+            <answer>Плоская пластинка из банка, которой платят в магазине.</answer>
+            <answerNote>Где моя карточка? Неужели я опять её забыл?</answerNote>
+        </card>
+        <card>
+            <question>кассир</question>
+            <answer>Работник магазина, который берёт деньги за покупки.</answer>
+            <answerNote>Почему в магазине работает только один кассир? Смотрите, какая очередь в кассу!</answerNote>
+        </card>
+        <card>
+            <question>катание</question>
+            <answer>Когда едешь для удовольствия: на коньках, на лыжах или на велосипеде.</answer>
+            <answerNote>Ирину называли королевой фигурного катания.</answerNote>
+        </card>
+        <card>
+            <question>катастрофа</question>
+            <answer>Очень страшный случай, когда многое ломается и люди страдают.</answer>
+            <answerNote>По его словам, расследование причин катастрофы вертолёта продолжается.</answerNote>
+        </card>
+        <card>
+            <question>кататься</question>
+            <answer>Ехать для удовольствия на велосипеде, лыжах или коньках.</answer>
+            <answerNote>Мы часто катались в этом лесу на велосипеде.</answerNote>
+        </card>
+        <card>
+            <question>кафедра</question>
+            <answer>Часть университета, где работают учителя одного предмета.</answer>
+            <answerNote>Кафедру возглавляет профессор Петров.</answerNote>
+        </card>
+        <card>
+            <question>кашель</question>
+            <answer>Резкие громкие звуки из горла, когда человек болеет или подавился.</answer>
+            <answerNote>Она забыла купить таблетки от кашля.</answerNote>
+        </card>
+        <card>
+            <question>кефир</question>
+            <answer>Кислый белый напиток из молока.</answer>
+            <answerNote>У нас закончился кефир. Купи, когда пойдёшь в магазин.</answerNote>
+        </card>
+        <card>
+            <question>кислый</question>
+            <answer>Такой на вкус, как лимон.</answer>
+            <answerNote>Мы купили два килограмма яблок, но они оказались слишком кислыми.</answerNote>
+        </card>
+        <card>
+            <question>классический</question>
+            <answer>Старый и всеми признанный, самый обычный и правильный пример чего-то.</answer>
+            <answerNote>Раньше Оля часто бывала на концертах классической музыки.</answerNote>
+        </card>
+        <card>
+            <question>ковер</question>
+            <answer>Толстая мягкая ткань на пол. По ней тепло ходить.</answer>
+            <answerNote>Костя пролил кофе на ковёр.</answerNote>
+        </card>
+        <card>
+            <question>коллега</question>
+            <answer>Человек, который работает вместе с тобой.</answer>
+            <answerNote>Я думаю, мой коллега ошибается в этом вопросе.</answerNote>
+        </card>
+        <card>
+            <question>колледж</question>
+            <answer>Место учёбы после школы, где получают профессию.</answer>
+            <answerNote>Их сын учится в колледже на повара.</answerNote>
+        </card>
+        <card>
+            <question>коллекция</question>
+            <answer>Много вещей одного вида, которые человек собрал вместе.</answer>
+            <answerNote>Найденные экспонаты перешли в коллекцию Лувра.</answerNote>
+        </card>
+        <card>
+            <question>кольцо</question>
+            <answer>Круглое украшение, которое носят на пальце.</answer>
+            <answerNote>Она осмотрела все столы и полки, но кольца нигде не было.</answerNote>
+        </card>
+        <card>
+            <question>командировка</question>
+            <answer>Поездка по работе в другой город или страну.</answer>
+            <answerNote>Он только вернулся из отпуска и сразу поехал в командировку.</answerNote>
+        </card>
+        <card>
+            <question>конкурс</question>
+            <answer>Соревнование, где выбирают лучшего и дают ему приз.</answer>
+            <answerNote>Объявлены результаты конкурса рисунков. Наш сын выиграл!</answerNote>
+        </card>
+        <card>
+            <question>консерватория</question>
+            <answer>Институт, где учат играть на инструментах и петь.</answer>
+            <answerNote>После школы Анна решила поступать в консерваторию.</answerNote>
+        </card>
+        <card>
+            <question>конспектировать</question>
+            <answer>Коротко записывать самое главное из того, что слышишь или читаешь.</answer>
+            <answerNote>Почему ты не конспектируешь лекцию? Ты думаешь, что ты всё запомнишь?</answerNote>
+        </card>
+        <card>
+            <question>конституция</question>
+            <answer>Главный закон страны. В нём написаны основные правила для всех.</answer>
+            <answerNote>Двенадцатое декабря в России — День Конституции.</answerNote>
+        </card>
+        <card>
+            <question>консультация</question>
+            <answer>Встреча со знающим человеком, чтобы получить совет или помощь.</answer>
+            <answerNote>На следующую пятницу Андрей записался на консультацию к врачу.</answerNote>
+        </card>
+        <card>
+            <question>контрольный</question>
+            <answer>Такой, который нужен для проверки. Например, работа в школе на оценку.</answer>
+            <answerNote>На контрольной работе запрещается пользоваться мобильными телефонами.</answerNote>
+        </card>
+        <card>
+            <question>конференция</question>
+            <answer>Большая встреча, где люди рассказывают друг другу о своей работе.</answer>
+            <answerNote>Его часто приглашали выступать на конференциях.</answerNote>
+        </card>
+        <card>
+            <question>конёк</question>
+            <answer>Ботинок с узким лезвием внизу. В таких катаются по льду.</answer>
+            <answerNote>Мы пришли на каток, но в прокате не было коньков подходящего размера.</answerNote>
+        </card>
+        <card>
+            <question>корень</question>
+            <answer>Часть растения под землёй. Держит его и берёт из земли воду.</answer>
+            <answerNote>Эта жидкость ускоряет рост корней у растений.</answerNote>
+        </card>
+        <card>
+            <question>кормить</question>
+            <answer>Давать еду тому, кто сам не может взять: ребёнку или животному.</answer>
+            <answerNote>Коля кормит свою собаку четыре раза в день.</answerNote>
+        </card>
+        <card>
+            <question>коробка</question>
+            <answer>Ящик из картона или другого материала. В него складывают вещи.</answer>
+            <answerNote>Он достал с полки тяжёлую коробку и поставил её на стол.</answerNote>
+        </card>
+        <card>
+            <question>коробок</question>
+            <answer>Маленькая картонная коробочка для спичек.</answer>
+            <answerNote>Купи, пожалуйста, коробок спичек, когда пойдёшь в магазин.</answerNote>
+        </card>
+        <card>
+            <question>корова</question>
+            <answer>Большое домашнее животное с рогами. Даёт молоко.</answer>
+            <answerNote>Сколько молока даёт одна корова в день?</answerNote>
+        </card>
+        <card>
+            <question>корпус</question>
+            <answer>Одно из зданий, когда их несколько рядом и они относятся к одному месту.</answer>
+            <answerNote>По субботам мы учимся в другом корпусе университета.</answerNote>
+        </card>
+        <card>
+            <question>кот</question>
+            <answer>Домашнее животное с усами и хвостом, мяукает и ловит мышей. Самец.</answer>
+            <answerNote>Саша и Маша завели у себя дома кота.</answerNote>
+        </card>
+        <card>
+            <question>котлета</question>
+            <answer>Кусок мясного фарша круглой формы, который жарят на сковороде.</answer>
+            <answerNote>На ужин Надя приготовила пюре с котлетами.</answerNote>
+        </card>
+        <card>
+            <question>кошелек</question>
+            <answer>Маленькая сумочка для денег и карточек.</answer>
+            <answerNote>Кажется, я потерял свой кошелёк.</answerNote>
+        </card>
+        <card>
+            <question>краткий</question>
+            <answer>Очень короткий, где сказано только самое главное.</answer>
+            <answerNote>Ты читал краткое содержание этого романа?</answerNote>
+        </card>
+        <card>
+            <question>кредитный</question>
+            <answer>Связанный с деньгами, взятыми в долг у банка.</answer>
+            <answerNote>Здесь можно платить кредитными карточками?</answerNote>
+        </card>
+        <card>
+            <question>Кремль</question>
+            <answer>Старая крепость в центре Москвы с высокими красными стенами. Там работает главный человек страны.</answer>
+            <answerNote>Московский Кремль был построен в пятнадцатом веке.</answerNote>
+        </card>
+        <card>
+            <question>крепкий</question>
+            <answer>Сильный и прочный, такой, который трудно сломать.</answer>
+            <answerNote>Николай – человек с крепкими нервами.</answerNote>
+        </card>
+        <card>
+            <question>крестьянин</question>
+            <answer>Человек, который раньше жил в деревне и работал на земле.</answer>
+            <answerNote>До революции крестьянам приходилось нелегко.</answerNote>
+        </card>
+        <card>
+            <question>кризис</question>
+            <answer>Трудное время, когда всё идёт плохо и надо срочно что-то менять.</answer>
+            <answerNote>Экономисты уже разрабатывают план выхода из кризиса.</answerNote>
+        </card>
+        <card>
+            <question>крикнуть</question>
+            <answer>Один раз громко сказать что-то во весь голос.</answer>
+            <answerNote>Я попытался незаметно уйти, но мама заметила и крикнула: "Ты куда?".</answerNote>
+        </card>
+        <card>
+            <question>критиковать</question>
+            <answer>Говорить, что в чём-то плохо и что сделано неправильно.</answer>
+            <answerNote>Ваня часто критикует фильмы, которые ему не нравятся.</answerNote>
+        </card>
+        <card>
+            <question>кричать</question>
+            <answer>Говорить очень громко, во весь голос.</answer>
+            <answerNote>Ты слышишь? Кто-то кричит!</answerNote>
+        </card>
+        <card>
+            <question>кровь</question>
+            <answer>Красная жидкость внутри тела. Она течёт из ранки, если порезаться.</answer>
+            <answerNote>У тебя идёт кровь из носа!</answerNote>
+        </card>
+        <card>
+            <question>кроссовка</question>
+            <answer>Лёгкая мягкая обувь для спорта и ходьбы.</answer>
+            <answerNote>Я специально выбрал лёгкие кроссовки для бега.</answerNote>
+        </card>
+        <card>
+            <question>кроссовок</question>
+            <answer>Лёгкая мягкая обувь для спорта и ходьбы.</answer>
+            <answerNote>Недавно я купил белые кроссовки фирмы "Nike".</answerNote>
+        </card>
+        <card>
+            <question>крупный</question>
+            <answer>Большой по размеру или по значению.</answer>
+            <answerNote>На афише крупными буквами было написано название спектакля.</answerNote>
+        </card>
+        <card>
+            <question>крыша</question>
+            <answer>Верхняя часть дома. Она защищает от дождя и снега.</answer>
+            <answerNote>С этой крыши открывается красивый вид на город.</answerNote>
+        </card>
+        <card>
+            <question>купаться</question>
+            <answer>Быть в воде: в море, реке или ванне, чтобы плавать или мыться.</answer>
+            <answerNote>Я люблю купаться в море.</answerNote>
+        </card>
+        <card>
+            <question>лаборатория</question>
+            <answer>Комната с приборами, где учёные делают опыты.</answer>
+            <answerNote>Мой дедушка был химиком и работал в лаборатории.</answerNote>
+        </card>
+        <card>
+            <question>лексика</question>
+            <answer>Все слова языка, их запас.</answer>
+            <answerNote>Лексика – это множество всех слов языка.</answerNote>
+        </card>
+        <card>
+            <question>лечить</question>
+            <answer>Помогать больному человеку стать здоровым.</answer>
+            <answerNote>В этой больнице хорошо лечат.</answerNote>
+        </card>
+        <card>
+            <question>лингвистика</question>
+            <answer>Наука о языках: как они устроены и как меняются.</answer>
+            <answerNote>Закончив школу, он решил изучать лингвистику в университете.</answerNote>
+        </card>
+        <card>
+            <question>лист</question>
+            <answer>Зелёная плоская часть дерева или травы. Осенью желтеет и падает.</answer>
+            <answerNote>Я люблю осень и разноцветные листья на деревьях.</answerNote>
+        </card>
+        <card>
+            <question>литературный</question>
+            <answer>Связанный с книгами, рассказами и стихами.</answer>
+            <answerNote>Это Евгений, известный литературный критик.</answerNote>
+        </card>
+        <card>
+            <question>личный</question>
+            <answer>Который принадлежит одному человеку и касается только его.</answer>
+            <answerNote>Это моё личное мнение, не обижайтесь.</answerNote>
+        </card>
+        <card>
+            <question>лишний</question>
+            <answer>Такой, который не нужен, его больше, чем надо.</answer>
+            <answerNote>Он не сказал ни одного лишнего слова.</answerNote>
+        </card>
+        <card>
+            <question>ловить</question>
+            <answer>Стараться схватить или поймать того, кто убегает или движется.</answer>
+            <answerNote>В детстве мы с папой часто ездили ловить рыбу.</answerNote>
+        </card>
+        <card>
+            <question>лодка</question>
+            <answer>Маленькое судно, на котором плавают по воде на вёслах или с мотором.</answer>
+            <answerNote>У берега стояла старая деревянная лодка.</answerNote>
+        </card>
+        <card>
+            <question>ложа</question>
+            <answer>Отдельное место в театре для нескольких зрителей, сбоку или наверху.</answer>
+            <answerNote>Мы купили билеты на спектакль в ложу.</answerNote>
+        </card>
+        <card>
+            <question>ложиться</question>
+            <answer>Опускать тело на кровать или на пол, чтобы отдыхать или спать.</answer>
+            <answerNote>Ложись спать, завтра нужно рано вставать!</answerNote>
+        </card>
+        <card>
+            <question>ломать</question>
+            <answer>Делать так, что вещь разбивается на части или перестаёт работать.</answer>
+            <answerNote>Не ломай игрушку, она ещё нужна.</answerNote>
+        </card>
+        <card>
+            <question>лошадь</question>
+            <answer>Большое животное с гривой и хвостом. На нём ездят верхом.</answer>
+            <answerNote>Лошади – это очень умные животные.</answerNote>
+        </card>
+        <card>
+            <question>лук</question>
+            <answer>Круглый овощ с острым вкусом, от него плачут глаза. Ещё так называют старое оружие, из которого стреляют стрелами.</answer>
+            <answerNote>Я буду суп без лука.</answerNote>
+        </card>
+        <card>
+            <question>любой</question>
+            <answer>Какой угодно, всё равно какой.</answer>
+            <answerNote>Я люблю гулять на улице в любую погоду.</answerNote>
+        </card>
+        <card>
+            <question>лёд</question>
+            <answer>Вода, которая стала твёрдой от холода.</answer>
+            <answerNote>Скоро наступит весна, уже начал таять лёд.</answerNote>
+        </card>
+        <card>
+            <question>лётчик</question>
+            <answer>Человек, который управляет самолётом.</answer>
+            <answerNote>Мой дедушка был военным лётчиком.</answerNote>
+        </card>
+        <card>
+            <question>маршрут</question>
+            <answer>Путь, по которому идут или едут от одного места к другому.</answer>
+            <answerNote>Поезд следует по маршруту Москва – Санкт-Петербург.</answerNote>
+        </card>
+        <card>
+            <question>мастер</question>
+            <answer>Человек, который очень хорошо умеет делать своё дело руками.</answer>
+            <answerNote>Мастер был доволен моей работой.</answerNote>
+        </card>
+        <card>
+            <question>матч</question>
+            <answer>Игра между двумя командами или спортсменами.</answer>
+            <answerNote>Мой отец любит смотреть матчи по телевизору.</answerNote>
+        </card>
+        <card>
+            <question>медведь</question>
+            <answer>Большой сильный лесной зверь с густой шерстью. Зимой он спит.</answer>
+            <answerNote>Зимой медведи впадают в спячку.</answerNote>
+        </card>
+        <card>
+            <question>мелодия</question>
+            <answer>Ряд звуков, которые красиво идут друг за другом. То, что можно напеть.</answer>
+            <answerNote>Кажется, я слышу знакомую мелодию.</answerNote>
+        </card>
+        <card>
+            <question>мент</question>
+            <answer>Простое, не очень вежливое слово: работник полиции.</answer>
+            <answerNote>Вчера менты были везде, потому что проходил футбольный матч.</answerNote>
+        </card>
+        <card>
+            <question>меньшинство</question>
+            <answer>Меньшая часть людей в группе.</answer>
+            <answerNote>Ничтожное меньшинство людей поддержало этого кандидата.</answerNote>
+        </card>
+        <card>
+            <question>мерить</question>
+            <answer>Узнавать, сколько чего-то: длину, вес, температуру.</answer>
+            <answerNote>Кажется, ты болен. Ты уже мерил температуру?</answerNote>
+        </card>
+        <card>
+            <question>металл</question>
+            <answer>Твёрдый блестящий материал: железо, золото, медь.</answer>
+            <answerNote>Маша любит украшения из драгоценных металлов.</answerNote>
+        </card>
+        <card>
+            <question>миллиард</question>
+            <answer>Очень большое число: тысяча миллионов.</answer>
+            <answerNote>На Земле живёт больше семи миллиардов человек.</answerNote>
+        </card>
+        <card>
+            <question>министр</question>
+            <answer>Главный человек в большой государственной организации страны.</answer>
+            <answerNote>Министр финансов представил план работы.</answerNote>
+        </card>
+        <card>
+            <question>мировой</question>
+            <answer>Такой, который касается всей планеты и всех стран.</answer>
+            <answerNote>Усэйн Болт – обладатель мирового рекорда в беге.</answerNote>
+        </card>
+        <card>
+            <question>митинг</question>
+            <answer>Встреча многих людей на улице, чтобы вместе сказать, чего они хотят.</answer>
+            <answerNote>Власти страны пытаются предотвратить массовые митинги.</answerNote>
+        </card>
+        <card>
+            <question>мнение</question>
+            <answer>То, что человек думает о чём-то.</answer>
+            <answerNote>Мнение большинства по этому вопросу отличается от моего.</answerNote>
+        </card>
+        <card>
+            <question>множественный</question>
+            <answer>Такой, которого много, не один.</answer>
+            <answerNote>Он попал в больницу с множественными травмами.</answerNote>
+        </card>
+        <card>
+            <question>мобильный</question>
+            <answer>Такой, который можно носить с собой.</answer>
+            <answerNote>Я недавно сделал приложение для мобильных телефонов.</answerNote>
+        </card>
+        <card>
+            <question>модель</question>
+            <answer>Маленькая копия вещи или упрощённая схема, которая показывает, как всё устроено.</answer>
+            <answerNote>В этом магазине представлено множество моделей одежды.</answerNote>
+        </card>
+        <card>
+            <question>мокрый</question>
+            <answer>Такой, на котором есть вода. Не сухой.</answer>
+            <answerNote>Петя подскользнулся и упал на мокрый асфальт.</answerNote>
+        </card>
+        <card>
+            <question>монета</question>
+            <answer>Круглые металлические деньги.</answer>
+            <answerNote>Это старинная серебряная монета.</answerNote>
+        </card>
+        <card>
+            <question>мороз</question>
+            <answer>Сильный холод на улице зимой, ниже нуля.</answer>
+            <answerNote>Завтра будет мороз, нужно тепло одеться.</answerNote>
+        </card>
+        <card>
+            <question>морской</question>
+            <answer>Связанный с большой солёной водой между землями.</answer>
+            <answerNote>Я люблю гулять вдоль морского берега.</answerNote>
+        </card>
+        <card>
+            <question>моряк</question>
+            <answer>Человек, который работает на корабле.</answer>
+            <answerNote>В детстве я хотел стать моряком.</answerNote>
+        </card>
+        <card>
+            <question>Москва</question>
+            <answer>Самый большой город России. Это её столица.</answer>
+            <answerNote>Через месяц они едут в Москву.</answerNote>
+        </card>
+        <card>
+            <question>мост</question>
+            <answer>Дорога, построенная над рекой или дорогой, чтобы можно было перейти.</answer>
+            <answerNote>Мы сели передохнуть возле моста.</answerNote>
+        </card>
+        <card>
+            <question>мужественный</question>
+            <answer>Смелый, не боится трудного и опасного.</answer>
+            <answerNote>На подвиги способны только смелые и мужественные люди.</answerNote>
+        </card>
+        <card>
+            <question>мужество</question>
+            <answer>Смелость, умение не бояться и делать трудное.</answer>
+            <answerNote>У меня не хватило мужества сказать это ей в лицо.</answerNote>
+        </card>
+        <card>
+            <question>мысль</question>
+            <answer>То, что человек подумал; идея в голове.</answer>
+            <answerNote>Эта мысль пришла ко мне внезапно.</answerNote>
+        </card>
+        <card>
+            <question>мыться</question>
+            <answer>Очищать своё тело водой и мылом.</answer>
+            <answerNote>Я пойду мыться, а потом приготовлю ужин.</answerNote>
+        </card>
+        <card>
+            <question>мюзикл</question>
+            <answer>Спектакль, где актёры много поют и танцуют.</answer>
+            <answerNote>Её любимый мюзикл — «Собор парижской Богоматери».</answerNote>
+        </card>
+        <card>
+            <question>наблюдать</question>
+            <answer>Внимательно смотреть на что-то долгое время.</answer>
+            <answerNote>Раньше я любил смотреть на небо и наблюдал за звёздами.</answerNote>
+        </card>
+        <card>
+            <question>навещать</question>
+            <answer>Приходить к кому-то в гости, чтобы увидеться.</answer>
+            <answerNote>Завтра мы идём навещать бабушку в больнице.</answerNote>
+        </card>
+        <card>
+            <question>наводить</question>
+            <answer>Направлять на что-то. Часто говорят «наводить порядок» — делать так, чтобы всё лежало на своих местах.</answer>
+            <answerNote>Я люблю наводить порядок в доме.</answerNote>
+        </card>
+        <card>
+            <question>награда</question>
+            <answer>Подарок, медаль или деньги, которые дают за хорошее дело или победу.</answer>
+            <answerNote>Он получил награду за победу на соревнованиях.</answerNote>
+        </card>
+        <card>
+            <question>надевать</question>
+            <answer>Класть на себя одежду или обувь.</answer>
+            <answerNote>Петя всегда очень медленно надевает ботинки.</answerNote>
+        </card>
+        <card>
+            <question>название</question>
+            <answer>Слово, которым зовут вещь, место, книгу или песню.</answer>
+            <answerNote>Это хорошее название для нашей команды!</answerNote>
+        </card>
+        <card>
+            <question>называть</question>
+            <answer>Давать кому-то или чему-то имя, говорить, кто это или что это.</answer>
+            <answerNote>Родители назвали сына Иваном.</answerNote>
+        </card>
+        <card>
+            <question>наклонение</question>
+            <answer>Форма глагола, которая показывает: это приказ, просьба или обычный рассказ.</answer>
+            <answerNote>Такая форма глагола называется повелительным наклонением.</answerNote>
+        </card>
+        <card>
+            <question>напечатать</question>
+            <answer>Сделать так, чтобы текст появился в книге, газете или на бумаге из принтера.</answer>
+            <answerNote>Редактор разрешил напечатать эту статью в журнале.</answerNote>
+        </card>
+        <card>
+            <question>напоминать</question>
+            <answer>Заставлять человека вспомнить о чём-то.</answer>
+            <answerNote>Эти фотографии напоминают мне о поездке.</answerNote>
+        </card>
+        <card>
+            <question>направление</question>
+            <answer>Сторона, куда кто-то идёт или смотрит.</answer>
+            <answerNote>Ветер резко изменил направление.</answerNote>
+        </card>
+        <card>
+            <question>население</question>
+            <answer>Все люди, которые живут в городе или стране.</answer>
+            <answerNote>Население города быстро растёт.</answerNote>
+        </card>
+        <card>
+            <question>насморк</question>
+            <answer>Когда нос заложен и из него течёт. Часто бывает при простуде.</answer>
+            <answerNote>У меня насморк, и я всё время чихаю.</answerNote>
+        </card>
+        <card>
+            <question>настроение</question>
+            <answer>То, как человек себя чувствует внутри: весело ему или грустно.</answer>
+            <answerNote>У меня сегодня такое хорошее настроение!</answerNote>
+        </card>
+        <card>
+            <question>наступать</question>
+            <answer>Начинаться, приходить — про время или время года.</answer>
+            <answerNote>Зимой темнота наступает рано.</answerNote>
+        </card>
+        <card>
+            <question>невеста</question>
+            <answer>Девушка, которая скоро выходит замуж.</answer>
+            <answerNote>Жених с невестой танцевали вальс.</answerNote>
+        </card>
+        <card>
+            <question>негде</question>
+            <answer>Нет такого места, где это можно сделать.</answer>
+            <answerNote>В комнате столько вещей, что негде сесть.</answerNote>
+        </card>
+        <card>
+            <question>независимость</question>
+            <answer>Когда человек или страна живёт сам по себе и никто им не командует.</answer>
+            <answerNote>Человеку важно сохранять свою независимость.</answerNote>
+        </card>
+        <card>
+            <question>некогда</question>
+            <answer>Нет свободного времени на что-то.</answer>
+            <answerNote>Мне сегодня некогда гулять, много уроков.</answerNote>
+        </card>
+        <card>
+            <question>некуда</question>
+            <answer>Нет такого места, куда можно пойти или что-то положить.</answer>
+            <answerNote>Шкаф полный, вещи класть некуда.</answerNote>
+        </card>
+        <card>
+            <question>необыкновенный</question>
+            <answer>Очень особенный, не такой, как все.</answer>
+            <answerNote>Он необыкновенный человек и талантливый музыкант!</answerNote>
+        </card>
+        <card>
+            <question>непрерывный</question>
+            <answer>Такой, который идёт всё время и не останавливается.</answer>
+            <answerNote>В центре города непрерывное движение машин.</answerNote>
+        </card>
+        <card>
+            <question>неприятность</question>
+            <answer>Плохой случай, из-за которого будут проблемы.</answer>
+            <answerNote>Будь осторожна, у тебя могут быть неприятности.</answerNote>
+        </card>
+        <card>
+            <question>нервный</question>
+            <answer>Тот, кто легко волнуется и злится. Ещё так говорят про клетки, по которым идут сигналы в теле.</answer>
+            <answerNote>Ты какая-то нервная сегодня, что-то случилось?</answerNote>
+        </card>
+        <card>
+            <question>несовершенный</question>
+            <answer>Не идеальный, с ошибками или недостатками.</answer>
+            <answerNote>Лучше сделать что-то несовершенным образом, чем не сделать совсем.</answerNote>
+        </card>
+        <card>
+            <question>нести</question>
+            <answer>Держать что-то и идти с этим.</answer>
+            <answerNote>Папа несёт тяжёлую сумку домой.</answerNote>
+        </card>
+        <card>
+            <question>несчастливый</question>
+            <answer>Такой, у кого или с которым всё плохо, без радости.</answer>
+            <answerNote>Мне кажется, герои рассказа были несчастливы в жизни.</answerNote>
+        </card>
+        <card>
+            <question>нефть</question>
+            <answer>Густая тёмная жидкость из-под земли. Из неё делают бензин.</answer>
+            <answerNote>Здесь добывают нефть и газ.</answerNote>
+        </card>
+        <card>
+            <question>нечего</question>
+            <answer>Нет ничего такого, что можно сделать или взять.</answer>
+            <answerNote>В холодильнике пусто, есть нечего.</answerNote>
+        </card>
+        <card>
+            <question>нижний</question>
+            <answer>Который находится внизу.</answer>
+            <answerNote>Полотенца лежат на нижней полке.</answerNote>
+        </card>
+        <card>
+            <question>новогодний</question>
+            <answer>Связанный с праздником Новый год.</answer>
+            <answerNote>Мы уже нарядили новогоднюю ёлку.</answerNote>
+        </card>
+        <card>
+            <question>носить</question>
+            <answer>Ходить в какой-то одежде. Ещё: брать что-то с собой и идти.</answer>
+            <answerNote>Зимой я ношу тёплую куртку.</answerNote>
+        </card>
+        <card>
+            <question>ночной</question>
+            <answer>Такой, который бывает или работает ночью.</answer>
+            <answerNote>Эта ночная рубашка тебе идёт.</answerNote>
+        </card>
+        <card>
+            <question>обижать</question>
+            <answer>Делать или говорить так, что другому становится больно на душе.</answer>
+            <answerNote>Одноклассники обижают тебя в школе?</answerNote>
+        </card>
+        <card>
+            <question>обижаться</question>
+            <answer>Расстраиваться и сердиться из-за чужих слов или поступков.</answer>
+            <answerNote>Не обижайся, пожалуйста, я хотела как лучше!</answerNote>
+        </card>
+        <card>
+            <question>обладать</question>
+            <answer>Иметь что-то, владеть чем-то.</answer>
+            <answerNote>Хвост ящерицы обладает свойством отрастать заново.</answerNote>
+        </card>
+        <card>
+            <question>облако</question>
+            <answer>Белое или серое пятно в небе из мелких капель воды. Из них идёт дождь.</answer>
+            <answerNote>Сегодня пасмурно. Солнца не видно из-за облаков.</answerNote>
+        </card>
+        <card>
+            <question>область</question>
+            <answer>Большая часть страны с главным городом. Ещё так говорят о теме знаний или работы.</answer>
+            <answerNote>Моя семья живёт в Московской области.</answerNote>
+        </card>
+        <card>
+            <question>обмен</question>
+            <answer>Когда один даёт другому свою вещь, а взамен получает его вещь.</answer>
+            <answerNote>Дети во дворе устроили обмен игрушками.</answerNote>
+        </card>
+        <card>
+            <question>обрадовать</question>
+            <answer>Сделать так, чтобы человеку стало весело и хорошо.</answer>
+            <answerNote>Мне очень понравился твой подарок, ты меня очень обрадовал!</answerNote>
+        </card>
+        <card>
+            <question>обрадоваться</question>
+            <answer>Почувствовать радость, когда случилось что-то хорошее.</answer>
+            <answerNote>Я так обрадовался, когда услышал эти новости!</answerNote>
+        </card>
+        <card>
+            <question>образ</question>
+            <answer>Картинка чего-то в голове или в книге. Ещё так говорят про способ жить или делать.</answer>
+            <answerNote>Я придерживаюсь здорового образа жизни и стараюсь питаться правильно.</answerNote>
+        </card>
+        <card>
+            <question>образец</question>
+            <answer>Одна вещь, по которой видно, какие все остальные такие же.</answer>
+            <answerNote>Образец этого договора лежит в верхнем ящике стола.</answerNote>
+        </card>
+        <card>
+            <question>обращать</question>
+            <answer>Направлять что-то на кого-то. Чаще всего говорят: смотреть и замечать.</answer>
+            <answerNote>Маша всегда обращает внимание на опечатки в журналах и газетах.</answerNote>
+        </card>
+        <card>
+            <question>обращаться</question>
+            <answer>Говорить с кем-то, просить у него помощи.</answer>
+            <answerNote>Мой отец не любит обращаться к врачам.</answerNote>
+        </card>
+        <card>
+            <question>обсуждать</question>
+            <answer>Разговаривать с кем-то о чём-то, говорить своё мнение.</answer>
+            <answerNote>Мне кажется, здесь нечего обсуждать.</answerNote>
+        </card>
+        <card>
+            <question>обучать</question>
+            <answer>Помогать другому научиться что-то делать.</answer>
+            <answerNote>В музыкальной школе детей обучают игре на различных инструментах, пению и нотной грамоте.</answerNote>
+        </card>
+        <card>
+            <question>обучение</question>
+            <answer>Когда одни учат, а другие учатся.</answer>
+            <answerNote>Как вы думаете, какие есть плюсы и минусы у обучения онлайн?</answerNote>
+        </card>
+        <card>
+            <question>обходить</question>
+            <answer>Идти вокруг чего-то, а не прямо через это.</answer>
+            <answerNote>Я шёл домой, обходя лужи.</answerNote>
+        </card>
+        <card>
+            <question>общественный</question>
+            <answer>Такой, который для всех людей, а не для одного человека.</answer>
+            <answerNote>Я езжу на работу на общественном транспорте.</answerNote>
+        </card>
+        <card>
+            <question>объединять</question>
+            <answer>Собирать отдельные части или людей вместе, в одно целое.</answer>
+            <answerNote>Общие испытания объединяют людей.</answerNote>
+        </card>
+        <card>
+            <question>объявлять</question>
+            <answer>Громко сказать так, чтобы все узнали.</answer>
+            <answerNote>Диктор объявляет, что поезд опаздывает.</answerNote>
+        </card>
+        <card>
+            <question>объяснение</question>
+            <answer>Слова, после которых становится понятно.</answer>
+            <answerNote>Всему можно найти объяснение.</answerNote>
+        </card>
+        <card>
+            <question>обычай</question>
+            <answer>То, что люди делают всегда, потому что так делали и раньше.</answer>
+            <answerNote>Обычай украшать ёлку на новый год пришёл из Германии.</answerNote>
+        </card>
+        <card>
+            <question>обязанный</question>
+            <answer>Такой, который должен что-то сделать, не может отказаться.</answer>
+            <answerNote>Согласно закону, каждый гражданин обязан платить налоги.</answerNote>
+        </card>
+        <card>
+            <question>овца</question>
+            <answer>Домашнее животное с густой тёплой шерстью. Из неё делают нитки.</answer>
+            <answerNote>Овец разводят для получения шерсти.</answerNote>
+        </card>
+        <card>
+            <question>огонь</question>
+            <answer>Горячее пламя, которое светит и жжёт.</answer>
+            <answerNote>Убери руки от огня, обожжёшься!</answerNote>
+        </card>
+        <card>
+            <question>огурец</question>
+            <answer>Длинный зелёный овощ. Его едят свежим или солёным.</answer>
+            <answerNote>Купи, пожалуйста, огурцы, вечером будем готовить греческий салат.</answerNote>
+        </card>
+        <card>
+            <question>одевать</question>
+            <answer>Надевать на кого-то вещи.</answer>
+            <answerNote>Раньше близнецов одевали одинаково.</answerNote>
+        </card>
+        <card>
+            <question>оказываться</question>
+            <answer>Попадать куда-то. Ещё говорят так, когда правда была другой, чем думали.</answer>
+            <answerNote>Оказывается, Катя всё это время жила на съёмной квартире.</answerNote>
+        </card>
+        <card>
+            <question>океан</question>
+            <answer>Очень большая солёная вода между странами. Больше моря.</answer>
+            <answerNote>Тихий океан ― самый большой океан в мире.</answerNote>
+        </card>
+        <card>
+            <question>опасность</question>
+            <answer>То, из-за чего может случиться беда.</answer>
+            <answerNote>Работа пожарного связана с реальной опасностью.</answerNote>
+        </card>
+        <card>
+            <question>опасный</question>
+            <answer>Такой, от которого может случиться беда.</answer>
+            <answerNote>Ездить на мотоцикле довольно опасно.</answerNote>
+        </card>
+        <card>
+            <question>операция</question>
+            <answer>Когда врач разрезает тело, чтобы вылечить больного. Ещё так называют большое дело по плану.</answer>
+            <answerNote>Операция проводилась под общим наркозом.</answerNote>
+        </card>
+        <card>
+            <question>описывать</question>
+            <answer>Рассказывать словами, какое что-то и что там было.</answer>
+            <answerNote>Автор книги описывает исторические процессы, просходившие в Европе.</answerNote>
+        </card>
+        <card>
+            <question>опыт</question>
+            <answer>Знания и умения, которые появились, потому что человек долго что-то делал.</answer>
+            <answerNote>Тебя вряд ли возьмут на эту работу без опыта.</answerNote>
+        </card>
+        <card>
+            <question>организация</question>
+            <answer>Группа людей, которые вместе работают ради общего дела. Ещё — когда всё готовят и устраивают.</answer>
+            <answerNote>Мы объединились со студентами других факультетов для организации выпускного вечера.</answerNote>
+        </card>
+        <card>
+            <question>организовать</question>
+            <answer>Всё подготовить и устроить, чтобы дело получилось.</answer>
+            <answerNote>Студенты решили организовать выставку живописи.</answerNote>
+        </card>
+        <card>
+            <question>оригинальный</question>
+            <answer>Новый и необычный, не такой, как у других.</answer>
+            <answerNote>Саша предложил кучу оригинальных идей для названия нашей команды.</answerNote>
+        </card>
+        <card>
+            <question>оружие</question>
+            <answer>То, чем воюют и убивают: ружьё, нож, пушка.</answer>
+            <answerNote>Сейчас сложно получить разрешение на ношение оружия.</answerNote>
+        </card>
+        <card>
+            <question>освобождать</question>
+            <answer>Выпускать на волю. Ещё — делать место пустым.</answer>
+            <answerNote>Петя подвинул стол к окну, освобождая место в центре комнаты для танцев.</answerNote>
+        </card>
+        <card>
+            <question>осмотреть</question>
+            <answer>Внимательно посмотреть на всё вокруг или на всю вещь.</answer>
+            <answerNote>Полицейский вышел из машины и внимательно осмотрел местность.</answerNote>
+        </card>
+        <card>
+            <question>основа</question>
+            <answer>Самое главное, на чём всё держится.</answer>
+            <answerNote>Здоровое питание ― это основа здорового образа жизни.</answerNote>
+        </card>
+        <card>
+            <question>основатель</question>
+            <answer>Человек, который первым создал город, школу или фирму.</answer>
+            <answerNote>Основателем психоанализа считается Зигмунд Фрейд.</answerNote>
+        </card>
+        <card>
+            <question>основывать</question>
+            <answer>Создавать что-то новое в первый раз: город, школу, фирму.</answer>
+            <answerNote>Купцы основали здесь город триста лет назад.</answerNote>
+        </card>
+        <card>
+            <question>особенность</question>
+            <answer>То, чем один отличается от других.</answer>
+            <answerNote>В статье описаны особенности поведения безработных людей.</answerNote>
+        </card>
+        <card>
+            <question>особый</question>
+            <answer>Не такой, как обычно, отдельный и заметный.</answer>
+            <answerNote>Базилик придаёт блюду особый вкус и аромат.</answerNote>
+        </card>
+        <card>
+            <question>оставаться</question>
+            <answer>Не уходить, быть на месте дальше. Ещё — быть в остатке.</answer>
+            <answerNote>Петя и Таня сказали, что сегодня остаются ночевать у Саши.</answerNote>
+        </card>
+        <card>
+            <question>оставлять</question>
+            <answer>Не брать с собой, класть где-то и уходить.</answer>
+            <answerNote>Нельзя пройти по снегу не оставляя следов.</answerNote>
+        </card>
+        <card>
+            <question>остальной</question>
+            <answer>Все другие, кто или что ещё не назван.</answer>
+            <answerNote>Катя и Коля успели на последний автобус. Остальным пришлось вызывать такси.</answerNote>
+        </card>
+        <card>
+            <question>останавливать</question>
+            <answer>Делать так, чтобы кто-то или что-то перестало двигаться.</answer>
+            <answerNote>Утром я всегда останавливаю машину у кафе, чтобы купить кофе.</answerNote>
+        </card>
+        <card>
+            <question>останавливаться</question>
+            <answer>Переставать идти или ехать, стоять на месте.</answer>
+            <answerNote>Этот поезд не останавливается на нужной нам станции, нужно сесть на другой.</answerNote>
+        </card>
+        <card>
+            <question>острый</question>
+            <answer>Такой, что легко режет или колет. Ещё — про еду, которая жжёт язык.</answer>
+            <answerNote>Хлеб нужно резать острым ножом.</answerNote>
+        </card>
+        <card>
+            <question>остывать</question>
+            <answer>Становиться холоднее, переставать быть горячим.</answer>
+            <answerNote>Приходи есть быстрее, суп остывает!</answerNote>
+        </card>
+        <card>
+            <question>отвозить</question>
+            <answer>Везти кого-то или что-то в другое место.</answer>
+            <answerNote>В будние дни мама отвозит меня в школу на машине.</answerNote>
+        </card>
+        <card>
+            <question>отдавать</question>
+            <answer>Давать вещь другому человеку, не оставлять себе.</answer>
+            <answerNote>Когда ты собираешься отдавать Саше долг?</answerNote>
+        </card>
+        <card>
+            <question>отказываться</question>
+            <answer>Говорить «нет», не хотеть что-то делать или брать.</answer>
+            <answerNote>Мой муж отказывается признавать, что он не прав.</answerNote>
+        </card>
+        <card>
+            <question>отличный</question>
+            <answer>Очень хороший, лучше обычного.</answer>
+            <answerNote>Сегодня просто отличная погода для езды на велосипеде!</answerNote>
+        </card>
+        <card>
+            <question>отметка</question>
+            <answer>Точка или число на шкале, показывающие уровень. Ещё так называют школьную оценку.</answer>
+            <answerNote>Зимой температура на севере не поднимается выше нулевой отметки.</answerNote>
+        </card>
+        <card>
+            <question>отнимать</question>
+            <answer>Забирать у кого-то силой или без спроса. Ещё так говорят про время: дело съедает много времени.</answer>
+            <answerNote>Мне бы не хотелось отнимать у тебя время.</answerNote>
+        </card>
+        <card>
+            <question>относить</question>
+            <answer>Считать, что кто-то или что-то входит в такую группу.</answer>
+            <answerNote>По политическим взглядам Ваня относит себя к коммунистам.</answerNote>
+        </card>
+        <card>
+            <question>относиться</question>
+            <answer>Хорошо или плохо думать о ком-то и так же с ним поступать.</answer>
+            <answerNote>Саша очень хорошо относится к своим друзьям и всегда поможет в беде.</answerNote>
+        </card>
+        <card>
+            <question>отпуск</question>
+            <answer>Дни, когда взрослый не ходит на работу и отдыхает, но деньги ему платят.</answer>
+            <answerNote>Я планирую взять отпуск через три недели.</answerNote>
+        </card>
+        <card>
+            <question>отсталый</question>
+            <answer>Тот, кто развит хуже других или живёт по старым правилам.</answer>
+            <answerNote>Алексей старомодный и отсталый человек, когда дело касается технологий.</answerNote>
+        </card>
+        <card>
+            <question>отходить</question>
+            <answer>Сделать несколько шагов в сторону. Про поезд — уезжать со станции.</answer>
+            <answerNote>Поезд отходит через час, нужно поспешить!</answerNote>
+        </card>
+        <card>
+            <question>отъезд</question>
+            <answer>Момент, когда человек уезжает.</answer>
+            <answerNote>Перед отъездом я волновался и чуть не забыл взять паспорт.</answerNote>
+        </card>
+        <card>
+            <question>отъезжать</question>
+            <answer>Начинать ехать прочь от места.</answer>
+            <answerNote>Саша с грустью смотрел на отъезжающий поезд.</answerNote>
+        </card>
+        <card>
+            <question>офицер</question>
+            <answer>Военный начальник, у него есть звание и он командует солдатами.</answer>
+            <answerNote>Ивану присвоили звание офицера запаса.</answerNote>
+        </card>
+        <card>
+            <question>официальный</question>
+            <answer>Настоящий, от самой власти или самой фирмы, а не чей-то придуманный.</answer>
+            <answerNote>Информацию можно найти на официальном сайте банка.</answerNote>
+        </card>
+        <card>
+            <question>официант</question>
+            <answer>Человек в кафе, который приносит еду к столу.</answer>
+            <answerNote>На втором курсе университета я устроился на работу официантом.</answerNote>
+        </card>
+        <card>
+            <question>оформлять</question>
+            <answer>Делать нужные бумаги по правилам.</answer>
+            <answerNote>Летом я поеду в Болгарию, поэтому нужно оформлять загранпаспорт и визу.</answerNote>
+        </card>
+        <card>
+            <question>ошибаться</question>
+            <answer>Сделать или сказать неправильно, не так, как надо.</answer>
+            <answerNote>Человеку свойственно ошибаться, этого не нужно бояться.</answerNote>
+        </card>
+        <card>
+            <question>память</question>
+            <answer>То, что помогает человеку помнить, что было раньше.</answer>
+            <answerNote>Мой дедушка уже старый, у него плохо с памятью.</answerNote>
+        </card>
+        <card>
+            <question>пар</question>
+            <answer>Белый тёплый туман над кипящей водой.</answer>
+            <answerNote>От горячей кастрюли валил пар.</answerNote>
+        </card>
+        <card>
+            <question>пассаж</question>
+            <answer>Длинный крытый ряд магазинов внутри здания.</answer>
+            <answerNote>В Петровском пассаже есть много дорогих бутиков.</answerNote>
+        </card>
+        <card>
+            <question>пассажир</question>
+            <answer>Человек, который едет в автобусе, поезде или самолёте, но сам не ведёт его.</answer>
+            <answerNote>Электричка опоздала, и пассажиры нетерпеливо выбежали на станцию.</answerNote>
+        </card>
+        <card>
+            <question>педагог</question>
+            <answer>Человек, который учит детей. То же, что учитель.</answer>
+            <answerNote>Это Ирина, она педагог по фортепиано.</answerNote>
+        </card>
+        <card>
+            <question>перевозить</question>
+            <answer>Везти вещи или людей из одного места в другое.</answer>
+            <answerNote>Велосипед можно перевозить в багажнике автомобиля.</answerNote>
+        </card>
+        <card>
+            <question>перенашивать</question>
+            <answer>Носить одежду дольше, чем нужно, до самого износа.</answer>
+            <answerNote>Старую куртку он перенашивал ещё одну зиму.</answerNote>
+        </card>
+        <card>
+            <question>перенести</question>
+            <answer>Взять и поставить в другое место. Ещё: назначить дело на другой день.</answer>
+            <answerNote>Я попросил перенести встречу, потому что я не смогу прийти завтра.</answerNote>
+        </card>
+        <card>
+            <question>переставать</question>
+            <answer>Больше не делать то, что делал раньше.</answer>
+            <answerNote>Рано или поздно дети перестают верить в сказки.</answerNote>
+        </card>
+        <card>
+            <question>переулок</question>
+            <answer>Маленькая узкая улица между большими улицами.</answer>
+            <answerNote>По дороге в школу я свернул в переулок и встретил там одноклассника.</answerNote>
+        </card>
+        <card>
+            <question>переходный</question>
+            <answer>Такой, который находится между двумя состояниями, когда одно сменяется другим.</answer>
+            <answerNote>Переходный возраст — это непростое время и для ребёнка, и для родителей.</answerNote>
+        </card>
+        <card>
+            <question>перо</question>
+            <answer>То, чем покрыто тело птицы. Раньше таким писали, обмакивая в чернила.</answer>
+            <answerNote>Птичье перо раньше использовалось для письма.</answerNote>
+        </card>
+        <card>
+            <question>перчатка</question>
+            <answer>Одежда для руки, у неё есть отдельное место для каждого пальца.</answer>
+            <answerNote>Куда ты пошёл без перчаток? На улице холодно!</answerNote>
+        </card>
+        <card>
+            <question>песок</question>
+            <answer>Множество крошечных камешков. Из него на пляже строят замки.</answer>
+            <answerNote>Петя сидел в куче песка и строил из него дворец.</answerNote>
+        </card>
+        <card>
+            <question>пессимист</question>
+            <answer>Человек, который всегда ждёт плохого.</answer>
+            <answerNote>Тебе вечно ничего не нравится, ты настоящий пессимист!</answerNote>
+        </card>
+        <card>
+            <question>печатать</question>
+            <answer>Набирать буквы на клавиатуре. Ещё: делать книги и газеты на машине.</answer>
+            <answerNote>Сейчас дети с раннего возраста умеют печатать на компьютере.</answerNote>
+        </card>
+        <card>
+            <question>пицца</question>
+            <answer>Круглая тонкая лепёшка с сыром и другой едой сверху. Её пекут в печи.</answer>
+            <answerNote>Мне нравится пицца с ананасами.</answerNote>
+        </card>
+        <card>
+            <question>платок</question>
+            <answer>Кусок ткани. Его завязывают на голову или им вытирают нос.</answer>
+            <answerNote>Моя бабушка ходит в платке даже летом.</answerNote>
+        </card>
+        <card>
+            <question>плач</question>
+            <answer>Звук, когда человек плачет: льются слёзы и слышны всхлипы.</answer>
+            <answerNote>Из соседнего купе раздавался плач ребёнка.</answerNote>
+        </card>
+        <card>
+            <question>плечо</question>
+            <answer>Часть тела там, где рука соединяется с телом, рядом с шеей.</answer>
+            <answerNote>Коля предложил понести мой рюкзак и надел его на плечо.</answerNote>
+        </card>
+        <card>
+            <question>побежать</question>
+            <answer>Начать быстро двигаться ногами, быстрее, чем шагом.</answer>
+            <answerNote>Катя побежала на автобус, но он уже отъехал от остановки.</answerNote>
+        </card>
+        <card>
+            <question>побриться</question>
+            <answer>Срезать волосы с лица специальным ножом.</answer>
+            <answerNote>Утром папа умылся и побрился.</answerNote>
+        </card>
+        <card>
+            <question>повесить</question>
+            <answer>Прикрепить что-то так, чтобы оно висело сверху.</answer>
+            <answerNote>Скоро Маша и Катя повесят на стену полки.</answerNote>
+        </card>
+        <card>
+            <question>погибать</question>
+            <answer>Умирать не своей смертью — на войне, в аварии, от холода.</answer>
+            <answerNote>Во время войны люди погибали от пуль, холода и голода.</answerNote>
+        </card>
+        <card>
+            <question>погулять</question>
+            <answer>Походить на улице для удовольствия.</answer>
+            <answerNote>Пойдём погуляем? Сегодня такая приятная погода!</answerNote>
+        </card>
+        <card>
+            <question>подготовка</question>
+            <answer>Дела, которые делают заранее, чтобы всё прошло хорошо.</answer>
+            <answerNote>Ты не сможешь сдать экзамен без подготовки.</answerNote>
+        </card>
+        <card>
+            <question>подниматься</question>
+            <answer>Двигаться вверх самому — идти в гору или расти в высоту.</answer>
+            <answerNote>Весной вода в реке всегда поднимается.</answerNote>
+        </card>
+        <card>
+            <question>подписывать</question>
+            <answer>Ставить своё имя на бумаге, чтобы показать согласие.</answer>
+            <answerNote>При аренде квартиры обе стороны подписывают договор.</answerNote>
+        </card>
+        <card>
+            <question>подходить</question>
+            <answer>Идти ближе к кому-то. Ещё — быть как раз впору, годиться.</answer>
+            <answerNote>Эти туфли не подходят мне по размеру.</answerNote>
+        </card>
+        <card>
+            <question>подъезжать</question>
+            <answer>Приближаться на машине, поезде или другом транспорте.</answer>
+            <answerNote>Ты где? Я уже подъезжаю к твоему дому.</answerNote>
+        </card>
+        <card>
+            <question>подымать</question>
+            <answer>То же, что поднимать: брать снизу и двигать вверх. Так говорят в простой речи.</answer>
+            <answerNote>Не надо подымать такой тяжёлый мешок.</answerNote>
+        </card>
+        <card>
+            <question>поесть</question>
+            <answer>Съесть немного еды, перестать быть голодным.</answer>
+            <answerNote>Вы уже поели? Пора собираться в школу.</answerNote>
+        </card>
+        <card>
+            <question>пожениться</question>
+            <answer>Про мужчину и женщину: стать мужем и женой.</answer>
+            <answerNote>Когда вы планируете пожениться?</answerNote>
+        </card>
+        <card>
+            <question>поздороваться</question>
+            <answer>Сказать при встрече «привет» или «здравствуйте».</answer>
+            <answerNote>Мы с Катей почти не общаемся, но сегодня она со мной поздоровалась.</answerNote>
+        </card>
+        <card>
+            <question>познакомить</question>
+            <answer>Сделать так, чтобы два человека узнали друг друга и назвали свои имена.</answer>
+            <answerNote>Нас познакомили общие друзья.</answerNote>
+        </card>
+        <card>
+            <question>поймать</question>
+            <answer>Схватить того, кто убегает или летит, и не дать ему уйти.</answer>
+            <answerNote>Полицейские поймали вора.</answerNote>
+        </card>
+        <card>
+            <question>показываться</question>
+            <answer>Появляться там, где тебя могут увидеть.</answer>
+            <answerNote>Петя уже неделю не показывался на улице, он готовится к экзаменам.</answerNote>
+        </card>
+        <card>
+            <question>покормить</question>
+            <answer>Дать кому-то еду, чтобы он поел.</answer>
+            <answerNote>Катя немного опоздает, ей нужно покормить ребёнка.</answerNote>
+        </card>
+        <card>
+            <question>покупатель</question>
+            <answer>Человек, который покупает что-то в магазине.</answer>
+            <answerNote>Большинство покупателей обращают внимание на цену товара.</answerNote>
+        </card>
+        <card>
+            <question>политехнический</question>
+            <answer>Про учёбу, где учат технике: машинам, моторам, стройке.</answer>
+            <answerNote>Этим летом Коля поступил в политехнический институт.</answerNote>
+        </card>
+        <card>
+            <question>полиция</question>
+            <answer>Люди в форме, которые ловят преступников и охраняют порядок.</answer>
+            <answerNote>Недавно у меня украли телефон, и я сразу же обратился в полицию.</answerNote>
+        </card>
+        <card>
+            <question>полный</question>
+            <answer>Такой, где есть всё, ничего не убрали. Ещё — сосуд, в котором нет пустого места.</answer>
+            <answerNote>Полный текст статьи опубликован на сайте.</answerNote>
+        </card>
+        <card>
+            <question>полотенце</question>
+            <answer>Кусок ткани, которым вытираются после мытья.</answer>
+            <answerNote>Не забудь положить в чемодан полотенце!</answerNote>
+        </card>
+        <card>
+            <question>пользоваться</question>
+            <answer>Брать вещь и делать ею то, для чего она нужна.</answer>
+            <answerNote>Сейчас почти каждый человек умеет пользоваться интернетом.</answerNote>
+        </card>
+        <card>
+            <question>помидор</question>
+            <answer>Круглый красный овощ. Его едят сырым, в салате или готовят.</answer>
+            <answerNote>Я люблю есть макароны с зеленью и помидорами.</answerNote>
+        </card>
+        <card>
+            <question>попробовать</question>
+            <answer>Сделать что-то в первый раз или ещё раз, чтобы узнать, получится ли. Ещё — съесть немного, чтобы
+                узнать вкус.
+            </answer>
+            <answerNote>Я не могу дозвониться Саше. Возможно, он едет в метро, попробуй снова через пару минут.
+            </answerNote>
+        </card>
+        <card>
+            <question>попрощаться</question>
+            <answer>Сказать «до свидания», когда уходишь или уезжаешь.</answer>
+            <answerNote>Мы с Машей попрощались, и она села на автобус.</answerNote>
+        </card>
+        <card>
+            <question>попытаться</question>
+            <answer>Постараться сделать что-то, хотя может и не получиться.</answer>
+            <answerNote>Преступники попытались скрыться, но полиция всё равно их арестовала.</answerNote>
+        </card>
+        <card>
+            <question>пора</question>
+            <answer>Время, момент, когда что-то надо делать. Ещё — большой отрезок жизни, например детство.</answer>
+            <answerNote>Детство — счастливая пора в жизни почти каждого человека.</answerNote>
+        </card>
+        <card>
+            <question>поражение</question>
+            <answer>Когда в игре или в войне ты проиграл, а другой выиграл.</answer>
+            <answerNote>После поражения в полуфинале команда вылетела из игры.</answerNote>
+        </card>
+        <card>
+            <question>порт</question>
+            <answer>Место у моря или реки, куда приплывают корабли.</answer>
+            <answerNote>Корабль прибыл в порт с небольшим опозданием.</answerNote>
+        </card>
+        <card>
+            <question>портрет</question>
+            <answer>Картина или фотография, на которой нарисован или снят человек, обычно лицо.</answer>
+            <answerNote>Портреты принесли славу художнику Илье Репину.</answerNote>
+        </card>
+        <card>
+            <question>посещать</question>
+            <answer>Приходить куда-то, обычно не один раз.</answer>
+            <answerNote>Моя бабушка верующая и посещает храм по праздникам.</answerNote>
+        </card>
+        <card>
+            <question>посидеть</question>
+            <answer>Сидеть недолго где-нибудь, часто вместе с другими людьми.</answer>
+            <answerNote>Я посидел в очереди где-то десять минут, а потом врач меня сразу принял.</answerNote>
+        </card>
+        <card>
+            <question>пословица</question>
+            <answer>Короткая народная фраза с мудрым советом, которую все знают.</answer>
+            <answerNote>Я с трудом запоминаю длинные пословицы.</answerNote>
+        </card>
+        <card>
+            <question>посоветоваться</question>
+            <answer>Спросить у другого человека, как лучше поступить.</answer>
+            <answerNote>Если ребёнок заболел, обязательно посоветуйтесь с педиатром.</answerNote>
+        </card>
+        <card>
+            <question>пост</question>
+            <answer>Важная должность на работе. Ещё — время, когда верующие люди не едят некоторую еду.</answer>
+            <answerNote>Мой дедушка занимал пост директора школы.</answerNote>
+        </card>
+        <card>
+            <question>постараться</question>
+            <answer>Сделать что-то со всеми силами, как можно лучше.</answer>
+            <answerNote>Я обещал, что постараюсь вам помочь.</answerNote>
+        </card>
+        <card>
+            <question>поступь</question>
+            <answer>То, как человек шагает: тяжело, легко, быстро.</answer>
+            <answerNote>Поступь военных на параде завораживала.</answerNote>
+        </card>
+        <card>
+            <question>посчитать</question>
+            <answer>Узнать, сколько чего-то, с помощью чисел. Ещё — решить, что что-то верно.</answer>
+            <answerNote>Петя обещал посчитать, сколько денег понадобится на дорогу.</answerNote>
+        </card>
+        <card>
+            <question>потолок</question>
+            <answer>Верхняя часть комнаты, над головой.</answer>
+            <answerNote>В комнате было темно, под потолком горела тусклая лампочка.</answerNote>
+        </card>
+        <card>
+            <question>потребовать</question>
+            <answer>Строго сказать, что тебе что-то должны дать или сделать.</answer>
+            <answerNote>Президент потребовал объяснений от министра транспорта.</answerNote>
+        </card>
+        <card>
+            <question>похвалить</question>
+            <answer>Сказать человеку хорошие слова за то, что он сделал что-то хорошо.</answer>
+            <answerNote>Родители похвалили своего сына за хорошее выступление на концерте.</answerNote>
+        </card>
+        <card>
+            <question>похожий</question>
+            <answer>Такой же или почти такой же, как кто-то или что-то другое.</answer>
+            <answerNote>Твой сын очень на тебя похож!</answerNote>
+        </card>
+        <card>
+            <question>правило</question>
+            <answer>То, как надо делать; закон игры или жизни, который все должны выполнять.</answer>
+            <answerNote>Для любой игры необходимы правила.</answerNote>
+        </card>
+        <card>
+            <question>практика</question>
+            <answer>Не слова, а настоящее дело; когда человек сам что-то делает и учится этим.</answer>
+            <answerNote>Где ты будешь проходить летнюю практику?</answerNote>
+        </card>
+        <card>
+            <question>практический</question>
+            <answer>Такой, который приносит настоящую пользу в жизни, а не только в теории.</answer>
+            <answerNote>Я стараюсь заводить знакомства, которые могут принести практическую пользу.</answerNote>
+        </card>
+        <card>
+            <question>предлог</question>
+            <answer>Придуманная причина, чтобы скрыть настоящую. Ещё — маленькое слово вроде «в», «на», «под».</answer>
+            <answerNote>Ты забыл поставить предлог в это предложение.</answerNote>
+        </card>
+        <card>
+            <question>предложение</question>
+            <answer>Когда кто-то говорит, что можно сделать, и ты решаешь: да или нет. Ещё — законченная мысль из слов с
+                точкой в конце.
+            </answer>
+            <answerNote>Твоё предложение ещё в силе?</answerNote>
+        </card>
+        <card>
+            <question>представитель</question>
+            <answer>Человек, который говорит и действует от имени других людей или фирмы.</answer>
+            <answerNote>Представитель администрации рассказал о планах на год.</answerNote>
+        </card>
+        <card>
+            <question>приводить</question>
+            <answer>Вести кого-то с собой в какое-то место. Ещё — быть причиной того, что случится дальше.</answer>
+            <answerNote>В нашу квартиру нельзя приводить большие компании.</answerNote>
+        </card>
+        <card>
+            <question>привозить</question>
+            <answer>Доставлять что-то или кого-то на машине, поезде и так далее.</answer>
+            <answerNote>Еду привозят в офис из соседнего кафе.</answerNote>
+        </card>
+        <card>
+            <question>привыкать</question>
+            <answer>Постепенно перестать считать что-то новым или трудным.</answer>
+            <answerNote>Маша быстро привыкает к новым условиям.</answerNote>
+        </card>
+        <card>
+            <question>приказывать</question>
+            <answer>Строго говорить, что человек должен сделать, не спрашивая его согласия.</answer>
+            <answerNote>В детстве я делал всё, что приказывал мне старший брат.</answerNote>
+        </card>
+        <card>
+            <question>прилагательное</question>
+            <answer>Слово, которое говорит, какой предмет: красный, большой, добрый.</answer>
+            <answerNote>Имя прилагательное обозначает признак или свойство предмета.</answerNote>
+        </card>
+        <card>
+            <question>прилетать</question>
+            <answer>Прибывать куда-то по воздуху — на самолёте или как птица.</answer>
+            <answerNote>Прилетай к нам на самолёте, билеты на поезд сейчас найти труднее.</answerNote>
+        </card>
+        <card>
+            <question>принадлежать</question>
+            <answer>Быть чьей-то вещью или частью какой-то группы.</answer>
+            <answerNote>Этот дом принадлежит семье художника до сих пор.</answerNote>
+        </card>
+        <card>
+            <question>принимать</question>
+            <answer>Брать то, что дают. Про лекарство — пить его; про участие — быть внутри дела вместе с другими.
+            </answer>
+            <answerNote>Моя бабушка регулярно принимает лекарства от повышенного давления.</answerNote>
+        </card>
+        <card>
+            <question>приносить</question>
+            <answer>Нести что-то куда-то и оставлять там. Ещё — давать результат: пользу, деньги, радость.</answer>
+            <answerNote>Мне не нравится, когда люди приносят маленьких детей в кино или театр.</answerNote>
+        </card>
+        <card>
+            <question>приставка</question>
+            <answer>Часть слова в самом начале, перед корнем. Ещё — устройство, которое подключают к телевизору для
+                игр.
+            </answer>
+            <answerNote>У меня дома есть игровая приставка.</answerNote>
+        </card>
+        <card>
+            <question>присылать</question>
+            <answer>Отправлять что-то так, чтобы это дошло до другого человека.</answer>
+            <answerNote>Когда я уехал учиться в Москву, родители присылали мне деньги.</answerNote>
+        </card>
+        <card>
+            <question>причастие</question>
+            <answer>Особая форма глагола, которая отвечает на вопрос «какой»: например, «бегущий», «сделанный».</answer>
+            <answerNote>Причастие ― это особая форма глагола.</answerNote>
+        </card>
+        <card>
+            <question>причастный</question>
+            <answer>Тот, кто как-то участвовал в деле, имеет к нему отношение.</answer>
+            <answerNote>Следствие показало, что Иван не причастен к убийству.</answerNote>
+        </card>
+        <card>
+            <question>проанализировать</question>
+            <answer>Внимательно разобрать что-то по частям и понять, как это устроено.</answer>
+            <answerNote>Сначала нужно проанализировать ситуацию, а потом думать, что делать.</answerNote>
+        </card>
+        <card>
+            <question>пробовать</question>
+            <answer>Съесть немного, чтобы узнать вкус. Ещё — стараться что-то сделать в первый раз.</answer>
+            <answerNote>Вы когда-нибудь пробовали суши?</answerNote>
+        </card>
+        <card>
+            <question>проверять</question>
+            <answer>Смотреть, всё ли правильно и как надо.</answer>
+            <answerNote>На вокзалах багаж проверяют с помощью специального сканера.</answerNote>
+        </card>
+        <card>
+            <question>проводить</question>
+            <answer>Тратить время где-то или на что-то. Ещё — устраивать встречу, урок, праздник.</answer>
+            <answerNote>Как ты любишь проводить вечера?</answerNote>
+        </card>
+        <card>
+            <question>провожать</question>
+            <answer>Идти вместе с человеком, который уходит или уезжает, до нужного места.</answer>
+            <answerNote>Вчера я провожал Машу до дома.</answerNote>
+        </card>
+        <card>
+            <question>прогресс</question>
+            <answer>Когда жизнь и техника меняются к лучшему, движутся вперёд.</answer>
+            <answerNote>Люди сейчас всё больше верят в технический прогресс.</answerNote>
+        </card>
+        <card>
+            <question>прогулка</question>
+            <answer>Когда человек ходит пешком на улице для удовольствия.</answer>
+            <answerNote>Прогулки по парку перед сном стали моей хорошей привычкой.</answerNote>
+        </card>
+        <card>
+            <question>продавщица</question>
+            <answer>Женщина, которая работает в магазине и даёт покупателям товар за деньги.</answer>
+            <answerNote>В магазине мне пришлось немного подождать, потому что все продавщицы были заняты.</answerNote>
+        </card>
+        <card>
+            <question>проезжать</question>
+            <answer>Ехать через какое-то место, не останавливаясь там.</answer>
+            <answerNote>Разбуди меня, когда будем проезжать Казань.</answerNote>
+        </card>
+        <card>
+            <question>проехать</question>
+            <answer>Преодолеть путь на машине, поезде или автобусе.</answer>
+            <answerNote>В первый день путешествия мы проехали всего двести километров.</answerNote>
+        </card>
+        <card>
+            <question>проживать</question>
+            <answer>Постоянно жить где-то. Это слово говорят в документах.</answer>
+            <answerNote>Раньше на этой территории проживали германские племена.</answerNote>
+        </card>
+        <card>
+            <question>проигрывать</question>
+            <answer>Не выигрывать в игре или споре; быть слабее соперника.</answer>
+            <answerNote>Он больше всех рискует и чаще всех проигрывает.</answerNote>
+        </card>
+        <card>
+            <question>произведение</question>
+            <answer>То, что создал писатель, художник или музыкант: книга, картина, песня.</answer>
+            <answerNote>«Война и мир» — наиболее известное произведение Льва Толстого.</answerNote>
+        </card>
+        <card>
+            <question>производить</question>
+            <answer>Делать вещи, обычно на заводе и в большом количестве.</answer>
+            <answerNote>С февраля на заводе начали стали производить не только телевизоры, но и компьютеры.</answerNote>
+        </card>
+        <card>
+            <question>производство</question>
+            <answer>Изготовление вещей на заводе.</answer>
+            <answerNote>Этот металл используется в производстве микросхем.</answerNote>
+        </card>
+        <card>
+            <question>произносить</question>
+            <answer>Говорить звуки или слова вслух.</answer>
+            <answerNote>Мой сын очень смешно произносит звук «р».</answerNote>
+        </card>
+        <card>
+            <question>произношение</question>
+            <answer>То, как человек говорит звуки и слова вслух.</answer>
+            <answerNote>На уроках английского учителя часто хвалили моё произношение.</answerNote>
+        </card>
+        <card>
+            <question>происходить</question>
+            <answer>Случаться, идти прямо сейчас или в какое-то время.</answer>
+            <answerNote>«Что здесь происходит?» — спросила Анна удивлённо.</answerNote>
+        </card>
+        <card>
+            <question>промышленность</question>
+            <answer>Все заводы и фабрики страны, где делают вещи.</answer>
+            <answerNote>Промышленность в стране почти отсутствует.</answerNote>
+        </card>
+        <card>
+            <question>промышленный</question>
+            <answer>Связанный с заводами и фабриками.</answer>
+            <answerNote>Восточная часть города занята промышленными предприятиями.</answerNote>
+        </card>
+        <card>
+            <question>просыпаться</question>
+            <answer>Открывать глаза после сна, переставать спать.</answer>
+            <answerNote>Во сколько Марк обычно просыпается?</answerNote>
+        </card>
+        <card>
+            <question>процесс</question>
+            <answer>Когда что-то происходит шаг за шагом, долго и постепенно.</answer>
+            <answerNote>В процессе работы мы обнаружили проблемы с оборудованием.</answerNote>
+        </card>
+        <card>
+            <question>прощаться</question>
+            <answer>Говорить «до свидания», когда уходишь.</answer>
+            <answerNote>Он никогда не прощается, когда уходит.</answerNote>
+        </card>
+        <card>
+            <question>прыгать</question>
+            <answer>Резко отталкиваться ногами от земли и лететь вверх или вперёд.</answer>
+            <answerNote>Наша собака весело прыгает, когда мы возвращаемся домой.</answerNote>
+        </card>
+        <card>
+            <question>прыгнуть</question>
+            <answer>Оттолкнуться ногами и перелететь через что-то или вниз. Сделать это один раз.</answer>
+            <answerNote>Она легко прыгнула в воду и поплыла.</answerNote>
+        </card>
+        <card>
+            <question>прямой</question>
+            <answer>Такой, который идёт ровно, без поворотов. Например, ровная линия или дорога без изгибов.</answer>
+            <answerNote>От дома до школы ведёт прямая дорога.</answerNote>
+        </card>
+        <card>
+            <question>психологический</question>
+            <answer>Связанный с чувствами и мыслями человека, с тем, что у него внутри.</answer>
+            <answerNote>Тебе нужно позвонить в службу психологической помощи.</answerNote>
+        </card>
+        <card>
+            <question>пустой</question>
+            <answer>Такой, внутри которого ничего нет.</answer>
+            <answerNote>На столе остались только пустые тарелки и бутылки.</answerNote>
+        </card>
+        <card>
+            <question>путешественник</question>
+            <answer>Человек, который много ездит по разным странам и городам.</answer>
+            <answerNote>Андрей — самый активный путешественник из всех людей, которых я знаю.</answerNote>
+        </card>
+        <card>
+            <question>путь</question>
+            <answer>Дорога, по которой едут или идут из одного места в другое.</answer>
+            <answerNote>Сейчас соберу чемодан и можно отправляться в путь!</answerNote>
+        </card>
+        <card>
+            <question>пытаться</question>
+            <answer>Стараться что-то сделать, хотя может не получиться.</answer>
+            <answerNote>Он уже десять минут пытается открыть дверь — что-то сломалось.</answerNote>
+        </card>
+        <card>
+            <question>пьеса</question>
+            <answer>История, которую написали, чтобы актёры показали её в театре.</answer>
+            <answerNote>Ты уже прочитал пьесу? Что думаешь?</answerNote>
+        </card>
+        <card>
+            <question>пятёрка</question>
+            <answer>Самая хорошая оценка в школе, лучше всех остальных.</answer>
+            <answerNote>Она получила пятёрку за последнее эссе.</answerNote>
+        </card>
+        <card>
+            <question>равный</question>
+            <answer>Такой же по величине или по правам, как другой. Не больше и не меньше.</answer>
+            <answerNote>Раздели торт на равные части.</answerNote>
+        </card>
+        <card>
+            <question>радовать</question>
+            <answer>Делать так, что другому человеку становится хорошо и приятно.</answer>
+            <answerNote>Ты очень изменился, и это меня радует.</answerNote>
+        </card>
+        <card>
+            <question>радоваться</question>
+            <answer>Чувствовать себя очень хорошо, когда случилось что-то приятное.</answer>
+            <answerNote>Все в зале радовались быстрому началу концерта.</answerNote>
+        </card>
+        <card>
+            <question>развиваться</question>
+            <answer>Становиться больше, сильнее или лучше со временем.</answer>
+            <answerNote>Его компании быстро развиваются.</answerNote>
+        </card>
+        <card>
+            <question>развитие</question>
+            <answer>Когда кто-то или что-то со временем становится больше и лучше.</answer>
+            <answerNote>Игры с другими детьми очень полезны для развития ребёнка.</answerNote>
+        </card>
+        <card>
+            <question>разделять</question>
+            <answer>Делить что-то на части или держать отдельно одно от другого.</answer>
+            <answerNote>Эта актриса чётко разделяет личное и публичное.</answerNote>
+        </card>
+        <card>
+            <question>разделяться</question>
+            <answer>Становиться двумя или несколькими отдельными частями.</answer>
+            <answerNote>Через пять километров река разделяется на две.</answerNote>
+        </card>
+        <card>
+            <question>разница</question>
+            <answer>То, чем одно не похоже на другое.</answer>
+            <answerNote>В чём разница между любовью и дружбой?</answerNote>
+        </card>
+        <card>
+            <question>разрешать</question>
+            <answer>Говорить «можно», не запрещать.</answer>
+            <answerNote>Родители не разрешают Васе есть конфеты.</answerNote>
+        </card>
+        <card>
+            <question>расписание</question>
+            <answer>Список, где написано, что и во сколько будет.</answer>
+            <answerNote>Он хотел узнать расписание поездов до Воронежа.</answerNote>
+        </card>
+        <card>
+            <question>революция</question>
+            <answer>Когда народ силой меняет власть в стране.</answer>
+            <answerNote>Он был свидетелем революции в России в 1917 году.</answerNote>
+        </card>
+        <card>
+            <question>редкий</question>
+            <answer>Такой, который бывает или встречается очень нечасто.</answer>
+            <answerNote>Редкие виды животных находятся на грани исчезновения.</answerNote>
+        </card>
+        <card>
+            <question>резать</question>
+            <answer>Делить что-то на части ножом.</answer>
+            <answerNote>Для салата Катя режет лук, а Петя — помидоры.</answerNote>
+        </card>
+        <card>
+            <question>ректор</question>
+            <answer>Самый главный человек в университете.</answer>
+            <answerNote>Кто ректор в вашем университете?</answerNote>
+        </card>
+        <card>
+            <question>рецепт</question>
+            <answer>Описание, из чего и как приготовить еду.</answer>
+            <answerNote>Это очень лёгкий рецепт! Тебе понадобится всего пятнадцать минут.</answerNote>
+        </card>
+        <card>
+            <question>речь</question>
+            <answer>Когда человек говорит вслух перед другими людьми.</answer>
+            <answerNote>В начале вечера выступил президент с небольшой речью.</answerNote>
+        </card>
+        <card>
+            <question>решительный</question>
+            <answer>Такой человек, который не боится и быстро выбирает, что делать.</answer>
+            <answerNote>В детстве он был решительным и независимым ребёнком.</answerNote>
+        </card>
+        <card>
+            <question>рисунок</question>
+            <answer>Картинка, которую сделали карандашом или красками.</answer>
+            <answerNote>Кто нарисовал этот рисунок?</answerNote>
+        </card>
+        <card>
+            <question>рождество</question>
+            <answer>Большой зимний праздник, день, когда родился Иисус Христос.</answer>
+            <answerNote>Где вы празднуете Рождество в этом году?</answerNote>
+        </card>
+        <card>
+            <question>роза</question>
+            <answer>Красивый цветок с сильным запахом, у него на стебле колючки.</answer>
+            <answerNote>Он подарил жене букет из красных роз.</answerNote>
+        </card>
+        <card>
+            <question>розовый</question>
+            <answer>Цвет — светло-красный, как у многих цветов.</answer>
+            <answerNote>Где мои розовые носки?</answerNote>
+        </card>
+        <card>
+            <question>рояль</question>
+            <answer>Большой музыкальный инструмент с чёрными и белыми клавишами.</answer>
+            <answerNote>Как красиво он умел играть на рояле!</answerNote>
+        </card>
+        <card>
+            <question>ругать</question>
+            <answer>Говорить кому-то злые слова за то, что он сделал плохо.</answer>
+            <answerNote>Соседи ругают его за шум по ночам.</answerNote>
+        </card>
+        <card>
+            <question>руководитель</question>
+            <answer>Главный человек, который говорит другим, что делать.</answer>
+            <answerNote>Руководитель проекта заявил, что денег не хватает.</answerNote>
+        </card>
+        <card>
+            <question>руководить</question>
+            <answer>Быть главным и говорить другим, что нужно делать.</answer>
+            <answerNote>Он никогда ещё не руководил такой большой компанией.</answerNote>
+        </card>
+        <card>
+            <question>рыбак</question>
+            <answer>Человек, который ловит рыбу.</answer>
+            <answerNote>Сергей — опытный рыбак.</answerNote>
+        </card>
+        <card>
+            <question>салют</question>
+            <answer>Красивые яркие огни, которые пускают в небо на праздник.</answer>
+            <answerNote>Праздничный салют начнётся в 21:00.</answerNote>
+        </card>
+        <card>
+            <question>самовар</question>
+            <answer>Большой русский сосуд из металла, в котором греют воду для чая.</answer>
+            <answerNote>Вечером они сидели на террасе и пили чай из самовара.</answerNote>
+        </card>
+        <card>
+            <question>свежий</question>
+            <answer>Только что сделанный или собранный, ещё не старый.</answer>
+            <answerNote>Утром мама купила свежий хлеб.</answerNote>
+        </card>
+        <card>
+            <question>свинья</question>
+            <answer>Домашнее животное с толстым телом и маленьким хвостиком. Живёт на ферме.</answer>
+            <answerNote>На ферме жили свиньи и коровы.</answerNote>
+        </card>
+        <card>
+            <question>свитер</question>
+            <answer>Тёплая вязаная одежда, которую надевают через голову.</answer>
+            <answerNote>Надень свитер! Холодно.</answerNote>
+        </card>
+        <card>
+            <question>свобода</question>
+            <answer>Когда человек может делать что хочет, и никто ему не запрещает.</answer>
+            <answerNote>Свобода требует от человека ответственности.</answerNote>
+        </card>
+        <card>
+            <question>связь</question>
+            <answer>Когда люди могут говорить друг с другом издалека — по телефону или интернету.</answer>
+            <answerNote>После урагана связь в городе восстановлена.</answerNote>
+        </card>
+        <card>
+            <question>сгорать</question>
+            <answer>Пропадать в огне, полностью превращаться в пепел.</answer>
+            <answerNote>Эти свечи сгорают за час.</answerNote>
+        </card>
+        <card>
+            <question>сельский</question>
+            <answer>Такой, который в деревне, а не в городе.</answer>
+            <answerNote>В этой стране больше сельских жителей, чем горожан.</answerNote>
+        </card>
+        <card>
+            <question>семестр</question>
+            <answer>Половина учебного года в университете.</answer>
+            <answerNote>Какие предметы будут у вас в следующем семестре?</answerNote>
+        </card>
+        <card>
+            <question>семинар</question>
+            <answer>Занятие, где ученики вместе с учителем обсуждают тему.</answer>
+            <answerNote>Об этом мы поговорим на следующем семинаре.</answerNote>
+        </card>
+        <card>
+            <question>серебро</question>
+            <answer>Красивый блестящий белый металл. Из него делают кольца и ложки.</answer>
+            <answerNote>Это кольцо из серебра?</answerNote>
+        </card>
+        <card>
+            <question>серебряный</question>
+            <answer>Сделанный из блестящего белого металла или такого же цвета.</answer>
+            <answerNote>Из кармана она достала сумочку с серебряными монетами.</answerNote>
+        </card>
+        <card>
+            <question>середина</question>
+            <answer>Место в самом центре, одинаково далеко от краёв.</answer>
+            <answerNote>Он вышел на середину площади и закричал.</answerNote>
+        </card>
+        <card>
+            <question>сессия</question>
+            <answer>Время в университете, когда студенты сдают все экзамены.</answer>
+            <answerNote>На следующей неделе у студентов сессия.</answerNote>
+        </card>
+        <card>
+            <question>сибирский</question>
+            <answer>Такой, который из Сибири — большой холодной части России.</answer>
+            <answerNote>Нас не пугает сибирский мороз!</answerNote>
+        </card>
+        <card>
+            <question>сила</question>
+            <answer>То, что помогает поднимать тяжёлое и много делать.</answer>
+            <answerNote>После долгого дня мы упали без сил.</answerNote>
+        </card>
+        <card>
+            <question>символ</question>
+            <answer>Знак или предмет, который что-то означает.</answer>
+            <answerNote>Петух — символ Франции?</answerNote>
+        </card>
+        <card>
+            <question>синтаксис</question>
+            <answer>Правила, по которым слова соединяют в предложения.</answer>
+            <answerNote>Синтаксис русского языка — это сложная система.</answerNote>
+        </card>
+        <card>
+            <question>ситуация</question>
+            <answer>То, как обстоят дела прямо сейчас.</answer>
+            <answerNote>Как бы ты действовал в подобной ситуации?</answerNote>
+        </card>
+        <card>
+            <question>скидка</question>
+            <answer>Когда вещь продают дешевле, чем обычно.</answer>
+            <answerNote>Студентам в магазине предоставляются скидки.</answerNote>
+        </card>
+        <card>
+            <question>скорость</question>
+            <answer>Как быстро кто-то едет или движется.</answer>
+            <answerNote>В момент аварии он ехал со скоростью восемьдесят километров в час.</answerNote>
+        </card>
+        <card>
+            <question>скромный</question>
+            <answer>Тихий человек, который не хвалит себя; или очень простой, небольшой.</answer>
+            <answerNote>Рядом со мной сидел тихий и скромный ученик.</answerNote>
+        </card>
+        <card>
+            <question>слабый</question>
+            <answer>У кого мало силы; или совсем небольшой по действию.</answer>
+            <answerNote>После болезни он был совсем слабый.</answerNote>
+        </card>
+        <card>
+            <question>славянский</question>
+            <answer>Связанный с народами, которые говорят на похожих языках: русские, поляки, сербы и другие.</answer>
+            <answerNote>У всех славянских языков есть общий предок.</answerNote>
+        </card>
+        <card>
+            <question>слог</question>
+            <answer>Часть слова, которую говорят за один раз. «Ма-ма» — это две части.</answer>
+            <answerNote>В слове «банан» два слога.</answerNote>
+        </card>
+        <card>
+            <question>сломать</question>
+            <answer>Сделать так, что вещь разбилась или перестала работать.</answer>
+            <answerNote>Осторожно! Эту вазу легко сломать.</answerNote>
+        </card>
+        <card>
+            <question>слон</question>
+            <answer>Очень большое серое животное с длинным носом-хоботом и большими ушами.</answer>
+            <answerNote>Африканский слон — самое большое из животных, проживающих на суше.</answerNote>
+        </card>
+        <card>
+            <question>служить</question>
+            <answer>Работать в армии; или быть чем-то полезным, использоваться для чего-то.</answer>
+            <answerNote>Их сын сейчас служит на границе с Японией.</answerNote>
+        </card>
+        <card>
+            <question>смысл</question>
+            <answer>То, что означает слово или зачем что-то нужно.</answer>
+            <answerNote>Он нашёл смысл своей жизни в детях.</answerNote>
+        </card>
+        <card>
+            <question>снимать</question>
+            <answer>Убирать с себя одежду; или делать фильм и фотографии.</answer>
+            <answerNote>В Японии нужно снимать обувь перед входом в помещение.</answerNote>
+        </card>
+        <card>
+            <question>собираться</question>
+            <answer>Готовиться что-то сделать или куда-то пойти.</answer>
+            <answerNote>Мы так долго собирались, что опоздали на фильм.</answerNote>
+        </card>
+        <card>
+            <question>совершенный</question>
+            <answer>Такой хороший, что лучше уже быть не может, без единой ошибки.</answer>
+            <answerNote>Ни один человек на Земле не обладает совершенным разумом.</answerNote>
+        </card>
+        <card>
+            <question>советоваться</question>
+            <answer>Спрашивать у другого человека, как лучше поступить.</answer>
+            <answerNote>К кому ты обычно ходишь советоваться?</answerNote>
+        </card>
+        <card>
+            <question>советский</question>
+            <answer>Связанный с СССР — большой страной, которая была на месте России раньше.</answer>
+            <answerNote>Это здание не ремонтировали с советских времён.</answerNote>
+        </card>
+        <card>
+            <question>соглашаться</question>
+            <answer>Говорить «да», принимать чужое предложение или мнение.</answer>
+            <answerNote>Он не соглашался работать ночью.</answerNote>
+        </card>
+        <card>
+            <question>создавать</question>
+            <answer>Делать то, чего раньше не было.</answer>
+            <answerNote>Многие подростки создают свои рок-группы.</answerNote>
+        </card>
+        <card>
+            <question>солдат</question>
+            <answer>Человек в армии, который защищает страну.</answer>
+            <answerNote>Мимо нас строем прошли солдаты.</answerNote>
+        </card>
+        <card>
+            <question>сомневаться</question>
+            <answer>Не быть уверенным, думать, что может быть и не так.</answer>
+            <answerNote>Я часто сомневаюсь в правильности своих поступков.</answerNote>
+        </card>
+        <card>
+            <question>сон</question>
+            <answer>Когда человек спит; или картинки, которые он видит во время сна.</answer>
+            <answerNote>Я видел тебя во сне.</answerNote>
+        </card>
+        <card>
+            <question>соревнование</question>
+            <answer>Игра или гонка, где люди хотят стать первыми.</answer>
+            <answerNote>Ты будешь участвовать в соревнованиях по бегу?</answerNote>
+        </card>
+        <card>
+            <question>состоять</question>
+            <answer>Быть сделанным из каких-то частей. Также: быть в чём-то заключаться.</answer>
+            <answerNote>Эти механизмы состоят из тысяч мелких деталей.</answerNote>
+        </card>
+        <card>
+            <question>соус</question>
+            <answer>Густая жидкость, которую добавляют к еде для вкуса.</answer>
+            <answerNote>Вася приготовил курицу в сливочном соусе.</answerNote>
+        </card>
+        <card>
+            <question>сохранять</question>
+            <answer>Делать так, чтобы что-то не пропало и осталось таким же.</answer>
+            <answerNote>Немногие понимают, как важно сохранять исторические здания.</answerNote>
+        </card>
+        <card>
+            <question>социализм</question>
+            <answer>Такое устройство жизни в стране, когда заводы и земля принадлежат всем людям вместе, а не отдельным
+                богатым хозяевам.
+            </answer>
+            <answerNote>Он сказал, что это возможно только при социализме.</answerNote>
+        </card>
+        <card>
+            <question>социальный</question>
+            <answer>Связанный с людьми и их жизнью вместе, в обществе.</answer>
+            <answerNote>Этот закон действует в интересах разных социальных групп.</answerNote>
+        </card>
+        <card>
+            <question>союз</question>
+            <answer>Когда люди или страны договорились быть вместе и помогать друг другу.</answer>
+            <answerNote>Почему Россия находилась в союзе с Францией?</answerNote>
+        </card>
+        <card>
+            <question>спасать</question>
+            <answer>Помогать тому, кому грозит беда или смерть, чтобы с ним ничего плохого не случилось.</answer>
+            <answerNote>При пожаре первыми нужно спасать людей, а уже потом — вещи.</answerNote>
+        </card>
+        <card>
+            <question>спектакль</question>
+            <answer>Представление в театре: актёры на сцене показывают историю, а зрители смотрят.</answer>
+            <answerNote>Во сколько заканчивается этот спектакль?</answerNote>
+        </card>
+        <card>
+            <question>специальный</question>
+            <answer>Сделанный для одного определённого дела, не для всего подряд.</answer>
+            <answerNote>В их школе есть специальные курсы по фотографии.</answerNote>
+        </card>
+        <card>
+            <question>спешить</question>
+            <answer>Идти или делать что-то очень быстро, потому что мало времени.</answer>
+            <answerNote>Он выглядел так, словно никуда не спешил.</answerNote>
+        </card>
+        <card>
+            <question>спина</question>
+            <answer>Задняя часть тела человека, от шеи до пояса.</answer>
+            <answerNote>За спиной у Наташи был небольшой рюкзак.</answerNote>
+        </card>
+        <card>
+            <question>список</question>
+            <answer>Названия или имена, записанные одно под другим.</answer>
+            <answerNote>Составь список вещей, которые возьмёшь в поездку.</answerNote>
+        </card>
+        <card>
+            <question>спорить</question>
+            <answer>Говорить друг другу разное, потому что каждый думает по-своему и хочет доказать, что он прав.
+            </answer>
+            <answerNote>О чём это они спорят?</answerNote>
+        </card>
+        <card>
+            <question>способный</question>
+            <answer>Такой, который может что-то сделать или у кого хорошо получается учиться.</answer>
+            <answerNote>Этот человек вообще не способен на зло.</answerNote>
+        </card>
+        <card>
+            <question>спутник</question>
+            <answer>Тело, которое летает вокруг планеты. Луна — такое тело у Земли, а люди делают и запускают свои.
+            </answer>
+            <answerNote>Сколько спутников у Марса?</answerNote>
+        </card>
+        <card>
+            <question>сравнивать</question>
+            <answer>Смотреть на две вещи вместе и искать, чем они похожи и чем разные.</answer>
+            <answerNote>Его часто сравнивают с Леонардо да Винчи.</answerNote>
+        </card>
+        <card>
+            <question>стараться</question>
+            <answer>Делать что-то с усилием, чтобы получилось хорошо.</answer>
+            <answerNote>Я стараюсь каждое утро пробегать три километра.</answerNote>
+        </card>
+        <card>
+            <question>старик</question>
+            <answer>Мужчина, который прожил много лет.</answer>
+            <answerNote>Почему же в таком случае старики у нас такие бедные?</answerNote>
+        </card>
+        <card>
+            <question>старинный</question>
+            <answer>Сделанный очень давно, много лет назад.</answer>
+            <answerNote>На полках стояли старинные книги.</answerNote>
+        </card>
+        <card>
+            <question>стипендия</question>
+            <answer>Деньги, которые платят студенту, пока он учится.</answer>
+            <answerNote>Тебе всё ещё не выплатили стипендию?</answerNote>
+        </card>
+        <card>
+            <question>стирать</question>
+            <answer>Мыть грязную одежду в воде с порошком.</answer>
+            <answerNote>При какой температуре можно стирать эту рубашку?</answerNote>
+        </card>
+        <card>
+            <question>сторона</question>
+            <answer>Одна из частей чего-то: правая или левая, передняя или задняя. Или направление, куда идти.</answer>
+            <answerNote>Мне кажется, ситуация меняется не в лучшую сторону.</answerNote>
+        </card>
+        <card>
+            <question>страдать</question>
+            <answer>Сильно мучиться от боли или горя.</answer>
+            <answerNote>Их кошка страдает, когда хозяева оставляют её надолго одну.</answerNote>
+        </card>
+        <card>
+            <question>странный</question>
+            <answer>Необычный, не такой, как всегда бывает; непонятный.</answer>
+            <answerNote>У нас очень странный сосед.</answerNote>
+        </card>
+        <card>
+            <question>страшный</question>
+            <answer>Такой, от которого становится очень боязно.</answer>
+            <answerNote>Тебе не страшно прыгать с парашютом?</answerNote>
+        </card>
+        <card>
+            <question>стремиться</question>
+            <answer>Очень хотеть чего-то добиться и идти к этому.</answer>
+            <answerNote>Он с детства стремился стать президентом.</answerNote>
+        </card>
+        <card>
+            <question>стройка</question>
+            <answer>Место, где сейчас делают новый дом.</answer>
+            <answerNote>На стройке всегда много пыли и мусора.</answerNote>
+        </card>
+        <card>
+            <question>судьба</question>
+            <answer>То, как складывается жизнь человека; как будто кто-то заранее решил, что с ним будет.</answer>
+            <answerNote>Она часто жаловалась на свою судьбу.</answerNote>
+        </card>
+        <card>
+            <question>сухой</question>
+            <answer>Без воды, не мокрый.</answer>
+            <answerNote>На земле лежали сухие листья, сломанные ветки.</answerNote>
+        </card>
+        <card>
+            <question>существительное</question>
+            <answer>Слово, которое называет предмет, человека или животное: «стол», «мама», «кот».</answer>
+            <answerNote>Существительное в русском языке изменяется по числам и по падежам.</answerNote>
+        </card>
+        <card>
+            <question>существовать</question>
+            <answer>Быть на самом деле, а не только в мыслях.</answer>
+            <answerNote>Существуют и другие способы решить эту проблему.</answerNote>
+        </card>
+        <card>
+            <question>сфотографироваться</question>
+            <answer>Сделать снимок, на котором ты сам.</answer>
+            <answerNote>Мы поднялись на башню и там сфотографировались.</answerNote>
+        </card>
+        <card>
+            <question>сцена</question>
+            <answer>Высокое место в театре, где стоят актёры, а зрители смотрят на них.</answer>
+            <answerNote>Где Саша? Ему пора выходить на сцену!</answerNote>
+        </card>
+        <card>
+            <question>счет</question>
+            <answer>Место в банке, где лежат деньги человека. Ещё: бумага, где написано, сколько надо заплатить.
+            </answer>
+            <answerNote>Он и сам не знал, сколько денег у него на счёте.</answerNote>
+        </card>
+        <card>
+            <question>считать</question>
+            <answer>Думать так, иметь такое мнение. Ещё: называть числа по порядку.</answer>
+            <answerNote>Я не считаю, что это правильное решение.</answerNote>
+        </card>
+        <card>
+            <question>сшивать</question>
+            <answer>Соединять куски ткани иголкой и ниткой.</answer>
+            <answerNote>Бабушка сшивает два куска ткани.</answerNote>
+        </card>
+        <card>
+            <question>съезд</question>
+            <answer>Большая встреча, куда приезжают люди из разных мест, чтобы вместе всё обсудить.</answer>
+            <answerNote>Какие вопросы будут обсуждаться на съезде?</answerNote>
+        </card>
+        <card>
+            <question>таблетка</question>
+            <answer>Маленький круглый кусочек лекарства. Его глотают, когда болеешь.</answer>
+            <answerNote>Эта таблетка спасла его от боли.</answerNote>
+        </card>
+        <card>
+            <question>тайна</question>
+            <answer>То, что знают не все и не рассказывают другим.</answer>
+            <answerNote>Я могу доверить тебе эту тайну?</answerNote>
+        </card>
+        <card>
+            <question>таможенный</question>
+            <answer>Связанный с проверкой вещей на границе между странами.</answer>
+            <answerNote>Как заполнять таможенные декларации?</answerNote>
+        </card>
+        <card>
+            <question>таможня</question>
+            <answer>Место на границе, где проверяют вещи людей, когда они едут в другую страну.</answer>
+            <answerNote>Мы оставили вещи на таможне и пешком дошли до отеля.</answerNote>
+        </card>
+        <card>
+            <question>творчество</question>
+            <answer>Когда человек придумывает и делает новое: пишет книги, рисует, сочиняет музыку.</answer>
+            <answerNote>В его творчестве мне больше всего нравились стихи.</answerNote>
+        </card>
+        <card>
+            <question>тема</question>
+            <answer>То, о чём говорят или пишут.</answer>
+            <answerNote>Кто ещё хочет что-то добавить по этой теме?</answerNote>
+        </card>
+        <card>
+            <question>теоретический</question>
+            <answer>Который есть только в мыслях и книгах, а не на деле.</answer>
+            <answerNote>Он двадцать лет был деканом факультета теоретической физики.</answerNote>
+        </card>
+        <card>
+            <question>теория</question>
+            <answer>Объяснение учёных, как что-то устроено или почему так происходит.</answer>
+            <answerNote>Эйнштейн создал теорию относительности в 1905 году.</answerNote>
+        </card>
+        <card>
+            <question>теплоход</question>
+            <answer>Большой корабль с мотором. Он возит людей по реке или морю.</answer>
+            <answerNote>Летом он работал экскурсоводом на теплоходах, а зимой — официантом в кафе.</answerNote>
+        </card>
+        <card>
+            <question>тихий</question>
+            <answer>Без шума, звучит совсем слабо.</answer>
+            <answerNote>В деревне было тихо и спокойно.</answerNote>
+        </card>
+        <card>
+            <question>тишина</question>
+            <answer>Когда совсем нет шума и ничего не слышно.</answer>
+            <answerNote>Там очень шумно, а мне нужна тишина.</answerNote>
+        </card>
+        <card>
+            <question>ткать</question>
+            <answer>Делать ткань, переплетая нитки друг с другом.</answer>
+            <answerNote>Раньше эту ткань ткали только вручную, а теперь — на фабриках.</answerNote>
+        </card>
+        <card>
+            <question>товар</question>
+            <answer>Вещь, которую продают в магазине.</answer>
+            <answerNote>Каждый хочет продать свой товар подороже.</answerNote>
+        </card>
+        <card>
+            <question>ток</question>
+            <answer>Электричество, которое бежит по проводам и заставляет работать лампу и телевизор.</answer>
+            <answerNote>Он резко вздрогнул от удара током.</answerNote>
+        </card>
+        <card>
+            <question>толстый</question>
+            <answer>Широкий, если смотреть сбоку; не тонкий. О человеке — полный.</answer>
+            <answerNote>На стене был толстый слой краски.</answerNote>
+        </card>
+        <card>
+            <question>том</question>
+            <answer>Одна книга из нескольких, которые вместе составляют одно большое сочинение.</answer>
+            <answerNote>Первый том этой энциклопедии был издан в 1960 году.</answerNote>
+        </card>
+        <card>
+            <question>тонкий</question>
+            <answer>Узкий, если смотреть сбоку; не толстый.</answer>
+            <answerNote>Помойте лук и нарежьте его тонкими ломтиками.</answerNote>
+        </card>
+        <card>
+            <question>торговля</question>
+            <answer>Когда одни продают вещи, а другие их покупают.</answer>
+            <answerNote>Власти решили, что уличную торговлю нужно переводить в магазины.</answerNote>
+        </card>
+        <card>
+            <question>точный</question>
+            <answer>Верный до мелочей, без ошибок.</answer>
+            <answerNote>Вот мой точный адрес; отправьте письмо на него, пожалуйста!</answerNote>
+        </card>
+        <card>
+            <question>трава</question>
+            <answer>Низкие зелёные растения, которые растут на земле в поле и во дворе.</answer>
+            <answerNote>Они лежали на траве, разглядывая облака.</answerNote>
+        </card>
+        <card>
+            <question>трагедия</question>
+            <answer>Очень большое горе, когда случилось что-то страшное.</answer>
+            <answerNote>Это событие он переживал как личную трагедию.</answerNote>
+        </card>
+        <card>
+            <question>традиция</question>
+            <answer>То, что люди делают одинаково много лет, потому что так было принято раньше.</answer>
+            <answerNote>По традиции, первым будет говорить самый старший в семье.</answerNote>
+        </card>
+        <card>
+            <question>требовать</question>
+            <answer>Строго говорить, что тебе обязательно должны что-то дать или сделать.</answer>
+            <answerNote>Это очень сложная работа, она требует высокого мастерства.</answerNote>
+        </card>
+        <card>
+            <question>тренер</question>
+            <answer>Человек, который учит спортсменов и говорит им, как заниматься.</answer>
+            <answerNote>Ты занимаешься в зале один или с тренером?</answerNote>
+        </card>
+        <card>
+            <question>тренировать</question>
+            <answer>Учить кого-то и заставлять много упражняться, чтобы он стал сильнее и умелее.</answer>
+            <answerNote>Запоминая стихи, я тренирую свою память.</answerNote>
+        </card>
+        <card>
+            <question>тренироваться</question>
+            <answer>Много раз повторять упражнения, чтобы стать сильнее и лучше.</answer>
+            <answerNote>Она тренируется пять раз в неделю.</answerNote>
+        </card>
+        <card>
+            <question>тренировка</question>
+            <answer>Занятие, на котором спортсмен делает упражнения, чтобы стать лучше.</answer>
+            <answerNote>В жизни он очень весёлый, но на тренировках всегда серьёзен.</answerNote>
+        </card>
+        <card>
+            <question>тройка</question>
+            <answer>Число 3. В школе это оценка: не плохо, но и не хорошо.</answer>
+            <answerNote>Он расстроился из-за того, что получил тройку за сочинение.</answerNote>
+        </card>
+        <card>
+            <question>трудиться</question>
+            <answer>Много и усердно работать.</answer>
+            <answerNote>Он трудится с утра до ночи над новой книгой.</answerNote>
+        </card>
+        <card>
+            <question>трудолюбивый</question>
+            <answer>Такой человек, который любит работать и не ленится.</answer>
+            <answerNote>Я очень уважаю её трудолюбивый характер.</answerNote>
+        </card>
+        <card>
+            <question>туман</question>
+            <answer>Белое облако прямо у земли. В нём плохо видно вокруг.</answer>
+            <answerNote>Через несколько часов туман рассеялся, и самолёты смогли вылететь из аэропорта.</answerNote>
+        </card>
+        <card>
+            <question>туча</question>
+            <answer>Большое тёмное облако, из которого идёт дождь.</answer>
+            <answerNote>На небе собрались дождевые тучи.</answerNote>
+        </card>
+        <card>
+            <question>тюрьма</question>
+            <answer>Дом с решётками, куда закрывают людей за плохие дела. Оттуда нельзя выйти.</answer>
+            <answerNote>Он просидел в тюрьме десять лет, но не сломался и не обозлился.</answerNote>
+        </card>
+        <card>
+            <question>убегать</question>
+            <answer>Быстро уходить бегом, чтобы тебя не поймали или не задержали.</answer>
+            <answerNote>Главный герой фильма убегает из дома и начинает новую жизнь.</answerNote>
+        </card>
+        <card>
+            <question>убеждать</question>
+            <answer>Говорить так, чтобы другой человек поверил тебе и согласился.</answer>
+            <answerNote>Они целый час убеждали меня купить эту машину.</answerNote>
+        </card>
+        <card>
+            <question>убирать</question>
+            <answer>Наводить чистоту и порядок: мыть пол, класть вещи на место.</answer>
+            <answerNote>В их семье готовит и убирает муж, а жена зарабатывает деньги.</answerNote>
+        </card>
+        <card>
+            <question>увезти</question>
+            <answer>Забрать кого-то или что-то в другое место на машине, поезде.</answer>
+            <answerNote>Она боялась, что скорая помощь увезёт её в больницу.</answerNote>
+        </card>
+        <card>
+            <question>увеличиваться</question>
+            <answer>Становиться больше по размеру или числу.</answer>
+            <answerNote>Число людей, совершающих покупки в интернете, будет только увеличиваться.</answerNote>
+        </card>
+        <card>
+            <question>увлекаться</question>
+            <answer>Очень любить какое-то занятие и заниматься им в свободное время.</answer>
+            <answerNote>Чем увлекается Ваш сын?</answerNote>
+        </card>
+        <card>
+            <question>увлечение</question>
+            <answer>Любимое дело, которым занимаются для удовольствия в свободное время.</answer>
+            <answerNote>Ему нравится футбол, но главное его увлечение — фотография.</answerNote>
+        </card>
+        <card>
+            <question>уводить</question>
+            <answer>Брать кого-то с собой и вести из одного места в другое.</answer>
+            <answerNote>Он берёт её за руку и уводит из зала.</answerNote>
+        </card>
+        <card>
+            <question>увозить</question>
+            <answer>Брать кого-то или что-то с собой в другое место на машине, поезде.</answer>
+            <answerNote>Каждый год они увозят детей на море на всё лето.</answerNote>
+        </card>
+        <card>
+            <question>угол</question>
+            <answer>Место, где сходятся две стены или две стороны чего-то.</answer>
+            <answerNote>В углу стояло большое синее кресло.</answerNote>
+        </card>
+        <card>
+            <question>уголь</question>
+            <answer>Чёрный твёрдый камень. Его достают из земли и жгут, чтобы было тепло.</answer>
+            <answerNote>Печи здесь топили углём, потому что дров было мало.</answerNote>
+        </card>
+        <card>
+            <question>удаваться</question>
+            <answer>Когда что-то получается так, как хотел.</answer>
+            <answerNote>Как ему удаётся так реалистично рисовать?</answerNote>
+        </card>
+        <card>
+            <question>ударять</question>
+            <answer>Сильно и резко стукнуть по чему-то.</answer>
+            <answerNote>Крупные капли дождя со звоном ударяли в окна.</answerNote>
+        </card>
+        <card>
+            <question>удивление</question>
+            <answer>Чувство, когда случилось что-то неожиданное и ты этого не ждал.</answer>
+            <answerNote>На её лице я увидел удивление.</answerNote>
+        </card>
+        <card>
+            <question>удивлять</question>
+            <answer>Делать так, что другой человек не ждал этого и ему странно.</answer>
+            <answerNote>Его талант не перестаёт меня удивлять.</answerNote>
+        </card>
+        <card>
+            <question>удивляться</question>
+            <answer>Чувствовать неожиданность, когда случилось не то, чего ты ждал.</answer>
+            <answerNote>Они часто удивляются, почему коллеги не помнят своих инструкций.</answerNote>
+        </card>
+        <card>
+            <question>ужасный</question>
+            <answer>Очень плохой и страшный.</answer>
+            <answerNote>На улице была ужасная жара.</answerNote>
+        </card>
+        <card>
+            <question>укол</question>
+            <answer>Когда врач иголкой вводит лекарство внутрь тела.</answer>
+            <answerNote>После укола боль прошла, и Наташа смогла заснуть.</answerNote>
+        </card>
+        <card>
+            <question>улетать</question>
+            <answer>Отправляться в другое место на самолёте.</answer>
+            <answerNote>Завтра он улетает в Калифорнию.</answerNote>
+        </card>
+        <card>
+            <question>улучшать</question>
+            <answer>Делать что-то лучше, чем было.</answer>
+            <answerNote>Нам нужно улучшать качество продукции.</answerNote>
+        </card>
+        <card>
+            <question>улучшаться</question>
+            <answer>Становиться лучше, чем было.</answer>
+            <answerNote>От чего у вас улучшается настроение?</answerNote>
+        </card>
+        <card>
+            <question>улыбка</question>
+            <answer>Радостное лицо с растянутыми губами.</answer>
+            <answerNote>Мне нравилось, что на лице его всегда была улыбка.</answerNote>
+        </card>
+        <card>
+            <question>уменьшаться</question>
+            <answer>Становиться меньше по размеру или числу.</answer>
+            <answerNote>С появлением компьютерных систем уменьшается число ошибок.</answerNote>
+        </card>
+        <card>
+            <question>умываться</question>
+            <answer>Мыть себе лицо и руки водой.</answer>
+            <answerNote>Утром я умываюсь холодной водой.</answerNote>
+        </card>
+        <card>
+            <question>уникальный</question>
+            <answer>Такой один-единственный, другого такого нет.</answer>
+            <answerNote>История этой семьи уникальна.</answerNote>
+        </card>
+        <card>
+            <question>употреблять</question>
+            <answer>Есть, пить или принимать что-то внутрь. Ещё: пользоваться словом в речи.</answer>
+            <answerNote>Врачи не советуют беременным женщинам употреблять алкоголь.</answerNote>
+        </card>
+        <card>
+            <question>урожай</question>
+            <answer>Всё, что выросло в поле или в саду и что собрали.</answer>
+            <answerNote>В этом году мы собрали рекордный урожай картофеля.</answerNote>
+        </card>
+        <card>
+            <question>ус</question>
+            <answer>Волосы, которые растут у мужчины над губой.</answer>
+            <answerNote>Это был высокий мужчина с густыми усами и весёлыми глазами.</answerNote>
+        </card>
+        <card>
+            <question>условие</question>
+            <answer>То, что должно быть или должно случиться, чтобы получилось нужное.</answer>
+            <answerNote>Уважаемые пассажиры, вылет рейса задерживается из-за неблагоприятных погодных условий.
+            </answerNote>
+        </card>
+        <card>
+            <question>успевать</question>
+            <answer>Делать что-то вовремя, пока есть время.</answer>
+            <answerNote>Студенты жалуются, что они не успевают записать лекцию.</answerNote>
+        </card>
+        <card>
+            <question>успокаиваться</question>
+            <answer>Переставать волноваться, плакать или шуметь. Становиться тихим и спокойным.</answer>
+            <answerNote>Спать пора, а дети всё никак не успокаиваются.</answerNote>
+        </card>
+        <card>
+            <question>усталый</question>
+            <answer>Такой, у кого больше нет сил. Ему нужен отдых.</answer>
+            <answerNote>Что с тобой? Ты выглядишь усталой.</answerNote>
+        </card>
+        <card>
+            <question>устный</question>
+            <answer>Такой, который говорят голосом, а не пишут на бумаге.</answer>
+            <answerNote>Слово это в устной речи почти не встречается.</answerNote>
+        </card>
+        <card>
+            <question>утренний</question>
+            <answer>Который бывает рано, в начале дня.</answer>
+            <answerNote>Два раза в неделю Катя отправляется на утреннюю пробежку.</answerNote>
+        </card>
+        <card>
+            <question>участие</question>
+            <answer>Когда человек делает общее дело вместе с другими.</answer>
+            <answerNote>Более пятисот человек приняли участие в конференции.</answerNote>
+        </card>
+        <card>
+            <question>учащийся</question>
+            <answer>Человек, который ходит в школу или в другое место и получает знания.</answer>
+            <answerNote>Учебник рекомендован для учащихся шестого класса.</answerNote>
+        </card>
+        <card>
+            <question>училище</question>
+            <answer>Место, где после школы получают одну профессию, например повара или военного.</answer>
+            <answerNote>После девятого класса Олег поступил в кулинарное училище.</answerNote>
+        </card>
+        <card>
+            <question>учёба</question>
+            <answer>Время, когда человек ходит в школу или университет и получает знания.</answer>
+            <answerNote>На третьем курсе у моего брата начались проблемы с учёбой.</answerNote>
+        </card>
+        <card>
+            <question>фаза</question>
+            <answer>Одна часть большого дела или события. Сначала одна часть, потом другая.</answer>
+            <answerNote>Наконец наступила центральная фаза солнечного затмения.</answerNote>
+        </card>
+        <card>
+            <question>факт</question>
+            <answer>То, что правда было или есть на самом деле.</answer>
+            <answerNote>Вот лишь несколько фактов из жизни учёного.</answerNote>
+        </card>
+        <card>
+            <question>фашизм</question>
+            <answer>Очень злая власть, где один народ считают лучшим, а других убивают. Люди там не свободны.</answer>
+            <answerNote>Вы должны понимать, что такая политика приведёт к фашизму.</answerNote>
+        </card>
+        <card>
+            <question>фашист</question>
+            <answer>Человек, который считает свой народ лучшим и хочет убивать других людей.</answer>
+            <answerNote>Восьмого ноября фашисты были уже в городе.</answerNote>
+        </card>
+        <card>
+            <question>фигурный</question>
+            <answer>С красивым необычным рисунком или изгибами. Также говорят про катание на коньках с танцами.</answer>
+            <answerNote>Восемнадцатого сентября начинается чемпионат мира по фигурному катанию.</answerNote>
+        </card>
+        <card>
+            <question>флаг</question>
+            <answer>Кусок цветной ткани на палке. Он показывает страну или город.</answer>
+            <answerNote>Как выглядит флаг Австралии?</answerNote>
+        </card>
+        <card>
+            <question>фонетика</question>
+            <answer>Наука о звуках речи: как люди их говорят и слышат.</answer>
+            <answerNote>Нас учит лучший в Москве преподаватель по фонетике.</answerNote>
+        </card>
+        <card>
+            <question>фото</question>
+            <answer>Картинка, которую сделали камерой. На ней видно людей или место.</answer>
+            <answerNote>Фото получилось отличное!</answerNote>
+        </card>
+        <card>
+            <question>фотографироваться</question>
+            <answer>Стоять перед камерой, чтобы получился снимок с тобой.</answer>
+            <answerNote>Мы каждый год фотографируемся в одном и том же месте.</answerNote>
+        </card>
+        <card>
+            <question>фронт</question>
+            <answer>Место на войне, где идут бои. Там воюют солдаты.</answer>
+            <answerNote>Его отец погиб на фронте в 1942 году.</answerNote>
+        </card>
+        <card>
+            <question>футбольный</question>
+            <answer>Такой, который связан с игрой в мяч ногами.</answer>
+            <answerNote>Футбольный матч между Барселоной и Реалом начнётся в 19:00.</answerNote>
+        </card>
+        <card>
+            <question>хвалить</question>
+            <answer>Говорить человеку хорошие слова, потому что он сделал что-то хорошо.</answer>
+            <answerNote>― Молодец! ― хвалит Лида внучку.</answerNote>
+        </card>
+        <card>
+            <question>хватать</question>
+            <answer>Быстро брать что-то рукой и держать крепко.</answer>
+            <answerNote>Я хватаю его за руку и тащу домой.</answerNote>
+        </card>
+        <card>
+            <question>хватить</question>
+            <answer>Быть в нужном количестве, не мало.</answer>
+            <answerNote>На билет этих денег не хватит.</answerNote>
+        </card>
+        <card>
+            <question>хозяйство</question>
+            <answer>Все дела и вещи, которыми управляют: земля, животные, работа. Часто говорят про село, где выращивают
+                еду.
+            </answer>
+            <answerNote>На этом рынке продаются овощи с небольших фермерских хозяйств.</answerNote>
+        </card>
+        <card>
+            <question>холодильник</question>
+            <answer>Большой белый шкаф на кухне. Внутри него холодно, и еда не портится.</answer>
+            <answerNote>Маша, поставь молоко в холодильник!</answerNote>
+        </card>
+        <card>
+            <question>хотеться</question>
+            <answer>Когда есть желание, и оно приходит само.</answer>
+            <answerNote>Так пить хочется! У тебя нет воды?</answerNote>
+        </card>
+        <card>
+            <question>храм</question>
+            <answer>Большой красивый дом, куда люди приходят молиться Богу.</answer>
+            <answerNote>Каждое воскресенье она ходит в храм.</answerNote>
+        </card>
+        <card>
+            <question>художественный</question>
+            <answer>Такой, который связан с искусством: с картинами, книгами, красотой.</answer>
+            <answerNote>Катя была частой посетительницей художественных выставок.</answerNote>
+        </card>
+        <card>
+            <question>худой</question>
+            <answer>Очень тонкий человек, совсем не толстый.</answer>
+            <answerNote>Пришла старшая сестра — строгая, худая, в очках.</answerNote>
+        </card>
+        <card>
+            <question>целоваться</question>
+            <answer>Касаться губами друг друга. Так делают близкие люди.</answer>
+            <answerNote>Проблема в том, что я видела, как он целуется с Маринкой.</answerNote>
+        </card>
+        <card>
+            <question>цель</question>
+            <answer>То, чего человек хочет добиться. Ради этого он что-то делает.</answer>
+            <answerNote>В чём цель вашего исследования?</answerNote>
+        </card>
+        <card>
+            <question>ценный</question>
+            <answer>Очень важный или дорогой. Такое не хочется потерять.</answer>
+            <answerNote>В дороге он потерял несколько ценных подарков.</answerNote>
+        </card>
+        <card>
+            <question>церковь</question>
+            <answer>Дом, куда люди ходят молиться Богу. Так же называют всех верующих вместе.</answer>
+            <answerNote>Эта церковь была построена ещё в четырнадцатом веке.</answerNote>
+        </card>
+        <card>
+            <question>человечество</question>
+            <answer>Все люди на Земле вместе.</answer>
+            <answerNote>Это было самое мощное цунами за всю историю человечества.</answerNote>
+        </card>
+        <card>
+            <question>чемодан</question>
+            <answer>Большая сумка с ручкой. В неё кладут вещи в поездку.</answer>
+            <answerNote>Он схватил чемодан и побежал к поезду.</answerNote>
+        </card>
+        <card>
+            <question>чемпионат</question>
+            <answer>Большое соревнование, где ищут самого сильного или быстрого.</answer>
+            <answerNote>Он приехал на чемпионат мира со всей семьёй.</answerNote>
+        </card>
+        <card>
+            <question>чередование</question>
+            <answer>Когда одно и другое идут по очереди, сменяют друг друга.</answer>
+            <answerNote>Это слово с чередованием согласных в корне.</answerNote>
+        </card>
+        <card>
+            <question>четверть</question>
+            <answer>Одна часть из четырёх. В школе так называют часть учебного года.</answer>
+            <answerNote>Сколько времени? Без четверти пять.</answerNote>
+        </card>
+        <card>
+            <question>четвёрка</question>
+            <answer>Цифра 4. В школе это хорошая оценка.</answer>
+            <answerNote>Четвёрка ― это хорошая оценка, но ты можешь и лучше!</answerNote>
+        </card>
+        <card>
+            <question>чудо</question>
+            <answer>Что-то удивительное и очень хорошее, чего почти не бывает.</answer>
+            <answerNote>Я часто напоминал себе, как важно верить в чудеса.</answerNote>
+        </card>
+        <card>
+            <question>чужой</question>
+            <answer>Не свой, а другого человека. Ещё: незнакомый.</answer>
+            <answerNote>И запомни: не пей и не ешь ничего от чужих людей!</answerNote>
+        </card>
+        <card>
+            <question>шашлык</question>
+            <answer>Кусочки мяса, которые жарят на огне на палочке.</answer>
+            <answerNote>Она лучше всех умела готовить шашлык.</answerNote>
+        </card>
+        <card>
+            <question>шея</question>
+            <answer>Часть тела между головой и плечами.</answer>
+            <answerNote>На шее у неё висело крупное ожерелье.</answerNote>
+        </card>
+        <card>
+            <question>шить</question>
+            <answer>Делать одежду из ткани с помощью иголки и нитки.</answer>
+            <answerNote>Раньше на этой фабрике шили джинсы.</answerNote>
+        </card>
+        <card>
+            <question>шляпа</question>
+            <answer>Головной убор с полями вокруг. Носят от солнца или для красоты.</answer>
+            <answerNote>Он вошёл, не снимая шляпы.</answerNote>
+        </card>
+        <card>
+            <question>шоссе</question>
+            <answer>Широкая ровная дорога между городами, где машины едут быстро.</answer>
+            <answerNote>Автомобиль мчался по шоссе.</answerNote>
+        </card>
+        <card>
+            <question>шофер</question>
+            <answer>Человек, который водит машину, это его работа.</answer>
+            <answerNote>Он уже двадцать лет работает шофёром у директора завода.</answerNote>
+        </card>
+        <card>
+            <question>шум</question>
+            <answer>Громкие неприятные звуки, которые мешают.</answer>
+            <answerNote>Шум с улицы мешал нам спать.</answerNote>
+        </card>
+        <card>
+            <question>щека</question>
+            <answer>Мягкая часть лица сбоку, под глазом.</answer>
+            <answerNote>Он поцеловал её в щёку и поехал домой.</answerNote>
+        </card>
+        <card>
+            <question>щётка</question>
+            <answer>Вещь с жёсткими волосками. Ею чистят зубы, обувь или одежду.</answer>
+            <answerNote>Как часто ты меняешь зубную щётку?</answerNote>
+        </card>
+        <card>
+            <question>экологический</question>
+            <answer>Такой, который связан с чистотой природы, воды и воздуха.</answer>
+            <answerNote>Регион оказался на грани экологической катастрофы.</answerNote>
+        </card>
+        <card>
+            <question>экология</question>
+            <answer>Состояние природы вокруг: чистый ли воздух и вода. Ещё это наука о природе.</answer>
+            <answerNote>Он не хочет жить в Москве: там плохая экология.</answerNote>
+        </card>
+        <card>
+            <question>экономить</question>
+            <answer>Тратить меньше денег или сил, беречь их.</answer>
+            <answerNote>Мы выяснили, что новые лампы экономят свет.</answerNote>
+        </card>
+        <card>
+            <question>экспедиция</question>
+            <answer>Долгая поездка группы людей в далёкое место, чтобы что-то изучить.</answer>
+            <answerNote>Мой муж только что вернулся из экспедиции.</answerNote>
+        </card>
+        <card>
+            <question>эксперимент</question>
+            <answer>Опыт: учёные что-то делают и смотрят, что получится.</answer>
+            <answerNote>Результат эксперимента нас удивил.</answerNote>
+        </card>
+        <card>
+            <question>экспорт</question>
+            <answer>Когда страна продаёт свои товары в другие страны.</answer>
+            <answerNote>Нефтяной экспорт снизился за последний год.</answerNote>
+        </card>
+        <card>
+            <question>электричество</question>
+            <answer>Сила, которая идёт по проводам. От неё горит свет и работают приборы.</answer>
+            <answerNote>Мы уже два часа сидим без электричества.</answerNote>
+        </card>
+        <card>
+            <question>электроника</question>
+            <answer>Приборы с проводами и микросхемами: телефоны, компьютеры, телевизоры.</answer>
+            <answerNote>Моя сестра работает в магазине электроники.</answerNote>
+        </card>
+        <card>
+            <question>электростанция</question>
+            <answer>Большое место, где делают ток для города.</answer>
+            <answerNote>Через год здесь построят новую электростанцию.</answerNote>
+        </card>
+        <card>
+            <question>энциклопедия</question>
+            <answer>Большая книга, где коротко написано обо всём на свете.</answer>
+            <answerNote>Что про ту войну пишут в энциклопедиях?</answerNote>
+        </card>
+        <card>
+            <question>эпоха</question>
+            <answer>Долгое время в истории, когда жизнь была особенной.</answer>
+            <answerNote>В 1960 году началась эпоха буги-вуги и рок-н-ролла.</answerNote>
+        </card>
+        <card>
+            <question>этап</question>
+            <answer>Одна ступень в长 длинном деле. Сначала первая, потом вторая.</answer>
+            <answerNote>На собрании она подвела итоги первого этапа исследования.</answerNote>
+        </card>
+        <card>
+            <question>ядерный</question>
+            <answer>Связанный с очень сильной энергией внутри мельчайших частиц.</answer>
+            <answerNote>Марина учится на факультете ядерной физики.</answerNote>
+        </card>
+        <card>
+            <question>языкознание</question>
+            <answer>Наука о том, как устроена речь разных народов.</answer>
+            <answerNote>Андрей Анатольевич читает в университете лекции по языкознанию.</answerNote>
+        </card>
+    </cards>
+</questionary>
