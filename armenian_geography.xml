@@ -2,214 +2,214 @@
 <questionary>
     <id>Армянские пространственные слова</id>
     <title>Пространство (арм.)</title>
-    <questions>
-        <question>
-            <text>դրսում</text>
+    <cards>
+        <card>
+            <question>դրսում</question>
             <answer>снаружи</answer>
-        </question>
-        <question>
-            <text>այստեղ</text>
+        </card>
+        <card>
+            <question>այստեղ</question>
             <answer>здесь</answer>
-        </question>
-        <question>
-            <text>այնտեղ</text>
+        </card>
+        <card>
+            <question>այնտեղ</question>
             <answer>там</answer>
-        </question>
-        <question>
-            <text>աջ</text>
+        </card>
+        <card>
+            <question>աջ</question>
             <answer>правый|направо</answer>
-        </question>
-        <question>
-            <text>ձախ</text>
+        </card>
+        <card>
+            <question>ձախ</question>
             <answer>левый|налево</answer>
-        </question>
-        <question>
-            <text>աջից</text>
+        </card>
+        <card>
+            <question>աջից</question>
             <answer>справа</answer>
-        </question>
-        <question>
-            <text>ձախից</text>
+        </card>
+        <card>
+            <question>ձախից</question>
             <answer>слева</answer>
-        </question>
-        <question>
-            <text>առաջ նայել</text>
+        </card>
+        <card>
+            <question>առաջ նայել</question>
             <answer>вперед смотреть</answer>
-        </question>
-        <question>
-            <text>հետ նայել</text>
+        </card>
+        <card>
+            <question>հետ նայել</question>
             <answer>назад смотреть</answer>
-        </question>
-        <question>
-            <text>առջևում</text>
+        </card>
+        <card>
+            <question>առջևում</question>
             <answer>впереди</answer>
-        </question>
-        <question>
-            <text>հետևում</text>
+        </card>
+        <card>
+            <question>հետևում</question>
             <answer>позади</answer>
-        </question>
-        <question>
-            <text>հյուսիս</text>
+        </card>
+        <card>
+            <question>հյուսիս</question>
             <answer>север</answer>
-        </question>
-        <question>
-            <text>հյուսիսային</text>
+        </card>
+        <card>
+            <question>հյուսիսային</question>
             <answer>северный</answer>
-        </question>
-        <question>
-            <text>հարավ</text>
+        </card>
+        <card>
+            <question>հարավ</question>
             <answer>юг</answer>
-        </question>
-        <question>
-            <text>հարավային</text>
+        </card>
+        <card>
+            <question>հարավային</question>
             <answer>южный</answer>
-        </question>
-        <question>
-            <text>արևելք</text>
+        </card>
+        <card>
+            <question>արևելք</question>
             <answer>восток</answer>
-        </question>
-        <question>
-            <text>արևելյան</text>
+        </card>
+        <card>
+            <question>արևելյան</question>
             <answer>восточный</answer>
-        </question>
-        <question>
-            <text>արևմուտք</text>
+        </card>
+        <card>
+            <question>արևմուտք</question>
             <answer>запад</answer>
-        </question>
-        <question>
-            <text>արևմտյան</text>
+        </card>
+        <card>
+            <question>արևմտյան</question>
             <answer>западный</answer>
-        </question>
-        <question>
-            <text>ուղիղ</text>
+        </card>
+        <card>
+            <question>ուղիղ</question>
             <answer>прямо | прямой</answer>
-        </question>
-        <question>
-            <text>ծուռ</text>
+        </card>
+        <card>
+            <question>ծուռ</question>
             <answer>криво | кривой</answer>
-        </question>
-        <question>
-            <text>փողոց</text>
+        </card>
+        <card>
+            <question>փողոց</question>
             <answer>улица</answer>
-        </question>
-        <question>
-            <text>պողոտա</text>
+        </card>
+        <card>
+            <question>պողոտա</question>
             <answer>проспект</answer>
-        </question>
-        <question>
-            <text>գյուղ</text>
+        </card>
+        <card>
+            <question>գյուղ</question>
             <answer>деревня</answer>
-        </question>
-        <question>
-            <text>սենյակ</text>
+        </card>
+        <card>
+            <question>սենյակ</question>
             <answer>комната</answer>
-        </question>
-        <question>
-            <text>տուն</text>
+        </card>
+        <card>
+            <question>տուն</question>
             <answer>дом</answer>
-        </question>
-        <question>
-            <text>տներ</text>
+        </card>
+        <card>
+            <question>տներ</question>
             <answer>дома (мн. число)</answer>
-        </question>
-        <question>
-            <text>այգի</text>
+        </card>
+        <card>
+            <question>այգի</question>
             <answer>парк|сад</answer>
-        </question>
-        <question>
-            <text>Երևան</text>
+        </card>
+        <card>
+            <question>Երևան</question>
             <answer>Ереван</answer>
-        </question>
-        <question>
-            <text>հայկական</text>
+        </card>
+        <card>
+            <question>հայկական</question>
             <answer>армянский (про производство)</answer>
-        </question>
-        <question>
-            <text>հայերեն</text>
+        </card>
+        <card>
+            <question>հայերեն</question>
             <answer>армянский (только про язык)</answer>
-        </question>
-        <question>
-            <text>րուսերեն</text>
+        </card>
+        <card>
+            <question>րուսերեն</question>
             <answer>русский (язык)</answer>
-        </question>
-        <question>
-            <text>իսպաներեն</text>
+        </card>
+        <card>
+            <question>իսպաներեն</question>
             <answer>испанский (язык)</answer>
-        </question>
-        <question>
-            <text>անգլերեն</text>
+        </card>
+        <card>
+            <question>անգլերեն</question>
             <answer>английский (язык)</answer>
-        </question>
-        <question>
-            <text>վրաստան</text>
+        </card>
+        <card>
+            <question>վրաստան</question>
             <answer>грузия</answer>
-        </question>
-        <question>
-            <text>Մոսկվայում</text>
+        </card>
+        <card>
+            <question>Մոսկվայում</question>
             <answer>в Москве</answer>
-        </question>
-        <question>
-            <text>Մոսկվայից</text>
+        </card>
+        <card>
+            <question>Մոսկվայից</question>
             <answer>из Москвы</answer>
-        </question>
-        <question>
-            <text>Երևանում</text>
+        </card>
+        <card>
+            <question>Երևանում</question>
             <answer>в Ереване</answer>
-        </question>
-        <question>
-            <text>Երևանից</text>
+        </card>
+        <card>
+            <question>Երևանից</question>
             <answer>из Еревана</answer>
-        </question>
-        <question>
-            <text>տա՛նը</text>
+        </card>
+        <card>
+            <question>տա՛նը</question>
             <answer>до́ма</answer>
-        </question>
-        <question>
-            <text>հունարեն</text>
+        </card>
+        <card>
+            <question>հունարեն</question>
             <answer>греческий (язык)</answer>
-        </question>
-        <question>
-            <text>հունական</text>
+        </card>
+        <card>
+            <question>հունական</question>
             <answer>греческий (производство)</answer>
-        </question>
-        <question>
-            <text>քաղաք</text>
+        </card>
+        <card>
+            <question>քաղաք</question>
             <answer>город</answer>
-        </question>
-        <question>
-            <text>հյուրանոց</text>
+        </card>
+        <card>
+            <question>հյուրանոց</question>
             <answer>гостиница</answer>
-        </question>
-        <question>
-            <text>քաղաքից դուրս</text>
+        </card>
+        <card>
+            <question>քաղաքից դուրս</question>
             <answer>за город</answer>
-        </question>
-        <question>
-            <text>աշխարհ</text>
+        </card>
+        <card>
+            <question>աշխարհ</question>
             <answer>мир</answer>
-        </question>
-        <question>
-            <text>սրճարան</text>
+        </card>
+        <card>
+            <question>սրճարան</question>
             <answer>кофейня|кафе</answer>
-        </question>
-        <question>
-            <text>խոհանոց</text>
+        </card>
+        <card>
+            <question>խոհանոց</question>
             <answer>кухня</answer>
-        </question>
-        <question>
-            <text>հրապարակ</text>
+        </card>
+        <card>
+            <question>հրապարակ</question>
             <answer>площадь</answer>
-        </question>
-        <question>
-            <text>չինական</text>
+        </card>
+        <card>
+            <question>չինական</question>
             <answer>китайский</answer>
-        </question>
-        <question>
-            <text>ամենտեղ</text>
+        </card>
+        <card>
+            <question>ամենտեղ</question>
             <answer>везде</answer>
-        </question>
-        <question>
-            <text>ոչ մի տեղ</text>
+        </card>
+        <card>
+            <question>ոչ մի տեղ</question>
             <answer>нигде</answer>
-        </question>
-    </questions>
+        </card>
+    </cards>
 </questionary>

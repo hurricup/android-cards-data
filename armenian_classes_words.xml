@@ -2,458 +2,458 @@
 <questionary>
     <id>Армянские обязательные слова</id>
     <title>Обязательные слова (арм.)</title>
-    <questions>
-        <question>
-            <text>ընկերուհի</text>
+    <cards>
+        <card>
+            <question>ընկերուհի</question>
             <answer>подруга|девушка (ром.)</answer>
-        </question>
-        <question>
-            <text>ընկեր</text>
+        </card>
+        <card>
+            <question>ընկեր</question>
             <answer>друг|парень (ром.)</answer>
-        </question>
-        <question>
-            <text>մեքենա</text>
+        </card>
+        <card>
+            <question>մեքենա</question>
             <answer>машина (любой механизм)</answer>
-        </question>
-        <question>
-            <text>ավտո|ավտոմեքենա</text>
+        </card>
+        <card>
+            <question>ավտո|ավտոմեքենա</question>
             <answer>автомобиль</answer>
-        </question>
-        <question>
-            <text>պայուսակ</text>
+        </card>
+        <card>
+            <question>պայուսակ</question>
             <answer>сумка</answer>
-        </question>
-        <question>
-            <text>խանութ</text>
+        </card>
+        <card>
+            <question>խանութ</question>
             <answer>магазин</answer>
-        </question>
-        <question>
-            <text>հեծանիվ</text>
+        </card>
+        <card>
+            <question>հեծանիվ</question>
             <answer>велосипед</answer>
-        </question>
-        <question>
-            <text>հարց</text>
+        </card>
+        <card>
+            <question>հարց</question>
             <answer>вопрос</answer>
-        </question>
-        <question>
-            <text>պատասխան</text>
+        </card>
+        <card>
+            <question>պատասխան</question>
             <answer>ответ</answer>
-        </question>
-        <question>
-            <text>նուրբ</text>
+        </card>
+        <card>
+            <question>նուրբ</question>
             <answer>нежный|хрупкий</answer>
-        </question>
-        <question>
-            <text>կոպիտ</text>
+        </card>
+        <card>
+            <question>կոպիտ</question>
             <answer>грубый</answer>
-        </question>
-        <question>
-            <text>խելացի</text>
+        </card>
+        <card>
+            <question>խելացի</question>
             <answer>умный</answer>
-        </question>
-        <question>
-            <text>հիմար|դեբիլ</text>
+        </card>
+        <card>
+            <question>հիմար|դեբիլ</question>
             <answer>глупый</answer>
-        </question>
-        <question>
-            <text>թանկ</text>
+        </card>
+        <card>
+            <question>թանկ</question>
             <answer>дорогой</answer>
-        </question>
-        <question>
-            <text>էժան</text>
+        </card>
+        <card>
+            <question>էժան</question>
             <answer>дешевый</answer>
-        </question>
-        <question>
-            <text>երկիր</text>
+        </card>
+        <card>
+            <question>երկիր</question>
             <answer>страна</answer>
-        </question>
-        <question>
-            <text>երկրներ</text>
+        </card>
+        <card>
+            <question>երկրներ</question>
             <answer>страны</answer>
-        </question>
-        <question>
-            <text>փող</text>
+        </card>
+        <card>
+            <question>փող</question>
             <answer>деньги</answer>
-        </question>
-        <question>
-            <text>հայրենիք</text>
+        </card>
+        <card>
+            <question>հայրենիք</question>
             <answer>родина</answer>
-        </question>
-        <question>
-            <text>տաք</text>
+        </card>
+        <card>
+            <question>տաք</question>
             <answer>теплый|горячий</answer>
-        </question>
-        <question>
-            <text>սա՛ռը</text>
+        </card>
+        <card>
+            <question>սա՛ռը</question>
             <answer>холодный</answer>
-        </question>
-        <question>
-            <text>սառն է</text>
+        </card>
+        <card>
+            <question>սառն է</question>
             <answer>[это] холодное</answer>
-        </question>
-        <question>
-            <text>շոգ ա</text>
+        </card>
+        <card>
+            <question>շոգ ա</question>
             <answer>жарко (о погоде)</answer>
-        </question>
-        <question>
-            <text>ցուրտ ա</text>
+        </card>
+        <card>
+            <question>ցուրտ ա</question>
             <answer>холодно (о погоде)</answer>
-        </question>
-        <question>
-            <text>արագ</text>
+        </card>
+        <card>
+            <question>արագ</question>
             <answer>быстрый</answer>
-        </question>
-        <question>
-            <text>դանդաղ</text>
+        </card>
+        <card>
+            <question>դանդաղ</question>
             <answer>медленный</answer>
-        </question>
-        <question>
-            <text>հետաքրքիր</text>
+        </card>
+        <card>
+            <question>հետաքրքիր</question>
             <answer>интересный</answer>
-        </question>
-        <question>
-            <text>անհետաքրքիր</text>
+        </card>
+        <card>
+            <question>անհետաքրքիր</question>
             <answer>неинтересный</answer>
-        </question>
-        <question>
-            <text>սիրուն|գեղեցիկ</text>
+        </card>
+        <card>
+            <question>սիրուն|գեղեցիկ</question>
             <answer>красивый</answer>
-        </question>
-        <question>
-            <text>գեշ</text>
+        </card>
+        <card>
+            <question>գեշ</question>
             <answer>некрасивый</answer>
-        </question>
-        <question>
-            <text>մեծ</text>
+        </card>
+        <card>
+            <question>մեծ</question>
             <answer>большой</answer>
-        </question>
-        <question>
-            <text>փոքր</text>
+        </card>
+        <card>
+            <question>փոքր</question>
             <answer>маленький</answer>
-        </question>
-        <question>
-            <text>համով ա</text>
+        </card>
+        <card>
+            <question>համով ա</question>
             <answer>[это] вкусно</answer>
-        </question>
-        <question>
-            <text>համով չի</text>
+        </card>
+        <card>
+            <question>համով չի</question>
             <answer>невкусно</answer>
-        </question>
-        <question>
-            <text>նոր</text>
+        </card>
+        <card>
+            <question>նոր</question>
             <answer>новый</answer>
-        </question>
-        <question>
-            <text>հին</text>
+        </card>
+        <card>
+            <question>հին</question>
             <answer>старый</answer>
-        </question>
-        <question>
-            <text>համով</text>
+        </card>
+        <card>
+            <question>համով</question>
             <answer>вкусный</answer>
-        </question>
-        <question>
-            <text>հեռախոս</text>
+        </card>
+        <card>
+            <question>հեռախոս</question>
             <answer>телефон</answer>
-        </question>
-        <question>
-            <text>ջուր</text>
+        </card>
+        <card>
+            <question>ջուր</question>
             <answer>вода</answer>
-        </question>
-        <question>
-            <text>աթոռ</text>
+        </card>
+        <card>
+            <question>աթոռ</question>
             <answer>стул</answer>
-        </question>
-        <question>
-            <text>սեղան</text>
+        </card>
+        <card>
+            <question>սեղան</question>
             <answer>стол</answer>
-        </question>
-        <question>
-            <text>թեյ</text>
+        </card>
+        <card>
+            <question>թեյ</question>
             <answer>чай</answer>
-        </question>
-        <question>
-            <text>սուրճ</text>
+        </card>
+        <card>
+            <question>սուրճ</question>
             <answer>кофе</answer>
-        </question>
-        <question>
-            <text>աշխատանք</text>
+        </card>
+        <card>
+            <question>աշխատանք</question>
             <answer>работа</answer>
-        </question>
-        <question>
-            <text>աշխատանքներ</text>
+        </card>
+        <card>
+            <question>աշխատանքներ</question>
             <answer>работы</answer>
-        </question>
-        <question>
-            <text>գործ</text>
+        </card>
+        <card>
+            <question>գործ</question>
             <answer>дело</answer>
-        </question>
-        <question>
-            <text>գործեր</text>
+        </card>
+        <card>
+            <question>գործեր</question>
             <answer>дела</answer>
-        </question>
-        <question>
-            <text>գիրք</text>
+        </card>
+        <card>
+            <question>գիրք</question>
             <answer>книга</answer>
-        </question>
-        <question>
-            <text>գրքեր</text>
+        </card>
+        <card>
+            <question>գրքեր</question>
             <answer>книги</answer>
-        </question>
-        <question>
-            <text>տետր</text>
+        </card>
+        <card>
+            <question>տետր</question>
             <answer>тетрадь</answer>
-        </question>
-        <question>
-            <text>գրիչ</text>
+        </card>
+        <card>
+            <question>գրիչ</question>
             <answer>ручка</answer>
-        </question>
-        <question>
-            <text>գրիչներ</text>
+        </card>
+        <card>
+            <question>գրիչներ</question>
             <answer>ручки</answer>
-        </question>
-        <question>
-            <text>դաս</text>
+        </card>
+        <card>
+            <question>դաս</question>
             <answer>урок</answer>
-        </question>
-        <question>
-            <text>քաղցր</text>
+        </card>
+        <card>
+            <question>քաղցր</question>
             <answer>сладкий</answer>
-        </question>
-        <question>
-            <text>թթու</text>
+        </card>
+        <card>
+            <question>թթու</question>
             <answer>кислый</answer>
-        </question>
-        <question>
-            <text>դա՛ռը</text>
+        </card>
+        <card>
+            <question>դա՛ռը</question>
             <answer>горький</answer>
-        </question>
-        <question>
-            <text>կծու</text>
+        </card>
+        <card>
+            <question>կծու</question>
             <answer>острый</answer>
-        </question>
-        <question>
-            <text>աղի</text>
+        </card>
+        <card>
+            <question>աղի</question>
             <answer>соленый</answer>
-        </question>
-        <question>
-            <text>մարդ</text>
+        </card>
+        <card>
+            <question>մարդ</question>
             <answer>человек</answer>
-        </question>
-        <question>
-            <text>մարդիկ</text>
+        </card>
+        <card>
+            <question>մարդիկ</question>
             <answer>люди</answer>
-        </question>
-        <question>
-            <text>տղամարդ</text>
+        </card>
+        <card>
+            <question>տղամարդ</question>
             <answer>мужчина</answer>
-        </question>
-        <question>
-            <text>տղամարդիկ</text>
+        </card>
+        <card>
+            <question>տղամարդիկ</question>
             <answer>мужчины</answer>
-        </question>
-        <question>
-            <text>կին</text>
+        </card>
+        <card>
+            <question>կին</question>
             <answer>женщина|жена</answer>
-        </question>
-        <question>
-            <text>կանայք</text>
+        </card>
+        <card>
+            <question>կանայք</question>
             <answer>женщины|жены</answer>
-        </question>
-        <question>
-            <text>երեխա</text>
+        </card>
+        <card>
+            <question>երեխա</question>
             <answer>ребенок</answer>
-        </question>
-        <question>
-            <text>երեխաներ</text>
+        </card>
+        <card>
+            <question>երեխաներ</question>
             <answer>дети</answer>
-        </question>
-        <question>
-            <text>տղա</text>
+        </card>
+        <card>
+            <question>տղա</question>
             <answer>мальчик|сын|парень/юноша</answer>
-        </question>
-        <question>
-            <text>աղջիկ</text>
+        </card>
+        <card>
+            <question>աղջիկ</question>
             <answer>девочка|дочь|девушка (не ром.)</answer>
-        </question>
-        <question>
-            <text>շուն</text>
+        </card>
+        <card>
+            <question>շուն</question>
             <answer>собака</answer>
-        </question>
-        <question>
-            <text>շներ</text>
+        </card>
+        <card>
+            <question>շներ</question>
             <answer>собаки</answer>
-        </question>
-        <question>
-            <text>կատու</text>
+        </card>
+        <card>
+            <question>կատու</question>
             <answer>кот</answer>
-        </question>
-        <question>
-            <text>կատուներ</text>
+        </card>
+        <card>
+            <question>կատուներ</question>
             <answer>коты</answer>
-        </question>
-        <question>
-            <text>հայ</text>
+        </card>
+        <card>
+            <question>հայ</question>
             <answer>армянин</answer>
-        </question>
-        <question>
-            <text>հայեր</text>
+        </card>
+        <card>
+            <question>հայեր</question>
             <answer>армяне</answer>
-        </question>
-        <question>
-            <text>ռուս</text>
+        </card>
+        <card>
+            <question>ռուս</question>
             <answer>русский</answer>
-        </question>
-        <question>
-            <text>ռուսներ</text>
+        </card>
+        <card>
+            <question>ռուսներ</question>
             <answer>русские</answer>
-        </question>
-        <question>
-            <text>ագռավ</text>
+        </card>
+        <card>
+            <question>ագռավ</question>
             <answer>ворона</answer>
-        </question>
-        <question>
-            <text>ճնճղուկ|ծիտիկ</text>
+        </card>
+        <card>
+            <question>ճնճղուկ|ծիտիկ</question>
             <answer>воробей</answer>
-        </question>
-        <question>
-            <text>լուսավոր</text>
+        </card>
+        <card>
+            <question>լուսավոր</question>
             <answer>светлый</answer>
-        </question>
-        <question>
-            <text>մութ</text>
+        </card>
+        <card>
+            <question>մութ</question>
             <answer>темный</answer>
-        </question>
-        <question>
-            <text>ծանր</text>
+        </card>
+        <card>
+            <question>ծանր</question>
             <answer>тяжелый (по весу)</answer>
-        </question>
-        <question>
-            <text>թեթև</text>
+        </card>
+        <card>
+            <question>թեթև</question>
             <answer>легкий (по весу)</answer>
-        </question>
-        <question>
-            <text>հաստ</text>
+        </card>
+        <card>
+            <question>հաստ</question>
             <answer>толстый</answer>
-        </question>
-        <question>
-            <text>բարակ</text>
+        </card>
+        <card>
+            <question>բարակ</question>
             <answer>тонкий</answer>
-        </question>
-        <question>
-            <text>գեր|չաղ</text>
+        </card>
+        <card>
+            <question>գեր|չաղ</question>
             <answer>толстый (о человеке)</answer>
-        </question>
-        <question>
-            <text>նիհար</text>
+        </card>
+        <card>
+            <question>նիհար</question>
             <answer>худой</answer>
-        </question>
-        <question>
-            <text>միրգ</text>
+        </card>
+        <card>
+            <question>միրգ</question>
             <answer>фрукт</answer>
-        </question>
-        <question>
-            <text>խնձոր</text>
+        </card>
+        <card>
+            <question>խնձոր</question>
             <answer>яблоко</answer>
-        </question>
-        <question>
-            <text>տանձ</text>
+        </card>
+        <card>
+            <question>տանձ</question>
             <answer>груша</answer>
-        </question>
-        <question>
-            <text>ծիրան</text>
+        </card>
+        <card>
+            <question>ծիրան</question>
             <answer>абрикос</answer>
-        </question>
-        <question>
-            <text>դեղձ</text>
+        </card>
+        <card>
+            <question>դեղձ</question>
             <answer>персик</answer>
-        </question>
-        <question>
-            <text>նարինջ</text>
+        </card>
+        <card>
+            <question>նարինջ</question>
             <answer>апельсин</answer>
-        </question>
-        <question>
-            <text>թուրինջ</text>
+        </card>
+        <card>
+            <question>թուրինջ</question>
             <answer>грейпфрут</answer>
-        </question>
-        <question>
-            <text>բալ</text>
+        </card>
+        <card>
+            <question>բալ</question>
             <answer>вишня</answer>
-        </question>
-        <question>
-            <text>կեռաս | գիլաս</text>
+        </card>
+        <card>
+            <question>կեռաս | գիլաս</question>
             <answer>черешня</answer>
-        </question>
-        <question>
-            <text>սալոր</text>
+        </card>
+        <card>
+            <question>սալոր</question>
             <answer>слива</answer>
-        </question>
-        <question>
-            <text>շլոր</text>
+        </card>
+        <card>
+            <question>շլոր</question>
             <answer>алыча</answer>
-        </question>
-        <question>
-            <text>արքայախնձոր</text>
+        </card>
+        <card>
+            <question>արքայախնձոր</question>
             <answer>ананас</answer>
-        </question>
-        <question>
-            <text>արքա</text>
+        </card>
+        <card>
+            <question>արքա</question>
             <answer>король</answer>
-        </question>
-        <question>
-            <text>ադամաթուզ | բանան</text>
+        </card>
+        <card>
+            <question>ադամաթուզ | բանան</question>
             <answer>банан</answer>
-        </question>
-        <question>
-            <text>թուզ</text>
+        </card>
+        <card>
+            <question>թուզ</question>
             <answer>инжир</answer>
-        </question>
-        <question>
-            <text>խաղող</text>
+        </card>
+        <card>
+            <question>խաղող</question>
             <answer>виноград</answer>
-        </question>
-        <question>
-            <text>ելակ</text>
+        </card>
+        <card>
+            <question>ելակ</question>
             <answer>клубника</answer>
-        </question>
-        <question>
-            <text>մորի | մալինա</text>
+        </card>
+        <card>
+            <question>մորի | մալինա</question>
             <answer>малина</answer>
-        </question>
-        <question>
-            <text>նուռ</text>
+        </card>
+        <card>
+            <question>նուռ</question>
             <answer>гранат</answer>
-        </question>
-        <question>
-            <text>սերկևիլ</text>
+        </card>
+        <card>
+            <question>սերկևիլ</question>
             <answer>айва</answer>
-        </question>
-        <question>
-            <text>ձմերուկ</text>
+        </card>
+        <card>
+            <question>ձմերուկ</question>
             <answer>арбуз</answer>
-        </question>
-        <question>
-            <text>սեխ | եմիշ</text>
+        </card>
+        <card>
+            <question>սեխ | եմիշ</question>
             <answer>дыня</answer>
-        </question>
-        <question>
-            <text>թութ</text>
+        </card>
+        <card>
+            <question>թութ</question>
             <answer>шелковица</answer>
-        </question>
-        <question>
-            <text>թարմ</text>
+        </card>
+        <card>
+            <question>թարմ</question>
             <answer>свежий</answer>
-        </question>
-        <question>
-            <text>հասած</text>
+        </card>
+        <card>
+            <question>հասած</question>
             <answer>спелый</answer>
-        </question>
-        <question>
-            <text>խակ</text>
+        </card>
+        <card>
+            <question>խակ</question>
             <answer>неспелый</answer>
-        </question>
-        <question>
-            <text>անհամ</text>
+        </card>
+        <card>
+            <question>անհամ</question>
             <answer>несладкий</answer>
-        </question>
-    </questions>
+        </card>
+    </cards>
 </questionary>

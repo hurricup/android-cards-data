@@ -2,250 +2,250 @@
 <questionary>
     <id>Армянские числа</id>
     <title>Числа (арм.)</title>
-    <questions>
-        <question>
-            <text>մեկ</text>
+    <cards>
+        <card>
+            <question>մեկ</question>
             <answer>1</answer>
-        </question>
-        <question>
-            <text>երկու</text>
+        </card>
+        <card>
+            <question>երկու</question>
             <answer>2</answer>
-        </question>
-        <question>
-            <text>երեք</text>
+        </card>
+        <card>
+            <question>երեք</question>
             <answer>3</answer>
-        </question>
-        <question>
-            <text>չորս</text>
+        </card>
+        <card>
+            <question>չորս</question>
             <answer>4</answer>
-        </question>
-        <question>
-            <text>հինգ</text>
+        </card>
+        <card>
+            <question>հինգ</question>
             <answer>5</answer>
-        </question>
-        <question>
-            <text>վեց</text>
+        </card>
+        <card>
+            <question>վեց</question>
             <answer>6</answer>
-        </question>
-        <question>
-            <text>յոթ</text>
+        </card>
+        <card>
+            <question>յոթ</question>
             <answer>7</answer>
-        </question>
-        <question>
-            <text>ութ</text>
+        </card>
+        <card>
+            <question>ութ</question>
             <answer>8</answer>
-        </question>
-        <question>
-            <text>ինը</text>
+        </card>
+        <card>
+            <question>ինը</question>
             <answer>9</answer>
-        </question>
-        <question>
-            <text>տա՛սը, տաս</text>
+        </card>
+        <card>
+            <question>տա՛սը, տաս</question>
             <answer>10</answer>
-        </question>
-        <question>
-            <text>տասնմեկ</text>
+        </card>
+        <card>
+            <question>տասնմեկ</question>
             <answer>11</answer>
-        </question>
-        <question>
-            <text>տասներկու</text>
+        </card>
+        <card>
+            <question>տասներկու</question>
             <answer>12</answer>
-        </question>
-        <question>
-            <text>տասներեք</text>
+        </card>
+        <card>
+            <question>տասներեք</question>
             <answer>13</answer>
-        </question>
-        <question>
-            <text>տասնչորս</text>
+        </card>
+        <card>
+            <question>տասնչորս</question>
             <answer>14</answer>
-        </question>
-        <question>
-            <text>տասնհինգ</text>
+        </card>
+        <card>
+            <question>տասնհինգ</question>
             <answer>15</answer>
-        </question>
-        <question>
-            <text>տասնվեց</text>
+        </card>
+        <card>
+            <question>տասնվեց</question>
             <answer>16</answer>
-        </question>
-        <question>
-            <text>տասնյոթ</text>
+        </card>
+        <card>
+            <question>տասնյոթ</question>
             <answer>17</answer>
-        </question>
-        <question>
-            <text>տասնութ</text>
+        </card>
+        <card>
+            <question>տասնութ</question>
             <answer>18</answer>
-        </question>
-        <question>
-            <text>տասնինը</text>
+        </card>
+        <card>
+            <question>տասնինը</question>
             <answer>19</answer>
-        </question>
-        <question>
-            <text>քսան</text>
+        </card>
+        <card>
+            <question>քսան</question>
             <answer>20</answer>
-        </question>
-        <question>
-            <text>երեսուն</text>
+        </card>
+        <card>
+            <question>երեսուն</question>
             <answer>30</answer>
-        </question>
-        <question>
-            <text>քառասուն</text>
+        </card>
+        <card>
+            <question>քառասուն</question>
             <answer>40</answer>
-        </question>
-        <question>
-            <text>հիսուն</text>
+        </card>
+        <card>
+            <question>հիսուն</question>
             <answer>50</answer>
-        </question>
-        <question>
-            <text>վաթսուն</text>
+        </card>
+        <card>
+            <question>վաթսուն</question>
             <answer>60</answer>
-        </question>
-        <question>
-            <text>յոթանասուն</text>
+        </card>
+        <card>
+            <question>յոթանասուն</question>
             <answer>70</answer>
-        </question>
-        <question>
-            <text>ութսուն</text>
+        </card>
+        <card>
+            <question>ութսուն</question>
             <answer>80</answer>
-        </question>
-        <question>
-            <text>իննսուն</text>
+        </card>
+        <card>
+            <question>իննսուն</question>
             <answer>90</answer>
-        </question>
-        <question>
-            <text>հարյուր</text>
+        </card>
+        <card>
+            <question>հարյուր</question>
             <answer>100</answer>
-        </question>
-        <question>
-            <text>հազար</text>
+        </card>
+        <card>
+            <question>հազար</question>
             <answer>1000</answer>
-        </question>
-        <question>
-            <text>վերջին</text>
+        </card>
+        <card>
+            <question>վերջին</question>
             <answer>последний</answer>
-        </question>
-        <question>
-            <text>զույգ</text>
+        </card>
+        <card>
+            <question>զույգ</question>
             <answer>пара</answer>
-        </question>
-        <question>
-            <text>առաջին</text>
+        </card>
+        <card>
+            <question>առաջին</question>
             <answer>первый</answer>
-        </question>
-        <question>
-            <text>երկրորդ</text>
+        </card>
+        <card>
+            <question>երկրորդ</question>
             <answer>второй</answer>
-        </question>
-        <question>
-            <text>երրորդ</text>
+        </card>
+        <card>
+            <question>երրորդ</question>
             <answer>третий</answer>
-        </question>
-        <question>
-            <text>չորրորդ</text>
+        </card>
+        <card>
+            <question>չորրորդ</question>
             <answer>четвертый</answer>
-        </question>
-        <question>
-            <text>հինգերորդ</text>
+        </card>
+        <card>
+            <question>հինգերորդ</question>
             <answer>пятый</answer>
-        </question>
-        <question>
-            <text>վեցերորդ</text>
+        </card>
+        <card>
+            <question>վեցերորդ</question>
             <answer>шестой</answer>
-        </question>
-        <question>
-            <text>յոթերորդ</text>
+        </card>
+        <card>
+            <question>յոթերորդ</question>
             <answer>седьмой</answer>
-        </question>
-        <question>
-            <text>ութերորդ</text>
+        </card>
+        <card>
+            <question>ութերորդ</question>
             <answer>восьмой</answer>
-        </question>
-        <question>
-            <text>իններորդ</text>
+        </card>
+        <card>
+            <question>իններորդ</question>
             <answer>девятый</answer>
-        </question>
-        <question>
-            <text>տասներորդ</text>
+        </card>
+        <card>
+            <question>տասներորդ</question>
             <answer>десятый</answer>
-        </question>
-        <question>
-            <text>քսաներորդ</text>
+        </card>
+        <card>
+            <question>քսաներորդ</question>
             <answer>двадцатый</answer>
-        </question>
-        <question>
-            <text>հարյուրերորդ</text>
+        </card>
+        <card>
+            <question>հարյուրերորդ</question>
             <answer>сотый</answer>
-        </question>
-        <question>
-            <text>հազարերորդ</text>
+        </card>
+        <card>
+            <question>հազարերորդ</question>
             <answer>тысячный</answer>
-        </question>
-        <question>
-            <text>մեկուկես</text>
+        </card>
+        <card>
+            <question>մեկուկես</question>
             <answer>полтора</answer>
-        </question>
-        <question>
-            <text>երկուուկես</text>
+        </card>
+        <card>
+            <question>երկուուկես</question>
             <answer>два с половиной</answer>
-        </question>
-        <question>
-            <text>երեքուկես</text>
+        </card>
+        <card>
+            <question>երեքուկես</question>
             <answer>три с половиной</answer>
-        </question>
-        <question>
-            <text>չորսուկես</text>
+        </card>
+        <card>
+            <question>չորսուկես</question>
             <answer>четыре с половиной</answer>
-        </question>
-        <question>
-            <text>հինգուկես</text>
+        </card>
+        <card>
+            <question>հինգուկես</question>
             <answer>пять с половиной</answer>
-        </question>
-        <question>
-            <text>վեցուկես</text>
+        </card>
+        <card>
+            <question>վեցուկես</question>
             <answer>шесть с половиной</answer>
-        </question>
-        <question>
-            <text>յոթուկես</text>
+        </card>
+        <card>
+            <question>յոթուկես</question>
             <answer>семь с половиной</answer>
-        </question>
-        <question>
-            <text>ութուկես</text>
+        </card>
+        <card>
+            <question>ութուկես</question>
             <answer>восемь с половиной</answer>
-        </question>
-        <question>
-            <text>ինեուկես</text>
+        </card>
+        <card>
+            <question>ինեուկես</question>
             <answer>девять с половиной</answer>
-        </question>
-        <question>
-            <text>տասուկես</text>
+        </card>
+        <card>
+            <question>տասուկես</question>
             <answer>десять с половиной</answer>
-        </question>
-        <question>
-            <text>զրո</text>
+        </card>
+        <card>
+            <question>զրո</question>
             <answer>0</answer>
-        </question>
-        <question>
-            <text>կես</text>
+        </card>
+        <card>
+            <question>կես</question>
             <answer>половина</answer>
-        </question>
-        <question>
-            <text>համարը</text>
+        </card>
+        <card>
+            <question>համարը</question>
             <answer>число</answer>
-        </question>
-        <question>
-            <text>մի քանի</text>
+        </card>
+        <card>
+            <question>մի քանի</question>
             <answer>несколько</answer>
-        </question>
-        <question>
-            <text>յոթ հոգով</text>
+        </card>
+        <card>
+            <question>յոթ հոգով</question>
             <answer>всемером</answer>
-        </question>
-        <question>
-            <text>տոկոս</text>
+        </card>
+        <card>
+            <question>տոկոս</question>
             <answer>процент</answer>
-        </question>
-        <question>
-            <text>մաս</text>
+        </card>
+        <card>
+            <question>մաս</question>
             <answer>часть</answer>
-        </question>
-    </questions>
+        </card>
+    </cards>
 </questionary>

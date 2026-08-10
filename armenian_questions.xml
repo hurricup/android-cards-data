@@ -2,173 +2,173 @@
 <questionary>
     <id>Армянские вопросительные слова</id>
     <title>Вопросы (арм.)</title>
-    <questions>
-        <question>
-            <text>ով</text>
+    <cards>
+        <card>
+            <question>ով</question>
             <answer>кто</answer>
-        </question>
-        <question>
-            <text>ովքեր</text>
+        </card>
+        <card>
+            <question>ովքեր</question>
             <answer>кты</answer>
-        </question>
-        <question>
-            <text>ինչ</text>
+        </card>
+        <card>
+            <question>ինչ</question>
             <answer>что|какой</answer>
-        </question>
-        <question>
-            <text>երբ</text>
+        </card>
+        <card>
+            <question>երբ</question>
             <answer>когда</answer>
-        </question>
-        <question>
-            <text>ոնց|ինչպես</text>
+        </card>
+        <card>
+            <question>ոնց|ինչպես</question>
             <answer>как</answer>
-        </question>
-        <question>
-            <text>ինչու|խի|ինչի</text>
+        </card>
+        <card>
+            <question>ինչու|խի|ինչի</question>
             <answer>почему</answer>
-        </question>
-        <question>
-            <text>ինչի</text>
+        </card>
+        <card>
+            <question>ինչի</question>
             <answer>из чего (сделано)</answer>
-        </question>
-        <question>
-            <text>ինչի համար</text>
+        </card>
+        <card>
+            <question>ինչի համար</question>
             <answer>для чего|зачем</answer>
-        </question>
-        <question>
-            <text>ում համար</text>
+        </card>
+        <card>
+            <question>ում համար</question>
             <answer>для кого</answer>
-        </question>
-        <question>
-            <text>ում</text>
+        </card>
+        <card>
+            <question>ում</question>
             <answer>кого|кому</answer>
-        </question>
-        <question>
-            <text>ումն ա</text>
+        </card>
+        <card>
+            <question>ումն ա</question>
             <answer>чьё это</answer>
-        </question>
-        <question>
-            <text>ումից</text>
+        </card>
+        <card>
+            <question>ումից</question>
             <answer>от кого</answer>
-        </question>
-        <question>
-            <text>ինչքան</text>
+        </card>
+        <card>
+            <question>ինչքան</question>
             <answer>сколько (с гл./неисчисляемыми)</answer>
-        </question>
-        <question>
-            <text>քանի</text>
+        </card>
+        <card>
+            <question>քանի</question>
             <answer>сколько (с сущ./исчисляемыми)</answer>
-        </question>
-        <question>
-            <text>որ</text>
+        </card>
+        <card>
+            <question>որ</question>
             <answer>который|что (знает, что)</answer>
-        </question>
-        <question>
-            <text>ում մասին</text>
+        </card>
+        <card>
+            <question>ում մասին</question>
             <answer>о ком</answer>
-        </question>
-        <question>
-            <text>ինչի մասին</text>
+        </card>
+        <card>
+            <question>ինչի մասին</question>
             <answer>о чем</answer>
-        </question>
-        <question>
-            <text>ում հետ</text>
+        </card>
+        <card>
+            <question>ում հետ</question>
             <answer>с кем</answer>
-        </question>
-        <question>
-            <text>ինչի հետ</text>
+        </card>
+        <card>
+            <question>ինչի հետ</question>
             <answer>с чем</answer>
-        </question>
-        <question>
-            <text>որտեղ</text>
+        </card>
+        <card>
+            <question>որտեղ</question>
             <answer>где</answer>
-        </question>
-        <question>
-            <text>ուր</text>
+        </card>
+        <card>
+            <question>ուր</question>
             <answer>куда|где</answer>
-        </question>
-        <question>
-            <text>առանց ինչի</text>
+        </card>
+        <card>
+            <question>առանց ինչի</question>
             <answer>без чего</answer>
-        </question>
-        <question>
-            <text>արանց ում</text>
+        </card>
+        <card>
+            <question>արանց ում</question>
             <answer>без кого</answer>
-        </question>
-        <question>
-            <text>որտեղից</text>
+        </card>
+        <card>
+            <question>որտեղից</question>
             <answer>откуда</answer>
-        </question>
-        <question>
-            <text>ինչից</text>
+        </card>
+        <card>
+            <question>ինչից</question>
             <answer>от чего</answer>
-        </question>
-        <question>
-            <text>ինչով</text>
+        </card>
+        <card>
+            <question>ինչով</question>
             <answer>чем?</answer>
-        </question>
-        <question>
-            <text>ումով</text>
+        </card>
+        <card>
+            <question>ումով</question>
             <answer>кем?</answer>
-        </question>
-        <question>
-            <text>այսի՞նքն</text>
+        </card>
+        <card>
+            <question>այսի՞նքն</question>
             <answer>в смысле?</answer>
-        </question>
-        <question>
-            <text>ինչպիսի</text>
+        </card>
+        <card>
+            <question>ինչպիսի</question>
             <answer>какой</answer>
-        </question>
-        <question>
-            <text>այսպես</text>
+        </card>
+        <card>
+            <question>այսպես</question>
             <answer>так (показываем)</answer>
-        </question>
-        <question>
-            <text>այդպես</text>
+        </card>
+        <card>
+            <question>այդպես</question>
             <answer>так (не показываем)</answer>
-        </question>
-        <question>
-            <text>այնպես</text>
+        </card>
+        <card>
+            <question>այնպես</question>
             <answer>так (эмоции, спп)</answer>
-        </question>
+        </card>
 
-        <question>
-            <text>այսպիսի</text>
+        <card>
+            <question>այսպիսի</question>
             <answer>такой (видим)</answer>
-        </question>
-        <question>
-            <text>այդպիսի</text>
+        </card>
+        <card>
+            <question>այդպիսի</question>
             <answer>такой (не видим)</answer>
-        </question>
-        <question>
-            <text>այնպիսի</text>
+        </card>
+        <card>
+            <question>այնպիսի</question>
             <answer>такой (эмоции, спп)</answer>
-        </question>
+        </card>
 
-        <question>
-            <text>սենց</text>
+        <card>
+            <question>սենց</question>
             <answer>так (показываем) | такой (видим)</answer>
-        </question>
-        <question>
-            <text>տենց</text>
+        </card>
+        <card>
+            <question>տենց</question>
             <answer>так (не показываем) | такой (не видим)</answer>
-        </question>
-        <question>
-            <text>նենց</text>
+        </card>
+        <card>
+            <question>նենց</question>
             <answer>так (эмоции, спп) | такой (эмоции, спп)</answer>
-        </question>
+        </card>
 
-        <question>
-            <text>այսքան</text>
+        <card>
+            <question>այսքան</question>
             <answer>столько (показываем)</answer>
-        </question>
-        <question>
-            <text>այդքան</text>
+        </card>
+        <card>
+            <question>այդքան</question>
             <answer>столько (не видим)</answer>
-        </question>
-        <question>
-            <text>այնքան</text>
+        </card>
+        <card>
+            <question>այնքան</question>
             <answer>столько (эмоции, спп)</answer>
-        </question>
-    </questions>
+        </card>
+    </cards>
 </questionary>

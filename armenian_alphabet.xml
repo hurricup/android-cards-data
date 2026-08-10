@@ -2,9 +2,9 @@
 <questionary>
     <id>Алфавит (арм.)</id>
     <title>Алфавит (арм.)</title>
-    <questions>
-        <question>
-            <text>
+    <cards>
+        <card>
+            <question>
                 Ա ա
 
                 [ɑ]
@@ -14,11 +14,11 @@
                 [ɑjb]
 
                 Первая буква армянского алфавита. Обозначает гласный звук [ɑ], аналог русского "а" в слове "мама".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Բ բ
 
                 [b]
@@ -28,11 +28,11 @@
                 [bɛn]
 
                 Согласный звук [b], аналог русского "б".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Գ գ
 
                 [ɡ]
@@ -42,11 +42,11 @@
                 [ɡim]
 
                 Согласный звук [ɡ], как "г" в слове "гора".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Դ դ
 
                 [d]
@@ -56,11 +56,11 @@
                 [dɑ]
 
                 Согласный звук [d], аналог русского "д".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Ե ե
 
                 [jɛ]
@@ -70,11 +70,11 @@
                 [jɛt͡ʃʰ]
 
                 Обозначает [йэ] в начале слова и [э] после согласных.
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Զ զ
 
                 [z]
@@ -84,11 +84,11 @@
                 [zɑ]
 
                 Согласный звук [z], как "з" в "зуб".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Է է
 
                 [ɛ]
@@ -98,11 +98,11 @@
                 [ɛ]
 
                 Чистый гласный звук [ɛ], как "э" в слове "это".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Ը ը
 
                 [ə]
@@ -112,11 +112,11 @@
                 [ətʰ]
 
                 Нейтральный гласный [ə], как безударное "а" в русском "молоко".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Թ թ
 
                 [tʰ]
@@ -126,11 +126,11 @@
                 [tʰɔ]
 
                 Придыхательный [t], аналогов в русском нет.
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Ժ ժ
 
                 [ʒ]
@@ -140,11 +140,11 @@
                 [ʒɛ]
 
                 Согласный [ʒ], как "ж" в "жара".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Ի ի
 
                 [i]
@@ -154,11 +154,11 @@
                 [ini]
 
                 Гласный звук [i], как в слове "игра".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Լ լ
 
                 [l]
@@ -168,11 +168,11 @@
                 [liˈun]
 
                 Согласный [l], аналог русского "л".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Խ խ
 
                 [χ]
@@ -182,11 +182,11 @@
                 [χɛ]
 
                 Сильный гортанный [χ], как немецкое "Bach".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Ծ ծ
 
                 [t͡s]
@@ -196,11 +196,11 @@
                 [t͡sɑ]
 
                 Согласный [ts], как в слове "царь".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Կ կ
 
                 [k]
@@ -210,11 +210,11 @@
                 [kɛn]
 
                 Согласный [k], как "к" в "кот".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Հ հ
 
                 [h]
@@ -224,11 +224,11 @@
                 [hɔ]
 
                 Согласный [h], как в английском "hat".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Ձ ձ
 
                 [d͡z]
@@ -238,11 +238,11 @@
                 [d͡zɑ]
 
                 Согласный [dz], как в слове "дзынь".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Ղ ղ
 
                 [ʁ]
@@ -252,11 +252,11 @@
                 [ʁɑt]
 
                 Увулярный звук [ʁ], как французское "r".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Ճ ճ
 
                 [t͡ʃ]
@@ -266,11 +266,11 @@
                 [ʧʰɛ]
 
                 Буква Ճ читается как глухая "ч" без придыхания. Ближе к русской "ч" в слове "чётко", но твёрже. Не путать с Չ (придыхательная ч) и Ջ (дж).
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Մ մ
 
                 [m]
@@ -280,11 +280,11 @@
                 [mɛn]
 
                 Согласный [m], как "м" в "мама".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Յ յ
 
                 [j]
@@ -294,11 +294,11 @@
                 [ji]
 
                 Согласный [j], как "й" в "йогурт".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Ն ն
 
                 [n]
@@ -308,11 +308,11 @@
                 [nu]
 
                 Согласный [n], как "н" в "нос".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Շ շ
 
                 [ʃ]
@@ -322,11 +322,11 @@
                 [ʃɑ]
 
                 Согласный [ʃ], как "ш" в "шар".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Ո ո
 
                 [vɔ]
@@ -336,11 +336,11 @@
                 [vɔ]
 
                 В начале слова читается как [vɔ], в середине — как [ɔ].
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Չ չ
 
                 [t͡ʃʰ]
@@ -350,11 +350,11 @@
                 [t͡ʃʰɑ]
 
                 Придыхательное "ч", немного резче русского.
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Պ պ
 
                 [p]
@@ -364,11 +364,11 @@
                 [pɛ]
 
                 Согласный [p], как "п" в "папа".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Ջ ջ
 
                 [d͡ʒ]
@@ -378,11 +378,11 @@
                 [d͡ʒɛ]
 
                 Согласный [d͡ʒ], как в "джаз".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Ռ ռ
 
                 [r]
@@ -392,11 +392,11 @@
                 [rɑ]
 
                 Сильный вибрирующий [r], как в армянской речи или на эмоциях в русском.
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Ս ս
 
                 [s]
@@ -406,11 +406,11 @@
                 [sɛ]
 
                 Согласный [s], как в слове "свет".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Վ վ
 
                 [v]
@@ -420,11 +420,11 @@
                 [vɛ]
 
                 Согласный [v], как "в" в "вода".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Տ տ
 
                 [t]
@@ -434,11 +434,11 @@
                 [tɛ]
 
                 Согласный [t], аналог русского "т".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Ր ր
 
                 [ɾ]
@@ -448,11 +448,11 @@
                 [ɾə]
 
                 Однократный [r], как в испанском "pero".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Ց ց
 
                 [t͡sʰ]
@@ -462,11 +462,11 @@
                 [t͡sʰɔ]
 
                 Придыхательный "ц", нет точного русского аналога.
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Ու ու
 
                 [u]
@@ -476,11 +476,11 @@
                 [u]
 
                 Диграф, читается как [u], аналог русского "у" в слове "лук".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Փ փ
 
                 [pʰ]
@@ -490,11 +490,11 @@
                 [pʰɛ]
 
                 Придыхательный [p], "п" с выдохом.
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Ք ք
 
                 [kʰ]
@@ -504,11 +504,11 @@
                 [kʰɛ]
 
                 Придыхательный [k], "к" с лёгким выдохом.
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Օ օ
 
                 [ɔ]
@@ -518,11 +518,11 @@
                 [ɔ]
 
                 Гласный [ɔ], как "о" в английском слове "law".
-            </text>
-        </question>
+            </question>
+        </card>
 
-        <question>
-            <text>
+        <card>
+            <question>
                 Ֆ ֆ
 
                 [f]
@@ -532,10 +532,10 @@
                 [fɛ]
 
                 Согласный [f], как "ф" в "флаг".
-            </text>
-        </question>
-        <question>
-            <text>
+            </question>
+        </card>
+        <card>
+            <question>
                 ԵՒ և
 
                 [jev]
@@ -545,7 +545,7 @@
                 [jev]
 
                 Лигатура, используемая вместо сочетания "ե"+"վ". Произносится как [йэв]. Формально включена в армянский алфавит в современном стандарте.
-            </text>
-        </question>
-    </questions>
+            </question>
+        </card>
+    </cards>
 </questionary>

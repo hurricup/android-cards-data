@@ -2,551 +2,551 @@
 <questionary>
     <id>Армянское время</id>
     <title>Время (арм.)</title>
-    <questions>
-        <question>
-            <text>երկուշաբթի</text>
+    <cards>
+        <card>
+            <question>երկուշաբթի</question>
             <answer>понедельник</answer>
-        </question>
-        <question>
-            <text>երեքշաբթի</text>
+        </card>
+        <card>
+            <question>երեքշաբթի</question>
             <answer>вторник</answer>
-        </question>
-        <question>
-            <text>չորեքշաբթի</text>
+        </card>
+        <card>
+            <question>չորեքշաբթի</question>
             <answer>среда</answer>
-        </question>
-        <question>
-            <text>հինգշաբթի</text>
+        </card>
+        <card>
+            <question>հինգշաբթի</question>
             <answer>четверг</answer>
-        </question>
-        <question>
-            <text>ուրբաթ</text>
+        </card>
+        <card>
+            <question>ուրբաթ</question>
             <answer>пятница</answer>
-        </question>
-        <question>
-            <text>շաբաթ</text>
+        </card>
+        <card>
+            <question>շաբաթ</question>
             <answer>суббота</answer>
-        </question>
-        <question>
-            <text>կիրակի</text>
+        </card>
+        <card>
+            <question>կիրակի</question>
             <answer>воскресенье</answer>
-        </question>
-        <question>
-            <text>հունվար</text>
+        </card>
+        <card>
+            <question>հունվար</question>
             <answer>январь</answer>
-        </question>
-        <question>
-            <text>փետրվար</text>
+        </card>
+        <card>
+            <question>փետրվար</question>
             <answer>февраль</answer>
-        </question>
-        <question>
-            <text>մարտ</text>
+        </card>
+        <card>
+            <question>մարտ</question>
             <answer>март</answer>
-        </question>
-        <question>
-            <text>ապրիլ</text>
+        </card>
+        <card>
+            <question>ապրիլ</question>
             <answer>апрель</answer>
-        </question>
-        <question>
-            <text>մայիս</text>
+        </card>
+        <card>
+            <question>մայիս</question>
             <answer>май</answer>
-        </question>
-        <question>
-            <text>հունիս</text>
+        </card>
+        <card>
+            <question>հունիս</question>
             <answer>июнь</answer>
-        </question>
-        <question>
-            <text>հուլիս</text>
+        </card>
+        <card>
+            <question>հուլիս</question>
             <answer>июль</answer>
-        </question>
-        <question>
-            <text>օգոստոս</text>
+        </card>
+        <card>
+            <question>օգոստոս</question>
             <answer>август</answer>
-        </question>
-        <question>
-            <text>սեպտեմբեր</text>
+        </card>
+        <card>
+            <question>սեպտեմբեր</question>
             <answer>сентябрь</answer>
-        </question>
-        <question>
-            <text>հոկտեմբեր</text>
+        </card>
+        <card>
+            <question>հոկտեմբեր</question>
             <answer>октябрь</answer>
-        </question>
-        <question>
-            <text>նոյեմբեր</text>
+        </card>
+        <card>
+            <question>նոյեմբեր</question>
             <answer>ноябрь</answer>
-        </question>
-        <question>
-            <text>դեկտեմբեր</text>
+        </card>
+        <card>
+            <question>դեկտեմբեր</question>
             <answer>декабрь</answer>
-        </question>
-        <question>
-            <text>հունվարին</text>
+        </card>
+        <card>
+            <question>հունվարին</question>
             <answer>в январе</answer>
-        </question>
-        <question>
-            <text>փետրվարին</text>
+        </card>
+        <card>
+            <question>փետրվարին</question>
             <answer>в феврале</answer>
-        </question>
-        <question>
-            <text>մարտին</text>
+        </card>
+        <card>
+            <question>մարտին</question>
             <answer>в марте</answer>
-        </question>
-        <question>
-            <text>ապրիլին</text>
+        </card>
+        <card>
+            <question>ապրիլին</question>
             <answer>в апреле</answer>
-        </question>
-        <question>
-            <text>մայիսին</text>
+        </card>
+        <card>
+            <question>մայիսին</question>
             <answer>в мае</answer>
-        </question>
-        <question>
-            <text>հունիսին</text>
+        </card>
+        <card>
+            <question>հունիսին</question>
             <answer>в июне</answer>
-        </question>
-        <question>
-            <text>հուլիսին</text>
+        </card>
+        <card>
+            <question>հուլիսին</question>
             <answer>в июле</answer>
-        </question>
-        <question>
-            <text>օգոստոսին</text>
+        </card>
+        <card>
+            <question>օգոստոսին</question>
             <answer>в августе</answer>
-        </question>
-        <question>
-            <text>սեպտեմբերին</text>
+        </card>
+        <card>
+            <question>սեպտեմբերին</question>
             <answer>в сентябре</answer>
-        </question>
-        <question>
-            <text>հոկտեմբերին</text>
+        </card>
+        <card>
+            <question>հոկտեմբերին</question>
             <answer>в октябре</answer>
-        </question>
-        <question>
-            <text>նոյեմբերին</text>
+        </card>
+        <card>
+            <question>նոյեմբերին</question>
             <answer>в ноябре</answer>
-        </question>
-        <question>
-            <text>դեկտեմբերին</text>
+        </card>
+        <card>
+            <question>դեկտեմբերին</question>
             <answer>в декабре</answer>
-        </question>
-        <question>
-            <text>հունվարից</text>
+        </card>
+        <card>
+            <question>հունվարից</question>
             <answer>с января</answer>
-        </question>
-        <question>
-            <text>փետրվարից</text>
+        </card>
+        <card>
+            <question>փետրվարից</question>
             <answer>с февраля</answer>
-        </question>
-        <question>
-            <text>մարտից</text>
+        </card>
+        <card>
+            <question>մարտից</question>
             <answer>с марта</answer>
-        </question>
-        <question>
-            <text>ապրիլից</text>
+        </card>
+        <card>
+            <question>ապրիլից</question>
             <answer>с апреля</answer>
-        </question>
-        <question>
-            <text>մայիսից</text>
+        </card>
+        <card>
+            <question>մայիսից</question>
             <answer>с мая</answer>
-        </question>
-        <question>
-            <text>հունիսից</text>
+        </card>
+        <card>
+            <question>հունիսից</question>
             <answer>с июня</answer>
-        </question>
-        <question>
-            <text>հուլիսից</text>
+        </card>
+        <card>
+            <question>հուլիսից</question>
             <answer>с июля</answer>
-        </question>
-        <question>
-            <text>օգոստոսից</text>
+        </card>
+        <card>
+            <question>օգոստոսից</question>
             <answer>с августа</answer>
-        </question>
-        <question>
-            <text>սեպտեմբերից</text>
+        </card>
+        <card>
+            <question>սեպտեմբերից</question>
             <answer>с сентября</answer>
-        </question>
-        <question>
-            <text>հոկտեմբերից</text>
+        </card>
+        <card>
+            <question>հոկտեմբերից</question>
             <answer>с октября</answer>
-        </question>
-        <question>
-            <text>նոյեմբերից</text>
+        </card>
+        <card>
+            <question>նոյեմբերից</question>
             <answer>с ноября</answer>
-        </question>
-        <question>
-            <text>դեկտեմբերից</text>
+        </card>
+        <card>
+            <question>դեկտեմբերից</question>
             <answer>с декабря</answer>
-        </question>
-        <question>
-            <text>երկուշաբթի օ՛րը</text>
+        </card>
+        <card>
+            <question>երկուշաբթի օ՛րը</question>
             <answer>в понедельник</answer>
-        </question>
-        <question>
-            <text>երեքշաբթի օ՛րը</text>
+        </card>
+        <card>
+            <question>երեքշաբթի օ՛րը</question>
             <answer>во вторник</answer>
-        </question>
-        <question>
-            <text>չորեքշաբթի օ՛րը</text>
+        </card>
+        <card>
+            <question>չորեքշաբթի օ՛րը</question>
             <answer>в среду</answer>
-        </question>
-        <question>
-            <text>հինգշաբթի օ՛րը</text>
+        </card>
+        <card>
+            <question>հինգշաբթի օ՛րը</question>
             <answer>в четверг</answer>
-        </question>
-        <question>
-            <text>ուրբաթ օ՛րը</text>
+        </card>
+        <card>
+            <question>ուրբաթ օ՛րը</question>
             <answer>в пятницу</answer>
-        </question>
-        <question>
-            <text>շաբաթ օ՛րը</text>
+        </card>
+        <card>
+            <question>շաբաթ օ՛րը</question>
             <answer>в субботу</answer>
-        </question>
-        <question>
-            <text>կիրակի օ՛րը</text>
+        </card>
+        <card>
+            <question>կիրակի օ՛րը</question>
             <answer>в воскресенье</answer>
-        </question>
+        </card>
 
-        <question>
-            <text>ամեն օր</text>
+        <card>
+            <question>ամեն օր</question>
             <answer>каждый день</answer>
-        </question>
-        <question>
-            <text>այսօր</text>
+        </card>
+        <card>
+            <question>այսօր</question>
             <answer>сегодня</answer>
-        </question>
-        <question>
-            <text>երեկ</text>
+        </card>
+        <card>
+            <question>երեկ</question>
             <answer>вчера</answer>
-        </question>
-        <question>
-            <text>վա՛ղը</text>
+        </card>
+        <card>
+            <question>վա՛ղը</question>
             <answer>завтра</answer>
-        </question>
-        <question>
-            <text>հաճախ</text>
+        </card>
+        <card>
+            <question>հաճախ</question>
             <answer>часто</answer>
-        </question>
-        <question>
-            <text>ավելի հաճախ</text>
+        </card>
+        <card>
+            <question>ավելի հաճախ</question>
             <answer>чаще</answer>
-        </question>
-        <question>
-            <text>ամենահաճախ</text>
+        </card>
+        <card>
+            <question>ամենահաճախ</question>
             <answer>чаще всего</answer>
-        </question>
-        <question>
-            <text>հիմա</text>
+        </card>
+        <card>
+            <question>հիմա</question>
             <answer>сейчас</answer>
-        </question>
-        <question>
-            <text>ուշ</text>
+        </card>
+        <card>
+            <question>ուշ</question>
             <answer>поздно</answer>
-        </question>
-        <question>
-            <text>շուտ</text>
+        </card>
+        <card>
+            <question>շուտ</question>
             <answer>рано|давно</answer>
-        </question>
-        <question>
-            <text>ժամանակ</text>
+        </card>
+        <card>
+            <question>ժամանակ</question>
             <answer>время</answer>
-        </question>
-        <question>
-            <text>ժամանակ չկա</text>
+        </card>
+        <card>
+            <question>ժամանակ չկա</question>
             <answer>нет времени</answer>
-        </question>
-        <question>
-            <text>րոպե</text>
+        </card>
+        <card>
+            <question>րոպե</question>
             <answer>минута</answer>
-        </question>
-        <question>
-            <text>ժամ</text>
+        </card>
+        <card>
+            <question>ժամ</question>
             <answer>час</answer>
-        </question>
-        <question>
-            <text>օր</text>
+        </card>
+        <card>
+            <question>օր</question>
             <answer>день</answer>
-        </question>
-        <question>
-            <text>շաբաթ</text>
+        </card>
+        <card>
+            <question>շաբաթ</question>
             <answer>неделя</answer>
-        </question>
-        <question>
-            <text>ամիս</text>
+        </card>
+        <card>
+            <question>ամիս</question>
             <answer>месяц</answer>
-        </question>
-        <question>
-            <text>տարի</text>
+        </card>
+        <card>
+            <question>տարի</question>
             <answer>год</answer>
-        </question>
-        <question>
-            <text>առավոտ</text>
+        </card>
+        <card>
+            <question>առավոտ</question>
             <answer>утро</answer>
-        </question>
-        <question>
-            <text>առավոտյան</text>
+        </card>
+        <card>
+            <question>առավոտյան</question>
             <answer>утром</answer>
-        </question>
-        <question>
-            <text>ցերեկը</text>
+        </card>
+        <card>
+            <question>ցերեկը</question>
             <answer>днем</answer>
-        </question>
-        <question>
-            <text>երեկո</text>
+        </card>
+        <card>
+            <question>երեկո</question>
             <answer>вечер</answer>
-        </question>
-        <question>
-            <text>երեկոյան</text>
+        </card>
+        <card>
+            <question>երեկոյան</question>
             <answer>вечером</answer>
-        </question>
-        <question>
-            <text>գիշեր</text>
+        </card>
+        <card>
+            <question>գիշեր</question>
             <answer>ночь</answer>
-        </question>
-        <question>
-            <text>գիշե՛րը</text>
+        </card>
+        <card>
+            <question>գիշե՛րը</question>
             <answer>ночью</answer>
-        </question>
-        <question>
-            <text>նորից</text>
+        </card>
+        <card>
+            <question>նորից</question>
             <answer>опять</answer>
-        </question>
-        <question>
-            <text>ժա՛մը ութին</text>
+        </card>
+        <card>
+            <question>ժա՛մը ութին</question>
             <answer>в 8 часов</answer>
-        </question>
-        <question>
-            <text>ժա՛մը իննին</text>
+        </card>
+        <card>
+            <question>ժա՛մը իննին</question>
             <answer>в 9 часов</answer>
-        </question>
-        <question>
-            <text>երեկոյան ժա՛մը իննին</text>
+        </card>
+        <card>
+            <question>երեկոյան ժա՛մը իննին</question>
             <answer>в 9 часов вечера</answer>
-        </question>
-        <question>
-            <text>առավոտյան ժա՛մը իննին</text>
+        </card>
+        <card>
+            <question>առավոտյան ժա՛մը իննին</question>
             <answer>в 9 часов утра</answer>
-        </question>
-        <question>
-            <text>ցերեկի ժա՛մը երկուին</text>
+        </card>
+        <card>
+            <question>ցերեկի ժա՛մը երկուին</question>
             <answer>в 2 часа дня</answer>
-        </question>
-        <question>
-            <text>գիշե՛րը ժա՛մը երեքին</text>
+        </card>
+        <card>
+            <question>գիշե՛րը ժա՛մը երեքին</question>
             <answer>в 3 часа ночи</answer>
-        </question>
-        <question>
-            <text>հազարից մեկ</text>
+        </card>
+        <card>
+            <question>հազարից մեկ</question>
             <answer>очень редко</answer>
-        </question>
-        <question>
-            <text>հետո</text>
+        </card>
+        <card>
+            <question>հետո</question>
             <answer>потом|после</answer>
-        </question>
-        <question>
-            <text>հետ</text>
+        </card>
+        <card>
+            <question>հետ</question>
             <answer>назад</answer>
-        </question>
-        <question>
-            <text>առաջ</text>
+        </card>
+        <card>
+            <question>առաջ</question>
             <answer>перед|раньше</answer>
-        </question>
-        <question>
-            <text>մի տարի առաջ</text>
+        </card>
+        <card>
+            <question>մի տարի առաջ</question>
             <answer>год назад</answer>
-        </question>
-        <question>
-            <text>մի տարի հետո</text>
+        </card>
+        <card>
+            <question>մի տարի հետո</question>
             <answer>через год</answer>
-        </question>
-        <question>
-            <text>դասից առաջ</text>
+        </card>
+        <card>
+            <question>դասից առաջ</question>
             <answer>до урока|перед уроком</answer>
-        </question>
-        <question>
-            <text>դասից հետո</text>
+        </card>
+        <card>
+            <question>դասից հետո</question>
             <answer>после урока</answer>
-        </question>
-        <question>
-            <text>սովորաբար</text>
+        </card>
+        <card>
+            <question>սովորաբար</question>
             <answer>обычно</answer>
-        </question>
-        <question>
-            <text>տարեկան</text>
+        </card>
+        <card>
+            <question>տարեկան</question>
             <answer>год возраста</answer>
-        </question>
-        <question>
-            <text>քանի տարեկան ես</text>
+        </card>
+        <card>
+            <question>քանի տարեկան ես</question>
             <answer>сколько тебе лет</answer>
-        </question>
-        <question>
-            <text>քանի տարեկան է</text>
+        </card>
+        <card>
+            <question>քանի տարեկան է</question>
             <answer>сколько ему лет</answer>
-        </question>
-        <question>
-            <text>քանի տարեկան եմ</text>
+        </card>
+        <card>
+            <question>քանի տարեկան եմ</question>
             <answer>сколько мне лет</answer>
-        </question>
-        <question>
-            <text>քանի տարեկան եք</text>
+        </card>
+        <card>
+            <question>քանի տարեկան եք</question>
             <answer>сколько вам лет</answer>
-        </question>
-        <question>
-            <text>գարուն</text>
+        </card>
+        <card>
+            <question>գարուն</question>
             <answer>весна</answer>
-        </question>
-        <question>
-            <text>գարնա՛նը</text>
+        </card>
+        <card>
+            <question>գարնա՛նը</question>
             <answer>весной</answer>
-        </question>
-        <question>
-            <text>ամառ</text>
+        </card>
+        <card>
+            <question>ամառ</question>
             <answer>лето</answer>
-        </question>
-        <question>
-            <text>ամռա՛նը</text>
+        </card>
+        <card>
+            <question>ամռա՛նը</question>
             <answer>летом</answer>
-        </question>
-        <question>
-            <text>աշուն</text>
+        </card>
+        <card>
+            <question>աշուն</question>
             <answer>осень</answer>
-        </question>
-        <question>
-            <text>աշնա՛նը</text>
+        </card>
+        <card>
+            <question>աշնա՛նը</question>
             <answer>осенью</answer>
-        </question>
-        <question>
-            <text>ձմեռ</text>
+        </card>
+        <card>
+            <question>ձմեռ</question>
             <answer>зима</answer>
-        </question>
-        <question>
-            <text>ձմռա՛նը</text>
+        </card>
+        <card>
+            <question>ձմռա՛նը</question>
             <answer>зимой</answer>
-        </question>
-        <question>
-            <text>միշտ</text>
+        </card>
+        <card>
+            <question>միշտ</question>
             <answer>всегда</answer>
-        </question>
-        <question>
-            <text>արդեն</text>
+        </card>
+        <card>
+            <question>արդեն</question>
             <answer>уже</answer>
-        </question>
-        <question>
-            <text>դեռ</text>
+        </card>
+        <card>
+            <question>դեռ</question>
             <answer>еще</answer>
-        </question>
-        <question>
-            <text>առաջին անգամ</text>
+        </card>
+        <card>
+            <question>առաջին անգամ</question>
             <answer>первый раз</answer>
-        </question>
-        <question>
-            <text>մեկ անգամ</text>
+        </card>
+        <card>
+            <question>մեկ անգամ</question>
             <answer>один раз</answer>
-        </question>
-        <question>
-            <text>այս անգամ</text>
+        </card>
+        <card>
+            <question>այս անգամ</question>
             <answer>этот раз</answer>
-        </question>
-        <question>
-            <text>ամեն անգամ</text>
+        </card>
+        <card>
+            <question>ամեն անգամ</question>
             <answer>каждый раз</answer>
-        </question>
-        <question>
-            <text>հաջորդ անգամ</text>
+        </card>
+        <card>
+            <question>հաջորդ անգամ</question>
             <answer>в следующий раз</answer>
-        </question>
-        <question>
-            <text>ամառային</text>
+        </card>
+        <card>
+            <question>ամառային</question>
             <answer>летний</answer>
-        </question>
-        <question>
-            <text>ձմեռային</text>
+        </card>
+        <card>
+            <question>ձմեռային</question>
             <answer>зимний</answer>
-        </question>
-        <question>
-            <text>աշունային</text>
+        </card>
+        <card>
+            <question>աշունային</question>
             <answer>осенний</answer>
-        </question>
-        <question>
-            <text>գարունային</text>
+        </card>
+        <card>
+            <question>գարունային</question>
             <answer>весенний</answer>
-        </question>
-        <question>
-            <text>շուտով</text>
+        </card>
+        <card>
+            <question>շուտով</question>
             <answer>скоро</answer>
-        </question>
-        <question>
-            <text>Ուշ աշուն</text>
+        </card>
+        <card>
+            <question>Ուշ աշուն</question>
             <answer>поздняя осень</answer>
-        </question>
-        <question>
-            <text>օրերին</text>
+        </card>
+        <card>
+            <question>օրերին</question>
             <answer>в дни</answer>
-        </question>
-        <question>
-            <text>երբեք</text>
+        </card>
+        <card>
+            <question>երբեք</question>
             <answer>никогда</answer>
-        </question>
-        <question>
-            <text>միանգամից</text>
+        </card>
+        <card>
+            <question>միանգամից</question>
             <answer>сразу</answer>
-        </question>
-        <question>
-            <text>անցած</text>
+        </card>
+        <card>
+            <question>անցած</question>
             <answer>прошлый</answer>
-        </question>
-        <question>
-            <text>անցած շաբատ</text>
+        </card>
+        <card>
+            <question>անցած շաբատ</question>
             <answer>на прошлой неделе</answer>
-        </question>
-        <question>
-            <text>երեկ չէ առաջի օրը</text>
+        </card>
+        <card>
+            <question>երեկ չէ առաջի օրը</question>
             <answer>позавчера</answer>
-        </question>
-        <question>
-            <text>երկու օրը առաջ</text>
+        </card>
+        <card>
+            <question>երկու օրը առաջ</question>
             <answer>2 дня назад</answer>
-        </question>
-        <question>
-            <text>մի շաբաթ առաջ</text>
+        </card>
+        <card>
+            <question>մի շաբաթ առաջ</question>
             <answer>неделю назад</answer>
-        </question>
-        <question>
-            <text>ինչպես միշտ</text>
+        </card>
+        <card>
+            <question>ինչպես միշտ</question>
             <answer>как всегда</answer>
-        </question>
-        <question>
-            <text>երկար ժամանակ</text>
+        </card>
+        <card>
+            <question>երկար ժամանակ</question>
             <answer>долго</answer>
-        </question>
-        <question>
-            <text>ամսից</text>
+        </card>
+        <card>
+            <question>ամսից</question>
             <answer>с месяца</answer>
-        </question>
-        <question>
-            <text>շտապ</text>
+        </card>
+        <card>
+            <question>շտապ</question>
             <answer>срочный</answer>
-        </question>
-        <question>
-            <text>ամսի տասներկուին</text>
+        </card>
+        <card>
+            <question>ամսի տասներկուին</question>
             <answer>12-го числа</answer>
-        </question>
-        <question>
-            <text>ապագա</text>
+        </card>
+        <card>
+            <question>ապագա</question>
             <answer>будущее</answer>
-        </question>
-        <question>
-            <text>օրը մի անգամ</text>
+        </card>
+        <card>
+            <question>օրը մի անգամ</question>
             <answer>один раз в день</answer>
-        </question>
-        <question>
-            <text>շաբաթը մի անգամ</text>
+        </card>
+        <card>
+            <question>շաբաթը մի անգամ</question>
             <answer>один раз в неделю</answer>
-        </question>
-        <question>
-            <text>ամիսը մի անգամ</text>
+        </card>
+        <card>
+            <question>ամիսը մի անգամ</question>
             <answer>один раз в месяц</answer>
-        </question>
-        <question>
-            <text>տարին մի անգամ</text>
+        </card>
+        <card>
+            <question>տարին մի անգամ</question>
             <answer>один раз в год</answer>
-        </question>
-    </questions>
+        </card>
+    </cards>
 </questionary>

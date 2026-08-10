@@ -2,623 +2,623 @@
 <questionary>
     <id>Армянские глаголы</id>
     <title>Глаголы (арм.)</title>
-    <questions>
-        <question>
-            <text>փորձել</text>
+    <cards>
+        <card>
+            <question>փորձել</question>
             <answer>пробовать</answer>
-        </question>
-        <question>
-            <text>կանգել</text>
+        </card>
+        <card>
+            <question>կանգել</question>
             <answer>останавливаться</answer>
-        </question>
-        <question>
-            <text>ուզել</text>
+        </card>
+        <card>
+            <question>ուզել</question>
             <answer>хотеть</answer>
-        </question>
-        <question>
-            <text>վազել</text>
+        </card>
+        <card>
+            <question>վազել</question>
             <answer>бежать</answer>
-        </question>
-        <question>
-            <text>աշխատել</text>
+        </card>
+        <card>
+            <question>աշխատել</question>
             <answer>работать</answer>
-        </question>
-        <question>
-            <text>գնալ</text>
+        </card>
+        <card>
+            <question>գնալ</question>
             <answer>идти</answer>
-        </question>
-        <question>
-            <text>ուտել</text>
+        </card>
+        <card>
+            <question>ուտել</question>
             <answer>есть (кушать)</answer>
-        </question>
-        <question>
-            <text>խմել</text>
+        </card>
+        <card>
+            <question>խմել</question>
             <answer>пить</answer>
-        </question>
-        <question>
-            <text>քնել</text>
+        </card>
+        <card>
+            <question>քնել</question>
             <answer>спать</answer>
-        </question>
-        <question>
-            <text>գնել</text>
+        </card>
+        <card>
+            <question>գնել</question>
             <answer>покупать</answer>
-        </question>
-        <question>
-            <text>պարել</text>
+        </card>
+        <card>
+            <question>պարել</question>
             <answer>танцевать</answer>
-        </question>
-        <question>
-            <text>անել</text>
+        </card>
+        <card>
+            <question>անել</question>
             <answer>делать</answer>
-        </question>
-        <question>
-            <text>վաճառել</text>
+        </card>
+        <card>
+            <question>վաճառել</question>
             <answer>продать|продавать</answer>
-        </question>
-        <question>
-            <text>բացել</text>
+        </card>
+        <card>
+            <question>բացել</question>
             <answer>открывать</answer>
-        </question>
-        <question>
-            <text>սպասել</text>
+        </card>
+        <card>
+            <question>սպասել</question>
             <answer>ждать</answer>
-        </question>
-        <question>
-            <text>հիշել</text>
+        </card>
+        <card>
+            <question>հիշել</question>
             <answer>помнить</answer>
-        </question>
-        <question>
-            <text>նայել</text>
+        </card>
+        <card>
+            <question>նայել</question>
             <answer>смотреть</answer>
-        </question>
-        <question>
-            <text>սկսել</text>
+        </card>
+        <card>
+            <question>սկսել</question>
             <answer>начинать</answer>
-        </question>
-        <question>
-            <text>պատմել</text>
+        </card>
+        <card>
+            <question>պատմել</question>
             <answer>рассказывать</answer>
-        </question>
-        <question>
-            <text>հարցնել</text>
+        </card>
+        <card>
+            <question>հարցնել</question>
             <answer>спрашивать</answer>
-        </question>
-        <question>
-            <text>պատասխանել</text>
+        </card>
+        <card>
+            <question>պատասխանել</question>
             <answer>отвечать</answer>
-        </question>
-        <question>
-            <text>մոռանալ</text>
+        </card>
+        <card>
+            <question>մոռանալ</question>
             <answer>забывать</answer>
-        </question>
-        <question>
-            <text>ասել</text>
+        </card>
+        <card>
+            <question>ասել</question>
             <answer>сказать to say</answer>
-        </question>
-        <question>
-            <text>խոսել</text>
+        </card>
+        <card>
+            <question>խոսել</question>
             <answer>говорить to speak, to talk</answer>
-        </question>
-        <question>
-            <text>լսել</text>
+        </card>
+        <card>
+            <question>լսել</question>
             <answer>слышать|слушать</answer>
-        </question>
-        <question>
-            <text>առնել</text>
+        </card>
+        <card>
+            <question>առնել</question>
             <answer>покупать|брать</answer>
-        </question>
-        <question>
-            <text>վերցնել</text>
+        </card>
+        <card>
+            <question>վերցնել</question>
             <answer>брать</answer>
-        </question>
-        <question>
-            <text>պատրաստել</text>
+        </card>
+        <card>
+            <question>պատրաստել</question>
             <answer>готовить</answer>
-        </question>
-        <question>
-            <text>սարքել</text>
+        </card>
+        <card>
+            <question>սարքել</question>
             <answer>готовить</answer>
-        </question>
-        <question>
-            <text>պատրաստվել</text>
+        </card>
+        <card>
+            <question>պատրաստվել</question>
             <answer>готовиться|собираться</answer>
-        </question>
-        <question>
-            <text>սարքել</text>
+        </card>
+        <card>
+            <question>սարքել</question>
             <answer>чинить|строить</answer>
-        </question>
-        <question>
-            <text>վերջացնել</text>
+        </card>
+        <card>
+            <question>վերջացնել</question>
             <answer>заканчивать</answer>
-        </question>
-        <question>
-            <text>օգտագործել</text>
+        </card>
+        <card>
+            <question>օգտագործել</question>
             <answer>использовать</answer>
-        </question>
-        <question>
-            <text>մտածել|կարծել</text>
+        </card>
+        <card>
+            <question>մտածել|կարծել</question>
             <answer>думать</answer>
-        </question>
-        <question>
-            <text>գրել</text>
+        </card>
+        <card>
+            <question>գրել</question>
             <answer>писать</answer>
-        </question>
-        <question>
-            <text>զանգել</text>
+        </card>
+        <card>
+            <question>զանգել</question>
             <answer>звонить</answer>
-        </question>
-        <question>
-            <text>սիրել</text>
+        </card>
+        <card>
+            <question>սիրել</question>
             <answer>любить</answer>
-        </question>
-        <question>
-            <text>ուղարկել</text>
+        </card>
+        <card>
+            <question>ուղարկել</question>
             <answer>отправить|отправлять</answer>
-        </question>
-        <question>
-            <text>հանգստանալ</text>
+        </card>
+        <card>
+            <question>հանգստանալ</question>
             <answer>отдыхать</answer>
-        </question>
-        <question>
-            <text>կարդալ</text>
+        </card>
+        <card>
+            <question>կարդալ</question>
             <answer>читать</answer>
-        </question>
-        <question>
-            <text>լողալ</text>
+        </card>
+        <card>
+            <question>լողալ</question>
             <answer>плавать</answer>
-        </question>
-        <question>
-            <text>տալ</text>
+        </card>
+        <card>
+            <question>տալ</question>
             <answer>давать</answer>
-        </question>
-        <question>
-            <text>ցույց տալ</text>
+        </card>
+        <card>
+            <question>ցույց տալ</question>
             <answer>показывать</answer>
-        </question>
-        <question>
-            <text>հասկանալ</text>
+        </card>
+        <card>
+            <question>հասկանալ</question>
             <answer>понимать</answer>
-        </question>
-        <question>
-            <text>արթնանալ</text>
+        </card>
+        <card>
+            <question>արթնանալ</question>
             <answer>просыпаться</answer>
-        </question>
-        <question>
-            <text>ուշանալ</text>
+        </card>
+        <card>
+            <question>ուշանալ</question>
             <answer>опаздывать</answer>
-        </question>
-        <question>
-            <text>դուր գալ</text>
+        </card>
+        <card>
+            <question>դուր գալ</question>
             <answer>нравиться</answer>
-        </question>
-        <question>
-            <text>զզվել</text>
+        </card>
+        <card>
+            <question>զզվել</question>
             <answer>ненавидеть</answer>
-        </question>
-        <question>
-            <text>սովորել</text>
+        </card>
+        <card>
+            <question>սովորել</question>
             <answer>учить|учиться</answer>
-        </question>
-        <question>
-            <text>լինել</text>
+        </card>
+        <card>
+            <question>լինել</question>
             <answer>бывать|быть</answer>
-        </question>
-        <question>
-            <text>մաքրել</text>
+        </card>
+        <card>
+            <question>մաքրել</question>
             <answer>убираться</answer>
-        </question>
-        <question>
-            <text>շփվել</text>
+        </card>
+        <card>
+            <question>շփվել</question>
             <answer>тереться (общаться)</answer>
-        </question>
-        <question>
-            <text>շփել</text>
+        </card>
+        <card>
+            <question>շփել</question>
             <answer>тереть</answer>
-        </question>
-        <question>
-            <text>մեքենա քշել</text>
+        </card>
+        <card>
+            <question>մեքենա քշել</question>
             <answer>водить машину</answer>
-        </question>
-        <question>
-            <text>պետք ա|պետք է</text>
+        </card>
+        <card>
+            <question>պետք ա|պետք է</question>
             <answer>нужно</answer>
-        </question>
-        <question>
-            <text>պետք չի|պետք չէ</text>
+        </card>
+        <card>
+            <question>պետք չի|պետք չէ</question>
             <answer>не нужно</answer>
-        </question>
-        <question>
-            <text>ես կարող եմ</text>
+        </card>
+        <card>
+            <question>ես կարող եմ</question>
             <answer>я могу</answer>
-        </question>
-        <question>
-            <text>ես չեմ կարող</text>
+        </card>
+        <card>
+            <question>ես չեմ կարող</question>
             <answer>я не могу</answer>
-        </question>
-        <question>
-            <text>կարելի է</text>
+        </card>
+        <card>
+            <question>կարելի է</question>
             <answer>можно</answer>
-        </question>
-        <question>
-            <text>չի կարելի</text>
+        </card>
+        <card>
+            <question>չի կարելի</question>
             <answer>нельзя</answer>
-        </question>
-        <question>
-            <text>կարողանալ</text>
+        </card>
+        <card>
+            <question>կարողանալ</question>
             <answer>уметь (быть в состоянии)</answer>
-        </question>
-        <question>
-            <text>օգնել</text>
+        </card>
+        <card>
+            <question>օգնել</question>
             <answer>помогать</answer>
-        </question>
-        <question>
-            <text>տեսնել</text>
+        </card>
+        <card>
+            <question>տեսնել</question>
             <answer>видеть</answer>
-        </question>
-        <question>
-            <text>ծխել</text>
+        </card>
+        <card>
+            <question>ծխել</question>
             <answer>курить</answer>
-        </question>
-        <question>
-            <text>մաղթալ</text>
+        </card>
+        <card>
+            <question>մաղթալ</question>
             <answer>желать</answer>
-        </question>
-        <question>
-            <text>կծել</text>
+        </card>
+        <card>
+            <question>կծել</question>
             <answer>кусать</answer>
-        </question>
-        <question>
-            <text>վճարել</text>
+        </card>
+        <card>
+            <question>վճարել</question>
             <answer>платить</answer>
-        </question>
-        <question>
-            <text>զբոսնել|ման գալ</text>
+        </card>
+        <card>
+            <question>զբոսնել|ման գալ</question>
             <answer>гулять</answer>
-        </question>
-        <question>
-            <text>վաճառվել</text>
+        </card>
+        <card>
+            <question>վաճառվել</question>
             <answer>продаваться</answer>
-        </question>
-        <question>
-            <text>ծախել</text>
+        </card>
+        <card>
+            <question>ծախել</question>
             <answer>продавать</answer>
-        </question>
-        <question>
-            <text>ծախսել</text>
+        </card>
+        <card>
+            <question>ծախսել</question>
             <answer>тратить</answer>
-        </question>
-        <question>
-            <text>գտնել</text>
+        </card>
+        <card>
+            <question>գտնել</question>
             <answer>находить</answer>
-        </question>
-        <question>
-            <text>ունենալ</text>
+        </card>
+        <card>
+            <question>ունենալ</question>
             <answer>иметь</answer>
-        </question>
-        <question>
-            <text>իմանալ</text>
+        </card>
+        <card>
+            <question>իմանալ</question>
             <answer>знать|узнавать</answer>
-        </question>
-        <question>
-            <text>հասկացա</text>
+        </card>
+        <card>
+            <question>հասկացա</question>
             <answer>понял</answer>
-        </question>
-        <question>
-            <text>պատվիրել</text>
+        </card>
+        <card>
+            <question>պատվիրել</question>
             <answer>заказывать</answer>
-        </question>
-        <question>
-            <text>ճամփորդել</text>
+        </card>
+        <card>
+            <question>ճամփորդել</question>
             <answer>путешествовать</answer>
-        </question>
-        <question>
-            <text>խնայել</text>
+        </card>
+        <card>
+            <question>խնայել</question>
             <answer>экономить|сохранять</answer>
-        </question>
-        <question>
-            <text>արի</text>
+        </card>
+        <card>
+            <question>արի</question>
             <answer>иди (со мной/ко мне)</answer>
-        </question>
-        <question>
-            <text>եկեք</text>
+        </card>
+        <card>
+            <question>եկեք</question>
             <answer>идите (со мной/ко мне)</answer>
-        </question>
-        <question>
-            <text>տուր</text>
+        </card>
+        <card>
+            <question>տուր</question>
             <answer>давай</answer>
-        </question>
-        <question>
-            <text>տվեք</text>
+        </card>
+        <card>
+            <question>տվեք</question>
             <answer>давайте</answer>
-        </question>
-        <question>
-            <text>գնա</text>
+        </card>
+        <card>
+            <question>գնա</question>
             <answer>иди|уходи</answer>
-        </question>
-        <question>
-            <text>գնացեք</text>
+        </card>
+        <card>
+            <question>գնացեք</question>
             <answer>идите|уходите</answer>
-        </question>
-        <question>
-            <text>հաշվել</text>
+        </card>
+        <card>
+            <question>հաշվել</question>
             <answer>посчитать</answer>
-        </question>
-        <question>
-            <text>ստացվում</text>
+        </card>
+        <card>
+            <question>ստացվում</question>
             <answer>получается</answer>
-        </question>
-        <question>
-            <text>բերել</text>
+        </card>
+        <card>
+            <question>բերել</question>
             <answer>приносить</answer>
-        </question>
-        <question>
-            <text>տանել</text>
+        </card>
+        <card>
+            <question>տանել</question>
             <answer>относить|возить</answer>
-        </question>
-        <question>
-            <text>նստել</text>
+        </card>
+        <card>
+            <question>նստել</question>
             <answer>сидеть</answer>
-        </question>
-        <question>
-            <text>կանգնել</text>
+        </card>
+        <card>
+            <question>կանգնել</question>
             <answer>стоять</answer>
-        </question>
-        <question>
-            <text>պառկել</text>
+        </card>
+        <card>
+            <question>պառկել</question>
             <answer>лежать</answer>
-        </question>
-        <question>
-            <text>հոգնել</text>
+        </card>
+        <card>
+            <question>հոգնել</question>
             <answer>уставать</answer>
-        </question>
-        <question>
-            <text>ասա</text>
+        </card>
+        <card>
+            <question>ասա</question>
             <answer>скажи</answer>
-        </question>
-        <question>
-            <text>եղել եք</text>
+        </card>
+        <card>
+            <question>եղել եք</question>
             <answer>вы были</answer>
-        </question>
-        <question>
-            <text>մտնել</text>
+        </card>
+        <card>
+            <question>մտնել</question>
             <answer>войти</answer>
-        </question>
-        <question>
-            <text>հիվանդանալ</text>
+        </card>
+        <card>
+            <question>հիվանդանալ</question>
             <answer>болеть</answer>
-        </question>
-        <question>
-            <text>հավաքել</text>
+        </card>
+        <card>
+            <question>հավաքել</question>
             <answer>собирать</answer>
-        </question>
-        <question>
-            <text>որսալ</text>
+        </card>
+        <card>
+            <question>որսալ</question>
             <answer>охотиться</answer>
-        </question>
-        <question>
-            <text>բռնել</text>
+        </card>
+        <card>
+            <question>բռնել</question>
             <answer>ловить</answer>
-        </question>
-        <question>
-            <text>նիհարել</text>
+        </card>
+        <card>
+            <question>նիհարել</question>
             <answer>худеть</answer>
-        </question>
-        <question>
-            <text>քնած</text>
+        </card>
+        <card>
+            <question>քնած</question>
             <answer>спящий</answer>
-        </question>
-        <question>
-            <text>պառկած</text>
+        </card>
+        <card>
+            <question>պառկած</question>
             <answer>лежащий</answer>
-        </question>
-        <question>
-            <text>նստած</text>
+        </card>
+        <card>
+            <question>նստած</question>
             <answer>сидящий</answer>
-        </question>
-        <question>
-            <text>կանգնած</text>
+        </card>
+        <card>
+            <question>կանգնած</question>
             <answer>стоя́щий</answer>
-        </question>
-        <question>
-            <text>հանգնած</text>
+        </card>
+        <card>
+            <question>հանգնած</question>
             <answer>уставший</answer>
-        </question>
-        <question>
-            <text>տանջվել</text>
+        </card>
+        <card>
+            <question>տանջվել</question>
             <answer>страдать</answer>
-        </question>
-        <question>
-            <text>կանտրոնանալ</text>
+        </card>
+        <card>
+            <question>կանտրոնանալ</question>
             <answer>сосредоточится</answer>
-        </question>
-        <question>
-            <text>կրկնել</text>
+        </card>
+        <card>
+            <question>կրկնել</question>
             <answer>повторять</answer>
-        </question>
-        <question>
-            <text>ուրախանալ</text>
+        </card>
+        <card>
+            <question>ուրախանալ</question>
             <answer>радоваться</answer>
-        </question>
-        <question>
-            <text>հանդիպել</text>
+        </card>
+        <card>
+            <question>հանդիպել</question>
             <answer>встретиться|встречаться</answer>
-        </question>
-        <question>
-            <text>ստանալ</text>
+        </card>
+        <card>
+            <question>ստանալ</question>
             <answer>получать</answer>
-        </question>
-        <question>
-            <text>Ես … եմ</text>
+        </card>
+        <card>
+            <question>Ես … եմ</question>
             <answer>я ... есть</answer>
-        </question>
-        <question>
-            <text>Դու … ես</text>
+        </card>
+        <card>
+            <question>Դու … ես</question>
             <answer>ты ... есть</answer>
-        </question>
-        <question>
-            <text>նա … է|նա … ա|ինքը … ա|ինքը … է</text>
+        </card>
+        <card>
+            <question>նա … է|նա … ա|ինքը … ա|ինքը … է</question>
             <answer>он ... есть|она ... есть</answer>
-        </question>
-        <question>
-            <text>Մենք … ենք</text>
+        </card>
+        <card>
+            <question>Մենք … ենք</question>
             <answer>мы ... есть</answer>
-        </question>
-        <question>
-            <text>Դուք … եք</text>
+        </card>
+        <card>
+            <question>Դուք … եք</question>
             <answer>вы ... есть</answer>
-        </question>
-        <question>
-            <text>Նրանք … են|Իրենք … են|Իրանք … են</text>
+        </card>
+        <card>
+            <question>Նրանք … են|Իրենք … են|Իրանք … են</question>
             <answer>они ... есть</answer>
-        </question>
+        </card>
 
-        <question>
-            <text>Ես ... չեմ</text>
+        <card>
+            <question>Ես ... չեմ</question>
             <answer>я ... не есть</answer>
-        </question>
-        <question>
-            <text>Դու ... չես</text>
+        </card>
+        <card>
+            <question>Դու ... չես</question>
             <answer>ты ... не есть</answer>
-        </question>
-        <question>
-            <text>Ինքը ... չի | նա ... չի</text>
+        </card>
+        <card>
+            <question>Ինքը ... չի | նա ... չի</question>
             <answer>он ... не есть|она ... не есть</answer>
-        </question>
-        <question>
-            <text>Մենք ... չենք</text>
+        </card>
+        <card>
+            <question>Մենք ... չենք</question>
             <answer>мы ... не есть</answer>
-        </question>
-        <question>
-            <text>Դուք ... չեք</text>
+        </card>
+        <card>
+            <question>Դուք ... չեք</question>
             <answer>вы ... не есть</answer>
-        </question>
-        <question>
-            <text>Նրանք ... չեն|Իրենք ... չեն|Իրանք ... չեն</text>
+        </card>
+        <card>
+            <question>Նրանք ... չեն|Իրենք ... չեն|Իրանք ... չեն</question>
             <answer>они ... не есть</answer>
-        </question>
-        <question>
-            <text>ես ․․․ էի</text>
+        </card>
+        <card>
+            <question>ես ․․․ էի</question>
             <answer>я ․․․ был</answer>
-        </question>
-        <question>
-            <text>դու ․․․ էիր</text>
+        </card>
+        <card>
+            <question>դու ․․․ էիր</question>
             <answer>ты ․․․ был</answer>
-        </question>
-        <question>
-            <text>նա ․․․ էր|ինքը ․․․ էր</text>
+        </card>
+        <card>
+            <question>նա ․․․ էր|ինքը ․․․ էր</question>
             <answer>он ․․․ был|она ․․․ была</answer>
-        </question>
-        <question>
-            <text>մենք ․․․ էինք</text>
+        </card>
+        <card>
+            <question>մենք ․․․ էինք</question>
             <answer>мы ․․․ были</answer>
-        </question>
-        <question>
-            <text>դուք ․․․ էիք</text>
+        </card>
+        <card>
+            <question>դուք ․․․ էիք</question>
             <answer>вы ․․․ были</answer>
-        </question>
-        <question>
-            <text>նրանք ․․․ էին|իրենք ․․․ էին|իրանք ․․․ էին</text>
+        </card>
+        <card>
+            <question>նրանք ․․․ էին|իրենք ․․․ էին|իրանք ․․․ էին</question>
             <answer>они ․․․ были</answer>
-        </question>
-        <question>
-            <text>ես ․․․ չէի</text>
+        </card>
+        <card>
+            <question>ես ․․․ չէի</question>
             <answer>я ․․․ не был</answer>
-        </question>
-        <question>
-            <text>դու ․․․ չէիր</text>
+        </card>
+        <card>
+            <question>դու ․․․ չէիր</question>
             <answer>ты ․․․ не был</answer>
-        </question>
-        <question>
-            <text>նա ․․․ չէր|ինքը ․․․ չէր</text>
+        </card>
+        <card>
+            <question>նա ․․․ չէր|ինքը ․․․ չէր</question>
             <answer>он ․․․ не был|она ․․․ не была</answer>
-        </question>
-        <question>
-            <text>մենք ․․․ չէինք</text>
+        </card>
+        <card>
+            <question>մենք ․․․ չէինք</question>
             <answer>мы ․․․ не были</answer>
-        </question>
-        <question>
-            <text>դուք ․․․ չէիք</text>
+        </card>
+        <card>
+            <question>դուք ․․․ չէիք</question>
             <answer>вы ․․․ не были</answer>
-        </question>
-        <question>
-            <text>նրանք ․․․ չէին|իրենք ․․․ չէին|իրանք ․․․ չէին</text>
+        </card>
+        <card>
+            <question>նրանք ․․․ չէին|իրենք ․․․ չէին|իրանք ․․․ չէին</question>
             <answer>они ․․․ не были</answer>
-        </question>
-        <question>
-            <text>հագնել</text>
+        </card>
+        <card>
+            <question>հագնել</question>
             <answer>носить</answer>
-        </question>
-        <question>
-            <text>շարումակել</text>
+        </card>
+        <card>
+            <question>շարումակել</question>
             <answer>продолжать</answer>
-        </question>
-        <question>
-            <text>վարել|քշել</text>
+        </card>
+        <card>
+            <question>վարել|քշել</question>
             <answer>ездить|водить (тс)</answer>
-        </question>
-        <question>
-            <text>զբաղվել</text>
+        </card>
+        <card>
+            <question>զբաղվել</question>
             <answer>заниматься (хобби)</answer>
-        </question>
-        <question>
-            <text>պարապել</text>
+        </card>
+        <card>
+            <question>պարապել</question>
             <answer>тренироваться</answer>
-        </question>
-        <question>
-            <text>դառնալ</text>
+        </card>
+        <card>
+            <question>դառնալ</question>
             <answer>стать|становиться</answer>
-        </question>
-        <question>
-            <text>քայլել</text>
+        </card>
+        <card>
+            <question>քայլել</question>
             <answer>ходить</answer>
-        </question>
-        <question>
-            <text>որոշել</text>
+        </card>
+        <card>
+            <question>որոշել</question>
             <answer>решить</answer>
-        </question>
-        <question>
-            <text>ծանոթանալ</text>
+        </card>
+        <card>
+            <question>ծանոթանալ</question>
             <answer>знакомиться</answer>
-        </question>
-        <question>
-            <text>պատվիրել</text>
+        </card>
+        <card>
+            <question>պատվիրել</question>
             <answer>заказать</answer>
-        </question>
-        <question>
-            <text>ստիպել</text>
+        </card>
+        <card>
+            <question>ստիպել</question>
             <answer>вынуждать | заставлять</answer>
-        </question>
-        <question>
-            <text>քաղցել</text>
+        </card>
+        <card>
+            <question>քաղցել</question>
             <answer>голодать</answer>
-        </question>
-        <question>
-            <text>բարևել</text>
+        </card>
+        <card>
+            <question>բարևել</question>
             <answer>здоровваться</answer>
-        </question>
-        <question>
-            <text>արժենալ</text>
+        </card>
+        <card>
+            <question>արժենալ</question>
             <answer>стоить</answer>
-        </question>
-        <question>
-            <text>փնտրել</text>
+        </card>
+        <card>
+            <question>փնտրել</question>
             <answer>искать</answer>
-        </question>
-        <question>
-            <text>լողանալ</text>
+        </card>
+        <card>
+            <question>լողանալ</question>
             <answer>мыться</answer>
-        </question>
-        <question>
-            <text>կտրել</text>
+        </card>
+        <card>
+            <question>կտրել</question>
             <answer>резать</answer>
-        </question>
-        <question>
-            <text>նշել</text>
+        </card>
+        <card>
+            <question>նշել</question>
             <answer>отмечать</answer>
-        </question>
-        <question>
-            <text>մնալ</text>
+        </card>
+        <card>
+            <question>մնալ</question>
             <answer>оставаться</answer>
-        </question>
-    </questions>
+        </card>
+    </cards>
 </questionary>

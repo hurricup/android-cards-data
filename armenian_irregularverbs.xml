@@ -2,398 +2,398 @@
 <questionary>
     <id>Армянские неправильные глаголы</id>
     <title>Глаголы неправильные (арм.)</title>
-    <questions>
-        <question>
-            <text>գիտեմ</text>
+    <cards>
+        <card>
+            <question>գիտեմ</question>
             <answer>знаю</answer>
-        </question>
-        <question>
-            <text>գիտես</text>
+        </card>
+        <card>
+            <question>գիտես</question>
             <answer>знаешь</answer>
-        </question>
-        <question>
-            <text>գիտի</text>
+        </card>
+        <card>
+            <question>գիտի</question>
             <answer>знает</answer>
-        </question>
-        <question>
-            <text>գիտենք</text>
+        </card>
+        <card>
+            <question>գիտենք</question>
             <answer>знаем</answer>
-        </question>
-        <question>
-            <text>գիտեք</text>
+        </card>
+        <card>
+            <question>գիտեք</question>
             <answer>знаете</answer>
-        </question>
-        <question>
-            <text>գիտեն</text>
+        </card>
+        <card>
+            <question>գիտեն</question>
             <answer>знают</answer>
-        </question>
-        <question>
-            <text>չգիտեմ</text>
+        </card>
+        <card>
+            <question>չգիտեմ</question>
             <answer>не знаю</answer>
-        </question>
-        <question>
-            <text>չգիտես</text>
+        </card>
+        <card>
+            <question>չգիտես</question>
             <answer>не знаешь</answer>
-        </question>
-        <question>
-            <text>չգիտի</text>
+        </card>
+        <card>
+            <question>չգիտի</question>
             <answer>не знает</answer>
-        </question>
-        <question>
-            <text>չգիտենք</text>
+        </card>
+        <card>
+            <question>չգիտենք</question>
             <answer>не знаем</answer>
-        </question>
-        <question>
-            <text>չգիտեք</text>
+        </card>
+        <card>
+            <question>չգիտեք</question>
             <answer>не знаете</answer>
-        </question>
-        <question>
-            <text>չգիտեն</text>
+        </card>
+        <card>
+            <question>չգիտեն</question>
             <answer>не знают</answer>
-        </question>
-        <question>
-            <text>արժեմ</text>
+        </card>
+        <card>
+            <question>արժեմ</question>
             <answer>сто́ю</answer>
-        </question>
-        <question>
-            <text>արժես</text>
+        </card>
+        <card>
+            <question>արժես</question>
             <answer>сто́ишь</answer>
-        </question>
-        <question>
-            <text>արժի</text>
+        </card>
+        <card>
+            <question>արժի</question>
             <answer>сто́ит</answer>
-        </question>
-        <question>
-            <text>արժենք</text>
+        </card>
+        <card>
+            <question>արժենք</question>
             <answer>сто́им</answer>
-        </question>
-        <question>
-            <text>արժեք</text>
+        </card>
+        <card>
+            <question>արժեք</question>
             <answer>сто́ите</answer>
-        </question>
-        <question>
-            <text>արժեն</text>
+        </card>
+        <card>
+            <question>արժեն</question>
             <answer>сто́ят</answer>
-        </question>
-        <question>
-            <text>չարժեմ</text>
+        </card>
+        <card>
+            <question>չարժեմ</question>
             <answer>не сто́ю</answer>
-        </question>
-        <question>
-            <text>չարժես</text>
+        </card>
+        <card>
+            <question>չարժես</question>
             <answer>не сто́ишь</answer>
-        </question>
-        <question>
-            <text>չարժի</text>
+        </card>
+        <card>
+            <question>չարժի</question>
             <answer>не сто́ит</answer>
-        </question>
-        <question>
-            <text>չարժենք</text>
+        </card>
+        <card>
+            <question>չարժենք</question>
             <answer>не сто́им</answer>
-        </question>
-        <question>
-            <text>չարժեք</text>
+        </card>
+        <card>
+            <question>չարժեք</question>
             <answer>не сто́ите</answer>
-        </question>
-        <question>
-            <text>չարժեն</text>
+        </card>
+        <card>
+            <question>չարժեն</question>
             <answer>не сто́ят</answer>
-        </question>
-        <question>
-            <text>ունեմ</text>
+        </card>
+        <card>
+            <question>ունեմ</question>
             <answer>имею</answer>
-        </question>
-        <question>
-            <text>ունես</text>
+        </card>
+        <card>
+            <question>ունես</question>
             <answer>имеешь</answer>
-        </question>
-        <question>
-            <text>ունի</text>
+        </card>
+        <card>
+            <question>ունի</question>
             <answer>имеет</answer>
-        </question>
-        <question>
-            <text>ունենք</text>
+        </card>
+        <card>
+            <question>ունենք</question>
             <answer>имеем</answer>
-        </question>
-        <question>
-            <text>ունեք</text>
+        </card>
+        <card>
+            <question>ունեք</question>
             <answer>имеете</answer>
-        </question>
-        <question>
-            <text>ունեն</text>
+        </card>
+        <card>
+            <question>ունեն</question>
             <answer>имеют</answer>
-        </question>
-        <question>
-            <text>չունեմ</text>
+        </card>
+        <card>
+            <question>չունեմ</question>
             <answer>не имею</answer>
-        </question>
-        <question>
-            <text>չունես</text>
+        </card>
+        <card>
+            <question>չունես</question>
             <answer>не имеешь</answer>
-        </question>
-        <question>
-            <text>չունի</text>
+        </card>
+        <card>
+            <question>չունի</question>
             <answer>не имеет</answer>
-        </question>
-        <question>
-            <text>չունենք</text>
+        </card>
+        <card>
+            <question>չունենք</question>
             <answer>не имеем</answer>
-        </question>
-        <question>
-            <text>չունեք</text>
+        </card>
+        <card>
+            <question>չունեք</question>
             <answer>не имеете</answer>
-        </question>
-        <question>
-            <text>չունեն</text>
+        </card>
+        <card>
+            <question>չունեն</question>
             <answer>не имеют</answer>
-        </question>
-        <question>
-            <text>գիտեի</text>
+        </card>
+        <card>
+            <question>գիտեի</question>
             <answer>я знал</answer>
-        </question>
-        <question>
-            <text>գիտեիր</text>
+        </card>
+        <card>
+            <question>գիտեիր</question>
             <answer>ты знал</answer>
-        </question>
-        <question>
-            <text>գիտեր</text>
+        </card>
+        <card>
+            <question>գիտեր</question>
             <answer>он знал | она знала</answer>
-        </question>
-        <question>
-            <text>գիտեինք</text>
+        </card>
+        <card>
+            <question>գիտեինք</question>
             <answer>мы знали</answer>
-        </question>
-        <question>
-            <text>գիտեիք</text>
+        </card>
+        <card>
+            <question>գիտեիք</question>
             <answer>вы знали</answer>
-        </question>
-        <question>
-            <text>գիտեին</text>
+        </card>
+        <card>
+            <question>գիտեին</question>
             <answer>они знали</answer>
-        </question>
+        </card>
 
-        <question>
-            <text>ունեի</text>
+        <card>
+            <question>ունեի</question>
             <answer>я имел</answer>
-        </question>
-        <question>
-            <text>ունեիր</text>
+        </card>
+        <card>
+            <question>ունեիր</question>
             <answer>ты имел</answer>
-        </question>
-        <question>
-            <text>ուներ</text>
+        </card>
+        <card>
+            <question>ուներ</question>
             <answer>он имел | она имела</answer>
-        </question>
-        <question>
-            <text>ունեինք</text>
+        </card>
+        <card>
+            <question>ունեինք</question>
             <answer>мы имели</answer>
-        </question>
-        <question>
-            <text>ունեիք</text>
+        </card>
+        <card>
+            <question>ունեիք</question>
             <answer>вы имели</answer>
-        </question>
-        <question>
-            <text>ունեին</text>
+        </card>
+        <card>
+            <question>ունեին</question>
             <answer>они имели</answer>
-        </question>
+        </card>
 
-        <question>
-            <text>կամ</text>
+        <card>
+            <question>կամ</question>
             <answer>есть (1 л. ед. ч)</answer>
-        </question>
-        <question>
-            <text>կաս</text>
+        </card>
+        <card>
+            <question>կաս</question>
             <answer>есть (2 л. ед. ч)</answer>
-        </question>
-        <question>
-            <text>կա</text>
+        </card>
+        <card>
+            <question>կա</question>
             <answer>есть (3 л. ед. ч)</answer>
-        </question>
-        <question>
-            <text>կանք</text>
+        </card>
+        <card>
+            <question>կանք</question>
             <answer>есть (1 л. мн. ч)</answer>
-        </question>
-        <question>
-            <text>կաք</text>
+        </card>
+        <card>
+            <question>կաք</question>
             <answer>есть (2 л. мн. ч)</answer>
-        </question>
-        <question>
-            <text>կան</text>
+        </card>
+        <card>
+            <question>կան</question>
             <answer>есть (3 л. мн. ч)</answer>
-        </question>
+        </card>
 
-        <question>
-            <text>կայի</text>
+        <card>
+            <question>կայի</question>
             <answer>было (1 л. ед. ч)</answer>
-        </question>
-        <question>
-            <text>կայիր</text>
+        </card>
+        <card>
+            <question>կայիր</question>
             <answer>было (2 л. ед. ч)</answer>
-        </question>
-        <question>
-            <text>կար</text>
+        </card>
+        <card>
+            <question>կար</question>
             <answer>было (3 л. ед. ч)</answer>
-        </question>
-        <question>
-            <text>կայինք</text>
+        </card>
+        <card>
+            <question>կայինք</question>
             <answer>были (1 л. мн. ч)</answer>
-        </question>
-        <question>
-            <text>կայիք</text>
+        </card>
+        <card>
+            <question>կայիք</question>
             <answer>были (2 л. мн. ч)</answer>
-        </question>
-        <question>
-            <text>կային</text>
+        </card>
+        <card>
+            <question>կային</question>
             <answer>были (3 л. мн. ч)</answer>
-        </question>
+        </card>
 
-        <question>
-            <text>արժեի</text>
+        <card>
+            <question>արժեի</question>
             <answer>я стоил</answer>
-        </question>
-        <question>
-            <text>արժեիր</text>
+        </card>
+        <card>
+            <question>արժեիր</question>
             <answer>ты стоил</answer>
-        </question>
-        <question>
-            <text>արժեր</text>
+        </card>
+        <card>
+            <question>արժեր</question>
             <answer>он стоил | она стоила</answer>
-        </question>
-        <question>
-            <text>արժեինք</text>
+        </card>
+        <card>
+            <question>արժեինք</question>
             <answer>мы стоили</answer>
-        </question>
-        <question>
-            <text>արժեիք</text>
+        </card>
+        <card>
+            <question>արժեիք</question>
             <answer>вы стоили</answer>
-        </question>
-        <question>
-            <text>արժեին</text>
+        </card>
+        <card>
+            <question>արժեին</question>
             <answer>они стоили</answer>
-        </question>
-        <question>
-            <text>չգիտեի</text>
+        </card>
+        <card>
+            <question>չգիտեի</question>
             <answer>я не знал</answer>
-        </question>
-        <question>
-            <text>չգիտեիր</text>
+        </card>
+        <card>
+            <question>չգիտեիր</question>
             <answer>ты не знал</answer>
-        </question>
-        <question>
-            <text>չգիտեր</text>
+        </card>
+        <card>
+            <question>չգիտեր</question>
             <answer>он не знал | она не знала</answer>
-        </question>
-        <question>
-            <text>չգիտեինք</text>
+        </card>
+        <card>
+            <question>չգիտեինք</question>
             <answer>мы не знали</answer>
-        </question>
-        <question>
-            <text>չգիտեիք</text>
+        </card>
+        <card>
+            <question>չգիտեիք</question>
             <answer>вы не знали</answer>
-        </question>
-        <question>
-            <text>չգիտեին</text>
+        </card>
+        <card>
+            <question>չգիտեին</question>
             <answer>они не знали</answer>
-        </question>
+        </card>
 
-        <question>
-            <text>չունեի</text>
+        <card>
+            <question>չունեի</question>
             <answer>я не имел</answer>
-        </question>
-        <question>
-            <text>չունեիր</text>
+        </card>
+        <card>
+            <question>չունեիր</question>
             <answer>ты не имел</answer>
-        </question>
-        <question>
-            <text>չուներ</text>
+        </card>
+        <card>
+            <question>չուներ</question>
             <answer>он не имел | она не имела</answer>
-        </question>
-        <question>
-            <text>չունեինք</text>
+        </card>
+        <card>
+            <question>չունեինք</question>
             <answer>мы не имели</answer>
-        </question>
-        <question>
-            <text>չունեիք</text>
+        </card>
+        <card>
+            <question>չունեիք</question>
             <answer>вы не имели</answer>
-        </question>
-        <question>
-            <text>չունեին</text>
+        </card>
+        <card>
+            <question>չունեին</question>
             <answer>они не имели</answer>
-        </question>
+        </card>
 
-        <question>
-            <text>չկամ</text>
+        <card>
+            <question>չկամ</question>
             <answer>нет (1 л. ед. ч)</answer>
-        </question>
-        <question>
-            <text>չկաս</text>
+        </card>
+        <card>
+            <question>չկաս</question>
             <answer>нет (2 л. ед. ч)</answer>
-        </question>
-        <question>
-            <text>չկա</text>
+        </card>
+        <card>
+            <question>չկա</question>
             <answer>нет (3 л. ед. ч)</answer>
-        </question>
-        <question>
-            <text>չկանք</text>
+        </card>
+        <card>
+            <question>չկանք</question>
             <answer>нет (1 л. мн. ч)</answer>
-        </question>
-        <question>
-            <text>չկաք</text>
+        </card>
+        <card>
+            <question>չկաք</question>
             <answer>нет (2 л. мн. ч)</answer>
-        </question>
-        <question>
-            <text>չկան</text>
+        </card>
+        <card>
+            <question>չկան</question>
             <answer>нет (3 л. мн. ч)</answer>
-        </question>
+        </card>
 
-        <question>
-            <text>չկայի</text>
+        <card>
+            <question>չկայի</question>
             <answer>не было (1 л. ед. ч)</answer>
-        </question>
-        <question>
-            <text>չկայիր</text>
+        </card>
+        <card>
+            <question>չկայիր</question>
             <answer>не было (2 л. ед. ч)</answer>
-        </question>
-        <question>
-            <text>չկար</text>
+        </card>
+        <card>
+            <question>չկար</question>
             <answer>не было (3 л. ед. ч)</answer>
-        </question>
-        <question>
-            <text>չկայինք</text>
+        </card>
+        <card>
+            <question>չկայինք</question>
             <answer>не было (1 л. мн. ч)</answer>
-        </question>
-        <question>
-            <text>չկայիք</text>
+        </card>
+        <card>
+            <question>չկայիք</question>
             <answer>не было (2 л. мн. ч)</answer>
-        </question>
-        <question>
-            <text>չկային</text>
+        </card>
+        <card>
+            <question>չկային</question>
             <answer>не было (3 л. мн. ч)</answer>
-        </question>
+        </card>
 
-        <question>
-            <text>չարժեի</text>
+        <card>
+            <question>չարժեի</question>
             <answer>я не стоил</answer>
-        </question>
-        <question>
-            <text>չարժեիր</text>
+        </card>
+        <card>
+            <question>չարժեիր</question>
             <answer>ты не стоил</answer>
-        </question>
-        <question>
-            <text>չարժեր</text>
+        </card>
+        <card>
+            <question>չարժեր</question>
             <answer>он не стоил | она не стоила</answer>
-        </question>
-        <question>
-            <text>չարժեինք</text>
+        </card>
+        <card>
+            <question>չարժեինք</question>
             <answer>мы не стоили</answer>
-        </question>
-        <question>
-            <text>չարժեիք</text>
+        </card>
+        <card>
+            <question>չարժեիք</question>
             <answer>вы не стоили</answer>
-        </question>
-        <question>
-            <text>չարժեին</text>
+        </card>
+        <card>
+            <question>չարժեին</question>
             <answer>они не стоили</answer>
-        </question>
-    </questions>
+        </card>
+    </cards>
 </questionary>

@@ -2,3350 +2,3350 @@
 <questionary>
     <id>oxford-b1</id>
     <title>Oxford (B1)</title>
-    <questions>
-        <question>
-            <text>absolutely</text>
+    <cards>
+        <card>
+            <question>absolutely</question>
             <answer>абсолютно</answer>
-        </question>
-        <question>
-            <text>academic</text>
+        </card>
+        <card>
+            <question>academic</question>
             <answer>академический|ученый</answer>
-        </question>
-        <question>
-            <text>access</text>
+        </card>
+        <card>
+            <question>access</question>
             <answer>доступ</answer>
-        </question>
-        <question>
-            <text>to access</text>
+        </card>
+        <card>
+            <question>to access</question>
             <answer>обращаться</answer>
-        </question>
-        <question>
-            <text>accommodation</text>
+        </card>
+        <card>
+            <question>accommodation</question>
             <answer>жилье</answer>
-        </question>
-        <question>
-            <text>account</text>
+        </card>
+        <card>
+            <question>account</question>
             <answer>счет</answer>
-        </question>
-        <question>
-            <text>achievement</text>
+        </card>
+        <card>
+            <question>achievement</question>
             <answer>достижение</answer>
-        </question>
-        <question>
-            <text>act</text>
+        </card>
+        <card>
+            <question>act</question>
             <answer>акт</answer>
-        </question>
-        <question>
-            <text>ad</text>
+        </card>
+        <card>
+            <question>ad</question>
             <answer>объявление</answer>
-        </question>
-        <question>
-            <text>addition</text>
+        </card>
+        <card>
+            <question>addition</question>
             <answer>добавление</answer>
-        </question>
-        <question>
-            <text>to admire</text>
+        </card>
+        <card>
+            <question>to admire</question>
             <answer>восхищаться</answer>
-        </question>
-        <question>
-            <text>to admit</text>
+        </card>
+        <card>
+            <question>to admit</question>
             <answer>признавать</answer>
-        </question>
-        <question>
-            <text>advanced</text>
+        </card>
+        <card>
+            <question>advanced</question>
             <answer>передовой</answer>
-        </question>
-        <question>
-            <text>to advise</text>
+        </card>
+        <card>
+            <question>to advise</question>
             <answer>советовать</answer>
-        </question>
-        <question>
-            <text>to afford</text>
+        </card>
+        <card>
+            <question>to afford</question>
             <answer>предоставлять</answer>
-        </question>
-        <question>
-            <text>to age</text>
+        </card>
+        <card>
+            <question>to age</question>
             <answer>стареть</answer>
-        </question>
-        <question>
-            <text>aged</text>
+        </card>
+        <card>
+            <question>aged</question>
             <answer>пожилой</answer>
-        </question>
-        <question>
-            <text>agent</text>
+        </card>
+        <card>
+            <question>agent</question>
             <answer>агент</answer>
-        </question>
-        <question>
-            <text>agreement</text>
+        </card>
+        <card>
+            <question>agreement</question>
             <answer>соглашение</answer>
-        </question>
-        <question>
-            <text>ahead</text>
+        </card>
+        <card>
+            <question>ahead</question>
             <answer>вперед</answer>
-        </question>
-        <question>
-            <text>aim</text>
+        </card>
+        <card>
+            <question>aim</question>
             <answer>цель</answer>
-        </question>
-        <question>
-            <text>to aim</text>
+        </card>
+        <card>
+            <question>to aim</question>
             <answer>стремиться</answer>
-        </question>
-        <question>
-            <text>alarm</text>
+        </card>
+        <card>
+            <question>alarm</question>
             <answer>тревога</answer>
-        </question>
-        <question>
-            <text>album</text>
+        </card>
+        <card>
+            <question>album</question>
             <answer>альбом</answer>
-        </question>
-        <question>
-            <text>alcohol</text>
+        </card>
+        <card>
+            <question>alcohol</question>
             <answer>алкоголь</answer>
-        </question>
-        <question>
-            <text>alcoholic</text>
+        </card>
+        <card>
+            <question>alcoholic</question>
             <answer>алкогольный</answer>
-        </question>
-        <question>
-            <text>amazed</text>
+        </card>
+        <card>
+            <question>amazed</question>
             <answer>пораженный</answer>
-        </question>
-        <question>
-            <text>ambition</text>
+        </card>
+        <card>
+            <question>ambition</question>
             <answer>амбиция</answer>
-        </question>
-        <question>
-            <text>ambitious</text>
+        </card>
+        <card>
+            <question>ambitious</question>
             <answer>честолюбивый</answer>
-        </question>
-        <question>
-            <text>to analyse</text>
+        </card>
+        <card>
+            <question>to analyse</question>
             <answer>анализировать</answer>
-        </question>
-        <question>
-            <text>analysis</text>
+        </card>
+        <card>
+            <question>analysis</question>
             <answer>анализ</answer>
-        </question>
-        <question>
-            <text>to announce</text>
+        </card>
+        <card>
+            <question>to announce</question>
             <answer>объявлять</answer>
-        </question>
-        <question>
-            <text>announcement</text>
+        </card>
+        <card>
+            <question>announcement</question>
             <answer>объявление</answer>
-        </question>
-        <question>
-            <text>to annoy</text>
+        </card>
+        <card>
+            <question>to annoy</question>
             <answer>раздражать</answer>
-        </question>
-        <question>
-            <text>annoyed</text>
+        </card>
+        <card>
+            <question>annoyed</question>
             <answer>раздраженный</answer>
-        </question>
-        <question>
-            <text>annoying</text>
+        </card>
+        <card>
+            <question>annoying</question>
             <answer>раздражающий</answer>
-        </question>
-        <question>
-            <text>apart</text>
+        </card>
+        <card>
+            <question>apart</question>
             <answer>отдельно</answer>
-        </question>
-        <question>
-            <text>to apologize</text>
+        </card>
+        <card>
+            <question>to apologize</question>
             <answer>извиняться</answer>
-        </question>
-        <question>
-            <text>application</text>
+        </card>
+        <card>
+            <question>application</question>
             <answer>приложение</answer>
-        </question>
-        <question>
-            <text>appointment</text>
+        </card>
+        <card>
+            <question>appointment</question>
             <answer>встреча</answer>
-        </question>
-        <question>
-            <text>to appreciate</text>
+        </card>
+        <card>
+            <question>to appreciate</question>
             <answer>ценить</answer>
-        </question>
-        <question>
-            <text>approximately</text>
+        </card>
+        <card>
+            <question>approximately</question>
             <answer>приблизительно</answer>
-        </question>
-        <question>
-            <text>arrest</text>
+        </card>
+        <card>
+            <question>arrest</question>
             <answer>арест</answer>
-        </question>
-        <question>
-            <text>to arrest</text>
+        </card>
+        <card>
+            <question>to arrest</question>
             <answer>арестовать</answer>
-        </question>
-        <question>
-            <text>arrival</text>
+        </card>
+        <card>
+            <question>arrival</question>
             <answer>прибытие</answer>
-        </question>
-        <question>
-            <text>assignment</text>
+        </card>
+        <card>
+            <question>assignment</question>
             <answer>назначение</answer>
-        </question>
-        <question>
-            <text>to assist</text>
+        </card>
+        <card>
+            <question>to assist</question>
             <answer>помогать</answer>
-        </question>
-        <question>
-            <text>atmosphere</text>
+        </card>
+        <card>
+            <question>atmosphere</question>
             <answer>атмосфера</answer>
-        </question>
-        <question>
-            <text>to attach</text>
+        </card>
+        <card>
+            <question>to attach</question>
             <answer>прикреплять</answer>
-        </question>
-        <question>
-            <text>attitude</text>
+        </card>
+        <card>
+            <question>attitude</question>
             <answer>отношение</answer>
-        </question>
-        <question>
-            <text>to attract</text>
+        </card>
+        <card>
+            <question>to attract</question>
             <answer>привлекать</answer>
-        </question>
-        <question>
-            <text>attraction</text>
+        </card>
+        <card>
+            <question>attraction</question>
             <answer>аттракцион</answer>
-        </question>
-        <question>
-            <text>authority</text>
+        </card>
+        <card>
+            <question>authority</question>
             <answer>власть</answer>
-        </question>
-        <question>
-            <text>to average</text>
+        </card>
+        <card>
+            <question>to average</question>
             <answer>составлять</answer>
-        </question>
-        <question>
-            <text>to award</text>
+        </card>
+        <card>
+            <question>to award</question>
             <answer>присуждать</answer>
-        </question>
-        <question>
-            <text>aware</text>
+        </card>
+        <card>
+            <question>aware</question>
             <answer>осведомленный</answer>
-        </question>
-        <question>
-            <text>backwards</text>
+        </card>
+        <card>
+            <question>backwards</question>
             <answer>назад</answer>
-        </question>
-        <question>
-            <text>to bake</text>
+        </card>
+        <card>
+            <question>to bake</question>
             <answer>выпекать</answer>
-        </question>
-        <question>
-            <text>balance</text>
+        </card>
+        <card>
+            <question>balance</question>
             <answer>баланс</answer>
-        </question>
-        <question>
-            <text>to balance</text>
+        </card>
+        <card>
+            <question>to balance</question>
             <answer>сбалансировать</answer>
-        </question>
-        <question>
-            <text>ban</text>
+        </card>
+        <card>
+            <question>ban</question>
             <answer>запрет</answer>
-        </question>
-        <question>
-            <text>to ban</text>
+        </card>
+        <card>
+            <question>to ban</question>
             <answer>запрещать</answer>
-        </question>
-        <question>
-            <text>base</text>
+        </card>
+        <card>
+            <question>base</question>
             <answer>база</answer>
-        </question>
-        <question>
-            <text>to base</text>
+        </card>
+        <card>
+            <question>to base</question>
             <answer>основывать</answer>
-        </question>
-        <question>
-            <text>basic</text>
+        </card>
+        <card>
+            <question>basic</question>
             <answer>базовый</answer>
-        </question>
-        <question>
-            <text>basis</text>
+        </card>
+        <card>
+            <question>basis</question>
             <answer>основа</answer>
-        </question>
-        <question>
-            <text>battery</text>
+        </card>
+        <card>
+            <question>battery</question>
             <answer>батарея</answer>
-        </question>
-        <question>
-            <text>battle</text>
+        </card>
+        <card>
+            <question>battle</question>
             <answer>бой</answer>
-        </question>
-        <question>
-            <text>beauty</text>
+        </card>
+        <card>
+            <question>beauty</question>
             <answer>красота</answer>
-        </question>
-        <question>
-            <text>bee</text>
+        </card>
+        <card>
+            <question>bee</question>
             <answer>пчела</answer>
-        </question>
-        <question>
-            <text>belief</text>
+        </card>
+        <card>
+            <question>belief</question>
             <answer>вера</answer>
-        </question>
-        <question>
-            <text>bell</text>
+        </card>
+        <card>
+            <question>bell</question>
             <answer>колокол</answer>
-        </question>
-        <question>
-            <text>bend</text>
+        </card>
+        <card>
+            <question>bend</question>
             <answer>изгиб</answer>
-        </question>
-        <question>
-            <text>to bend</text>
+        </card>
+        <card>
+            <question>to bend</question>
             <answer>сгибать</answer>
-        </question>
-        <question>
-            <text>to benefit</text>
+        </card>
+        <card>
+            <question>to benefit</question>
             <answer>извлекать</answer>
-        </question>
-        <question>
-            <text>bite</text>
+        </card>
+        <card>
+            <question>bite</question>
             <answer>укус</answer>
-        </question>
-        <question>
-            <text>to bite</text>
+        </card>
+        <card>
+            <question>to bite</question>
             <answer>кусать</answer>
-        </question>
-        <question>
-            <text>block</text>
+        </card>
+        <card>
+            <question>block</question>
             <answer>блок</answer>
-        </question>
-        <question>
-            <text>to block</text>
+        </card>
+        <card>
+            <question>to block</question>
             <answer>блокировать</answer>
-        </question>
-        <question>
-            <text>to board</text>
+        </card>
+        <card>
+            <question>to board</question>
             <answer>садиться</answer>
-        </question>
-        <question>
-            <text>bomb</text>
+        </card>
+        <card>
+            <question>bomb</question>
             <answer>бомба</answer>
-        </question>
-        <question>
-            <text>to bomb</text>
+        </card>
+        <card>
+            <question>to bomb</question>
             <answer>бомбить</answer>
-        </question>
-        <question>
-            <text>border</text>
+        </card>
+        <card>
+            <question>border</question>
             <answer>граница</answer>
-        </question>
-        <question>
-            <text>to bother</text>
+        </card>
+        <card>
+            <question>to bother</question>
             <answer>беспокоить</answer>
-        </question>
-        <question>
-            <text>branch</text>
+        </card>
+        <card>
+            <question>branch</question>
             <answer>ветвь</answer>
-        </question>
-        <question>
-            <text>brand</text>
+        </card>
+        <card>
+            <question>brand</question>
             <answer>тавро</answer>
-        </question>
-        <question>
-            <text>to brand</text>
+        </card>
+        <card>
+            <question>to brand</question>
             <answer>клеймить</answer>
-        </question>
-        <question>
-            <text>brave</text>
+        </card>
+        <card>
+            <question>brave</question>
             <answer>храбрый</answer>
-        </question>
-        <question>
-            <text>breath</text>
+        </card>
+        <card>
+            <question>breath</question>
             <answer>дыхание</answer>
-        </question>
-        <question>
-            <text>to breathe</text>
+        </card>
+        <card>
+            <question>to breathe</question>
             <answer>дышать</answer>
-        </question>
-        <question>
-            <text>breathing</text>
+        </card>
+        <card>
+            <question>breathing</question>
             <answer>дыхание</answer>
-        </question>
-        <question>
-            <text>bride</text>
+        </card>
+        <card>
+            <question>bride</question>
             <answer>невеста</answer>
-        </question>
-        <question>
-            <text>bubble</text>
+        </card>
+        <card>
+            <question>bubble</question>
             <answer>пузырь</answer>
-        </question>
-        <question>
-            <text>to bury</text>
+        </card>
+        <card>
+            <question>to bury</question>
             <answer>хоронить</answer>
-        </question>
-        <question>
-            <text>calm</text>
+        </card>
+        <card>
+            <question>calm</question>
             <answer>спокойствие|спокойный</answer>
-        </question>
-        <question>
-            <text>to calm</text>
+        </card>
+        <card>
+            <question>to calm</question>
             <answer>успокаивать</answer>
-        </question>
-        <question>
-            <text>campaign</text>
+        </card>
+        <card>
+            <question>campaign</question>
             <answer>кампания</answer>
-        </question>
-        <question>
-            <text>to campaign</text>
+        </card>
+        <card>
+            <question>to campaign</question>
             <answer>агитировать</answer>
-        </question>
-        <question>
-            <text>campus</text>
+        </card>
+        <card>
+            <question>campus</question>
             <answer>кампус</answer>
-        </question>
-        <question>
-            <text>candidate</text>
+        </card>
+        <card>
+            <question>candidate</question>
             <answer>кандидат</answer>
-        </question>
-        <question>
-            <text>cap</text>
+        </card>
+        <card>
+            <question>cap</question>
             <answer>кепка</answer>
-        </question>
-        <question>
-            <text>captain</text>
+        </card>
+        <card>
+            <question>captain</question>
             <answer>капитан</answer>
-        </question>
-        <question>
-            <text>careless</text>
+        </card>
+        <card>
+            <question>careless</question>
             <answer>беспечный</answer>
-        </question>
-        <question>
-            <text>category</text>
+        </card>
+        <card>
+            <question>category</question>
             <answer>категория</answer>
-        </question>
-        <question>
-            <text>ceiling</text>
+        </card>
+        <card>
+            <question>ceiling</question>
             <answer>потолок</answer>
-        </question>
-        <question>
-            <text>celebration</text>
+        </card>
+        <card>
+            <question>celebration</question>
             <answer>празднование</answer>
-        </question>
-        <question>
-            <text>central</text>
+        </card>
+        <card>
+            <question>central</question>
             <answer>центральный</answer>
-        </question>
-        <question>
-            <text>to centre</text>
+        </card>
+        <card>
+            <question>to centre</question>
             <answer>центрировать</answer>
-        </question>
-        <question>
-            <text>ceremony</text>
+        </card>
+        <card>
+            <question>ceremony</question>
             <answer>церемония</answer>
-        </question>
-        <question>
-            <text>chain</text>
+        </card>
+        <card>
+            <question>chain</question>
             <answer>цепь</answer>
-        </question>
-        <question>
-            <text>challenge</text>
+        </card>
+        <card>
+            <question>challenge</question>
             <answer>вызов</answer>
-        </question>
-        <question>
-            <text>champion</text>
+        </card>
+        <card>
+            <question>champion</question>
             <answer>чемпион</answer>
-        </question>
-        <question>
-            <text>channel</text>
+        </card>
+        <card>
+            <question>channel</question>
             <answer>канал</answer>
-        </question>
-        <question>
-            <text>chapter</text>
+        </card>
+        <card>
+            <question>chapter</question>
             <answer>глава</answer>
-        </question>
-        <question>
-            <text>charge</text>
+        </card>
+        <card>
+            <question>charge</question>
             <answer>заряд</answer>
-        </question>
-        <question>
-            <text>to charge</text>
+        </card>
+        <card>
+            <question>to charge</question>
             <answer>заряжать</answer>
-        </question>
-        <question>
-            <text>cheat</text>
+        </card>
+        <card>
+            <question>cheat</question>
             <answer>обман</answer>
-        </question>
-        <question>
-            <text>to cheat</text>
+        </card>
+        <card>
+            <question>to cheat</question>
             <answer>обманывать</answer>
-        </question>
-        <question>
-            <text>cheerful</text>
+        </card>
+        <card>
+            <question>cheerful</question>
             <answer>веселый</answer>
-        </question>
-        <question>
-            <text>chemical</text>
+        </card>
+        <card>
+            <question>chemical</question>
             <answer>химический|химикат</answer>
-        </question>
-        <question>
-            <text>chest</text>
+        </card>
+        <card>
+            <question>chest</question>
             <answer>грудь</answer>
-        </question>
-        <question>
-            <text>childhood</text>
+        </card>
+        <card>
+            <question>childhood</question>
             <answer>детство</answer>
-        </question>
-        <question>
-            <text>claim</text>
+        </card>
+        <card>
+            <question>claim</question>
             <answer>требование</answer>
-        </question>
-        <question>
-            <text>to claim</text>
+        </card>
+        <card>
+            <question>to claim</question>
             <answer>требовать</answer>
-        </question>
-        <question>
-            <text>clause</text>
+        </card>
+        <card>
+            <question>clause</question>
             <answer>пункт</answer>
-        </question>
-        <question>
-            <text>to clear</text>
+        </card>
+        <card>
+            <question>to clear</question>
             <answer>очищать</answer>
-        </question>
-        <question>
-            <text>click</text>
+        </card>
+        <card>
+            <question>click</question>
             <answer>щелчок</answer>
-        </question>
-        <question>
-            <text>to click</text>
+        </card>
+        <card>
+            <question>to click</question>
             <answer>щелкать</answer>
-        </question>
-        <question>
-            <text>client</text>
+        </card>
+        <card>
+            <question>client</question>
             <answer>клиент</answer>
-        </question>
-        <question>
-            <text>climb</text>
+        </card>
+        <card>
+            <question>climb</question>
             <answer>подъем</answer>
-        </question>
-        <question>
-            <text>cloth</text>
+        </card>
+        <card>
+            <question>cloth</question>
             <answer>ткань</answer>
-        </question>
-        <question>
-            <text>clue</text>
+        </card>
+        <card>
+            <question>clue</question>
             <answer>ключ</answer>
-        </question>
-        <question>
-            <text>to coach</text>
+        </card>
+        <card>
+            <question>to coach</question>
             <answer>тренировать</answer>
-        </question>
-        <question>
-            <text>coal</text>
+        </card>
+        <card>
+            <question>coal</question>
             <answer>уголь</answer>
-        </question>
-        <question>
-            <text>coin</text>
+        </card>
+        <card>
+            <question>coin</question>
             <answer>монета</answer>
-        </question>
-        <question>
-            <text>collection</text>
+        </card>
+        <card>
+            <question>collection</question>
             <answer>коллекция</answer>
-        </question>
-        <question>
-            <text>coloured</text>
+        </card>
+        <card>
+            <question>coloured</question>
             <answer>цветной</answer>
-        </question>
-        <question>
-            <text>to combine</text>
+        </card>
+        <card>
+            <question>to combine</question>
             <answer>сочетать</answer>
-        </question>
-        <question>
-            <text>to comment</text>
+        </card>
+        <card>
+            <question>to comment</question>
             <answer>комментировать</answer>
-        </question>
-        <question>
-            <text>commercial</text>
+        </card>
+        <card>
+            <question>commercial</question>
             <answer>коммерческий|реклама</answer>
-        </question>
-        <question>
-            <text>to commit</text>
+        </card>
+        <card>
+            <question>to commit</question>
             <answer>совершать</answer>
-        </question>
-        <question>
-            <text>communication</text>
+        </card>
+        <card>
+            <question>communication</question>
             <answer>коммуникация</answer>
-        </question>
-        <question>
-            <text>comparison</text>
+        </card>
+        <card>
+            <question>comparison</question>
             <answer>сравнение</answer>
-        </question>
-        <question>
-            <text>competitive</text>
+        </card>
+        <card>
+            <question>competitive</question>
             <answer>конкурентоспособный</answer>
-        </question>
-        <question>
-            <text>competitor</text>
+        </card>
+        <card>
+            <question>competitor</question>
             <answer>конкурент</answer>
-        </question>
-        <question>
-            <text>complaint</text>
+        </card>
+        <card>
+            <question>complaint</question>
             <answer>жалоба</answer>
-        </question>
-        <question>
-            <text>complex</text>
+        </card>
+        <card>
+            <question>complex</question>
             <answer>сложный|комплекс</answer>
-        </question>
-        <question>
-            <text>to concentrate</text>
+        </card>
+        <card>
+            <question>to concentrate</question>
             <answer>сконцентрировать</answer>
-        </question>
-        <question>
-            <text>to conclude</text>
+        </card>
+        <card>
+            <question>to conclude</question>
             <answer>заключать</answer>
-        </question>
-        <question>
-            <text>conclusion</text>
+        </card>
+        <card>
+            <question>conclusion</question>
             <answer>заключение</answer>
-        </question>
-        <question>
-            <text>confident</text>
+        </card>
+        <card>
+            <question>confident</question>
             <answer>уверенный</answer>
-        </question>
-        <question>
-            <text>to confirm</text>
+        </card>
+        <card>
+            <question>to confirm</question>
             <answer>подтверждать</answer>
-        </question>
-        <question>
-            <text>to confuse</text>
+        </card>
+        <card>
+            <question>to confuse</question>
             <answer>смешивать</answer>
-        </question>
-        <question>
-            <text>confused</text>
+        </card>
+        <card>
+            <question>confused</question>
             <answer>смущенный</answer>
-        </question>
-        <question>
-            <text>connection</text>
+        </card>
+        <card>
+            <question>connection</question>
             <answer>связь</answer>
-        </question>
-        <question>
-            <text>consequence</text>
+        </card>
+        <card>
+            <question>consequence</question>
             <answer>последствие</answer>
-        </question>
-        <question>
-            <text>to consist</text>
+        </card>
+        <card>
+            <question>to consist</question>
             <answer>состоять</answer>
-        </question>
-        <question>
-            <text>to consume</text>
+        </card>
+        <card>
+            <question>to consume</question>
             <answer>потреблять</answer>
-        </question>
-        <question>
-            <text>consumer</text>
+        </card>
+        <card>
+            <question>consumer</question>
             <answer>потребитель</answer>
-        </question>
-        <question>
-            <text>contact</text>
+        </card>
+        <card>
+            <question>contact</question>
             <answer>контакт</answer>
-        </question>
-        <question>
-            <text>to contact</text>
+        </card>
+        <card>
+            <question>to contact</question>
             <answer>связаться</answer>
-        </question>
-        <question>
-            <text>container</text>
+        </card>
+        <card>
+            <question>container</question>
             <answer>контейнер</answer>
-        </question>
-        <question>
-            <text>content</text>
+        </card>
+        <card>
+            <question>content</question>
             <answer>содержание|довольный</answer>
-        </question>
-        <question>
-            <text>continuous</text>
+        </card>
+        <card>
+            <question>continuous</question>
             <answer>непрерывный</answer>
-        </question>
-        <question>
-            <text>contrast</text>
+        </card>
+        <card>
+            <question>contrast</question>
             <answer>контраст</answer>
-        </question>
-        <question>
-            <text>to contrast</text>
+        </card>
+        <card>
+            <question>to contrast</question>
             <answer>контрастировать</answer>
-        </question>
-        <question>
-            <text>convenient</text>
+        </card>
+        <card>
+            <question>convenient</question>
             <answer>удобный</answer>
-        </question>
-        <question>
-            <text>to convince</text>
+        </card>
+        <card>
+            <question>to convince</question>
             <answer>убеждать</answer>
-        </question>
-        <question>
-            <text>to cool</text>
+        </card>
+        <card>
+            <question>to cool</question>
             <answer>охлаждать</answer>
-        </question>
-        <question>
-            <text>costume</text>
+        </card>
+        <card>
+            <question>costume</question>
             <answer>костюм</answer>
-        </question>
-        <question>
-            <text>cottage</text>
+        </card>
+        <card>
+            <question>cottage</question>
             <answer>коттедж</answer>
-        </question>
-        <question>
-            <text>cotton</text>
+        </card>
+        <card>
+            <question>cotton</question>
             <answer>хлопок</answer>
-        </question>
-        <question>
-            <text>count</text>
+        </card>
+        <card>
+            <question>count</question>
             <answer>подсчет</answer>
-        </question>
-        <question>
-            <text>countryside</text>
+        </card>
+        <card>
+            <question>countryside</question>
             <answer>сельская местность</answer>
-        </question>
-        <question>
-            <text>court</text>
+        </card>
+        <card>
+            <question>court</question>
             <answer>суд</answer>
-        </question>
-        <question>
-            <text>cover</text>
+        </card>
+        <card>
+            <question>cover</question>
             <answer>крышка</answer>
-        </question>
-        <question>
-            <text>covered</text>
+        </card>
+        <card>
+            <question>covered</question>
             <answer>покрытый</answer>
-        </question>
-        <question>
-            <text>cruel</text>
+        </card>
+        <card>
+            <question>cruel</question>
             <answer>жестокий</answer>
-        </question>
-        <question>
-            <text>cultural</text>
+        </card>
+        <card>
+            <question>cultural</question>
             <answer>культурный</answer>
-        </question>
-        <question>
-            <text>currency</text>
+        </card>
+        <card>
+            <question>currency</question>
             <answer>валюта</answer>
-        </question>
-        <question>
-            <text>current</text>
+        </card>
+        <card>
+            <question>current</question>
             <answer>текущий|ток</answer>
-        </question>
-        <question>
-            <text>currently</text>
+        </card>
+        <card>
+            <question>currently</question>
             <answer>в настоящее время</answer>
-        </question>
-        <question>
-            <text>curtain</text>
+        </card>
+        <card>
+            <question>curtain</question>
             <answer>занавес</answer>
-        </question>
-        <question>
-            <text>custom</text>
+        </card>
+        <card>
+            <question>custom</question>
             <answer>обычай</answer>
-        </question>
-        <question>
-            <text>cut</text>
+        </card>
+        <card>
+            <question>cut</question>
             <answer>порез</answer>
-        </question>
-        <question>
-            <text>damage</text>
+        </card>
+        <card>
+            <question>damage</question>
             <answer>урон</answer>
-        </question>
-        <question>
-            <text>to damage</text>
+        </card>
+        <card>
+            <question>to damage</question>
             <answer>повреждать</answer>
-        </question>
-        <question>
-            <text>deal</text>
+        </card>
+        <card>
+            <question>deal</question>
             <answer>сделка</answer>
-        </question>
-        <question>
-            <text>decade</text>
+        </card>
+        <card>
+            <question>decade</question>
             <answer>десятилетие</answer>
-        </question>
-        <question>
-            <text>to decorate</text>
+        </card>
+        <card>
+            <question>to decorate</question>
             <answer>украшать</answer>
-        </question>
-        <question>
-            <text>to define</text>
+        </card>
+        <card>
+            <question>to define</question>
             <answer>определять</answer>
-        </question>
-        <question>
-            <text>definite</text>
+        </card>
+        <card>
+            <question>definite</question>
             <answer>определенный</answer>
-        </question>
-        <question>
-            <text>definition</text>
+        </card>
+        <card>
+            <question>definition</question>
             <answer>определение</answer>
-        </question>
-        <question>
-            <text>to deliver</text>
+        </card>
+        <card>
+            <question>to deliver</question>
             <answer>доставлять</answer>
-        </question>
-        <question>
-            <text>departure</text>
+        </card>
+        <card>
+            <question>departure</question>
             <answer>отправление</answer>
-        </question>
-        <question>
-            <text>despite</text>
+        </card>
+        <card>
+            <question>despite</question>
             <answer>несмотря на</answer>
-        </question>
-        <question>
-            <text>destination</text>
+        </card>
+        <card>
+            <question>destination</question>
             <answer>место назначения</answer>
-        </question>
-        <question>
-            <text>to determine</text>
+        </card>
+        <card>
+            <question>to determine</question>
             <answer>определять</answer>
-        </question>
-        <question>
-            <text>determined</text>
+        </card>
+        <card>
+            <question>determined</question>
             <answer>определенный</answer>
-        </question>
-        <question>
-            <text>development</text>
+        </card>
+        <card>
+            <question>development</question>
             <answer>разработка</answer>
-        </question>
-        <question>
-            <text>diagram</text>
+        </card>
+        <card>
+            <question>diagram</question>
             <answer>диаграмма</answer>
-        </question>
-        <question>
-            <text>diamond</text>
+        </card>
+        <card>
+            <question>diamond</question>
             <answer>алмаз</answer>
-        </question>
-        <question>
-            <text>difficulty</text>
+        </card>
+        <card>
+            <question>difficulty</question>
             <answer>трудность</answer>
-        </question>
-        <question>
-            <text>to direct</text>
+        </card>
+        <card>
+            <question>to direct</question>
             <answer>направлять</answer>
-        </question>
-        <question>
-            <text>directly</text>
+        </card>
+        <card>
+            <question>directly</question>
             <answer>непосредственно</answer>
-        </question>
-        <question>
-            <text>dirt</text>
+        </card>
+        <card>
+            <question>dirt</question>
             <answer>грязь</answer>
-        </question>
-        <question>
-            <text>disadvantage</text>
+        </card>
+        <card>
+            <question>disadvantage</question>
             <answer>невыгодное положение</answer>
-        </question>
-        <question>
-            <text>disappointed</text>
+        </card>
+        <card>
+            <question>disappointed</question>
             <answer>разочарованный</answer>
-        </question>
-        <question>
-            <text>disappointing</text>
+        </card>
+        <card>
+            <question>disappointing</question>
             <answer>разочаровывающий</answer>
-        </question>
-        <question>
-            <text>discount</text>
+        </card>
+        <card>
+            <question>discount</question>
             <answer>скидка</answer>
-        </question>
-        <question>
-            <text>dislike</text>
+        </card>
+        <card>
+            <question>dislike</question>
             <answer>неприязнь</answer>
-        </question>
-        <question>
-            <text>to dislike</text>
+        </card>
+        <card>
+            <question>to dislike</question>
             <answer>не любить</answer>
-        </question>
-        <question>
-            <text>to divide</text>
+        </card>
+        <card>
+            <question>to divide</question>
             <answer>разделять</answer>
-        </question>
-        <question>
-            <text>documentary</text>
+        </card>
+        <card>
+            <question>documentary</question>
             <answer>документальный фильм</answer>
-        </question>
-        <question>
-            <text>to donate</text>
+        </card>
+        <card>
+            <question>to donate</question>
             <answer>жертвовать</answer>
-        </question>
-        <question>
-            <text>doubt</text>
+        </card>
+        <card>
+            <question>doubt</question>
             <answer>сомнение</answer>
-        </question>
-        <question>
-            <text>to doubt</text>
+        </card>
+        <card>
+            <question>to doubt</question>
             <answer>сомневаться</answer>
-        </question>
-        <question>
-            <text>dressed</text>
+        </card>
+        <card>
+            <question>dressed</question>
             <answer>одетый</answer>
-        </question>
-        <question>
-            <text>drop</text>
+        </card>
+        <card>
+            <question>drop</question>
             <answer>падение</answer>
-        </question>
-        <question>
-            <text>drum</text>
+        </card>
+        <card>
+            <question>drum</question>
             <answer>барабан</answer>
-        </question>
-        <question>
-            <text>drunk</text>
+        </card>
+        <card>
+            <question>drunk</question>
             <answer>пьяный</answer>
-        </question>
-        <question>
-            <text>due</text>
+        </card>
+        <card>
+            <question>due</question>
             <answer>должный</answer>
-        </question>
-        <question>
-            <text>dust</text>
+        </card>
+        <card>
+            <question>dust</question>
             <answer>пыль</answer>
-        </question>
-        <question>
-            <text>duty</text>
+        </card>
+        <card>
+            <question>duty</question>
             <answer>долг</answer>
-        </question>
-        <question>
-            <text>earthquake</text>
+        </card>
+        <card>
+            <question>earthquake</question>
             <answer>землетрясение</answer>
-        </question>
-        <question>
-            <text>eastern</text>
+        </card>
+        <card>
+            <question>eastern</question>
             <answer>восточный</answer>
-        </question>
-        <question>
-            <text>economic</text>
+        </card>
+        <card>
+            <question>economic</question>
             <answer>экономический</answer>
-        </question>
-        <question>
-            <text>economy</text>
+        </card>
+        <card>
+            <question>economy</question>
             <answer>экономика</answer>
-        </question>
-        <question>
-            <text>edge</text>
+        </card>
+        <card>
+            <question>edge</question>
             <answer>край</answer>
-        </question>
-        <question>
-            <text>editor</text>
+        </card>
+        <card>
+            <question>editor</question>
             <answer>редактор</answer>
-        </question>
-        <question>
-            <text>to educate</text>
+        </card>
+        <card>
+            <question>to educate</question>
             <answer>воспитывать</answer>
-        </question>
-        <question>
-            <text>educated</text>
+        </card>
+        <card>
+            <question>educated</question>
             <answer>образованный</answer>
-        </question>
-        <question>
-            <text>educational</text>
+        </card>
+        <card>
+            <question>educational</question>
             <answer>образовательный</answer>
-        </question>
-        <question>
-            <text>effective</text>
+        </card>
+        <card>
+            <question>effective</question>
             <answer>эффективный</answer>
-        </question>
-        <question>
-            <text>effectively</text>
+        </card>
+        <card>
+            <question>effectively</question>
             <answer>продуктивно</answer>
-        </question>
-        <question>
-            <text>effort</text>
+        </card>
+        <card>
+            <question>effort</question>
             <answer>усилие</answer>
-        </question>
-        <question>
-            <text>election</text>
+        </card>
+        <card>
+            <question>election</question>
             <answer>выборы</answer>
-        </question>
-        <question>
-            <text>element</text>
+        </card>
+        <card>
+            <question>element</question>
             <answer>элемент</answer>
-        </question>
-        <question>
-            <text>embarrassed</text>
+        </card>
+        <card>
+            <question>embarrassed</question>
             <answer>смущенный</answer>
-        </question>
-        <question>
-            <text>embarrassing</text>
+        </card>
+        <card>
+            <question>embarrassing</question>
             <answer>смущающий</answer>
-        </question>
-        <question>
-            <text>emergency</text>
+        </card>
+        <card>
+            <question>emergency</question>
             <answer>авария</answer>
-        </question>
-        <question>
-            <text>emotion</text>
+        </card>
+        <card>
+            <question>emotion</question>
             <answer>эмоция</answer>
-        </question>
-        <question>
-            <text>employment</text>
+        </card>
+        <card>
+            <question>employment</question>
             <answer>работа</answer>
-        </question>
-        <question>
-            <text>to empty</text>
+        </card>
+        <card>
+            <question>to empty</question>
             <answer>опорожнять</answer>
-        </question>
-        <question>
-            <text>to encourage</text>
+        </card>
+        <card>
+            <question>to encourage</question>
             <answer>поощрять</answer>
-        </question>
-        <question>
-            <text>enemy</text>
+        </card>
+        <card>
+            <question>enemy</question>
             <answer>враг</answer>
-        </question>
-        <question>
-            <text>engaged</text>
+        </card>
+        <card>
+            <question>engaged</question>
             <answer>занятый</answer>
-        </question>
-        <question>
-            <text>engineering</text>
+        </card>
+        <card>
+            <question>engineering</question>
             <answer>инженерия</answer>
-        </question>
-        <question>
-            <text>to entertain</text>
+        </card>
+        <card>
+            <question>to entertain</question>
             <answer>развлекать</answer>
-        </question>
-        <question>
-            <text>entertainment</text>
+        </card>
+        <card>
+            <question>entertainment</question>
             <answer>развлечение</answer>
-        </question>
-        <question>
-            <text>entrance</text>
+        </card>
+        <card>
+            <question>entrance</question>
             <answer>вход</answer>
-        </question>
-        <question>
-            <text>entry</text>
+        </card>
+        <card>
+            <question>entry</question>
             <answer>вход</answer>
-        </question>
-        <question>
-            <text>environmental</text>
+        </card>
+        <card>
+            <question>environmental</question>
             <answer>относящийся к окружающей среде</answer>
-        </question>
-        <question>
-            <text>episode</text>
+        </card>
+        <card>
+            <question>episode</question>
             <answer>эпизод</answer>
-        </question>
-        <question>
-            <text>equal</text>
+        </card>
+        <card>
+            <question>equal</question>
             <answer>равный|ровня</answer>
-        </question>
-        <question>
-            <text>to equal</text>
+        </card>
+        <card>
+            <question>to equal</question>
             <answer>равняться</answer>
-        </question>
-        <question>
-            <text>equally</text>
+        </card>
+        <card>
+            <question>equally</question>
             <answer>поровну</answer>
-        </question>
-        <question>
-            <text>escape</text>
+        </card>
+        <card>
+            <question>escape</question>
             <answer>побег</answer>
-        </question>
-        <question>
-            <text>to escape</text>
+        </card>
+        <card>
+            <question>to escape</question>
             <answer>бежать</answer>
-        </question>
-        <question>
-            <text>essential</text>
+        </card>
+        <card>
+            <question>essential</question>
             <answer>существенный</answer>
-        </question>
-        <question>
-            <text>eventually</text>
+        </card>
+        <card>
+            <question>eventually</question>
             <answer>в конце концов</answer>
-        </question>
-        <question>
-            <text>to examine</text>
+        </card>
+        <card>
+            <question>to examine</question>
             <answer>исследовать</answer>
-        </question>
-        <question>
-            <text>exchange</text>
+        </card>
+        <card>
+            <question>exchange</question>
             <answer>обмен</answer>
-        </question>
-        <question>
-            <text>to exchange</text>
+        </card>
+        <card>
+            <question>to exchange</question>
             <answer>обменивать</answer>
-        </question>
-        <question>
-            <text>excitement</text>
+        </card>
+        <card>
+            <question>excitement</question>
             <answer>возбуждение</answer>
-        </question>
-        <question>
-            <text>exhibition</text>
+        </card>
+        <card>
+            <question>exhibition</question>
             <answer>выставка</answer>
-        </question>
-        <question>
-            <text>to expand</text>
+        </card>
+        <card>
+            <question>to expand</question>
             <answer>расширять</answer>
-        </question>
-        <question>
-            <text>expected</text>
+        </card>
+        <card>
+            <question>expected</question>
             <answer>ожидаемый</answer>
-        </question>
-        <question>
-            <text>expedition</text>
+        </card>
+        <card>
+            <question>expedition</question>
             <answer>экспедиция</answer>
-        </question>
-        <question>
-            <text>to experience</text>
+        </card>
+        <card>
+            <question>to experience</question>
             <answer>испытывать</answer>
-        </question>
-        <question>
-            <text>experienced</text>
+        </card>
+        <card>
+            <question>experienced</question>
             <answer>опытный</answer>
-        </question>
-        <question>
-            <text>to experiment</text>
+        </card>
+        <card>
+            <question>to experiment</question>
             <answer>экспериментировать</answer>
-        </question>
-        <question>
-            <text>to explode</text>
+        </card>
+        <card>
+            <question>to explode</question>
             <answer>взорваться</answer>
-        </question>
-        <question>
-            <text>to explore</text>
+        </card>
+        <card>
+            <question>to explore</question>
             <answer>исследовать</answer>
-        </question>
-        <question>
-            <text>explosion</text>
+        </card>
+        <card>
+            <question>explosion</question>
             <answer>взрыв</answer>
-        </question>
-        <question>
-            <text>export</text>
+        </card>
+        <card>
+            <question>export</question>
             <answer>экспорт</answer>
-        </question>
-        <question>
-            <text>to export</text>
+        </card>
+        <card>
+            <question>to export</question>
             <answer>экспортировать</answer>
-        </question>
-        <question>
-            <text>to face</text>
+        </card>
+        <card>
+            <question>to face</question>
             <answer>сталкиваться</answer>
-        </question>
-        <question>
-            <text>fairly</text>
+        </card>
+        <card>
+            <question>fairly</question>
             <answer>довольно</answer>
-        </question>
-        <question>
-            <text>familiar</text>
+        </card>
+        <card>
+            <question>familiar</question>
             <answer>привычный</answer>
-        </question>
-        <question>
-            <text>fancy</text>
+        </card>
+        <card>
+            <question>fancy</question>
             <answer>причудливый</answer>
-        </question>
-        <question>
-            <text>to fancy</text>
+        </card>
+        <card>
+            <question>to fancy</question>
             <answer>вообразить</answer>
-        </question>
-        <question>
-            <text>fascinating</text>
+        </card>
+        <card>
+            <question>fascinating</question>
             <answer>очаровательный</answer>
-        </question>
-        <question>
-            <text>fashionable</text>
+        </card>
+        <card>
+            <question>fashionable</question>
             <answer>модный</answer>
-        </question>
-        <question>
-            <text>to fasten</text>
+        </card>
+        <card>
+            <question>to fasten</question>
             <answer>скрепить</answer>
-        </question>
-        <question>
-            <text>favour</text>
+        </card>
+        <card>
+            <question>favour</question>
             <answer>благосклонность</answer>
-        </question>
-        <question>
-            <text>to fear</text>
+        </card>
+        <card>
+            <question>to fear</question>
             <answer>бояться</answer>
-        </question>
-        <question>
-            <text>to feature</text>
+        </card>
+        <card>
+            <question>to feature</question>
             <answer>показывать</answer>
-        </question>
-        <question>
-            <text>fence</text>
+        </card>
+        <card>
+            <question>fence</question>
             <answer>изгородь</answer>
-        </question>
-        <question>
-            <text>fighting</text>
+        </card>
+        <card>
+            <question>fighting</question>
             <answer>борьба</answer>
-        </question>
-        <question>
-            <text>file</text>
+        </card>
+        <card>
+            <question>file</question>
             <answer>файл</answer>
-        </question>
-        <question>
-            <text>financial</text>
+        </card>
+        <card>
+            <question>financial</question>
             <answer>финансовый</answer>
-        </question>
-        <question>
-            <text>to fire</text>
+        </card>
+        <card>
+            <question>to fire</question>
             <answer>стрелять</answer>
-        </question>
-        <question>
-            <text>fitness</text>
+        </card>
+        <card>
+            <question>fitness</question>
             <answer>фитнес</answer>
-        </question>
-        <question>
-            <text>fixed</text>
+        </card>
+        <card>
+            <question>fixed</question>
             <answer>зафиксированный</answer>
-        </question>
-        <question>
-            <text>flag</text>
+        </card>
+        <card>
+            <question>flag</question>
             <answer>флаг</answer>
-        </question>
-        <question>
-            <text>flood</text>
+        </card>
+        <card>
+            <question>flood</question>
             <answer>наводнение</answer>
-        </question>
-        <question>
-            <text>to flood</text>
+        </card>
+        <card>
+            <question>to flood</question>
             <answer>затоплять</answer>
-        </question>
-        <question>
-            <text>flour</text>
+        </card>
+        <card>
+            <question>flour</question>
             <answer>мука</answer>
-        </question>
-        <question>
-            <text>flow</text>
+        </card>
+        <card>
+            <question>flow</question>
             <answer>поток</answer>
-        </question>
-        <question>
-            <text>to flow</text>
+        </card>
+        <card>
+            <question>to flow</question>
             <answer>течь</answer>
-        </question>
-        <question>
-            <text>to fold</text>
+        </card>
+        <card>
+            <question>to fold</question>
             <answer>складывать</answer>
-        </question>
-        <question>
-            <text>folk</text>
+        </card>
+        <card>
+            <question>folk</question>
             <answer>народный|народ</answer>
-        </question>
-        <question>
-            <text>force</text>
+        </card>
+        <card>
+            <question>force</question>
             <answer>сила</answer>
-        </question>
-        <question>
-            <text>to force</text>
+        </card>
+        <card>
+            <question>to force</question>
             <answer>заставлять</answer>
-        </question>
-        <question>
-            <text>forever</text>
+        </card>
+        <card>
+            <question>forever</question>
             <answer>навсегда</answer>
-        </question>
-        <question>
-            <text>frame</text>
+        </card>
+        <card>
+            <question>frame</question>
             <answer>рамка</answer>
-        </question>
-        <question>
-            <text>to frame</text>
+        </card>
+        <card>
+            <question>to frame</question>
             <answer>обрамлять</answer>
-        </question>
-        <question>
-            <text>to freeze</text>
+        </card>
+        <card>
+            <question>to freeze</question>
             <answer>замораживать</answer>
-        </question>
-        <question>
-            <text>frequently</text>
+        </card>
+        <card>
+            <question>frequently</question>
             <answer>часто</answer>
-        </question>
-        <question>
-            <text>friendship</text>
+        </card>
+        <card>
+            <question>friendship</question>
             <answer>дружба</answer>
-        </question>
-        <question>
-            <text>to frighten</text>
+        </card>
+        <card>
+            <question>to frighten</question>
             <answer>пугать</answer>
-        </question>
-        <question>
-            <text>frightened</text>
+        </card>
+        <card>
+            <question>frightened</question>
             <answer>испуганный</answer>
-        </question>
-        <question>
-            <text>frightening</text>
+        </card>
+        <card>
+            <question>frightening</question>
             <answer>пугающий</answer>
-        </question>
-        <question>
-            <text>frozen</text>
+        </card>
+        <card>
+            <question>frozen</question>
             <answer>замороженный</answer>
-        </question>
-        <question>
-            <text>to fry</text>
+        </card>
+        <card>
+            <question>to fry</question>
             <answer>жарить</answer>
-        </question>
-        <question>
-            <text>fuel</text>
+        </card>
+        <card>
+            <question>fuel</question>
             <answer>топливо</answer>
-        </question>
-        <question>
-            <text>function</text>
+        </card>
+        <card>
+            <question>function</question>
             <answer>функция</answer>
-        </question>
-        <question>
-            <text>fur</text>
+        </card>
+        <card>
+            <question>fur</question>
             <answer>шерсть</answer>
-        </question>
-        <question>
-            <text>garage</text>
+        </card>
+        <card>
+            <question>garage</question>
             <answer>гараж</answer>
-        </question>
-        <question>
-            <text>to gather</text>
+        </card>
+        <card>
+            <question>to gather</question>
             <answer>собирать</answer>
-        </question>
-        <question>
-            <text>generally</text>
+        </card>
+        <card>
+            <question>generally</question>
             <answer>в целом</answer>
-        </question>
-        <question>
-            <text>generation</text>
+        </card>
+        <card>
+            <question>generation</question>
             <answer>поколение</answer>
-        </question>
-        <question>
-            <text>generous</text>
+        </card>
+        <card>
+            <question>generous</question>
             <answer>щедрый</answer>
-        </question>
-        <question>
-            <text>gentle</text>
+        </card>
+        <card>
+            <question>gentle</question>
             <answer>нежный</answer>
-        </question>
-        <question>
-            <text>gentleman</text>
+        </card>
+        <card>
+            <question>gentleman</question>
             <answer>джентльмен</answer>
-        </question>
-        <question>
-            <text>ghost</text>
+        </card>
+        <card>
+            <question>ghost</question>
             <answer>призрак</answer>
-        </question>
-        <question>
-            <text>giant</text>
+        </card>
+        <card>
+            <question>giant</question>
             <answer>гигант|гигантский</answer>
-        </question>
-        <question>
-            <text>glad</text>
+        </card>
+        <card>
+            <question>glad</question>
             <answer>радостный</answer>
-        </question>
-        <question>
-            <text>global</text>
+        </card>
+        <card>
+            <question>global</question>
             <answer>глобальный</answer>
-        </question>
-        <question>
-            <text>glove</text>
+        </card>
+        <card>
+            <question>glove</question>
             <answer>перчатка</answer>
-        </question>
-        <question>
-            <text>go</text>
+        </card>
+        <card>
+            <question>go</question>
             <answer>движение</answer>
-        </question>
-        <question>
-            <text>goods</text>
+        </card>
+        <card>
+            <question>goods</question>
             <answer>товары</answer>
-        </question>
-        <question>
-            <text>grade</text>
+        </card>
+        <card>
+            <question>grade</question>
             <answer>оценка</answer>
-        </question>
-        <question>
-            <text>graduate</text>
+        </card>
+        <card>
+            <question>graduate</question>
             <answer>выпускник</answer>
-        </question>
-        <question>
-            <text>to graduate</text>
+        </card>
+        <card>
+            <question>to graduate</question>
             <answer>градуировать</answer>
-        </question>
-        <question>
-            <text>grain</text>
+        </card>
+        <card>
+            <question>grain</question>
             <answer>зерно</answer>
-        </question>
-        <question>
-            <text>grateful</text>
+        </card>
+        <card>
+            <question>grateful</question>
             <answer>благодарный</answer>
-        </question>
-        <question>
-            <text>growth</text>
+        </card>
+        <card>
+            <question>growth</question>
             <answer>рост</answer>
-        </question>
-        <question>
-            <text>guard</text>
+        </card>
+        <card>
+            <question>guard</question>
             <answer>стража</answer>
-        </question>
-        <question>
-            <text>to guard</text>
+        </card>
+        <card>
+            <question>to guard</question>
             <answer>сторожить</answer>
-        </question>
-        <question>
-            <text>guilty</text>
+        </card>
+        <card>
+            <question>guilty</question>
             <answer>виновный</answer>
-        </question>
-        <question>
-            <text>to hand</text>
+        </card>
+        <card>
+            <question>to hand</question>
             <answer>передавать</answer>
-        </question>
-        <question>
-            <text>to hang</text>
+        </card>
+        <card>
+            <question>to hang</question>
             <answer>вешать</answer>
-        </question>
-        <question>
-            <text>happiness</text>
+        </card>
+        <card>
+            <question>happiness</question>
             <answer>счастье</answer>
-        </question>
-        <question>
-            <text>hardly</text>
+        </card>
+        <card>
+            <question>hardly</question>
             <answer>едва ли</answer>
-        </question>
-        <question>
-            <text>hate</text>
+        </card>
+        <card>
+            <question>hate</question>
             <answer>ненависть</answer>
-        </question>
-        <question>
-            <text>to head</text>
+        </card>
+        <card>
+            <question>to head</question>
             <answer>возглавлять</answer>
-        </question>
-        <question>
-            <text>headline</text>
+        </card>
+        <card>
+            <question>headline</question>
             <answer>заголовок</answer>
-        </question>
-        <question>
-            <text>heating</text>
+        </card>
+        <card>
+            <question>heating</question>
             <answer>обогрев</answer>
-        </question>
-        <question>
-            <text>heavily</text>
+        </card>
+        <card>
+            <question>heavily</question>
             <answer>сильно</answer>
-        </question>
-        <question>
-            <text>helicopter</text>
+        </card>
+        <card>
+            <question>helicopter</question>
             <answer>вертолет</answer>
-        </question>
-        <question>
-            <text>highlight</text>
+        </card>
+        <card>
+            <question>highlight</question>
             <answer>основной момент</answer>
-        </question>
-        <question>
-            <text>to highlight</text>
+        </card>
+        <card>
+            <question>to highlight</question>
             <answer>выдвигать на первый план</answer>
-        </question>
-        <question>
-            <text>highly</text>
+        </card>
+        <card>
+            <question>highly</question>
             <answer>высоко</answer>
-        </question>
-        <question>
-            <text>to hire</text>
+        </card>
+        <card>
+            <question>to hire</question>
             <answer>нанимать</answer>
-        </question>
-        <question>
-            <text>historic</text>
+        </card>
+        <card>
+            <question>historic</question>
             <answer>исторический</answer>
-        </question>
-        <question>
-            <text>historical</text>
+        </card>
+        <card>
+            <question>historical</question>
             <answer>исторический</answer>
-        </question>
-        <question>
-            <text>honest</text>
+        </card>
+        <card>
+            <question>honest</question>
             <answer>честный</answer>
-        </question>
-        <question>
-            <text>horrible</text>
+        </card>
+        <card>
+            <question>horrible</question>
             <answer>ужасный</answer>
-        </question>
-        <question>
-            <text>horror</text>
+        </card>
+        <card>
+            <question>horror</question>
             <answer>ужас</answer>
-        </question>
-        <question>
-            <text>host</text>
+        </card>
+        <card>
+            <question>host</question>
             <answer>хозяин</answer>
-        </question>
-        <question>
-            <text>to hunt</text>
+        </card>
+        <card>
+            <question>to hunt</question>
             <answer>охотиться</answer>
-        </question>
-        <question>
-            <text>hurricane</text>
+        </card>
+        <card>
+            <question>hurricane</question>
             <answer>ураган</answer>
-        </question>
-        <question>
-            <text>hurry</text>
+        </card>
+        <card>
+            <question>hurry</question>
             <answer>спешка</answer>
-        </question>
-        <question>
-            <text>to hurry</text>
+        </card>
+        <card>
+            <question>to hurry</question>
             <answer>торопиться</answer>
-        </question>
-        <question>
-            <text>identity</text>
+        </card>
+        <card>
+            <question>identity</question>
             <answer>личность</answer>
-        </question>
-        <question>
-            <text>to ignore</text>
+        </card>
+        <card>
+            <question>to ignore</question>
             <answer>игнорировать</answer>
-        </question>
-        <question>
-            <text>illegal</text>
+        </card>
+        <card>
+            <question>illegal</question>
             <answer>незаконный</answer>
-        </question>
-        <question>
-            <text>imaginary</text>
+        </card>
+        <card>
+            <question>imaginary</question>
             <answer>воображаемый</answer>
-        </question>
-        <question>
-            <text>immediate</text>
+        </card>
+        <card>
+            <question>immediate</question>
             <answer>немедленный</answer>
-        </question>
-        <question>
-            <text>immigrant</text>
+        </card>
+        <card>
+            <question>immigrant</question>
             <answer>иммигрант</answer>
-        </question>
-        <question>
-            <text>impact</text>
+        </card>
+        <card>
+            <question>impact</question>
             <answer>влияние</answer>
-        </question>
-        <question>
-            <text>to impact</text>
+        </card>
+        <card>
+            <question>to impact</question>
             <answer>ударять</answer>
-        </question>
-        <question>
-            <text>import</text>
+        </card>
+        <card>
+            <question>import</question>
             <answer>импорт</answer>
-        </question>
-        <question>
-            <text>to import</text>
+        </card>
+        <card>
+            <question>to import</question>
             <answer>импортировать</answer>
-        </question>
-        <question>
-            <text>importance</text>
+        </card>
+        <card>
+            <question>importance</question>
             <answer>важность</answer>
-        </question>
-        <question>
-            <text>impression</text>
+        </card>
+        <card>
+            <question>impression</question>
             <answer>впечатление</answer>
-        </question>
-        <question>
-            <text>impressive</text>
+        </card>
+        <card>
+            <question>impressive</question>
             <answer>впечатляющий</answer>
-        </question>
-        <question>
-            <text>improvement</text>
+        </card>
+        <card>
+            <question>improvement</question>
             <answer>улучшение</answer>
-        </question>
-        <question>
-            <text>incredibly</text>
+        </card>
+        <card>
+            <question>incredibly</question>
             <answer>невероятно</answer>
-        </question>
-        <question>
-            <text>indeed</text>
+        </card>
+        <card>
+            <question>indeed</question>
             <answer>действительно</answer>
-        </question>
-        <question>
-            <text>to indicate</text>
+        </card>
+        <card>
+            <question>to indicate</question>
             <answer>указывать</answer>
-        </question>
-        <question>
-            <text>indirect</text>
+        </card>
+        <card>
+            <question>indirect</question>
             <answer>косвенный</answer>
-        </question>
-        <question>
-            <text>indoor</text>
+        </card>
+        <card>
+            <question>indoor</question>
             <answer>комнатный</answer>
-        </question>
-        <question>
-            <text>indoors</text>
+        </card>
+        <card>
+            <question>indoors</question>
             <answer>в помещении</answer>
-        </question>
-        <question>
-            <text>influence</text>
+        </card>
+        <card>
+            <question>influence</question>
             <answer>влияние</answer>
-        </question>
-        <question>
-            <text>to influence</text>
+        </card>
+        <card>
+            <question>to influence</question>
             <answer>оказывать влияние</answer>
-        </question>
-        <question>
-            <text>ingredient</text>
+        </card>
+        <card>
+            <question>ingredient</question>
             <answer>ингредиент</answer>
-        </question>
-        <question>
-            <text>to injure</text>
+        </card>
+        <card>
+            <question>to injure</question>
             <answer>ранить</answer>
-        </question>
-        <question>
-            <text>injured</text>
+        </card>
+        <card>
+            <question>injured</question>
             <answer>раненый</answer>
-        </question>
-        <question>
-            <text>innocent</text>
+        </card>
+        <card>
+            <question>innocent</question>
             <answer>невиновный</answer>
-        </question>
-        <question>
-            <text>intelligence</text>
+        </card>
+        <card>
+            <question>intelligence</question>
             <answer>интеллект</answer>
-        </question>
-        <question>
-            <text>to intend</text>
+        </card>
+        <card>
+            <question>to intend</question>
             <answer>намереваться</answer>
-        </question>
-        <question>
-            <text>intention</text>
+        </card>
+        <card>
+            <question>intention</question>
             <answer>намерение</answer>
-        </question>
-        <question>
-            <text>to invest</text>
+        </card>
+        <card>
+            <question>to invest</question>
             <answer>инвестировать</answer>
-        </question>
-        <question>
-            <text>to investigate</text>
+        </card>
+        <card>
+            <question>to investigate</question>
             <answer>расследовать</answer>
-        </question>
-        <question>
-            <text>involved</text>
+        </card>
+        <card>
+            <question>involved</question>
             <answer>вовлеченный</answer>
-        </question>
-        <question>
-            <text>iron</text>
+        </card>
+        <card>
+            <question>iron</question>
             <answer>железо</answer>
-        </question>
-        <question>
-            <text>to iron</text>
+        </card>
+        <card>
+            <question>to iron</question>
             <answer>гладить</answer>
-        </question>
-        <question>
-            <text>issue</text>
+        </card>
+        <card>
+            <question>issue</question>
             <answer>проблема</answer>
-        </question>
-        <question>
-            <text>IT</text>
+        </card>
+        <card>
+            <question>IT</question>
             <answer>последнее слово</answer>
-        </question>
-        <question>
-            <text>journal</text>
+        </card>
+        <card>
+            <question>journal</question>
             <answer>журнал</answer>
-        </question>
-        <question>
-            <text>judge</text>
+        </card>
+        <card>
+            <question>judge</question>
             <answer>судья</answer>
-        </question>
-        <question>
-            <text>to judge</text>
+        </card>
+        <card>
+            <question>to judge</question>
             <answer>судить</answer>
-        </question>
-        <question>
-            <text>keen</text>
+        </card>
+        <card>
+            <question>keen</question>
             <answer>острый</answer>
-        </question>
-        <question>
-            <text>to key</text>
+        </card>
+        <card>
+            <question>to key</question>
             <answer>закреплять шпонкой</answer>
-        </question>
-        <question>
-            <text>keyboard</text>
+        </card>
+        <card>
+            <question>keyboard</question>
             <answer>клавиатура</answer>
-        </question>
-        <question>
-            <text>kick</text>
+        </card>
+        <card>
+            <question>kick</question>
             <answer>удар</answer>
-        </question>
-        <question>
-            <text>to kick</text>
+        </card>
+        <card>
+            <question>to kick</question>
             <answer>пинать</answer>
-        </question>
-        <question>
-            <text>killing</text>
+        </card>
+        <card>
+            <question>killing</question>
             <answer>убийство</answer>
-        </question>
-        <question>
-            <text>kiss</text>
+        </card>
+        <card>
+            <question>kiss</question>
             <answer>поцелуй</answer>
-        </question>
-        <question>
-            <text>to kiss</text>
+        </card>
+        <card>
+            <question>to kiss</question>
             <answer>целовать</answer>
-        </question>
-        <question>
-            <text>knock</text>
+        </card>
+        <card>
+            <question>knock</question>
             <answer>стук</answer>
-        </question>
-        <question>
-            <text>label</text>
+        </card>
+        <card>
+            <question>label</question>
             <answer>этикетка</answer>
-        </question>
-        <question>
-            <text>to label</text>
+        </card>
+        <card>
+            <question>to label</question>
             <answer>метить</answer>
-        </question>
-        <question>
-            <text>laboratory</text>
+        </card>
+        <card>
+            <question>laboratory</question>
             <answer>лаборатория</answer>
-        </question>
-        <question>
-            <text>lack</text>
+        </card>
+        <card>
+            <question>lack</question>
             <answer>недостаток</answer>
-        </question>
-        <question>
-            <text>to lack</text>
+        </card>
+        <card>
+            <question>to lack</question>
             <answer>не хватать</answer>
-        </question>
-        <question>
-            <text>latest</text>
+        </card>
+        <card>
+            <question>latest</question>
             <answer>последний|новинка</answer>
-        </question>
-        <question>
-            <text>to lay</text>
+        </card>
+        <card>
+            <question>to lay</question>
             <answer>класть</answer>
-        </question>
-        <question>
-            <text>layer</text>
+        </card>
+        <card>
+            <question>layer</question>
             <answer>слой</answer>
-        </question>
-        <question>
-            <text>lead</text>
+        </card>
+        <card>
+            <question>lead</question>
             <answer>свинец</answer>
-        </question>
-        <question>
-            <text>leading</text>
+        </card>
+        <card>
+            <question>leading</question>
             <answer>ведущий</answer>
-        </question>
-        <question>
-            <text>leaf</text>
+        </card>
+        <card>
+            <question>leaf</question>
             <answer>лист</answer>
-        </question>
-        <question>
-            <text>leather</text>
+        </card>
+        <card>
+            <question>leather</question>
             <answer>кожа</answer>
-        </question>
-        <question>
-            <text>legal</text>
+        </card>
+        <card>
+            <question>legal</question>
             <answer>юридический</answer>
-        </question>
-        <question>
-            <text>leisure</text>
+        </card>
+        <card>
+            <question>leisure</question>
             <answer>досуг</answer>
-        </question>
-        <question>
-            <text>length</text>
+        </card>
+        <card>
+            <question>length</question>
             <answer>длина</answer>
-        </question>
-        <question>
-            <text>lie</text>
+        </card>
+        <card>
+            <question>lie</question>
             <answer>ложь</answer>
-        </question>
-        <question>
-            <text>limit</text>
+        </card>
+        <card>
+            <question>limit</question>
             <answer>предел</answer>
-        </question>
-        <question>
-            <text>to limit</text>
+        </card>
+        <card>
+            <question>to limit</question>
             <answer>ограничивать</answer>
-        </question>
-        <question>
-            <text>lip</text>
+        </card>
+        <card>
+            <question>lip</question>
             <answer>губа</answer>
-        </question>
-        <question>
-            <text>liquid</text>
+        </card>
+        <card>
+            <question>liquid</question>
             <answer>жидкость|жидкий</answer>
-        </question>
-        <question>
-            <text>literature</text>
+        </card>
+        <card>
+            <question>literature</question>
             <answer>литература</answer>
-        </question>
-        <question>
-            <text>live</text>
+        </card>
+        <card>
+            <question>live</question>
             <answer>реальный|в прямом эфире</answer>
-        </question>
-        <question>
-            <text>living</text>
+        </card>
+        <card>
+            <question>living</question>
             <answer>жизнь|жилой</answer>
-        </question>
-        <question>
-            <text>to locate</text>
+        </card>
+        <card>
+            <question>to locate</question>
             <answer>размещать</answer>
-        </question>
-        <question>
-            <text>located</text>
+        </card>
+        <card>
+            <question>located</question>
             <answer>расположенный</answer>
-        </question>
-        <question>
-            <text>location</text>
+        </card>
+        <card>
+            <question>location</question>
             <answer>положение</answer>
-        </question>
-        <question>
-            <text>lonely</text>
+        </card>
+        <card>
+            <question>lonely</question>
             <answer>одинокий</answer>
-        </question>
-        <question>
-            <text>loss</text>
+        </card>
+        <card>
+            <question>loss</question>
             <answer>потеря</answer>
-        </question>
-        <question>
-            <text>luxury</text>
+        </card>
+        <card>
+            <question>luxury</question>
             <answer>роскошь</answer>
-        </question>
-        <question>
-            <text>mad</text>
+        </card>
+        <card>
+            <question>mad</question>
             <answer>безумный</answer>
-        </question>
-        <question>
-            <text>magic</text>
+        </card>
+        <card>
+            <question>magic</question>
             <answer>магия|волшебный</answer>
-        </question>
-        <question>
-            <text>mainly</text>
+        </card>
+        <card>
+            <question>mainly</question>
             <answer>главным образом</answer>
-        </question>
-        <question>
-            <text>mall</text>
+        </card>
+        <card>
+            <question>mall</question>
             <answer>место для гулянья</answer>
-        </question>
-        <question>
-            <text>management</text>
+        </card>
+        <card>
+            <question>management</question>
             <answer>управление</answer>
-        </question>
-        <question>
-            <text>to market</text>
+        </card>
+        <card>
+            <question>to market</question>
             <answer>продавать</answer>
-        </question>
-        <question>
-            <text>marketing</text>
+        </card>
+        <card>
+            <question>marketing</question>
             <answer>маркетинг</answer>
-        </question>
-        <question>
-            <text>marriage</text>
+        </card>
+        <card>
+            <question>marriage</question>
             <answer>свадьба</answer>
-        </question>
-        <question>
-            <text>meanwhile</text>
+        </card>
+        <card>
+            <question>meanwhile</question>
             <answer>тем временем</answer>
-        </question>
-        <question>
-            <text>measure</text>
+        </card>
+        <card>
+            <question>measure</question>
             <answer>мера</answer>
-        </question>
-        <question>
-            <text>to measure</text>
+        </card>
+        <card>
+            <question>to measure</question>
             <answer>измерять</answer>
-        </question>
-        <question>
-            <text>medium</text>
+        </card>
+        <card>
+            <question>medium</question>
             <answer>середина|средний</answer>
-        </question>
-        <question>
-            <text>mental</text>
+        </card>
+        <card>
+            <question>mental</question>
             <answer>умственный</answer>
-        </question>
-        <question>
-            <text>mention</text>
+        </card>
+        <card>
+            <question>mention</question>
             <answer>упоминание</answer>
-        </question>
-        <question>
-            <text>mess</text>
+        </card>
+        <card>
+            <question>mess</question>
             <answer>беспорядок</answer>
-        </question>
-        <question>
-            <text>mild</text>
+        </card>
+        <card>
+            <question>mild</question>
             <answer>мягкий</answer>
-        </question>
-        <question>
-            <text>mix</text>
+        </card>
+        <card>
+            <question>mix</question>
             <answer>смешивание</answer>
-        </question>
-        <question>
-            <text>to mix</text>
+        </card>
+        <card>
+            <question>to mix</question>
             <answer>смешивать</answer>
-        </question>
-        <question>
-            <text>mixture</text>
+        </card>
+        <card>
+            <question>mixture</question>
             <answer>смесь</answer>
-        </question>
-        <question>
-            <text>mood</text>
+        </card>
+        <card>
+            <question>mood</question>
             <answer>настроение</answer>
-        </question>
-        <question>
-            <text>move</text>
+        </card>
+        <card>
+            <question>move</question>
             <answer>шаг</answer>
-        </question>
-        <question>
-            <text>mud</text>
+        </card>
+        <card>
+            <question>mud</question>
             <answer>грязь</answer>
-        </question>
-        <question>
-            <text>murder</text>
+        </card>
+        <card>
+            <question>murder</question>
             <answer>убийство</answer>
-        </question>
-        <question>
-            <text>to murder</text>
+        </card>
+        <card>
+            <question>to murder</question>
             <answer>убивать</answer>
-        </question>
-        <question>
-            <text>muscle</text>
+        </card>
+        <card>
+            <question>muscle</question>
             <answer>мышца</answer>
-        </question>
-        <question>
-            <text>mystery</text>
+        </card>
+        <card>
+            <question>mystery</question>
             <answer>тайна</answer>
-        </question>
-        <question>
-            <text>nail</text>
+        </card>
+        <card>
+            <question>nail</question>
             <answer>ноготь</answer>
-        </question>
-        <question>
-            <text>narrative</text>
+        </card>
+        <card>
+            <question>narrative</question>
             <answer>повествование|повествовательный</answer>
-        </question>
-        <question>
-            <text>nation</text>
+        </card>
+        <card>
+            <question>nation</question>
             <answer>нация</answer>
-        </question>
-        <question>
-            <text>native</text>
+        </card>
+        <card>
+            <question>native</question>
             <answer>родной|уроженец</answer>
-        </question>
-        <question>
-            <text>naturally</text>
+        </card>
+        <card>
+            <question>naturally</question>
             <answer>естественно</answer>
-        </question>
-        <question>
-            <text>necessarily</text>
+        </card>
+        <card>
+            <question>necessarily</question>
             <answer>обязательно</answer>
-        </question>
-        <question>
-            <text>needle</text>
+        </card>
+        <card>
+            <question>needle</question>
             <answer>иголка</answer>
-        </question>
-        <question>
-            <text>neighbourhood</text>
+        </card>
+        <card>
+            <question>neighbourhood</question>
             <answer>район</answer>
-        </question>
-        <question>
-            <text>net</text>
+        </card>
+        <card>
+            <question>net</question>
             <answer>сеть|нетто</answer>
-        </question>
-        <question>
-            <text>nor</text>
+        </card>
+        <card>
+            <question>nor</question>
             <answer>ни</answer>
-        </question>
-        <question>
-            <text>northern</text>
+        </card>
+        <card>
+            <question>northern</question>
             <answer>северный</answer>
-        </question>
-        <question>
-            <text>to note</text>
+        </card>
+        <card>
+            <question>to note</question>
             <answer>отмечать</answer>
-        </question>
-        <question>
-            <text>nuclear</text>
+        </card>
+        <card>
+            <question>nuclear</question>
             <answer>ядерный</answer>
-        </question>
-        <question>
-            <text>obvious</text>
+        </card>
+        <card>
+            <question>obvious</question>
             <answer>очевидный</answer>
-        </question>
-        <question>
-            <text>obviously</text>
+        </card>
+        <card>
+            <question>obviously</question>
             <answer>очевидно</answer>
-        </question>
-        <question>
-            <text>occasion</text>
+        </card>
+        <card>
+            <question>occasion</question>
             <answer>повод</answer>
-        </question>
-        <question>
-            <text>to occur</text>
+        </card>
+        <card>
+            <question>to occur</question>
             <answer>происходить</answer>
-        </question>
-        <question>
-            <text>odd</text>
+        </card>
+        <card>
+            <question>odd</question>
             <answer>странный</answer>
-        </question>
-        <question>
-            <text>official</text>
+        </card>
+        <card>
+            <question>official</question>
             <answer>чиновник|официальный</answer>
-        </question>
-        <question>
-            <text>old-fashioned</text>
+        </card>
+        <card>
+            <question>old-fashioned</question>
             <answer>старомодный</answer>
-        </question>
-        <question>
-            <text>operation</text>
+        </card>
+        <card>
+            <question>operation</question>
             <answer>операция</answer>
-        </question>
-        <question>
-            <text>organized</text>
+        </card>
+        <card>
+            <question>organized</question>
             <answer>организованный</answer>
-        </question>
-        <question>
-            <text>organizer</text>
+        </card>
+        <card>
+            <question>organizer</question>
             <answer>организатор</answer>
-        </question>
-        <question>
-            <text>originally</text>
+        </card>
+        <card>
+            <question>originally</question>
             <answer>первоначально</answer>
-        </question>
-        <question>
-            <text>ought</text>
+        </card>
+        <card>
+            <question>ought</question>
             <answer>должен</answer>
-        </question>
-        <question>
-            <text>ours</text>
+        </card>
+        <card>
+            <question>ours</question>
             <answer>наш</answer>
-        </question>
-        <question>
-            <text>outdoor</text>
+        </card>
+        <card>
+            <question>outdoor</question>
             <answer>внешний</answer>
-        </question>
-        <question>
-            <text>outdoors</text>
+        </card>
+        <card>
+            <question>outdoors</question>
             <answer>на открытом воздухе</answer>
-        </question>
-        <question>
-            <text>pack</text>
+        </card>
+        <card>
+            <question>pack</question>
             <answer>пакет</answer>
-        </question>
-        <question>
-            <text>package</text>
+        </card>
+        <card>
+            <question>package</question>
             <answer>упаковка</answer>
-        </question>
-        <question>
-            <text>painful</text>
+        </card>
+        <card>
+            <question>painful</question>
             <answer>болезненный</answer>
-        </question>
-        <question>
-            <text>pale</text>
+        </card>
+        <card>
+            <question>pale</question>
             <answer>бледный</answer>
-        </question>
-        <question>
-            <text>pan</text>
+        </card>
+        <card>
+            <question>pan</question>
             <answer>кастрюля</answer>
-        </question>
-        <question>
-            <text>to participate</text>
+        </card>
+        <card>
+            <question>to participate</question>
             <answer>участвовать</answer>
-        </question>
-        <question>
-            <text>particularly</text>
+        </card>
+        <card>
+            <question>particularly</question>
             <answer>особенно</answer>
-        </question>
-        <question>
-            <text>pass</text>
+        </card>
+        <card>
+            <question>pass</question>
             <answer>пасс</answer>
-        </question>
-        <question>
-            <text>passion</text>
+        </card>
+        <card>
+            <question>passion</question>
             <answer>страсть</answer>
-        </question>
-        <question>
-            <text>path</text>
+        </card>
+        <card>
+            <question>path</question>
             <answer>путь</answer>
-        </question>
-        <question>
-            <text>payment</text>
+        </card>
+        <card>
+            <question>payment</question>
             <answer>оплата</answer>
-        </question>
-        <question>
-            <text>peaceful</text>
+        </card>
+        <card>
+            <question>peaceful</question>
             <answer>мирный</answer>
-        </question>
-        <question>
-            <text>percentage</text>
+        </card>
+        <card>
+            <question>percentage</question>
             <answer>процент</answer>
-        </question>
-        <question>
-            <text>perfectly</text>
+        </card>
+        <card>
+            <question>perfectly</question>
             <answer>отлично</answer>
-        </question>
-        <question>
-            <text>performance</text>
+        </card>
+        <card>
+            <question>performance</question>
             <answer>производительность</answer>
-        </question>
-        <question>
-            <text>personally</text>
+        </card>
+        <card>
+            <question>personally</question>
             <answer>лично</answer>
-        </question>
-        <question>
-            <text>to persuade</text>
+        </card>
+        <card>
+            <question>to persuade</question>
             <answer>убеждать</answer>
-        </question>
-        <question>
-            <text>photographer</text>
+        </card>
+        <card>
+            <question>photographer</question>
             <answer>фотограф</answer>
-        </question>
-        <question>
-            <text>photography</text>
+        </card>
+        <card>
+            <question>photography</question>
             <answer>фотография</answer>
-        </question>
-        <question>
-            <text>pin</text>
+        </card>
+        <card>
+            <question>pin</question>
             <answer>штифт</answer>
-        </question>
-        <question>
-            <text>to pin</text>
+        </card>
+        <card>
+            <question>to pin</question>
             <answer>приколоть</answer>
-        </question>
-        <question>
-            <text>pipe</text>
+        </card>
+        <card>
+            <question>pipe</question>
             <answer>труба</answer>
-        </question>
-        <question>
-            <text>to place</text>
+        </card>
+        <card>
+            <question>to place</question>
             <answer>размещать</answer>
-        </question>
-        <question>
-            <text>planning</text>
+        </card>
+        <card>
+            <question>planning</question>
             <answer>планирование</answer>
-        </question>
-        <question>
-            <text>pleasant</text>
+        </card>
+        <card>
+            <question>pleasant</question>
             <answer>приятный</answer>
-        </question>
-        <question>
-            <text>pleasure</text>
+        </card>
+        <card>
+            <question>pleasure</question>
             <answer>удовольствие</answer>
-        </question>
-        <question>
-            <text>plenty</text>
+        </card>
+        <card>
+            <question>plenty</question>
             <answer>множество</answer>
-        </question>
-        <question>
-            <text>plot</text>
+        </card>
+        <card>
+            <question>plot</question>
             <answer>сюжет</answer>
-        </question>
-        <question>
-            <text>plus</text>
+        </card>
+        <card>
+            <question>plus</question>
             <answer>плюс|положительный</answer>
-        </question>
-        <question>
-            <text>poem</text>
+        </card>
+        <card>
+            <question>poem</question>
             <answer>стихотворение</answer>
-        </question>
-        <question>
-            <text>poet</text>
+        </card>
+        <card>
+            <question>poet</question>
             <answer>поэт</answer>
-        </question>
-        <question>
-            <text>poetry</text>
+        </card>
+        <card>
+            <question>poetry</question>
             <answer>поэзия</answer>
-        </question>
-        <question>
-            <text>to point</text>
+        </card>
+        <card>
+            <question>to point</question>
             <answer>указывать</answer>
-        </question>
-        <question>
-            <text>poison</text>
+        </card>
+        <card>
+            <question>poison</question>
             <answer>яд</answer>
-        </question>
-        <question>
-            <text>to poison</text>
+        </card>
+        <card>
+            <question>to poison</question>
             <answer>отравлять</answer>
-        </question>
-        <question>
-            <text>poisonous</text>
+        </card>
+        <card>
+            <question>poisonous</question>
             <answer>ядовитый</answer>
-        </question>
-        <question>
-            <text>policy</text>
+        </card>
+        <card>
+            <question>policy</question>
             <answer>политика</answer>
-        </question>
-        <question>
-            <text>political</text>
+        </card>
+        <card>
+            <question>political</question>
             <answer>политический</answer>
-        </question>
-        <question>
-            <text>politician</text>
+        </card>
+        <card>
+            <question>politician</question>
             <answer>политик</answer>
-        </question>
-        <question>
-            <text>politics</text>
+        </card>
+        <card>
+            <question>politics</question>
             <answer>политика</answer>
-        </question>
-        <question>
-            <text>port</text>
+        </card>
+        <card>
+            <question>port</question>
             <answer>порт</answer>
-        </question>
-        <question>
-            <text>portrait</text>
+        </card>
+        <card>
+            <question>portrait</question>
             <answer>портрет</answer>
-        </question>
-        <question>
-            <text>possibly</text>
+        </card>
+        <card>
+            <question>possibly</question>
             <answer>возможно</answer>
-        </question>
-        <question>
-            <text>pot</text>
+        </card>
+        <card>
+            <question>pot</question>
             <answer>горшок</answer>
-        </question>
-        <question>
-            <text>to pour</text>
+        </card>
+        <card>
+            <question>to pour</question>
             <answer>полить</answer>
-        </question>
-        <question>
-            <text>poverty</text>
+        </card>
+        <card>
+            <question>poverty</question>
             <answer>бедность</answer>
-        </question>
-        <question>
-            <text>powder</text>
+        </card>
+        <card>
+            <question>powder</question>
             <answer>пудра</answer>
-        </question>
-        <question>
-            <text>powerful</text>
+        </card>
+        <card>
+            <question>powerful</question>
             <answer>мощный</answer>
-        </question>
-        <question>
-            <text>practical</text>
+        </card>
+        <card>
+            <question>practical</question>
             <answer>практичный</answer>
-        </question>
-        <question>
-            <text>to pray</text>
+        </card>
+        <card>
+            <question>to pray</question>
             <answer>молиться</answer>
-        </question>
-        <question>
-            <text>prayer</text>
+        </card>
+        <card>
+            <question>prayer</question>
             <answer>молитва</answer>
-        </question>
-        <question>
-            <text>prediction</text>
+        </card>
+        <card>
+            <question>prediction</question>
             <answer>прогноз</answer>
-        </question>
-        <question>
-            <text>prepared</text>
+        </card>
+        <card>
+            <question>prepared</question>
             <answer>готовый</answer>
-        </question>
-        <question>
-            <text>presentation</text>
+        </card>
+        <card>
+            <question>presentation</question>
             <answer>презентация</answer>
-        </question>
-        <question>
-            <text>press</text>
+        </card>
+        <card>
+            <question>press</question>
             <answer>пресс</answer>
-        </question>
-        <question>
-            <text>to press</text>
+        </card>
+        <card>
+            <question>to press</question>
             <answer>нажимать</answer>
-        </question>
-        <question>
-            <text>pressure</text>
+        </card>
+        <card>
+            <question>pressure</question>
             <answer>давление</answer>
-        </question>
-        <question>
-            <text>to pretend</text>
+        </card>
+        <card>
+            <question>to pretend</question>
             <answer>притворяться</answer>
-        </question>
-        <question>
-            <text>previous</text>
+        </card>
+        <card>
+            <question>previous</question>
             <answer>предыдущий</answer>
-        </question>
-        <question>
-            <text>previously</text>
+        </card>
+        <card>
+            <question>previously</question>
             <answer>предварительно</answer>
-        </question>
-        <question>
-            <text>priest</text>
+        </card>
+        <card>
+            <question>priest</question>
             <answer>священник</answer>
-        </question>
-        <question>
-            <text>primary</text>
+        </card>
+        <card>
+            <question>primary</question>
             <answer>начальный</answer>
-        </question>
-        <question>
-            <text>prince</text>
+        </card>
+        <card>
+            <question>prince</question>
             <answer>принц</answer>
-        </question>
-        <question>
-            <text>princess</text>
+        </card>
+        <card>
+            <question>princess</question>
             <answer>принцесса</answer>
-        </question>
-        <question>
-            <text>printing</text>
+        </card>
+        <card>
+            <question>printing</question>
             <answer>печать</answer>
-        </question>
-        <question>
-            <text>prisoner</text>
+        </card>
+        <card>
+            <question>prisoner</question>
             <answer>заключенный</answer>
-        </question>
-        <question>
-            <text>private</text>
+        </card>
+        <card>
+            <question>private</question>
             <answer>частный</answer>
-        </question>
-        <question>
-            <text>producer</text>
+        </card>
+        <card>
+            <question>producer</question>
             <answer>продюсер</answer>
-        </question>
-        <question>
-            <text>production</text>
+        </card>
+        <card>
+            <question>production</question>
             <answer>производство</answer>
-        </question>
-        <question>
-            <text>profession</text>
+        </card>
+        <card>
+            <question>profession</question>
             <answer>профессия</answer>
-        </question>
-        <question>
-            <text>profit</text>
+        </card>
+        <card>
+            <question>profit</question>
             <answer>выгода</answer>
-        </question>
-        <question>
-            <text>to program</text>
+        </card>
+        <card>
+            <question>to program</question>
             <answer>программировать</answer>
-        </question>
-        <question>
-            <text>to promote</text>
+        </card>
+        <card>
+            <question>to promote</question>
             <answer>продвигать</answer>
-        </question>
-        <question>
-            <text>proper</text>
+        </card>
+        <card>
+            <question>proper</question>
             <answer>правильный</answer>
-        </question>
-        <question>
-            <text>properly</text>
+        </card>
+        <card>
+            <question>properly</question>
             <answer>правильно</answer>
-        </question>
-        <question>
-            <text>property</text>
+        </card>
+        <card>
+            <question>property</question>
             <answer>свойство</answer>
-        </question>
-        <question>
-            <text>protest</text>
+        </card>
+        <card>
+            <question>protest</question>
             <answer>протест</answer>
-        </question>
-        <question>
-            <text>to protest</text>
+        </card>
+        <card>
+            <question>to protest</question>
             <answer>протестовать</answer>
-        </question>
-        <question>
-            <text>proud</text>
+        </card>
+        <card>
+            <question>proud</question>
             <answer>гордый</answer>
-        </question>
-        <question>
-            <text>to prove</text>
+        </card>
+        <card>
+            <question>to prove</question>
             <answer>доказывать</answer>
-        </question>
-        <question>
-            <text>pull</text>
+        </card>
+        <card>
+            <question>pull</question>
             <answer>тяга</answer>
-        </question>
-        <question>
-            <text>to punish</text>
+        </card>
+        <card>
+            <question>to punish</question>
             <answer>наказывать</answer>
-        </question>
-        <question>
-            <text>punishment</text>
+        </card>
+        <card>
+            <question>punishment</question>
             <answer>наказание</answer>
-        </question>
-        <question>
-            <text>push</text>
+        </card>
+        <card>
+            <question>push</question>
             <answer>толчок</answer>
-        </question>
-        <question>
-            <text>qualification</text>
+        </card>
+        <card>
+            <question>qualification</question>
             <answer>квалификация</answer>
-        </question>
-        <question>
-            <text>qualified</text>
+        </card>
+        <card>
+            <question>qualified</question>
             <answer>компетентный</answer>
-        </question>
-        <question>
-            <text>to qualify</text>
+        </card>
+        <card>
+            <question>to qualify</question>
             <answer>квалифицировать</answer>
-        </question>
-        <question>
-            <text>queue</text>
+        </card>
+        <card>
+            <question>queue</question>
             <answer>очередь</answer>
-        </question>
-        <question>
-            <text>to queue</text>
+        </card>
+        <card>
+            <question>to queue</question>
             <answer>стоять в очереди</answer>
-        </question>
-        <question>
-            <text>to quit</text>
+        </card>
+        <card>
+            <question>to quit</question>
             <answer>покидать</answer>
-        </question>
-        <question>
-            <text>quotation</text>
+        </card>
+        <card>
+            <question>quotation</question>
             <answer>цитата</answer>
-        </question>
-        <question>
-            <text>quote</text>
+        </card>
+        <card>
+            <question>quote</question>
             <answer>цитата</answer>
-        </question>
-        <question>
-            <text>to quote</text>
+        </card>
+        <card>
+            <question>to quote</question>
             <answer>цитировать</answer>
-        </question>
-        <question>
-            <text>racing</text>
+        </card>
+        <card>
+            <question>racing</question>
             <answer>разгон</answer>
-        </question>
-        <question>
-            <text>range</text>
+        </card>
+        <card>
+            <question>range</question>
             <answer>диапазон</answer>
-        </question>
-        <question>
-            <text>rare</text>
+        </card>
+        <card>
+            <question>rare</question>
             <answer>редкий</answer>
-        </question>
-        <question>
-            <text>rarely</text>
+        </card>
+        <card>
+            <question>rarely</question>
             <answer>редко</answer>
-        </question>
-        <question>
-            <text>reaction</text>
+        </card>
+        <card>
+            <question>reaction</question>
             <answer>реакция</answer>
-        </question>
-        <question>
-            <text>reality</text>
+        </card>
+        <card>
+            <question>reality</question>
             <answer>реальность</answer>
-        </question>
-        <question>
-            <text>receipt</text>
+        </card>
+        <card>
+            <question>receipt</question>
             <answer>квитанция</answer>
-        </question>
-        <question>
-            <text>recommendation</text>
+        </card>
+        <card>
+            <question>recommendation</question>
             <answer>рекомендация</answer>
-        </question>
-        <question>
-            <text>reference</text>
+        </card>
+        <card>
+            <question>reference</question>
             <answer>ссылка</answer>
-        </question>
-        <question>
-            <text>to reflect</text>
+        </card>
+        <card>
+            <question>to reflect</question>
             <answer>отражать</answer>
-        </question>
-        <question>
-            <text>regularly</text>
+        </card>
+        <card>
+            <question>regularly</question>
             <answer>регулярно</answer>
-        </question>
-        <question>
-            <text>to reject</text>
+        </card>
+        <card>
+            <question>to reject</question>
             <answer>отклонять</answer>
-        </question>
-        <question>
-            <text>to relate</text>
+        </card>
+        <card>
+            <question>to relate</question>
             <answer>относиться</answer>
-        </question>
-        <question>
-            <text>related</text>
+        </card>
+        <card>
+            <question>related</question>
             <answer>связанный</answer>
-        </question>
-        <question>
-            <text>relation</text>
+        </card>
+        <card>
+            <question>relation</question>
             <answer>связь</answer>
-        </question>
-        <question>
-            <text>relative</text>
+        </card>
+        <card>
+            <question>relative</question>
             <answer>родственник|относительный</answer>
-        </question>
-        <question>
-            <text>relaxed</text>
+        </card>
+        <card>
+            <question>relaxed</question>
             <answer>расслабленный</answer>
-        </question>
-        <question>
-            <text>relaxing</text>
+        </card>
+        <card>
+            <question>relaxing</question>
             <answer>расслабляющий</answer>
-        </question>
-        <question>
-            <text>release</text>
+        </card>
+        <card>
+            <question>release</question>
             <answer>высвобождение</answer>
-        </question>
-        <question>
-            <text>to release</text>
+        </card>
+        <card>
+            <question>to release</question>
             <answer>выпускать</answer>
-        </question>
-        <question>
-            <text>reliable</text>
+        </card>
+        <card>
+            <question>reliable</question>
             <answer>надежный</answer>
-        </question>
-        <question>
-            <text>religion</text>
+        </card>
+        <card>
+            <question>religion</question>
             <answer>религия</answer>
-        </question>
-        <question>
-            <text>religious</text>
+        </card>
+        <card>
+            <question>religious</question>
             <answer>религиозный</answer>
-        </question>
-        <question>
-            <text>to remain</text>
+        </card>
+        <card>
+            <question>to remain</question>
             <answer>оставаться</answer>
-        </question>
-        <question>
-            <text>to remind</text>
+        </card>
+        <card>
+            <question>to remind</question>
             <answer>напоминать</answer>
-        </question>
-        <question>
-            <text>remote</text>
+        </card>
+        <card>
+            <question>remote</question>
             <answer>удаленный</answer>
-        </question>
-        <question>
-            <text>rent</text>
+        </card>
+        <card>
+            <question>rent</question>
             <answer>прокат</answer>
-        </question>
-        <question>
-            <text>to rent</text>
+        </card>
+        <card>
+            <question>to rent</question>
             <answer>сдавать в аренду</answer>
-        </question>
-        <question>
-            <text>repair</text>
+        </card>
+        <card>
+            <question>repair</question>
             <answer>ремонт</answer>
-        </question>
-        <question>
-            <text>repeat</text>
+        </card>
+        <card>
+            <question>repeat</question>
             <answer>повторение</answer>
-        </question>
-        <question>
-            <text>repeated</text>
+        </card>
+        <card>
+            <question>repeated</question>
             <answer>повторный</answer>
-        </question>
-        <question>
-            <text>to represent</text>
+        </card>
+        <card>
+            <question>to represent</question>
             <answer>представлять</answer>
-        </question>
-        <question>
-            <text>to request</text>
+        </card>
+        <card>
+            <question>to request</question>
             <answer>запрашивать</answer>
-        </question>
-        <question>
-            <text>to require</text>
+        </card>
+        <card>
+            <question>to require</question>
             <answer>требовать</answer>
-        </question>
-        <question>
-            <text>reservation</text>
+        </card>
+        <card>
+            <question>reservation</question>
             <answer>бронирование</answer>
-        </question>
-        <question>
-            <text>resource</text>
+        </card>
+        <card>
+            <question>resource</question>
             <answer>ресурс</answer>
-        </question>
-        <question>
-            <text>respect</text>
+        </card>
+        <card>
+            <question>respect</question>
             <answer>уважение</answer>
-        </question>
-        <question>
-            <text>to respect</text>
+        </card>
+        <card>
+            <question>to respect</question>
             <answer>уважать</answer>
-        </question>
-        <question>
-            <text>responsibility</text>
+        </card>
+        <card>
+            <question>responsibility</question>
             <answer>ответственность</answer>
-        </question>
-        <question>
-            <text>responsible</text>
+        </card>
+        <card>
+            <question>responsible</question>
             <answer>ответственный</answer>
-        </question>
-        <question>
-            <text>to result</text>
+        </card>
+        <card>
+            <question>to result</question>
             <answer>следовать</answer>
-        </question>
-        <question>
-            <text>to retire</text>
+        </card>
+        <card>
+            <question>to retire</question>
             <answer>уходить в отставку</answer>
-        </question>
-        <question>
-            <text>retired</text>
+        </card>
+        <card>
+            <question>retired</question>
             <answer>ушедший на пенсию</answer>
-        </question>
-        <question>
-            <text>to revise</text>
+        </card>
+        <card>
+            <question>to revise</question>
             <answer>исправлять</answer>
-        </question>
-        <question>
-            <text>rise</text>
+        </card>
+        <card>
+            <question>rise</question>
             <answer>рост</answer>
-        </question>
-        <question>
-            <text>risk</text>
+        </card>
+        <card>
+            <question>risk</question>
             <answer>риск</answer>
-        </question>
-        <question>
-            <text>to risk</text>
+        </card>
+        <card>
+            <question>to risk</question>
             <answer>рисковать</answer>
-        </question>
-        <question>
-            <text>robot</text>
+        </card>
+        <card>
+            <question>robot</question>
             <answer>робот</answer>
-        </question>
-        <question>
-            <text>roll</text>
+        </card>
+        <card>
+            <question>roll</question>
             <answer>рулон</answer>
-        </question>
-        <question>
-            <text>to roll</text>
+        </card>
+        <card>
+            <question>to roll</question>
             <answer>катиться</answer>
-        </question>
-        <question>
-            <text>romantic</text>
+        </card>
+        <card>
+            <question>romantic</question>
             <answer>романтический</answer>
-        </question>
-        <question>
-            <text>rope</text>
+        </card>
+        <card>
+            <question>rope</question>
             <answer>веревка</answer>
-        </question>
-        <question>
-            <text>rough</text>
+        </card>
+        <card>
+            <question>rough</question>
             <answer>грубый</answer>
-        </question>
-        <question>
-            <text>row</text>
+        </card>
+        <card>
+            <question>row</question>
             <answer>ряд</answer>
-        </question>
-        <question>
-            <text>royal</text>
+        </card>
+        <card>
+            <question>royal</question>
             <answer>королевский</answer>
-        </question>
-        <question>
-            <text>rugby</text>
+        </card>
+        <card>
+            <question>rugby</question>
             <answer>регби</answer>
-        </question>
-        <question>
-            <text>to rule</text>
+        </card>
+        <card>
+            <question>to rule</question>
             <answer>управлять</answer>
-        </question>
-        <question>
-            <text>safety</text>
+        </card>
+        <card>
+            <question>safety</question>
             <answer>безопасность</answer>
-        </question>
-        <question>
-            <text>sail</text>
+        </card>
+        <card>
+            <question>sail</question>
             <answer>паруса</answer>
-        </question>
-        <question>
-            <text>sailor</text>
+        </card>
+        <card>
+            <question>sailor</question>
             <answer>матрос</answer>
-        </question>
-        <question>
-            <text>sample</text>
+        </card>
+        <card>
+            <question>sample</question>
             <answer>образец</answer>
-        </question>
-        <question>
-            <text>sand</text>
+        </card>
+        <card>
+            <question>sand</question>
             <answer>песок</answer>
-        </question>
-        <question>
-            <text>to scan</text>
+        </card>
+        <card>
+            <question>to scan</question>
             <answer>сканировать</answer>
-        </question>
-        <question>
-            <text>scientific</text>
+        </card>
+        <card>
+            <question>scientific</question>
             <answer>научный</answer>
-        </question>
-        <question>
-            <text>script</text>
+        </card>
+        <card>
+            <question>script</question>
             <answer>сценарий</answer>
-        </question>
-        <question>
-            <text>sculpture</text>
+        </card>
+        <card>
+            <question>sculpture</question>
             <answer>скульптура</answer>
-        </question>
-        <question>
-            <text>secondary</text>
+        </card>
+        <card>
+            <question>secondary</question>
             <answer>вторичный</answer>
-        </question>
-        <question>
-            <text>security</text>
+        </card>
+        <card>
+            <question>security</question>
             <answer>безопасность</answer>
-        </question>
-        <question>
-            <text>seed</text>
+        </card>
+        <card>
+            <question>seed</question>
             <answer>семя</answer>
-        </question>
-        <question>
-            <text>sensible</text>
+        </card>
+        <card>
+            <question>sensible</question>
             <answer>разумный</answer>
-        </question>
-        <question>
-            <text>to separate</text>
+        </card>
+        <card>
+            <question>to separate</question>
             <answer>отделять</answer>
-        </question>
-        <question>
-            <text>seriously</text>
+        </card>
+        <card>
+            <question>seriously</question>
             <answer>серьезно</answer>
-        </question>
-        <question>
-            <text>servant</text>
+        </card>
+        <card>
+            <question>servant</question>
             <answer>слуга</answer>
-        </question>
-        <question>
-            <text>set</text>
+        </card>
+        <card>
+            <question>set</question>
             <answer>набор</answer>
-        </question>
-        <question>
-            <text>to set</text>
+        </card>
+        <card>
+            <question>to set</question>
             <answer>устанавливать</answer>
-        </question>
-        <question>
-            <text>setting</text>
+        </card>
+        <card>
+            <question>setting</question>
             <answer>установка</answer>
-        </question>
-        <question>
-            <text>sex</text>
+        </card>
+        <card>
+            <question>sex</question>
             <answer>секс</answer>
-        </question>
-        <question>
-            <text>sexual</text>
+        </card>
+        <card>
+            <question>sexual</question>
             <answer>сексуальный</answer>
-        </question>
-        <question>
-            <text>shake</text>
+        </card>
+        <card>
+            <question>shake</question>
             <answer>дрожание</answer>
-        </question>
-        <question>
-            <text>share</text>
+        </card>
+        <card>
+            <question>share</question>
             <answer>доля</answer>
-        </question>
-        <question>
-            <text>sharp</text>
+        </card>
+        <card>
+            <question>sharp</question>
             <answer>острый</answer>
-        </question>
-        <question>
-            <text>shelf</text>
+        </card>
+        <card>
+            <question>shelf</question>
             <answer>полка</answer>
-        </question>
-        <question>
-            <text>shell</text>
+        </card>
+        <card>
+            <question>shell</question>
             <answer>оболочка</answer>
-        </question>
-        <question>
-            <text>shift</text>
+        </card>
+        <card>
+            <question>shift</question>
             <answer>сдвиг</answer>
-        </question>
-        <question>
-            <text>to shine</text>
+        </card>
+        <card>
+            <question>to shine</question>
             <answer>светить</answer>
-        </question>
-        <question>
-            <text>shiny</text>
+        </card>
+        <card>
+            <question>shiny</question>
             <answer>блестящий</answer>
-        </question>
-        <question>
-            <text>to shoot</text>
+        </card>
+        <card>
+            <question>to shoot</question>
             <answer>стрелять</answer>
-        </question>
-        <question>
-            <text>shy</text>
+        </card>
+        <card>
+            <question>shy</question>
             <answer>застенчивый</answer>
-        </question>
-        <question>
-            <text>sight</text>
+        </card>
+        <card>
+            <question>sight</question>
             <answer>взгляд</answer>
-        </question>
-        <question>
-            <text>signal</text>
+        </card>
+        <card>
+            <question>signal</question>
             <answer>сигнал</answer>
-        </question>
-        <question>
-            <text>to signal</text>
+        </card>
+        <card>
+            <question>to signal</question>
             <answer>сигнализировать</answer>
-        </question>
-        <question>
-            <text>silent</text>
+        </card>
+        <card>
+            <question>silent</question>
             <answer>тихий</answer>
-        </question>
-        <question>
-            <text>silly</text>
+        </card>
+        <card>
+            <question>silly</question>
             <answer>глупый</answer>
-        </question>
-        <question>
-            <text>similarity</text>
+        </card>
+        <card>
+            <question>similarity</question>
             <answer>сходство</answer>
-        </question>
-        <question>
-            <text>similarly</text>
+        </card>
+        <card>
+            <question>similarly</question>
             <answer>так же</answer>
-        </question>
-        <question>
-            <text>simply</text>
+        </card>
+        <card>
+            <question>simply</question>
             <answer>просто</answer>
-        </question>
-        <question>
-            <text>to sink</text>
+        </card>
+        <card>
+            <question>to sink</question>
             <answer>потопить</answer>
-        </question>
-        <question>
-            <text>slice</text>
+        </card>
+        <card>
+            <question>slice</question>
             <answer>ломтик</answer>
-        </question>
-        <question>
-            <text>to slice</text>
+        </card>
+        <card>
+            <question>to slice</question>
             <answer>нарезать</answer>
-        </question>
-        <question>
-            <text>slightly</text>
+        </card>
+        <card>
+            <question>slightly</question>
             <answer>немного</answer>
-        </question>
-        <question>
-            <text>to slow</text>
+        </card>
+        <card>
+            <question>to slow</question>
             <answer>замедлять</answer>
-        </question>
-        <question>
-            <text>smart</text>
+        </card>
+        <card>
+            <question>smart</question>
             <answer>умный</answer>
-        </question>
-        <question>
-            <text>smooth</text>
+        </card>
+        <card>
+            <question>smooth</question>
             <answer>гладкий</answer>
-        </question>
-        <question>
-            <text>software</text>
+        </card>
+        <card>
+            <question>software</question>
             <answer>программное обеспечение</answer>
-        </question>
-        <question>
-            <text>soil</text>
+        </card>
+        <card>
+            <question>soil</question>
             <answer>земля</answer>
-        </question>
-        <question>
-            <text>solid</text>
+        </card>
+        <card>
+            <question>solid</question>
             <answer>твердый|твердое тело</answer>
-        </question>
-        <question>
-            <text>to sort</text>
+        </card>
+        <card>
+            <question>to sort</question>
             <answer>сортировать</answer>
-        </question>
-        <question>
-            <text>southern</text>
+        </card>
+        <card>
+            <question>southern</question>
             <answer>южный</answer>
-        </question>
-        <question>
-            <text>specifically</text>
+        </card>
+        <card>
+            <question>specifically</question>
             <answer>конкретно</answer>
-        </question>
-        <question>
-            <text>spending</text>
+        </card>
+        <card>
+            <question>spending</question>
             <answer>расходы</answer>
-        </question>
-        <question>
-            <text>spicy</text>
+        </card>
+        <card>
+            <question>spicy</question>
             <answer>пряный</answer>
-        </question>
-        <question>
-            <text>spirit</text>
+        </card>
+        <card>
+            <question>spirit</question>
             <answer>дух</answer>
-        </question>
-        <question>
-            <text>spoken</text>
+        </card>
+        <card>
+            <question>spoken</question>
             <answer>разговорный</answer>
-        </question>
-        <question>
-            <text>spot</text>
+        </card>
+        <card>
+            <question>spot</question>
             <answer>место</answer>
-        </question>
-        <question>
-            <text>to spread</text>
+        </card>
+        <card>
+            <question>to spread</question>
             <answer>распространять</answer>
-        </question>
-        <question>
-            <text>stadium</text>
+        </card>
+        <card>
+            <question>stadium</question>
             <answer>стадион</answer>
-        </question>
-        <question>
-            <text>staff</text>
+        </card>
+        <card>
+            <question>staff</question>
             <answer>персонал</answer>
-        </question>
-        <question>
-            <text>standard</text>
+        </card>
+        <card>
+            <question>standard</question>
             <answer>стандартный|стандарт</answer>
-        </question>
-        <question>
-            <text>to state</text>
+        </card>
+        <card>
+            <question>to state</question>
             <answer>утверждать</answer>
-        </question>
-        <question>
-            <text>statistic</text>
+        </card>
+        <card>
+            <question>statistic</question>
             <answer>статистик</answer>
-        </question>
-        <question>
-            <text>statue</text>
+        </card>
+        <card>
+            <question>statue</question>
             <answer>статуя</answer>
-        </question>
-        <question>
-            <text>stick</text>
+        </card>
+        <card>
+            <question>stick</question>
             <answer>палка</answer>
-        </question>
-        <question>
-            <text>to stick</text>
+        </card>
+        <card>
+            <question>to stick</question>
             <answer>придерживаться</answer>
-        </question>
-        <question>
-            <text>to store</text>
+        </card>
+        <card>
+            <question>to store</question>
             <answer>хранить</answer>
-        </question>
-        <question>
-            <text>stranger</text>
+        </card>
+        <card>
+            <question>stranger</question>
             <answer>незнакомец</answer>
-        </question>
-        <question>
-            <text>strength</text>
+        </card>
+        <card>
+            <question>strength</question>
             <answer>сила</answer>
-        </question>
-        <question>
-            <text>string</text>
+        </card>
+        <card>
+            <question>string</question>
             <answer>строка</answer>
-        </question>
-        <question>
-            <text>strongly</text>
+        </card>
+        <card>
+            <question>strongly</question>
             <answer>сильно</answer>
-        </question>
-        <question>
-            <text>studio</text>
+        </card>
+        <card>
+            <question>studio</question>
             <answer>студия</answer>
-        </question>
-        <question>
-            <text>stuff</text>
+        </card>
+        <card>
+            <question>stuff</question>
             <answer>вещи</answer>
-        </question>
-        <question>
-            <text>substance</text>
+        </card>
+        <card>
+            <question>substance</question>
             <answer>вещество</answer>
-        </question>
-        <question>
-            <text>successfully</text>
+        </card>
+        <card>
+            <question>successfully</question>
             <answer>успешно</answer>
-        </question>
-        <question>
-            <text>sudden</text>
+        </card>
+        <card>
+            <question>sudden</question>
             <answer>внезапный</answer>
-        </question>
-        <question>
-            <text>to suffer</text>
+        </card>
+        <card>
+            <question>to suffer</question>
             <answer>страдать</answer>
-        </question>
-        <question>
-            <text>to suit</text>
+        </card>
+        <card>
+            <question>to suit</question>
             <answer>подходить</answer>
-        </question>
-        <question>
-            <text>suitable</text>
+        </card>
+        <card>
+            <question>suitable</question>
             <answer>подходящий</answer>
-        </question>
-        <question>
-            <text>to summarize</text>
+        </card>
+        <card>
+            <question>to summarize</question>
             <answer>суммировать</answer>
-        </question>
-        <question>
-            <text>summary</text>
+        </card>
+        <card>
+            <question>summary</question>
             <answer>резюме</answer>
-        </question>
-        <question>
-            <text>supply</text>
+        </card>
+        <card>
+            <question>supply</question>
             <answer>поставка</answer>
-        </question>
-        <question>
-            <text>to supply</text>
+        </card>
+        <card>
+            <question>to supply</question>
             <answer>поставлять</answer>
-        </question>
-        <question>
-            <text>supporter</text>
+        </card>
+        <card>
+            <question>supporter</question>
             <answer>сторонник</answer>
-        </question>
-        <question>
-            <text>surely</text>
+        </card>
+        <card>
+            <question>surely</question>
             <answer>конечно</answer>
-        </question>
-        <question>
-            <text>surface</text>
+        </card>
+        <card>
+            <question>surface</question>
             <answer>поверхность</answer>
-        </question>
-        <question>
-            <text>to survive</text>
+        </card>
+        <card>
+            <question>to survive</question>
             <answer>выживать</answer>
-        </question>
-        <question>
-            <text>swim</text>
+        </card>
+        <card>
+            <question>swim</question>
             <answer>плавание</answer>
-        </question>
-        <question>
-            <text>to switch</text>
+        </card>
+        <card>
+            <question>to switch</question>
             <answer>переключаться</answer>
-        </question>
-        <question>
-            <text>symptom</text>
+        </card>
+        <card>
+            <question>symptom</question>
             <answer>симптом</answer>
-        </question>
-        <question>
-            <text>tail</text>
+        </card>
+        <card>
+            <question>tail</question>
             <answer>хвост</answer>
-        </question>
-        <question>
-            <text>talent</text>
+        </card>
+        <card>
+            <question>talent</question>
             <answer>талант</answer>
-        </question>
-        <question>
-            <text>talented</text>
+        </card>
+        <card>
+            <question>talented</question>
             <answer>талантливый</answer>
-        </question>
-        <question>
-            <text>tape</text>
+        </card>
+        <card>
+            <question>tape</question>
             <answer>лента</answer>
-        </question>
-        <question>
-            <text>tax</text>
+        </card>
+        <card>
+            <question>tax</question>
             <answer>налог</answer>
-        </question>
-        <question>
-            <text>to tax</text>
+        </card>
+        <card>
+            <question>to tax</question>
             <answer>облагать налогом</answer>
-        </question>
-        <question>
-            <text>technical</text>
+        </card>
+        <card>
+            <question>technical</question>
             <answer>технический</answer>
-        </question>
-        <question>
-            <text>technique</text>
+        </card>
+        <card>
+            <question>technique</question>
             <answer>техника</answer>
-        </question>
-        <question>
-            <text>to tend</text>
+        </card>
+        <card>
+            <question>to tend</question>
             <answer>иметь тенденцию</answer>
-        </question>
-        <question>
-            <text>tent</text>
+        </card>
+        <card>
+            <question>tent</question>
             <answer>палатка</answer>
-        </question>
-        <question>
-            <text>theirs</text>
+        </card>
+        <card>
+            <question>theirs</question>
             <answer>их</answer>
-        </question>
-        <question>
-            <text>theme</text>
+        </card>
+        <card>
+            <question>theme</question>
             <answer>тема</answer>
-        </question>
-        <question>
-            <text>theory</text>
+        </card>
+        <card>
+            <question>theory</question>
             <answer>теория</answer>
-        </question>
-        <question>
-            <text>therefore</text>
+        </card>
+        <card>
+            <question>therefore</question>
             <answer>поэтому</answer>
-        </question>
-        <question>
-            <text>though</text>
+        </card>
+        <card>
+            <question>though</question>
             <answer>хотя|однако</answer>
-        </question>
-        <question>
-            <text>throat</text>
+        </card>
+        <card>
+            <question>throat</question>
             <answer>горло</answer>
-        </question>
-        <question>
-            <text>throughout</text>
+        </card>
+        <card>
+            <question>throughout</question>
             <answer>через</answer>
-        </question>
-        <question>
-            <text>tight</text>
+        </card>
+        <card>
+            <question>tight</question>
             <answer>тугой</answer>
-        </question>
-        <question>
-            <text>till</text>
+        </card>
+        <card>
+            <question>till</question>
             <answer>до|пока</answer>
-        </question>
-        <question>
-            <text>tin</text>
+        </card>
+        <card>
+            <question>tin</question>
             <answer>олово</answer>
-        </question>
-        <question>
-            <text>tiny</text>
+        </card>
+        <card>
+            <question>tiny</question>
             <answer>крошечный</answer>
-        </question>
-        <question>
-            <text>to tip</text>
+        </card>
+        <card>
+            <question>to tip</question>
             <answer>наклонять</answer>
-        </question>
-        <question>
-            <text>toe</text>
+        </card>
+        <card>
+            <question>toe</question>
             <answer>палец на ноге</answer>
-        </question>
-        <question>
-            <text>tongue</text>
+        </card>
+        <card>
+            <question>tongue</question>
             <answer>язык</answer>
-        </question>
-        <question>
-            <text>total</text>
+        </card>
+        <card>
+            <question>total</question>
             <answer>полный|итог</answer>
-        </question>
-        <question>
-            <text>totally</text>
+        </card>
+        <card>
+            <question>totally</question>
             <answer>полностью</answer>
-        </question>
-        <question>
-            <text>touch</text>
+        </card>
+        <card>
+            <question>touch</question>
             <answer>прикосновение</answer>
-        </question>
-        <question>
-            <text>to tour</text>
+        </card>
+        <card>
+            <question>to tour</question>
             <answer>гастролировать</answer>
-        </question>
-        <question>
-            <text>trade</text>
+        </card>
+        <card>
+            <question>trade</question>
             <answer>торговля</answer>
-        </question>
-        <question>
-            <text>to trade</text>
+        </card>
+        <card>
+            <question>to trade</question>
             <answer>торговать</answer>
-        </question>
-        <question>
-            <text>to translate</text>
+        </card>
+        <card>
+            <question>to translate</question>
             <answer>переводить</answer>
-        </question>
-        <question>
-            <text>translation</text>
+        </card>
+        <card>
+            <question>translation</question>
             <answer>перевод</answer>
-        </question>
-        <question>
-            <text>to transport</text>
+        </card>
+        <card>
+            <question>to transport</question>
             <answer>транспортировать</answer>
-        </question>
-        <question>
-            <text>to treat</text>
+        </card>
+        <card>
+            <question>to treat</question>
             <answer>обращаться</answer>
-        </question>
-        <question>
-            <text>treatment</text>
+        </card>
+        <card>
+            <question>treatment</question>
             <answer>уход</answer>
-        </question>
-        <question>
-            <text>trend</text>
+        </card>
+        <card>
+            <question>trend</question>
             <answer>тенденция</answer>
-        </question>
-        <question>
-            <text>trick</text>
+        </card>
+        <card>
+            <question>trick</question>
             <answer>трюк</answer>
-        </question>
-        <question>
-            <text>to trick</text>
+        </card>
+        <card>
+            <question>to trick</question>
             <answer>обманывать</answer>
-        </question>
-        <question>
-            <text>truth</text>
+        </card>
+        <card>
+            <question>truth</question>
             <answer>правда</answer>
-        </question>
-        <question>
-            <text>tube</text>
+        </card>
+        <card>
+            <question>tube</question>
             <answer>трубка</answer>
-        </question>
-        <question>
-            <text>to type</text>
+        </card>
+        <card>
+            <question>to type</question>
             <answer>напечатать</answer>
-        </question>
-        <question>
-            <text>typically</text>
+        </card>
+        <card>
+            <question>typically</question>
             <answer>типично</answer>
-        </question>
-        <question>
-            <text>tyre</text>
+        </card>
+        <card>
+            <question>tyre</question>
             <answer>шина</answer>
-        </question>
-        <question>
-            <text>ugly</text>
+        </card>
+        <card>
+            <question>ugly</question>
             <answer>уродливый</answer>
-        </question>
-        <question>
-            <text>unable</text>
+        </card>
+        <card>
+            <question>unable</question>
             <answer>неспособный</answer>
-        </question>
-        <question>
-            <text>uncomfortable</text>
+        </card>
+        <card>
+            <question>uncomfortable</question>
             <answer>неудобный</answer>
-        </question>
-        <question>
-            <text>underwear</text>
+        </card>
+        <card>
+            <question>underwear</question>
             <answer>нижнее белье</answer>
-        </question>
-        <question>
-            <text>unemployed</text>
+        </card>
+        <card>
+            <question>unemployed</question>
             <answer>безработный</answer>
-        </question>
-        <question>
-            <text>unemployment</text>
+        </card>
+        <card>
+            <question>unemployment</question>
             <answer>безработица</answer>
-        </question>
-        <question>
-            <text>unfair</text>
+        </card>
+        <card>
+            <question>unfair</question>
             <answer>несправедливый</answer>
-        </question>
-        <question>
-            <text>union</text>
+        </card>
+        <card>
+            <question>union</question>
             <answer>союз</answer>
-        </question>
-        <question>
-            <text>unless</text>
+        </card>
+        <card>
+            <question>unless</question>
             <answer>пока не</answer>
-        </question>
-        <question>
-            <text>unlike</text>
+        </card>
+        <card>
+            <question>unlike</question>
             <answer>в отличие от</answer>
-        </question>
-        <question>
-            <text>unlikely</text>
+        </card>
+        <card>
+            <question>unlikely</question>
             <answer>маловероятный</answer>
-        </question>
-        <question>
-            <text>unnecessary</text>
+        </card>
+        <card>
+            <question>unnecessary</question>
             <answer>ненужный</answer>
-        </question>
-        <question>
-            <text>unpleasant</text>
+        </card>
+        <card>
+            <question>unpleasant</question>
             <answer>неприятный</answer>
-        </question>
-        <question>
-            <text>update</text>
+        </card>
+        <card>
+            <question>update</question>
             <answer>модернизация</answer>
-        </question>
-        <question>
-            <text>to update</text>
+        </card>
+        <card>
+            <question>to update</question>
             <answer>обновлять</answer>
-        </question>
-        <question>
-            <text>upon</text>
+        </card>
+        <card>
+            <question>upon</question>
             <answer>на</answer>
-        </question>
-        <question>
-            <text>upset</text>
+        </card>
+        <card>
+            <question>upset</question>
             <answer>расстроенный</answer>
-        </question>
-        <question>
-            <text>to upset</text>
+        </card>
+        <card>
+            <question>to upset</question>
             <answer>расстраивать</answer>
-        </question>
-        <question>
-            <text>used</text>
+        </card>
+        <card>
+            <question>used</question>
             <answer>использованный</answer>
-        </question>
-        <question>
-            <text>valuable</text>
+        </card>
+        <card>
+            <question>valuable</question>
             <answer>ценный</answer>
-        </question>
-        <question>
-            <text>value</text>
+        </card>
+        <card>
+            <question>value</question>
             <answer>значение</answer>
-        </question>
-        <question>
-            <text>various</text>
+        </card>
+        <card>
+            <question>various</question>
             <answer>различный</answer>
-        </question>
-        <question>
-            <text>version</text>
+        </card>
+        <card>
+            <question>version</question>
             <answer>версия</answer>
-        </question>
-        <question>
-            <text>victim</text>
+        </card>
+        <card>
+            <question>victim</question>
             <answer>жертва</answer>
-        </question>
-        <question>
-            <text>to view</text>
+        </card>
+        <card>
+            <question>to view</question>
             <answer>смотреть</answer>
-        </question>
-        <question>
-            <text>viewer</text>
+        </card>
+        <card>
+            <question>viewer</question>
             <answer>зритель</answer>
-        </question>
-        <question>
-            <text>violent</text>
+        </card>
+        <card>
+            <question>violent</question>
             <answer>насильственный</answer>
-        </question>
-        <question>
-            <text>volunteer</text>
+        </card>
+        <card>
+            <question>volunteer</question>
             <answer>волонтер</answer>
-        </question>
-        <question>
-            <text>to volunteer</text>
+        </card>
+        <card>
+            <question>to volunteer</question>
             <answer>предлагать</answer>
-        </question>
-        <question>
-            <text>vote</text>
+        </card>
+        <card>
+            <question>vote</question>
             <answer>голосование</answer>
-        </question>
-        <question>
-            <text>to vote</text>
+        </card>
+        <card>
+            <question>to vote</question>
             <answer>голосовать</answer>
-        </question>
-        <question>
-            <text>to warm</text>
+        </card>
+        <card>
+            <question>to warm</question>
             <answer>нагреваться</answer>
-        </question>
-        <question>
-            <text>to warn</text>
+        </card>
+        <card>
+            <question>to warn</question>
             <answer>предупреждать</answer>
-        </question>
-        <question>
-            <text>warning</text>
+        </card>
+        <card>
+            <question>warning</question>
             <answer>предупреждение</answer>
-        </question>
-        <question>
-            <text>waste</text>
+        </card>
+        <card>
+            <question>waste</question>
             <answer>отходы|негодный</answer>
-        </question>
-        <question>
-            <text>to waste</text>
+        </card>
+        <card>
+            <question>to waste</question>
             <answer>терять</answer>
-        </question>
-        <question>
-            <text>to water</text>
+        </card>
+        <card>
+            <question>to water</question>
             <answer>поливать</answer>
-        </question>
-        <question>
-            <text>to wave</text>
+        </card>
+        <card>
+            <question>to wave</question>
             <answer>махать</answer>
-        </question>
-        <question>
-            <text>weapon</text>
+        </card>
+        <card>
+            <question>weapon</question>
             <answer>оружие</answer>
-        </question>
-        <question>
-            <text>to weigh</text>
+        </card>
+        <card>
+            <question>to weigh</question>
             <answer>взвешивать</answer>
-        </question>
-        <question>
-            <text>western</text>
+        </card>
+        <card>
+            <question>western</question>
             <answer>западный</answer>
-        </question>
-        <question>
-            <text>whatever</text>
+        </card>
+        <card>
+            <question>whatever</question>
             <answer>что бы ни|все равно</answer>
-        </question>
-        <question>
-            <text>whenever</text>
+        </card>
+        <card>
+            <question>whenever</question>
             <answer>когда бы ни</answer>
-        </question>
-        <question>
-            <text>whether</text>
+        </card>
+        <card>
+            <question>whether</question>
             <answer>ли</answer>
-        </question>
-        <question>
-            <text>win</text>
+        </card>
+        <card>
+            <question>win</question>
             <answer>победа</answer>
-        </question>
-        <question>
-            <text>wing</text>
+        </card>
+        <card>
+            <question>wing</question>
             <answer>крыло</answer>
-        </question>
-        <question>
-            <text>within</text>
+        </card>
+        <card>
+            <question>within</question>
             <answer>в пределах</answer>
-        </question>
-        <question>
-            <text>wonder</text>
+        </card>
+        <card>
+            <question>wonder</question>
             <answer>чудо</answer>
-        </question>
-        <question>
-            <text>to wonder</text>
+        </card>
+        <card>
+            <question>to wonder</question>
             <answer>удивляться</answer>
-        </question>
-        <question>
-            <text>wool</text>
+        </card>
+        <card>
+            <question>wool</question>
             <answer>шерсть</answer>
-        </question>
-        <question>
-            <text>worldwide</text>
+        </card>
+        <card>
+            <question>worldwide</question>
             <answer>мировой</answer>
-        </question>
-        <question>
-            <text>worry</text>
+        </card>
+        <card>
+            <question>worry</question>
             <answer>беспокойство</answer>
-        </question>
-        <question>
-            <text>worth</text>
+        </card>
+        <card>
+            <question>worth</question>
             <answer>ценность|заслуживающий</answer>
-        </question>
-        <question>
-            <text>written</text>
+        </card>
+        <card>
+            <question>written</question>
             <answer>написанный</answer>
-        </question>
-        <question>
-            <text>yard</text>
+        </card>
+        <card>
+            <question>yard</question>
             <answer>двор</answer>
-        </question>
-        <question>
-            <text>youth</text>
+        </card>
+        <card>
+            <question>youth</question>
             <answer>молодость</answer>
-        </question>
-    </questions>
+        </card>
+    </cards>
 </questionary>

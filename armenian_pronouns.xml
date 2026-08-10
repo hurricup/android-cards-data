@@ -2,205 +2,205 @@
 <questionary>
     <id>Армянские местоимения</id>
     <title>Местоимения (арм.)</title>
-    <questions>
-        <question>
-            <text>ինձ</text>
+    <cards>
+        <card>
+            <question>ինձ</question>
             <answer>мне|меня</answer>
-        </question>
-        <question>
-            <text>քեզ</text>
+        </card>
+        <card>
+            <question>քեզ</question>
             <answer>тебе|тебя</answer>
-        </question>
-        <question>
-            <text>նրան|իրեն|իրան</text>
+        </card>
+        <card>
+            <question>նրան|իրեն|իրան</question>
             <answer>ему|ей|её (кого)|его (кого)</answer>
-        </question>
-        <question>
-            <text>մեզ</text>
+        </card>
+        <card>
+            <question>մեզ</question>
             <answer>нам|нас</answer>
-        </question>
-        <question>
-            <text>ձեզ</text>
+        </card>
+        <card>
+            <question>ձեզ</question>
             <answer>вам|вас</answer>
-        </question>
-        <question>
-            <text>նրանց|իրենց|իրանց</text>
+        </card>
+        <card>
+            <question>նրանց|իրենց|իրանց</question>
             <answer>им| их (кого)</answer>
-        </question>
+        </card>
 
-        <question>
-            <text>իմն ա</text>
+        <card>
+            <question>իմն ա</question>
             <answer>это мой</answer>
-        </question>
-        <question>
-            <text>քոնն ա</text>
+        </card>
+        <card>
+            <question>քոնն ա</question>
             <answer>это твой</answer>
-        </question>
-        <question>
-            <text>նրանն ա|իրենն ա|իրանն ա</text>
+        </card>
+        <card>
+            <question>նրանն ա|իրենն ա|իրանն ա</question>
             <answer>это его|это её</answer>
-        </question>
-        <question>
-            <text>մերն ա</text>
+        </card>
+        <card>
+            <question>մերն ա</question>
             <answer>это наш</answer>
-        </question>
-        <question>
-            <text>ձերն ա</text>
+        </card>
+        <card>
+            <question>ձերն ա</question>
             <answer>это ваш</answer>
-        </question>
-        <question>
-            <text>նրանցն ա|իրենցն ա|իրանցն ա</text>
+        </card>
+        <card>
+            <question>նրանցն ա|իրենցն ա|իրանցն ա</question>
             <answer>это ихний</answer>
-        </question>
+        </card>
 
-        <question>
-            <text>ի՛մը չի</text>
+        <card>
+            <question>ի՛մը չի</question>
             <answer>это не мое</answer>
-        </question>
-        <question>
-            <text>քո՛նը չի</text>
+        </card>
+        <card>
+            <question>քո՛նը չի</question>
             <answer>это не твое</answer>
-        </question>
-        <question>
-            <text>իրե՛նը չի|իրա՛նը չի|նրա՛նը չի</text>
+        </card>
+        <card>
+            <question>իրե՛նը չի|իրա՛նը չի|նրա՛նը չի</question>
             <answer>это не его|это не eё</answer>
-        </question>
-        <question>
-            <text>մե՛րը չի</text>
+        </card>
+        <card>
+            <question>մե՛րը չի</question>
             <answer>это не наше</answer>
-        </question>
-        <question>
-            <text>ձե՛րը չի</text>
+        </card>
+        <card>
+            <question>ձե՛րը չի</question>
             <answer>это не ваше</answer>
-        </question>
-        <question>
-            <text>իրե՛նցը չի|իրա՛նցը չի|նրա՛նցը չի</text>
+        </card>
+        <card>
+            <question>իրե՛նցը չի|իրա՛նցը չի|նրա՛նցը չի</question>
             <answer>это не их</answer>
-        </question>
+        </card>
 
-        <question>
-            <text>իմ</text>
+        <card>
+            <question>իմ</question>
             <answer>мой</answer>
-        </question>
-        <question>
-            <text>քո</text>
+        </card>
+        <card>
+            <question>քո</question>
             <answer>твой</answer>
-        </question>
-        <question>
-            <text>նրա|իր|իրա</text>
+        </card>
+        <card>
+            <question>նրա|իր|իրա</question>
             <answer>его (чей)|её (чей)</answer>
-        </question>
-        <question>
-            <text>մեր</text>
+        </card>
+        <card>
+            <question>մեր</question>
             <answer>наш</answer>
-        </question>
-        <question>
-            <text>ձեր</text>
+        </card>
+        <card>
+            <question>ձեր</question>
             <answer>ваш</answer>
-        </question>
-        <question>
-            <text>նրանց|իրենց|իրանց</text>
+        </card>
+        <card>
+            <question>նրանց|իրենց|իրանց</question>
             <answer>ихний</answer>
-        </question>
-        <question>
-            <text>այն</text>
+        </card>
+        <card>
+            <question>այն</question>
             <answer>оно</answer>
-        </question>
-        <question>
-            <text>իմ մասին</text>
+        </card>
+        <card>
+            <question>իմ մասին</question>
             <answer>обо мне</answer>
-        </question>
-        <question>
-            <text>քո մասին</text>
+        </card>
+        <card>
+            <question>քո մասին</question>
             <answer>о тебе</answer>
-        </question>
-        <question>
-            <text>նրա մասին|իր մասին|իրա մասին</text>
+        </card>
+        <card>
+            <question>նրա մասին|իր մասին|իրա մասին</question>
             <answer>о нем|о ней</answer>
-        </question>
-        <question>
-            <text>մեր մասին</text>
+        </card>
+        <card>
+            <question>մեր մասին</question>
             <answer>о нас</answer>
-        </question>
-        <question>
-            <text>ձեր մասին</text>
+        </card>
+        <card>
+            <question>ձեր մասին</question>
             <answer>о вас</answer>
-        </question>
-        <question>
-            <text>նրանց մասին|իրենց մասին|իրանց մասին</text>
+        </card>
+        <card>
+            <question>նրանց մասին|իրենց մասին|իրանց մասին</question>
             <answer>о них</answer>
-        </question>
-        <question>
-            <text>այդ մասին|դրա մասին</text>
+        </card>
+        <card>
+            <question>այդ մասին|դրա մասին</question>
             <answer>об этом</answer>
-        </question>
-        <question>
-            <text>ոչ թե</text>
+        </card>
+        <card>
+            <question>ոչ թե</question>
             <answer>... а не ...</answer>
-        </question>
-        <question>
-            <text>ինձ համար</text>
+        </card>
+        <card>
+            <question>ինձ համար</question>
             <answer>для меня</answer>
-        </question>
-        <question>
-            <text>ինձ հետ</text>
+        </card>
+        <card>
+            <question>ինձ հետ</question>
             <answer>со мной</answer>
-        </question>
-        <question>
-            <text>առանց ինձ</text>
+        </card>
+        <card>
+            <question>առանց ինձ</question>
             <answer>без меня</answer>
-        </question>
-        <question>
-            <text>նրա համար|իր համար|իրա համար</text>
+        </card>
+        <card>
+            <question>նրա համար|իր համար|իրա համար</question>
             <answer>для него|для неё</answer>
-        </question>
-        <question>
-            <text>նրա հետ|իր հետ|իրա հետ</text>
+        </card>
+        <card>
+            <question>նրա հետ|իր հետ|իրա հետ</question>
             <answer>с ним|с ней</answer>
-        </question>
-        <question>
-            <text>առանց նրան|առանց իրեն|առանց իրան</text>
+        </card>
+        <card>
+            <question>առանց նրան|առանց իրեն|առանց իրան</question>
             <answer>без него|без неё</answer>
-        </question>
-        <question>
-            <text>սա</text>
+        </card>
+        <card>
+            <question>սա</question>
             <answer>это (видим)</answer>
-        </question>
-        <question>
-            <text>սրանք</text>
+        </card>
+        <card>
+            <question>սրանք</question>
             <answer>это (видим, мн.ч)</answer>
-        </question>
-        <question>
-            <text>դա</text>
+        </card>
+        <card>
+            <question>դա</question>
             <answer>это (не видим)</answer>
-        </question>
-        <question>
-            <text>դրանք</text>
+        </card>
+        <card>
+            <question>դրանք</question>
             <answer>это (не видим, мн.ч.)</answer>
-        </question>
-        <question>
-            <text>այս</text>
+        </card>
+        <card>
+            <question>այս</question>
             <answer>этот (видим)</answer>
-        </question>
-        <question>
-            <text>այդ</text>
+        </card>
+        <card>
+            <question>այդ</question>
             <answer>этот (не видим)</answer>
-        </question>
-        <question>
-            <text>այն</text>
+        </card>
+        <card>
+            <question>այն</question>
             <answer>тот</answer>
-        </question>
-        <question>
-            <text>ոչ ոք</text>
+        </card>
+        <card>
+            <question>ոչ ոք</question>
             <answer>никто</answer>
-        </question>
-        <question>
-            <text>ոչինչ</text>
+        </card>
+        <card>
+            <question>ոչինչ</question>
             <answer>ничего</answer>
-        </question>
-        <question>
-            <text>բոլո՛րը</text>
+        </card>
+        <card>
+            <question>բոլո՛րը</question>
             <answer>все</answer>
-        </question>
-    </questions>
+        </card>
+    </cards>
 </questionary>

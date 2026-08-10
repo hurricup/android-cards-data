@@ -2,294 +2,294 @@
 <questionary>
     <id>Армянские вспомогательные слова</id>
     <title>Вспомогательные (арм.)</title>
-    <questions>
-        <question>
-            <text>իսկ</text>
+    <cards>
+        <card>
+            <question>իսկ</question>
             <answer>и (в смысле а)</answer>
-        </question>
-        <question>
-            <text>ու|և</text>
+        </card>
+        <card>
+            <question>ու|և</question>
             <answer>и</answer>
-        </question>
-        <question>
-            <text>բայց</text>
+        </card>
+        <card>
+            <question>բայց</question>
             <answer>но</answer>
-        </question>
-        <question>
-            <text>թե</text>
+        </card>
+        <card>
+            <question>թե</question>
             <answer>или (в вопросительном предложении)</answer>
-        </question>
-        <question>
-            <text>կամ</text>
+        </card>
+        <card>
+            <question>կամ</question>
             <answer>или (в утвердительном предложении)</answer>
-        </question>
-        <question>
-            <text>քան</text>
+        </card>
+        <card>
+            <question>քան</question>
             <answer>чем (в сравнении, больше чем)</answer>
-        </question>
-        <question>
-            <text>ավելի ...</text>
+        </card>
+        <card>
+            <question>ավելի ...</question>
             <answer>более ...</answer>
-        </question>
-        <question>
-            <text>չափազանց</text>
+        </card>
+        <card>
+            <question>չափազանց</question>
             <answer>слишком</answer>
-        </question>
-        <question>
-            <text>չի հերիքում</text>
+        </card>
+        <card>
+            <question>չի հերիքում</question>
             <answer>недостаточно</answer>
-        </question>
-        <question>
-            <text>հաջորդ</text>
+        </card>
+        <card>
+            <question>հաջորդ</question>
             <answer>следующий (по порядку)</answer>
-        </question>
-        <question>
-            <text>ուրիշ</text>
+        </card>
+        <card>
+            <question>ուրիշ</question>
             <answer>другой (какой-то неизвестный)</answer>
-        </question>
-        <question>
-            <text>տարբեր</text>
+        </card>
+        <card>
+            <question>տարբեր</question>
             <answer>другой|разные</answer>
-        </question>
-        <question>
-            <text>նույն</text>
+        </card>
+        <card>
+            <question>նույն</question>
             <answer>одинаковый</answer>
-        </question>
-        <question>
-            <text>այո</text>
+        </card>
+        <card>
+            <question>այո</question>
             <answer>да</answer>
-        </question>
-        <question>
-            <text>հա</text>
+        </card>
+        <card>
+            <question>հա</question>
             <answer>ага</answer>
-        </question>
-        <question>
-            <text>ոչ</text>
+        </card>
+        <card>
+            <question>ոչ</question>
             <answer>нет</answer>
-        </question>
-        <question>
-            <text>չէ</text>
+        </card>
+        <card>
+            <question>չէ</question>
             <answer>не (разговорная форма нет)</answer>
-        </question>
-        <question>
-            <text>էլ</text>
+        </card>
+        <card>
+            <question>էլ</question>
             <answer>тоже</answer>
-        </question>
-        <question>
-            <text>նույնպես</text>
+        </card>
+        <card>
+            <question>նույնպես</question>
             <answer>тоже</answer>
-        </question>
-        <question>
-            <text>առատ</text>
+        </card>
+        <card>
+            <question>առատ</question>
             <answer>много (бесконечно, лит.)</answer>
-        </question>
-        <question>
-            <text>որովհետև</text>
+        </card>
+        <card>
+            <question>որովհետև</question>
             <answer>потому что</answer>
-        </question>
-        <question>
-            <text>կապ չունի</text>
+        </card>
+        <card>
+            <question>կապ չունի</question>
             <answer>не важно</answer>
-        </question>
-        <question>
-            <text>իհա՛րկե</text>
+        </card>
+        <card>
+            <question>իհա՛րկե</question>
             <answer>конечно</answer>
-        </question>
-        <question>
-            <text>դրա համար</text>
+        </card>
+        <card>
+            <question>դրա համար</question>
             <answer>поэтому</answer>
-        </question>
-        <question>
-            <text>ճիշտ չի</text>
+        </card>
+        <card>
+            <question>ճիշտ չի</question>
             <answer>неправда</answer>
-        </question>
-        <question>
-            <text>սխալ ա</text>
+        </card>
+        <card>
+            <question>սխալ ա</question>
             <answer>неверно</answer>
-        </question>
-        <question>
-            <text>սուտ ա</text>
+        </card>
+        <card>
+            <question>սուտ ա</question>
             <answer>это ложь (неправда)</answer>
-        </question>
-        <question>
-            <text>ճիշտ ա</text>
+        </card>
+        <card>
+            <question>ճիշտ ա</question>
             <answer>правильно</answer>
-        </question>
-        <question>
-            <text>..ի համար</text>
+        </card>
+        <card>
+            <question>..ի համար</question>
             <answer>для ...|за ...</answer>
-        </question>
-        <question>
-            <text>․․․ի մասին</text>
+        </card>
+        <card>
+            <question>․․․ի մասին</question>
             <answer>о ...|про ...</answer>
-        </question>
-        <question>
-            <text>․․․ի հետ</text>
+        </card>
+        <card>
+            <question>․․․ի հետ</question>
             <answer>с ...</answer>
-        </question>
-        <question>
-            <text>․․․ի մոտ</text>
+        </card>
+        <card>
+            <question>․․․ի մոտ</question>
             <answer>рядом с ...|около ...|у (чего-либо)|у (кого-либо)| к (кому либо)</answer>
-        </question>
-        <question>
-            <text>․․․ի վրա</text>
+        </card>
+        <card>
+            <question>․․․ի վրա</question>
             <answer>на ...</answer>
-        </question>
-        <question>
-            <text>առանց ․․․ի</text>
+        </card>
+        <card>
+            <question>առանց ․․․ի</question>
             <answer>без ...</answer>
-        </question>
-        <question>
-            <text>հեշտ</text>
+        </card>
+        <card>
+            <question>հեշտ</question>
             <answer>легкий|простой</answer>
-        </question>
-        <question>
-            <text>դժվար</text>
+        </card>
+        <card>
+            <question>դժվար</question>
             <answer>трудный|сложный</answer>
-        </question>
-        <question>
-            <text>բարդ</text>
+        </card>
+        <card>
+            <question>բարդ</question>
             <answer>сложный</answer>
-        </question>
-        <question>
-            <text>մի քիչ</text>
+        </card>
+        <card>
+            <question>մի քիչ</question>
             <answer>немного|как то</answer>
-        </question>
-        <question>
-            <text>շատ</text>
+        </card>
+        <card>
+            <question>շատ</question>
             <answer>много|очень</answer>
-        </question>
-        <question>
-            <text>քիչ</text>
+        </card>
+        <card>
+            <question>քիչ</question>
             <answer>мало</answer>
-        </question>
-        <question>
-            <text>վատ</text>
+        </card>
+        <card>
+            <question>վատ</question>
             <answer>плохо</answer>
-        </question>
-        <question>
-            <text>լավ</text>
+        </card>
+        <card>
+            <question>լավ</question>
             <answer>хороший|хорошо|ОК</answer>
-        </question>
-        <question>
-            <text>հատ</text>
+        </card>
+        <card>
+            <question>հատ</question>
             <answer>штука</answer>
-        </question>
-        <question>
-            <text>հակարա՛կը</text>
+        </card>
+        <card>
+            <question>հակարա՛կը</question>
             <answer>наоборот</answer>
-        </question>
-        <question>
-            <text>շատ քիչ</text>
+        </card>
+        <card>
+            <question>շատ քիչ</question>
             <answer>очень мало</answer>
-        </question>
-        <question>
-            <text>սիրած</text>
+        </card>
+        <card>
+            <question>սիրած</question>
             <answer>любимый</answer>
-        </question>
-        <question>
-            <text>ամենասիրած</text>
+        </card>
+        <card>
+            <question>ամենասիրած</question>
             <answer>самый любимый</answer>
-        </question>
-        <question>
-            <text>ուրախ եմ</text>
+        </card>
+        <card>
+            <question>ուրախ եմ</question>
             <answer>я рад</answer>
-        </question>
-        <question>
-            <text>իրականում</text>
+        </card>
+        <card>
+            <question>իրականում</question>
             <answer>на самом деле</answer>
-        </question>
-        <question>
-            <text>նայած</text>
+        </card>
+        <card>
+            <question>նայած</question>
             <answer>зависит</answer>
-        </question>
-        <question>
-            <text>ափսոս</text>
+        </card>
+        <card>
+            <question>ափսոս</question>
             <answer>жаль</answer>
-        </question>
-        <question>
-            <text>մյուս</text>
+        </card>
+        <card>
+            <question>մյուս</question>
             <answer>другой (известный)|следующий (по порядку)</answer>
-        </question>
-        <question>
-            <text>մոտավորապես</text>
+        </card>
+        <card>
+            <question>մոտավորապես</question>
             <answer>примерно</answer>
-        </question>
-        <question>
-            <text>մենակ</text>
+        </card>
+        <card>
+            <question>մենակ</question>
             <answer>один|только</answer>
-        </question>
-        <question>
-            <text>եթե</text>
+        </card>
+        <card>
+            <question>եթե</question>
             <answer>если</answer>
-        </question>
-        <question>
-            <text>ուղղակի</text>
+        </card>
+        <card>
+            <question>ուղղակի</question>
             <answer>просто (just)</answer>
-        </question>
-        <question>
-            <text>ցանկացած</text>
+        </card>
+        <card>
+            <question>ցանկացած</question>
             <answer>любой</answer>
-        </question>
-        <question>
-            <text>մի քիչ էլ</text>
+        </card>
+        <card>
+            <question>մի քիչ էլ</question>
             <answer>еще немного</answer>
-        </question>
-        <question>
-            <text>...ի մեչ</text>
+        </card>
+        <card>
+            <question>...ի մեչ</question>
             <answer>во что-то</answer>
-        </question>
-        <question>
-            <text>համարյա</text>
+        </card>
+        <card>
+            <question>համարյա</question>
             <answer>почти</answer>
-        </question>
-        <question>
-            <text>այլևս</text>
+        </card>
+        <card>
+            <question>այլևս</question>
             <answer>больше (anymore)</answer>
-        </question>
-        <question>
-            <text>երևի</text>
+        </card>
+        <card>
+            <question>երևի</question>
             <answer>наверное</answer>
-        </question>
-        <question>
-            <text>սկիզբ</text>
+        </card>
+        <card>
+            <question>սկիզբ</question>
             <answer>начало</answer>
-        </question>
-        <question>
-            <text>լիքը</text>
+        </card>
+        <card>
+            <question>լիքը</question>
             <answer>полный</answer>
-        </question>
-        <question>
-            <text>ոչ միայն</text>
+        </card>
+        <card>
+            <question>ոչ միայն</question>
             <answer>не только</answer>
-        </question>
-        <question>
-            <text>քանի որ</text>
+        </card>
+        <card>
+            <question>քանի որ</question>
             <answer>так как | поскольку</answer>
-        </question>
-        <question>
-            <text>ոնց որ</text>
+        </card>
+        <card>
+            <question>ոնց որ</question>
             <answer>как будто | кажется</answer>
-        </question>
-        <question>
-            <text>տենց</text>
+        </card>
+        <card>
+            <question>տենց</question>
             <answer>вот так</answer>
-        </question>
-        <question>
-            <text>կարող ա</text>
+        </card>
+        <card>
+            <question>կարող ա</question>
             <answer>может быть</answer>
-        </question>
-        <question>
-            <text>դրանից արաջ</text>
+        </card>
+        <card>
+            <question>դրանից արաջ</question>
             <answer>перед этим</answer>
-        </question>
-        <question>
-            <text>դրանից հետո</text>
+        </card>
+        <card>
+            <question>դրանից հետո</question>
             <answer>после этого</answer>
-        </question>
-        <question>
-            <text>կարևոր չէ</text>
+        </card>
+        <card>
+            <question>կարևոր չէ</question>
             <answer>не важно</answer>
-        </question>
-    </questions>
+        </card>
+    </cards>
 </questionary>
