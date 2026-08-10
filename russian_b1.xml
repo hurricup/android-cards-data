@@ -4,6 +4,11 @@
     <title>Russian (B1)</title>
     <cards>
         <card>
+            <question>абсолютный</question>
+            <answer>Полный, самый-самый, больше некуда.</answer>
+            <answerNote>Абсолютный рекорд в спринте принадлежит Усейну Болту.</answerNote>
+        </card>
+        <card>
             <question>автобусный</question>
             <answer>Такой, который связан с большой машиной, что возит людей по городу.</answer>
             <answerNote>Извините, где здесь автобусная остановка?</answerNote>
@@ -84,6 +89,11 @@
             <answerNote>Новый вокзал признан лучшим по архитектурному решению в Европе.</answerNote>
         </card>
         <card>
+            <question>атеизм</question>
+            <answer>Уверенность, что бога нет.</answer>
+            <answerNote>В качестве идеологии в то время утвердили атеизм.</answerNote>
+        </card>
+        <card>
             <question>атмосфера</question>
             <answer>Воздух вокруг Земли. Ещё так говорят про настроение в каком-то месте.</answer>
             <answerNote>Машины в больших городах загрязняют атмосферу.</answerNote>
@@ -129,6 +139,11 @@
             <answerNote>Российские баскетболисты проиграли американцам в финале Олимпийских игр.</answerNote>
         </card>
         <card>
+            <question>батон</question>
+            <answer>Длинный белый хлеб.</answer>
+            <answerNote>Купи, пожалуйста, батон в магазине.</answerNote>
+        </card>
+        <card>
             <question>башня</question>
             <answer>Высокое узкое строение. Сверху далеко видно.</answer>
             <answerNote>В каком году была построена Эйфелева башня?</answerNote>
@@ -159,6 +174,11 @@
             <answerNote>Тяжело ли работать библиотекарем?</answerNote>
         </card>
         <card>
+            <question>биологический</question>
+            <answer>Такой, который связан с живой природой: с растениями, животными, людьми.</answer>
+            <answerNote>Мы ходили на биологический урок в парк.</answerNote>
+        </card>
+        <card>
             <question>бланк</question>
             <answer>Лист бумаги с пустыми местами, куда нужно вписать свои данные.</answer>
             <answerNote>Возьмите эти бланки и заполните их.</answerNote>
@@ -167,11 +187,6 @@
             <question>бледный</question>
             <answer>С очень белым лицом, без румянца. Так бывает, когда человек болеет или испугался.</answer>
             <answerNote>Что случилось? Ты весь бледный!</answerNote>
-        </card>
-        <card>
-            <question>близкий</question>
-            <answer>Находится недалеко. Ещё так говорят про людей, которых очень любишь.</answer>
-            <answerNote>Моя семья — это самые близкие мне люди.</answerNote>
         </card>
         <card>
             <question>блюдо</question>
@@ -189,6 +204,11 @@
             <answerNote>Почему вы сдались без боя?</answerNote>
         </card>
         <card>
+            <question>более</question>
+            <answer>Больше, сильнее. Помогает сравнить две вещи.</answer>
+            <answerNote>Эта задача более трудная, чем первая.</answerNote>
+        </card>
+        <card>
             <question>болезнь</question>
             <answer>Когда человек нездоров: у него что-то болит или высокая температура.</answer>
             <answerNote>Как защитить себя и семью от болезней зимой?</answerNote>
@@ -197,6 +217,11 @@
             <question>болельщик</question>
             <answer>Человек, который любит какую-то команду и радуется её победам.</answer>
             <answerNote>Мой папа — активный футбольный болельщик.</answerNote>
+        </card>
+        <card>
+            <question>болеть</question>
+            <answer>Быть нездоровым, чувствовать себя плохо.</answer>
+            <answerNote>Он болеет и сегодня не пойдёт в школу.</answerNote>
         </card>
         <card>
             <question>болеть(е)</question>
@@ -234,6 +259,11 @@
             <answerNote>Некоторые считают, что жизнь — это постоянная борьба.</answerNote>
         </card>
         <card>
+            <question>ботинки</question>
+            <answer>Закрытая обувь, которая закрывает ногу выше ступни. Их шнуруют.</answer>
+            <answerNote>Надень тёплые ботинки, на улице холодно.</answerNote>
+        </card>
+        <card>
             <question>ботинок</question>
             <answer>Тёплая закрытая обувь выше щиколотки, со шнурками.</answer>
             <answerNote>У Коли нет зимних ботинок.</answerNote>
@@ -259,9 +289,19 @@
             <answerNote>Тебе нравятся эти синие брюки?</answerNote>
         </card>
         <card>
+            <question>будущее</question>
+            <answer>То время, которое ещё не пришло. Всё, что будет потом.</answer>
+            <answerNote>В будущем я хочу стать врачом.</answerNote>
+        </card>
+        <card>
             <question>буфет</question>
             <answer>Маленькое кафе в школе, театре или на работе. Там покупают чай и еду.</answer>
             <answerNote>Буфет на втором этаже закрыт, идите на первый этаж.</answerNote>
+        </card>
+        <card>
+            <question>бы</question>
+            <answer>Маленькое слово. Говорит о том, чего нет, но хотелось бы или могло случиться.</answer>
+            <answerNote>Я бы съел мороженое.</answerNote>
         </card>
         <card>
             <question>бывший</question>
@@ -279,9 +319,24 @@
             <answerNote>— Где фен? — Он в ванной.</answerNote>
         </card>
         <card>
+            <question>вверху</question>
+            <answer>В высоком месте, наверху.</answer>
+            <answerNote>Вверху на полке стоит ваза.</answerNote>
+        </card>
+        <card>
+            <question>ведь</question>
+            <answer>Слово, которым объясняют причину или напоминают то, что и так понятно.</answer>
+            <answerNote>Надень куртку, ведь на улице холодно.</answerNote>
+        </card>
+        <card>
             <question>вежливый</question>
             <answer>Тот, кто говорит «спасибо», «пожалуйста» и не грубит.</answer>
             <answerNote>— Ольга, добрый день! — с вежливой улыбкой сказал Сергей.</answerNote>
+        </card>
+        <card>
+            <question>велик</question>
+            <answer>Слишком большой по размеру для кого-то.</answer>
+            <answerNote>Этот свитер мне велик.</answerNote>
         </card>
         <card>
             <question>велосипед</question>
@@ -297,6 +352,11 @@
             <question>верхний</question>
             <answer>Который находится выше других.</answer>
             <answerNote>Коробка стояла на самой верхней полке, и я никак не могла её достать.</answerNote>
+        </card>
+        <card>
+            <question>вести</question>
+            <answer>Идти вместе с кем-то и показывать дорогу.</answer>
+            <answerNote>Мама ведёт сына в школу.</answerNote>
         </card>
         <card>
             <question>весть</question>
@@ -349,6 +409,21 @@
             <answerNote>Когда твои волосы перестали виться?</answerNote>
         </card>
         <card>
+            <question>внизу</question>
+            <answer>В нижнем месте, под чем-то.</answer>
+            <answerNote>Внизу под окном растёт куст.</answerNote>
+        </card>
+        <card>
+            <question>во-первых</question>
+            <answer>Так называют первую причину или первый пункт по счёту.</answer>
+            <answerNote>Во-первых, надо сделать уроки.</answerNote>
+        </card>
+        <card>
+            <question>вовремя</question>
+            <answer>Не рано и не поздно, точно в нужный момент.</answer>
+            <answerNote>Он всегда приходит вовремя.</answerNote>
+        </card>
+        <card>
             <question>воевать</question>
             <answer>Сражаться с врагом с оружием в руках.</answer>
             <answerNote>Иван ушёл воевать, когда ему было всего двадцать лет.</answerNote>
@@ -357,6 +432,11 @@
             <question>военный</question>
             <answer>Связанный с армией и войной. Так же называют человека из армии.</answer>
             <answerNote>Вечером они уехали с военной базы.</answerNote>
+        </card>
+        <card>
+            <question>вокруг</question>
+            <answer>Со всех сторон, кругом.</answer>
+            <answerNote>Вокруг дома растут деревья.</answerNote>
         </card>
         <card>
             <question>волейболист</question>
@@ -384,6 +464,16 @@
             <answerNote>Аня говорит, что у неё почти не осталось воспоминаний из детства.</answerNote>
         </card>
         <card>
+            <question>впервые</question>
+            <answer>В самый первый раз в жизни.</answer>
+            <answerNote>Я впервые увидел море.</answerNote>
+        </card>
+        <card>
+            <question>впереди</question>
+            <answer>Перед кем-то или перед чем-то, дальше по дороге.</answer>
+            <answerNote>Впереди виден мост.</answerNote>
+        </card>
+        <card>
             <question>впечатление</question>
             <answer>След в душе от того, что человек увидел или пережил.</answer>
             <answerNote>Какие впечатления у вас остались от вчерашнего фильма?</answerNote>
@@ -392,6 +482,16 @@
             <question>вредный</question>
             <answer>Такой, от которого становится плохо или хуже.</answer>
             <answerNote>Оказалось, что жвачка вредна для зубов.</answerNote>
+        </card>
+        <card>
+            <question>вслух</question>
+            <answer>Говорить голосом так, чтобы другие слышали.</answer>
+            <answerNote>Прочитай стихотворение вслух.</answerNote>
+        </card>
+        <card>
+            <question>всё</question>
+            <answer>Каждая вещь, целиком, без остатка.</answer>
+            <answerNote>Я убрал всё со стола.</answerNote>
         </card>
         <card>
             <question>выезжать</question>
@@ -444,6 +544,11 @@
             <answerNote>Больше всего нам понравилось выступление китайских гимнастов.</answerNote>
         </card>
         <card>
+            <question>высший</question>
+            <answer>Самый главный, самый большой по уровню.</answer>
+            <answerNote>Он получил высшую оценку.</answerNote>
+        </card>
+        <card>
             <question>газ</question>
             <answer>Вещество без формы, как воздух. Дома по трубам идёт такое вещество, на котором готовят еду.</answer>
             <answerNote>Ты выключил газ?</answerNote>
@@ -464,9 +569,29 @@
             <answerNote>Моя бабушка всегда ходила в центральный гастроном за продуктами.</answerNote>
         </card>
         <card>
+            <question>где-нибудь</question>
+            <answer>В каком-то месте, но неизвестно, в каком именно.</answer>
+            <answerNote>Давай поедим где-нибудь в центре.</answerNote>
+        </card>
+        <card>
+            <question>где-то</question>
+            <answer>В каком-то месте, точно не знаю в каком.</answer>
+            <answerNote>Мой телефон где-то в комнате.</answerNote>
+        </card>
+        <card>
             <question>генерал</question>
             <answer>Очень большой начальник в армии.</answer>
             <answerNote>Его дедушка — генерал армии.</answerNote>
+        </card>
+        <card>
+            <question>геолог</question>
+            <answer>Учёный, который изучает камни и то, что лежит глубоко под землёй.</answer>
+            <answerNote>Геологи нашли под землёй нефть.</answerNote>
+        </card>
+        <card>
+            <question>геологический</question>
+            <answer>Такой, который связан с камнями и тем, что под землёй.</answer>
+            <answerNote>Они поехали в геологическую экспедицию.</answerNote>
         </card>
         <card>
             <question>геология</question>
@@ -487,6 +612,11 @@
             <question>глава</question>
             <answer>Часть книги. Книгу делят на такие части, и у каждой есть номер.</answer>
             <answerNote>О чём эта глава?</answerNote>
+        </card>
+        <card>
+            <question>глагол</question>
+            <answer>Слово, которое говорит о действии: что кто-то делает.</answer>
+            <answerNote>«Бежать» — это глагол.</answerNote>
         </card>
         <card>
             <question>говядина</question>
@@ -549,11 +679,6 @@
             <answerNote>Александр получил гражданство США в прошлом году.</answerNote>
         </card>
         <card>
-            <question>громкий</question>
-            <answer>Такой звук, который хорошо слышно даже далеко. От него можно закрыть уши.</answer>
-            <answerNote>Громкий звук фейерверка испугал нашу собаку.</answerNote>
-        </card>
-        <card>
             <question>грубый</question>
             <answer>Злой и обидный в словах. Ещё так говорят про жёсткий, неприятный на ощупь материал.</answer>
             <answerNote>Почему она всегда такая грубая?</answerNote>
@@ -579,6 +704,11 @@
             <answerNote>Больше всего моя бабушка любит проводить время на даче.</answerNote>
         </card>
         <card>
+            <question>дважды</question>
+            <answer>Два раза.</answer>
+            <answerNote>Я дважды звонил тебе.</answerNote>
+        </card>
+        <card>
             <question>двигаться</question>
             <answer>Менять своё место, идти или ехать. Не стоять на одном месте.</answer>
             <answerNote>Врачи советуют горожанам больше двигаться и чаще бывать на свежем воздухе.</answerNote>
@@ -597,6 +727,21 @@
             <question>двор</question>
             <answer>Место рядом с домом под открытым небом. Там дети играют, а машины стоят.</answer>
             <answerNote>В детстве мы любили играть с соседскими ребятами во дворе.</answerNote>
+        </card>
+        <card>
+            <question>действие</question>
+            <answer>То, что кто-то делает. Например, бежит, пишет, ест.</answer>
+            <answerNote>Его действия всем помогли.</answerNote>
+        </card>
+        <card>
+            <question>действительно</question>
+            <answer>На самом деле, правда так и есть.</answer>
+            <answerNote>Он действительно очень быстро бегает.</answerNote>
+        </card>
+        <card>
+            <question>декан</question>
+            <answer>Главный человек в большой части университета.</answer>
+            <answerNote>Студенты пошли к декану.</answerNote>
         </card>
         <card>
             <question>декларация</question>
@@ -649,9 +794,29 @@
             <answerNote>Марина всегда ходит в джинсах.</answerNote>
         </card>
         <card>
+            <question>диктант</question>
+            <answer>Задание в школе: учитель читает текст, а ученики пишут его.</answer>
+            <answerNote>Мы написали диктант по русскому языку.</answerNote>
+        </card>
+        <card>
+            <question>дипломат</question>
+            <answer>Человек, который работает за границей и решает дела между странами.</answer>
+            <answerNote>Его отец — дипломат и живёт в другой стране.</answerNote>
+        </card>
+        <card>
+            <question>дирижёр</question>
+            <answer>Человек, который стоит перед музыкантами и показывает руками, как играть.</answer>
+            <answerNote>Дирижёр поднял руки, и оркестр начал играть.</answerNote>
+        </card>
+        <card>
             <question>диск</question>
             <answer>Плоский круглый предмет. Так называют круглые пластинки, на которых хранят музыку, фильмы и файлы.</answer>
             <answerNote>Он увидел на полке коллекцию дисков с музыкой.</answerNote>
+        </card>
+        <card>
+            <question>диск — лазерный диск</question>
+            <answer>Круглая блестящая пластинка. На ней записывают музыку или фильмы.</answer>
+            <answerNote>Он вставил диск в компьютер.</answerNote>
         </card>
         <card>
             <question>дискета</question>
@@ -674,6 +839,11 @@
             <answerNote>Олимпийский бассейн — пятьдесят метров в длину.</answerNote>
         </card>
         <card>
+            <question>для</question>
+            <answer>Показывает, кому что-то нужно или зачем это делают.</answer>
+            <answerNote>Это подарок для мамы.</answerNote>
+        </card>
+        <card>
             <question>добавлять</question>
             <answer>Класть ещё немного к тому, что уже есть.</answer>
             <answerNote>Саша никогда не добавляет сахар в чай.</answerNote>
@@ -689,9 +859,19 @@
             <answerNote>Валя ценила в людях доброту и ответственность.</answerNote>
         </card>
         <card>
+            <question>доволен</question>
+            <answer>Когда человеку всё нравится и он рад тому, что получилось.</answer>
+            <answerNote>Учитель доволен моей работой.</answerNote>
+        </card>
+        <card>
             <question>договариваться</question>
             <answer>Поговорить с человеком и вместе решить, как сделать.</answer>
             <answerNote>Умение договариваться — очень важный навык в бизнесе.</answerNote>
+        </card>
+        <card>
+            <question>доезжать</question>
+            <answer>Добираться куда-то на транспорте до самого конца пути.</answer>
+            <answerNote>Автобус доезжает до вокзала за двадцать минут.</answerNote>
         </card>
         <card>
             <question>док</question>
@@ -709,14 +889,14 @@
             <answerNote>Вы уже посмотрели новый документальный фильм этого режиссёра?</answerNote>
         </card>
         <card>
-            <question>долгий</question>
-            <answer>Такой, который длится много времени.</answer>
-            <answerNote>Впервые за долгое время Даша почувствовала себя счастливой.</answerNote>
-        </card>
-        <card>
             <question>доска</question>
             <answer>Плоский длинный кусок дерева. Ещё так называют чёрную или белую стену в классе, на которой пишут.</answer>
             <answerNote>Новый забор был построен из досок.</answerNote>
+        </card>
+        <card>
+            <question>достаточно</question>
+            <answer>Столько, сколько нужно, больше не надо.</answer>
+            <answerNote>У нас достаточно хлеба на ужин.</answerNote>
         </card>
         <card>
             <question>достигать</question>
@@ -752,6 +932,11 @@
             <question>дружеский</question>
             <answer>Тёплый и добрый, как между близкими людьми.</answer>
             <answerNote>Разговор прошёл в дружеской атмосфере.</answerNote>
+        </card>
+        <card>
+            <question>дружественный</question>
+            <answer>Такой, с кем хорошие мирные отношения (обычно про страны).</answer>
+            <answerNote>Отношения Германии с дружественной ей Англией ухудшались.</answerNote>
         </card>
         <card>
             <question>дружить</question>
@@ -804,6 +989,11 @@
             <answerNote>Его бабушка жарила самую вкусную картошку.</answerNote>
         </card>
         <card>
+            <question>же</question>
+            <answer>Маленькое слово, которое усиливает то, что говорят.</answer>
+            <answerNote>Ты же обещал!</answerNote>
+        </card>
+        <card>
             <question>железный</question>
             <answer>Сделанный из твёрдого серого металла.</answer>
             <answerNote>Тяжёлые железные ворота со скрипом закрылись.</answerNote>
@@ -837,6 +1027,11 @@
             <question>заботиться</question>
             <answer>Делать так, чтобы кому-то было хорошо: кормить, помогать, следить за здоровьем.</answer>
             <answerNote>Мама заботится о нас, когда мы болеем.</answerNote>
+        </card>
+        <card>
+            <question>зависеть</question>
+            <answer>Когда что-то получится или нет — решает другой человек или другое дело.</answer>
+            <answerNote>Успех вашего бизнеса зависит только от вас.</answerNote>
         </card>
         <card>
             <question>загадка</question>
@@ -879,6 +1074,11 @@
             <answerNote>Проходит пять минут, и Марк закуривает ещё одну сигарету.</answerNote>
         </card>
         <card>
+            <question>закурить</question>
+            <answer>Начать курить сигарету.</answer>
+            <answerNote>Он вышел на улицу и закурил.</answerNote>
+        </card>
+        <card>
             <question>закуска</question>
             <answer>Небольшая еда перед главным блюдом: салат, бутерброды, сыр.</answer>
             <answerNote>Когда мы пришли, закуска уже стояла на столе.</answerNote>
@@ -892,6 +1092,11 @@
             <question>замолчать</question>
             <answer>Перестать говорить, стать тихим.</answer>
             <answerNote>Все замолчали от резкого хлопка.</answerNote>
+        </card>
+        <card>
+            <question>занимать</question>
+            <answer>Брать себе место или время, чтобы больше никто их не взял.</answer>
+            <answerNote>Не занимай мой стул!</answerNote>
         </card>
         <card>
             <question>записка</question>
@@ -927,6 +1132,11 @@
             <question>засмеяться</question>
             <answer>Начать смеяться.</answer>
             <answerNote>Катя засмеялась, услышав шутку Кирилла.</answerNote>
+        </card>
+        <card>
+            <question>затем</question>
+            <answer>После этого, потом.</answer>
+            <answerNote>Сначала мы поели, затем пошли гулять.</answerNote>
         </card>
         <card>
             <question>заходить</question>
@@ -1094,9 +1304,34 @@
             <answerNote>Что показали результаты исследования?</answerNote>
         </card>
         <card>
+            <question>итак</question>
+            <answer>Говорят перед выводом, когда подводят итог.</answer>
+            <answerNote>Итак, начинаем урок.</answerNote>
+        </card>
+        <card>
             <question>кавычка</question>
             <answer>Значок в тексте. Такие значки ставят с двух сторон, когда пишут чужие слова или название.</answer>
             <answerNote>Название книги надо писать в кавычках.</answerNote>
+        </card>
+        <card>
+            <question>как будто</question>
+            <answer>Говорят, когда что-то похоже на другое, но на самом деле это не так.</answer>
+            <answerNote>Он молчал, как будто не слышал меня.</answerNote>
+        </card>
+        <card>
+            <question>каков</question>
+            <answer>Спрашивают, какой человек или вещь, что они собой представляют.</answer>
+            <answerNote>Каков результат работы?</answerNote>
+        </card>
+        <card>
+            <question>какой-нибудь</question>
+            <answer>Всё равно который, любой из тех, что есть.</answer>
+            <answerNote>Возьми какой-нибудь карандаш.</answerNote>
+        </card>
+        <card>
+            <question>какой-то</question>
+            <answer>Так говорят про вещь или человека, которых не знаешь точно.</answer>
+            <answerNote>Тебе звонил какой-то мальчик.</answerNote>
         </card>
         <card>
             <question>календарь</question>
@@ -1159,6 +1394,11 @@
             <answerNote>У нас закончился кефир. Купи, когда пойдёшь в магазин.</answerNote>
         </card>
         <card>
+            <question>кинотеатр</question>
+            <answer>Большой зал с экраном, куда приходят смотреть фильмы.</answer>
+            <answerNote>Мы купили билеты в кинотеатр.</answerNote>
+        </card>
+        <card>
             <question>кислый</question>
             <answer>Такой на вкус, как лимон.</answer>
             <answerNote>Мы купили два килограмма яблок, но они оказались слишком кислыми.</answerNote>
@@ -1169,9 +1409,39 @@
             <answerNote>Раньше Оля часто бывала на концертах классической музыки.</answerNote>
         </card>
         <card>
+            <question>климат</question>
+            <answer>Какая погода обычно бывает в каком-то месте круглый год.</answer>
+            <answerNote>На юге тёплый климат.</answerNote>
+        </card>
+        <card>
             <question>ковер</question>
             <answer>Толстая мягкая ткань на пол. По ней тепло ходить.</answer>
             <answerNote>Костя пролил кофе на ковёр.</answerNote>
+        </card>
+        <card>
+            <question>ковёр</question>
+            <answer>Толстая мягкая ткань, которую кладут на пол.</answer>
+            <answerNote>Дети играли на ковре.</answerNote>
+        </card>
+        <card>
+            <question>когда-нибудь</question>
+            <answer>В какое-то время потом, точно неизвестно в какое.</answer>
+            <answerNote>Когда-нибудь я поеду на море.</answerNote>
+        </card>
+        <card>
+            <question>когда-то</question>
+            <answer>Давно, в какое-то время в прошлом.</answer>
+            <answerNote>Когда-то здесь был лес.</answerNote>
+        </card>
+        <card>
+            <question>код</question>
+            <answer>Набор знаков или цифр со скрытым смыслом. Ещё так называют текст программы для компьютера.</answer>
+            <answerNote>Сложные программы содержат миллионы строк кода.</answerNote>
+        </card>
+        <card>
+            <question>количество</question>
+            <answer>Сколько чего-то есть, если посчитать.</answer>
+            <answerNote>Посчитай количество стульев в классе.</answerNote>
         </card>
         <card>
             <question>коллега</question>
@@ -1234,6 +1504,11 @@
             <answerNote>Его часто приглашали выступать на конференциях.</answerNote>
         </card>
         <card>
+            <question>коньки</question>
+            <answer>Ботинки с узким лезвием внизу. В них катаются по льду.</answer>
+            <answerNote>Он надел коньки и поехал по льду.</answerNote>
+        </card>
+        <card>
             <question>конёк</question>
             <answer>Ботинок с узким лезвием внизу. В таких катаются по льду.</answer>
             <answerNote>Мы пришли на каток, но в прокате не было коньков подходящего размера.</answerNote>
@@ -1282,6 +1557,11 @@
             <question>кошелек</question>
             <answer>Маленькая сумочка для денег и карточек.</answer>
             <answerNote>Кажется, я потерял свой кошелёк.</answerNote>
+        </card>
+        <card>
+            <question>кошелёк</question>
+            <answer>Маленькая сумочка для денег.</answer>
+            <answerNote>Она достала из кошелька монету.</answerNote>
         </card>
         <card>
             <question>краткий</question>
@@ -1334,9 +1614,19 @@
             <answerNote>У тебя идёт кровь из носа!</answerNote>
         </card>
         <card>
+            <question>кроме</question>
+            <answer>Показывает, что кого-то или чего-то не считают вместе с остальными.</answer>
+            <answerNote>Пришли все, кроме Пети.</answerNote>
+        </card>
+        <card>
             <question>кроссовка</question>
             <answer>Лёгкая мягкая обувь для спорта и ходьбы.</answer>
             <answerNote>Я специально выбрал лёгкие кроссовки для бега.</answerNote>
+        </card>
+        <card>
+            <question>кроссовки</question>
+            <answer>Лёгкая мягкая обувь для спорта и прогулок.</answer>
+            <answerNote>Он надел кроссовки и побежал.</answerNote>
         </card>
         <card>
             <question>кроссовок</question>
@@ -1352,6 +1642,26 @@
             <question>крыша</question>
             <answer>Верхняя часть дома. Она защищает от дождя и снега.</answer>
             <answerNote>С этой крыши открывается красивый вид на город.</answerNote>
+        </card>
+        <card>
+            <question>кто-нибудь</question>
+            <answer>Любой человек, неважно какой именно.</answer>
+            <answerNote>Пусть кто-нибудь откроет окно.</answerNote>
+        </card>
+        <card>
+            <question>куда-нибудь</question>
+            <answer>В какое-нибудь место, неважно в какое.</answer>
+            <answerNote>Давай поедем куда-нибудь на выходные.</answerNote>
+        </card>
+        <card>
+            <question>куда-то</question>
+            <answer>В какое-то место, но неизвестно в какое.</answer>
+            <answerNote>Он куда-то ушёл и не вернулся.</answerNote>
+        </card>
+        <card>
+            <question>культурный</question>
+            <answer>Так говорят про вежливого человека или про то, что связано с искусством и знаниями.</answer>
+            <answerNote>Он культурный человек и всегда говорит спасибо.</answerNote>
         </card>
         <card>
             <question>купаться</question>
@@ -1372,6 +1682,11 @@
             <question>лечить</question>
             <answer>Помогать больному человеку стать здоровым.</answer>
             <answerNote>В этой больнице хорошо лечат.</answerNote>
+        </card>
+        <card>
+            <question>ли</question>
+            <answer>Маленькое слово в вопросе, когда спрашивают, правда это или нет.</answer>
+            <answerNote>Я не знаю, придёт ли он.</answerNote>
         </card>
         <card>
             <question>лингвистика</question>
@@ -1434,6 +1749,11 @@
             <answerNote>Я буду суп без лука.</answerNote>
         </card>
         <card>
+            <question>лучший</question>
+            <answer>Такой, что лучше всех остальных.</answer>
+            <answerNote>Он мой лучший друг.</answerNote>
+        </card>
+        <card>
             <question>любой</question>
             <answer>Какой угодно, всё равно какой.</answer>
             <answerNote>Я люблю гулять на улице в любую погоду.</answerNote>
@@ -1449,14 +1769,29 @@
             <answerNote>Мой дедушка был военным лётчиком.</answerNote>
         </card>
         <card>
+            <question>мал</question>
+            <answer>Так говорят, когда вещь слишком маленькая и не подходит по размеру.</answer>
+            <answerNote>Этот свитер мне мал.</answerNote>
+        </card>
+        <card>
             <question>маршрут</question>
             <answer>Путь, по которому идут или едут от одного места к другому.</answer>
             <answerNote>Поезд следует по маршруту Москва – Санкт-Петербург.</answerNote>
         </card>
         <card>
+            <question>маршрутка</question>
+            <answer>Маленький автобус, который возит людей по городу по своему пути.</answer>
+            <answerNote>Мы доехали до дома на маршрутке.</answerNote>
+        </card>
+        <card>
             <question>мастер</question>
             <answer>Человек, который очень хорошо умеет делать своё дело руками.</answer>
             <answerNote>Мастер был доволен моей работой.</answerNote>
+        </card>
+        <card>
+            <question>математический</question>
+            <answer>Такой, который связан с числами и задачами.</answer>
+            <answerNote>Он решил трудный математический пример.</answerNote>
         </card>
         <card>
             <question>матч</question>
@@ -1469,9 +1804,24 @@
             <answerNote>Зимой медведи впадают в спячку.</answerNote>
         </card>
         <card>
+            <question>медицинский</question>
+            <answer>Такой, который связан с врачами и лечением.</answer>
+            <answerNote>Её сестра учится в медицинском институте.</answerNote>
+        </card>
+        <card>
+            <question>между</question>
+            <answer>Показывает место посередине, с двух сторон от которого что-то есть.</answer>
+            <answerNote>Стол стоит между окном и дверью.</answerNote>
+        </card>
+        <card>
             <question>мелодия</question>
             <answer>Ряд звуков, которые красиво идут друг за другом. То, что можно напеть.</answer>
             <answerNote>Кажется, я слышу знакомую мелодию.</answerNote>
+        </card>
+        <card>
+            <question>менее</question>
+            <answer>Не так сильно, в меньшей степени.</answer>
+            <answerNote>Сегодня менее холодно, чем вчера.</answerNote>
         </card>
         <card>
             <question>мент</question>
@@ -1497,6 +1847,11 @@
             <question>миллиард</question>
             <answer>Очень большое число: тысяча миллионов.</answer>
             <answerNote>На Земле живёт больше семи миллиардов человек.</answerNote>
+        </card>
+        <card>
+            <question>мимо</question>
+            <answer>Показывает, что кто-то прошёл рядом и не остановился.</answer>
+            <answerNote>Автобус проехал мимо нашего дома.</answerNote>
         </card>
         <card>
             <question>министр</question>
@@ -1599,6 +1954,16 @@
             <answerNote>Раньше я любил смотреть на небо и наблюдал за звёздами.</answerNote>
         </card>
         <card>
+            <question>наверх</question>
+            <answer>В сторону выше: туда, где верх.</answer>
+            <answerNote>Мы поднялись наверх по лестнице.</answerNote>
+        </card>
+        <card>
+            <question>наверху</question>
+            <answer>В высоком месте, выше всего остального.</answer>
+            <answerNote>Кот сидит наверху, на шкафу.</answerNote>
+        </card>
+        <card>
             <question>навещать</question>
             <answer>Приходить к кому-то в гости, чтобы увидеться.</answer>
             <answerNote>Завтра мы идём навещать бабушку в больнице.</answerNote>
@@ -1609,14 +1974,34 @@
             <answerNote>Я люблю наводить порядок в доме.</answerNote>
         </card>
         <card>
+            <question>навсегда</question>
+            <answer>На всё время, без конца. Так, что уже никогда не изменится.</answer>
+            <answerNote>Они уехали из города навсегда.</answerNote>
+        </card>
+        <card>
+            <question>навстречу</question>
+            <answer>В ту сторону, откуда кто-то идёт к тебе.</answer>
+            <answerNote>Собака побежала навстречу хозяину.</answerNote>
+        </card>
+        <card>
             <question>награда</question>
             <answer>Подарок, медаль или деньги, которые дают за хорошее дело или победу.</answer>
             <answerNote>Он получил награду за победу на соревнованиях.</answerNote>
         </card>
         <card>
+            <question>над</question>
+            <answer>Выше чего-то, но не касаясь его.</answer>
+            <answerNote>Над домом летит птица.</answerNote>
+        </card>
+        <card>
             <question>надевать</question>
             <answer>Класть на себя одежду или обувь.</answer>
             <answerNote>Петя всегда очень медленно надевает ботинки.</answerNote>
+        </card>
+        <card>
+            <question>надолго</question>
+            <answer>На большое время, не на минутку.</answer>
+            <answerNote>Папа уехал надолго.</answerNote>
         </card>
         <card>
             <question>название</question>
@@ -1629,9 +2014,29 @@
             <answerNote>Родители назвали сына Иваном.</answerNote>
         </card>
         <card>
+            <question>наиболее</question>
+            <answer>Больше всех остальных, самый.</answer>
+            <answerNote>Это наиболее удобный путь до школы.</answerNote>
+        </card>
+        <card>
+            <question>наизусть</question>
+            <answer>Помнить слова так хорошо, что можно сказать без книги.</answer>
+            <answerNote>Он выучил стихотворение наизусть.</answerNote>
+        </card>
+        <card>
             <question>наклонение</question>
             <answer>Форма глагола, которая показывает: это приказ, просьба или обычный рассказ.</answer>
             <answerNote>Такая форма глагола называется повелительным наклонением.</answerNote>
+        </card>
+        <card>
+            <question>намного</question>
+            <answer>На большую разницу, гораздо.</answer>
+            <answerNote>Брат намного выше меня.</answerNote>
+        </card>
+        <card>
+            <question>наоборот</question>
+            <answer>Совсем не так, а другой стороной или другим способом.</answer>
+            <answerNote>Ты надел свитер наоборот, задом наперёд.</answerNote>
         </card>
         <card>
             <question>напечатать</question>
@@ -1652,6 +2057,11 @@
             <question>население</question>
             <answer>Все люди, которые живут в городе или стране.</answer>
             <answerNote>Население города быстро растёт.</answerNote>
+        </card>
+        <card>
+            <question>насколько</question>
+            <answer>Спрашивают или говорят про меру: как сильно, как много.</answer>
+            <answerNote>Я не знаю, насколько это трудно.</answerNote>
         </card>
         <card>
             <question>насморк</question>
@@ -1689,14 +2099,34 @@
             <answerNote>Мне сегодня некогда гулять, много уроков.</answerNote>
         </card>
         <card>
+            <question>некоторый</question>
+            <answer>Какой-то один из многих, не все, а часть.</answer>
+            <answerNote>Некоторые дети остались в классе.</answerNote>
+        </card>
+        <card>
             <question>некуда</question>
             <answer>Нет такого места, куда можно пойти или что-то положить.</answer>
             <answerNote>Шкаф полный, вещи класть некуда.</answerNote>
         </card>
         <card>
+            <question>немедленно</question>
+            <answer>Прямо сейчас, без всякого ожидания.</answer>
+            <answerNote>Немедленно иди сюда!</answerNote>
+        </card>
+        <card>
+            <question>необходимо</question>
+            <answer>Очень нужно, без этого никак.</answer>
+            <answerNote>Растениям необходимо солнце.</answerNote>
+        </card>
+        <card>
             <question>необыкновенный</question>
             <answer>Очень особенный, не такой, как все.</answer>
             <answerNote>Он необыкновенный человек и талантливый музыкант!</answerNote>
+        </card>
+        <card>
+            <question>неожиданный</question>
+            <answer>Такой, которого никто не ждал; случился вдруг.</answer>
+            <answerNote>Для нас это был неожиданный подарок.</answerNote>
         </card>
         <card>
             <question>непрерывный</question>
@@ -1714,6 +2144,11 @@
             <answerNote>Ты какая-то нервная сегодня, что-то случилось?</answerNote>
         </card>
         <card>
+            <question>несмотря</question>
+            <answer>Так говорят, когда что-то мешало, но человек всё равно сделал.</answer>
+            <answerNote>Несмотря на дождь, мы пошли гулять.</answerNote>
+        </card>
+        <card>
             <question>несовершенный</question>
             <answer>Не идеальный, с ошибками или недостатками.</answer>
             <answerNote>Лучше сделать что-то несовершенным образом, чем не сделать совсем.</answerNote>
@@ -1729,6 +2164,11 @@
             <answerNote>Мне кажется, герои рассказа были несчастливы в жизни.</answerNote>
         </card>
         <card>
+            <question>неужели</question>
+            <answer>Спрашивают так, когда сильно удивлены и не могут поверить.</answer>
+            <answerNote>Неужели ты сам это сделал?</answerNote>
+        </card>
+        <card>
             <question>нефть</question>
             <answer>Густая тёмная жидкость из-под земли. Из неё делают бензин.</answer>
             <answerNote>Здесь добывают нефть и газ.</answerNote>
@@ -1739,9 +2179,29 @@
             <answerNote>В холодильнике пусто, есть нечего.</answerNote>
         </card>
         <card>
+            <question>ни</question>
+            <answer>Слово для усиления отказа: совсем, ничуть.</answer>
+            <answerNote>Он не сказал ни слова.</answerNote>
+        </card>
+        <card>
             <question>нижний</question>
             <answer>Который находится внизу.</answer>
             <answerNote>Полотенца лежат на нижней полке.</answerNote>
+        </card>
+        <card>
+            <question>никакой</question>
+            <answer>Ни один из всех, вообще ни один.</answer>
+            <answerNote>У меня нет никаких планов на завтра.</answerNote>
+        </card>
+        <card>
+            <question>ничей</question>
+            <answer>Такой, у которого нет хозяина.</answer>
+            <answerNote>Этот котёнок ничей, он живёт на улице.</answerNote>
+        </card>
+        <card>
+            <question>ничто</question>
+            <answer>Ни одна вещь, ни одно дело.</answer>
+            <answerNote>Ничто не могло его остановить.</answerNote>
         </card>
         <card>
             <question>новогодний</question>
@@ -1757,6 +2217,11 @@
             <question>ночной</question>
             <answer>Такой, который бывает или работает ночью.</answer>
             <answerNote>Эта ночная рубашка тебе идёт.</answerNote>
+        </card>
+        <card>
+            <question>ну</question>
+            <answer>Короткое словечко в разговоре. Им торопят или показывают чувство.</answer>
+            <answerNote>Ну, идём скорее!</answerNote>
         </card>
         <card>
             <question>обижать</question>
@@ -1809,6 +2274,11 @@
             <answerNote>Образец этого договора лежит в верхнем ящике стола.</answerNote>
         </card>
         <card>
+            <question>обратно</question>
+            <answer>Туда, откуда пришёл; назад.</answer>
+            <answerNote>Положи книгу обратно на полку.</answerNote>
+        </card>
+        <card>
             <question>обращать</question>
             <answer>Направлять что-то на кого-то. Чаще всего говорят: смотреть и замечать.</answer>
             <answerNote>Маша всегда обращает внимание на опечатки в журналах и газетах.</answerNote>
@@ -1817,6 +2287,11 @@
             <question>обращаться</question>
             <answer>Говорить с кем-то, просить у него помощи.</answer>
             <answerNote>Мой отец не любит обращаться к врачам.</answerNote>
+        </card>
+        <card>
+            <question>обслуживание</question>
+            <answer>Работа тех, кто помогает людям в магазине, кафе или чинит вещи.</answer>
+            <answerNote>Пожалуйста, оцените качество обслуживания в нашем магазине.</answerNote>
         </card>
         <card>
             <question>обсуждать</question>
@@ -1864,6 +2339,11 @@
             <answerNote>Обычай украшать ёлку на новый год пришёл из Германии.</answerNote>
         </card>
         <card>
+            <question>обязан</question>
+            <answer>Должен сделать, у него нет выбора.</answer>
+            <answerNote>Водитель обязан остановиться на красный свет.</answerNote>
+        </card>
+        <card>
             <question>обязанный</question>
             <answer>Такой, который должен что-то сделать, не может отказаться.</answer>
             <answerNote>Согласно закону, каждый гражданин обязан платить налоги.</answerNote>
@@ -1889,9 +2369,19 @@
             <answerNote>Раньше близнецов одевали одинаково.</answerNote>
         </card>
         <card>
+            <question>однако</question>
+            <answer>То же, что «но»: дальше идёт что-то неожиданное.</answer>
+            <answerNote>Было поздно, однако он не спал.</answerNote>
+        </card>
+        <card>
             <question>оказываться</question>
             <answer>Попадать куда-то. Ещё говорят так, когда правда была другой, чем думали.</answer>
             <answerNote>Оказывается, Катя всё это время жила на съёмной квартире.</answerNote>
+        </card>
+        <card>
+            <question>оканчиваться</question>
+            <answer>Подходить к концу, дальше уже ничего нет.</answer>
+            <answerNote>Урок оканчивается через пять минут.</answerNote>
         </card>
         <card>
             <question>океан</question>
@@ -1899,9 +2389,14 @@
             <answerNote>Тихий океан ― самый большой океан в мире.</answerNote>
         </card>
         <card>
-            <question>опасность</question>
-            <answer>То, из-за чего может случиться беда.</answer>
-            <answerNote>Работа пожарного связана с реальной опасностью.</answerNote>
+            <question>окорок</question>
+            <answer>Большой кусок мяса из ноги свиньи. Его коптят или варят.</answer>
+            <answerNote>Купи в магазине копчёный окорок, у нас гости.</answerNote>
+        </card>
+        <card>
+            <question>опасно</question>
+            <answer>Так, что можно пораниться или попасть в беду.</answer>
+            <answerNote>Здесь опасно купаться.</answerNote>
         </card>
         <card>
             <question>опасный</question>
@@ -2014,6 +2509,11 @@
             <answerNote>Приходи есть быстрее, суп остывает!</answerNote>
         </card>
         <card>
+            <question>от</question>
+            <answer>Показывает, откуда начинается движение или кто прислал.</answer>
+            <answerNote>Я получил письмо от бабушки.</answerNote>
+        </card>
+        <card>
             <question>отвозить</question>
             <answer>Везти кого-то или что-то в другое место.</answer>
             <answerNote>В будние дни мама отвозит меня в школу на машине.</answerNote>
@@ -2099,9 +2599,19 @@
             <answerNote>Летом я поеду в Болгарию, поэтому нужно оформлять загранпаспорт и визу.</answerNote>
         </card>
         <card>
+            <question>очередь</question>
+            <answer>Люди стоят друг за другом и ждут, когда до них дойдёт дело.</answer>
+            <answerNote>Я провожу слишком много времени в очередях.</answerNote>
+        </card>
+        <card>
             <question>ошибаться</question>
             <answer>Сделать или сказать неправильно, не так, как надо.</answer>
             <answerNote>Человеку свойственно ошибаться, этого не нужно бояться.</answerNote>
+        </card>
+        <card>
+            <question>падеж</question>
+            <answer>Форма слова, которая меняется по концовке: стол, стола, столу.</answer>
+            <answerNote>Поставь слово «кот» в нужный падеж.</answerNote>
         </card>
         <card>
             <question>память</question>
@@ -2129,9 +2639,24 @@
             <answerNote>Это Ирина, она педагог по фортепиано.</answerNote>
         </card>
         <card>
+            <question>педагогический</question>
+            <answer>Связанный с обучением детей и работой учителя.</answer>
+            <answerNote>Без педагогического образования нельзя работать учителем в школе.</answerNote>
+        </card>
+        <card>
             <question>перевозить</question>
             <answer>Везти вещи или людей из одного места в другое.</answer>
             <answerNote>Велосипед можно перевозить в багажнике автомобиля.</answerNote>
+        </card>
+        <card>
+            <question>переговоры</question>
+            <answer>Долгий серьёзный разговор, где стороны пытаются договориться.</answer>
+            <answerNote>На переговорах присутствовали главы государств и министры.</answerNote>
+        </card>
+        <card>
+            <question>перед</question>
+            <answer>Впереди чего-то. Ещё говорят про время: раньше, чем что-то.</answer>
+            <answerNote>Мой руки перед едой.</answerNote>
         </card>
         <card>
             <question>перенашивать</question>
@@ -2142,6 +2667,11 @@
             <question>перенести</question>
             <answer>Взять и поставить в другое место. Ещё: назначить дело на другой день.</answer>
             <answerNote>Я попросил перенести встречу, потому что я не смогу прийти завтра.</answerNote>
+        </card>
+        <card>
+            <question>переносить</question>
+            <answer>Брать вещь и ставить в другое место. Ещё: делать дело в другой день.</answer>
+            <answerNote>Помоги мне перенести стул в комнату.</answerNote>
         </card>
         <card>
             <question>переставать</question>
@@ -2169,6 +2699,11 @@
             <answerNote>Куда ты пошёл без перчаток? На улице холодно!</answerNote>
         </card>
         <card>
+            <question>перчатки</question>
+            <answer>Одежда для рук, с местом для каждого пальца.</answer>
+            <answerNote>Зимой я надеваю тёплые перчатки.</answerNote>
+        </card>
+        <card>
             <question>песок</question>
             <answer>Множество крошечных камешков. Из него на пляже строят замки.</answer>
             <answerNote>Петя сидел в куче песка и строил из него дворец.</answerNote>
@@ -2182,6 +2717,11 @@
             <question>печатать</question>
             <answer>Набирать буквы на клавиатуре. Ещё: делать книги и газеты на машине.</answer>
             <answerNote>Сейчас дети с раннего возраста умеют печатать на компьютере.</answerNote>
+        </card>
+        <card>
+            <question>пирожное</question>
+            <answer>Маленький сладкий кусочек торта с кремом.</answer>
+            <answerNote>На день рождения мне купили пирожное.</answerNote>
         </card>
         <card>
             <question>пицца</question>
@@ -2202,6 +2742,21 @@
             <question>плечо</question>
             <answer>Часть тела там, где рука соединяется с телом, рядом с шеей.</answer>
             <answerNote>Коля предложил понести мой рюкзак и надел его на плечо.</answerNote>
+        </card>
+        <card>
+            <question>плюс</question>
+            <answer>Знак «+». Он значит, что числа складывают вместе.</answer>
+            <answerNote>Два плюс три будет пять.</answerNote>
+        </card>
+        <card>
+            <question>по-прежнему</question>
+            <answer>Так же, как и раньше; ничего не изменилось.</answer>
+            <answerNote>Он по-прежнему живёт в этом доме.</answerNote>
+        </card>
+        <card>
+            <question>по-твоему</question>
+            <answer>Так говорят про мнение того, с кем разговаривают.</answer>
+            <answerNote>А по-твоему, кто прав?</answerNote>
         </card>
         <card>
             <question>побежать</question>
@@ -2227,6 +2782,11 @@
             <question>погулять</question>
             <answer>Походить на улице для удовольствия.</answer>
             <answerNote>Пойдём погуляем? Сегодня такая приятная погода!</answerNote>
+        </card>
+        <card>
+            <question>под</question>
+            <answer>Ниже чего-то, снизу.</answer>
+            <answerNote>Кот спрятался под столом.</answerNote>
         </card>
         <card>
             <question>подготовка</question>
@@ -2269,6 +2829,11 @@
             <answerNote>Когда вы планируете пожениться?</answerNote>
         </card>
         <card>
+            <question>позавчера</question>
+            <answer>За день до вчерашнего дня.</answer>
+            <answerNote>Позавчера мы ходили в бассейн.</answerNote>
+        </card>
+        <card>
             <question>поздороваться</question>
             <answer>Сказать при встрече «привет» или «здравствуйте».</answer>
             <answerNote>Мы с Катей почти не общаемся, но сегодня она со мной поздоровалась.</answerNote>
@@ -2282,6 +2847,11 @@
             <question>поймать</question>
             <answer>Схватить того, кто убегает или летит, и не дать ему уйти.</answer>
             <answerNote>Полицейские поймали вора.</answerNote>
+        </card>
+        <card>
+            <question>пока</question>
+            <answer>Слово прощания. Ещё значит: в это время, до какого-то момента.</answer>
+            <answerNote>Пока! Увидимся завтра.</answerNote>
         </card>
         <card>
             <question>показываться</question>
@@ -2302,11 +2872,6 @@
             <question>политехнический</question>
             <answer>Про учёбу, где учат технике: машинам, моторам, стройке.</answer>
             <answerNote>Этим летом Коля поступил в политехнический институт.</answerNote>
-        </card>
-        <card>
-            <question>полиция</question>
-            <answer>Люди в форме, которые ловят преступников и охраняют порядок.</answer>
-            <answerNote>Недавно у меня украли телефон, и я сразу же обратился в полицию.</answerNote>
         </card>
         <card>
             <question>полный</question>
@@ -2330,11 +2895,8 @@
         </card>
         <card>
             <question>попробовать</question>
-            <answer>Сделать что-то в первый раз или ещё раз, чтобы узнать, получится ли. Ещё — съесть немного, чтобы
-                узнать вкус.
-            </answer>
-            <answerNote>Я не могу дозвониться Саше. Возможно, он едет в метро, попробуй снова через пару минут.
-            </answerNote>
+            <answer>Сделать что-то в первый раз или ещё раз, чтобы узнать, получится ли. Ещё — съесть немного, чтобы узнать вкус.</answer>
+            <answerNote>Я не могу дозвониться Саше. Возможно, он едет в метро, попробуй снова через пару минут.</answerNote>
         </card>
         <card>
             <question>попрощаться</question>
@@ -2377,6 +2939,11 @@
             <answerNote>Я посидел в очереди где-то десять минут, а потом врач меня сразу принял.</answerNote>
         </card>
         <card>
+            <question>послезавтра</question>
+            <answer>Через два дня, считая от сегодня.</answer>
+            <answerNote>Сегодня понедельник, значит, послезавтра среда.</answerNote>
+        </card>
+        <card>
             <question>пословица</question>
             <answer>Короткая народная фраза с мудрым советом, которую все знают.</answer>
             <answerNote>Я с трудом запоминаю длинные пословицы.</answerNote>
@@ -2395,6 +2962,11 @@
             <question>постараться</question>
             <answer>Сделать что-то со всеми силами, как можно лучше.</answer>
             <answerNote>Я обещал, что постараюсь вам помочь.</answerNote>
+        </card>
+        <card>
+            <question>постоянно</question>
+            <answer>Всё время, без перерывов.</answer>
+            <answerNote>Он постоянно забывает ключи.</answerNote>
         </card>
         <card>
             <question>поступь</question>
@@ -2422,9 +2994,19 @@
             <answerNote>Родители похвалили своего сына за хорошее выступление на концерте.</answerNote>
         </card>
         <card>
+            <question>похож</question>
+            <answer>Выглядит почти так же, как кто-то или что-то другое.</answer>
+            <answerNote>Мальчик очень похож на своего отца.</answerNote>
+        </card>
+        <card>
             <question>похожий</question>
             <answer>Такой же или почти такой же, как кто-то или что-то другое.</answer>
             <answerNote>Твой сын очень на тебя похож!</answerNote>
+        </card>
+        <card>
+            <question>поэтому</question>
+            <answer>Слово, которое называет результат: вот причина — и вот что получилось.</answer>
+            <answerNote>Я устал, поэтому лёг спать рано.</answerNote>
         </card>
         <card>
             <question>правило</question>
@@ -2448,15 +3030,23 @@
         </card>
         <card>
             <question>предложение</question>
-            <answer>Когда кто-то говорит, что можно сделать, и ты решаешь: да или нет. Ещё — законченная мысль из слов с
-                точкой в конце.
-            </answer>
+            <answer>Когда кто-то говорит, что можно сделать, и ты решаешь: да или нет. Ещё — законченная мысль из слов с точкой в конце.</answer>
             <answerNote>Твоё предложение ещё в силе?</answerNote>
         </card>
         <card>
             <question>представитель</question>
             <answer>Человек, который говорит и действует от имени других людей или фирмы.</answer>
             <answerNote>Представитель администрации рассказал о планах на год.</answerNote>
+        </card>
+        <card>
+            <question>прежде чем</question>
+            <answer>Слова, которые значат «до того как», раньше другого действия.</answer>
+            <answerNote>Помой руки, прежде чем сесть за стол.</answerNote>
+        </card>
+        <card>
+            <question>премия</question>
+            <answer>Деньги или награда за очень хорошую работу.</answer>
+            <answerNote>Папе на работе дали премию.</answerNote>
         </card>
         <card>
             <question>приводить</question>
@@ -2495,8 +3085,7 @@
         </card>
         <card>
             <question>принимать</question>
-            <answer>Брать то, что дают. Про лекарство — пить его; про участие — быть внутри дела вместе с другими.
-            </answer>
+            <answer>Брать то, что дают. Про лекарство — пить его; про участие — быть внутри дела вместе с другими.</answer>
             <answerNote>Моя бабушка регулярно принимает лекарства от повышенного давления.</answerNote>
         </card>
         <card>
@@ -2506,9 +3095,7 @@
         </card>
         <card>
             <question>приставка</question>
-            <answer>Часть слова в самом начале, перед корнем. Ещё — устройство, которое подключают к телевизору для
-                игр.
-            </answer>
+            <answer>Часть слова в самом начале, перед корнем. Ещё — устройство, которое подключают к телевизору для игр.</answer>
             <answerNote>У меня дома есть игровая приставка.</answerNote>
         </card>
         <card>
@@ -2627,9 +3214,24 @@
             <answerNote>Восточная часть города занята промышленными предприятиями.</answerNote>
         </card>
         <card>
+            <question>простудиться</question>
+            <answer>Заболеть от холода: начинается насморк и кашель.</answer>
+            <answerNote>Надень шапку, а то простудишься.</answerNote>
+        </card>
+        <card>
             <question>просыпаться</question>
             <answer>Открывать глаза после сна, переставать спать.</answer>
             <answerNote>Во сколько Марк обычно просыпается?</answerNote>
+        </card>
+        <card>
+            <question>против</question>
+            <answer>Не согласен с чем-то или борется с этим.</answer>
+            <answerNote>Я против того, чтобы идти туда одному.</answerNote>
+        </card>
+        <card>
+            <question>прохладно</question>
+            <answer>Немного холодно, но приятно.</answer>
+            <answerNote>Вечером на улице прохладно.</answerNote>
         </card>
         <card>
             <question>процесс</question>
@@ -2667,9 +3269,19 @@
             <answerNote>На столе остались только пустые тарелки и бутылки.</answerNote>
         </card>
         <card>
+            <question>пусть</question>
+            <answer>Слово, которым разрешают или желают, чтобы так было.</answer>
+            <answerNote>Пусть он подождёт немного.</answerNote>
+        </card>
+        <card>
             <question>путешественник</question>
             <answer>Человек, который много ездит по разным странам и городам.</answer>
             <answerNote>Андрей — самый активный путешественник из всех людей, которых я знаю.</answerNote>
+        </card>
+        <card>
+            <question>путешествие</question>
+            <answer>Поездка в далёкие места, чтобы всё увидеть.</answer>
+            <answerNote>Летом нас ждёт большое путешествие.</answerNote>
         </card>
         <card>
             <question>путь</question>
@@ -2705,6 +3317,11 @@
             <question>радоваться</question>
             <answer>Чувствовать себя очень хорошо, когда случилось что-то приятное.</answer>
             <answerNote>Все в зале радовались быстрому началу концерта.</answerNote>
+        </card>
+        <card>
+            <question>разве</question>
+            <answer>Слово в вопросе, когда человек удивлён и не верит.</answer>
+            <answerNote>Разве ты уже сделал уроки?</answerNote>
         </card>
         <card>
             <question>развиваться</question>
@@ -2747,9 +3364,9 @@
             <answerNote>Он был свидетелем революции в России в 1917 году.</answerNote>
         </card>
         <card>
-            <question>редкий</question>
-            <answer>Такой, который бывает или встречается очень нечасто.</answer>
-            <answerNote>Редкие виды животных находятся на грани исчезновения.</answerNote>
+            <question>регулярно</question>
+            <answer>Постоянно, через одинаковое время, не пропуская.</answer>
+            <answerNote>Он регулярно ходит на тренировки.</answerNote>
         </card>
         <card>
             <question>резать</question>
@@ -2780,6 +3397,16 @@
             <question>рисунок</question>
             <answer>Картинка, которую сделали карандашом или красками.</answer>
             <answerNote>Кто нарисовал этот рисунок?</answerNote>
+        </card>
+        <card>
+            <question>ровно</question>
+            <answer>Точно, без лишнего; или гладко, прямо.</answer>
+            <answerNote>Урок начинается ровно в девять.</answerNote>
+        </card>
+        <card>
+            <question>род</question>
+            <answer>Все родственники — от дедов и прадедов до внуков; ещё это вид или группа чего-то похожего.</answer>
+            <answerNote>В их роду все были врачами.</answerNote>
         </card>
         <card>
             <question>рождество</question>
@@ -2837,6 +3464,11 @@
             <answerNote>Утром мама купила свежий хлеб.</answerNote>
         </card>
         <card>
+            <question>свинина</question>
+            <answer>Мясо свиньи.</answer>
+            <answerNote>На ужин была жареная свинина.</answerNote>
+        </card>
+        <card>
             <question>свинья</question>
             <answer>Домашнее животное с толстым телом и маленьким хвостиком. Живёт на ферме.</answer>
             <answerNote>На ферме жили свиньи и коровы.</answerNote>
@@ -2862,9 +3494,19 @@
             <answerNote>Эти свечи сгорают за час.</answerNote>
         </card>
         <card>
+            <question>седой</question>
+            <answer>С белыми волосами — обычно у пожилых людей.</answer>
+            <answerNote>К нам подошёл седой старик.</answerNote>
+        </card>
+        <card>
             <question>сельский</question>
             <answer>Такой, который в деревне, а не в городе.</answer>
             <answerNote>В этой стране больше сельских жителей, чем горожан.</answerNote>
+        </card>
+        <card>
+            <question>семейный</question>
+            <answer>Такой, который связан с мамой, папой и детьми, живущими вместе.</answer>
+            <answerNote>У нас был семейный ужин.</answerNote>
         </card>
         <card>
             <question>семестр</question>
@@ -2947,6 +3589,16 @@
             <answerNote>У всех славянских языков есть общий предок.</answerNote>
         </card>
         <card>
+            <question>следовательно</question>
+            <answer>Слово, которое ставят перед выводом. Значит, поэтому.</answer>
+            <answerNote>Идёт дождь, следовательно, нужен зонт.</answerNote>
+        </card>
+        <card>
+            <question>слишком</question>
+            <answer>Больше, чем нужно.</answer>
+            <answerNote>Чай слишком горячий.</answerNote>
+        </card>
+        <card>
             <question>слог</question>
             <answer>Часть слова, которую говорят за один раз. «Ма-ма» — это две части.</answer>
             <answerNote>В слове «банан» два слога.</answerNote>
@@ -2972,6 +3624,11 @@
             <answerNote>Он нашёл смысл своей жизни в детях.</answerNote>
         </card>
         <card>
+            <question>снаружи</question>
+            <answer>С внешней стороны, не внутри.</answer>
+            <answerNote>Снаружи дом покрасили в белый цвет.</answerNote>
+        </card>
+        <card>
             <question>снимать</question>
             <answer>Убирать с себя одежду; или делать фильм и фотографии.</answer>
             <answerNote>В Японии нужно снимать обувь перед входом в помещение.</answerNote>
@@ -2995,6 +3652,11 @@
             <question>советский</question>
             <answer>Связанный с СССР — большой страной, которая была на месте России раньше.</answer>
             <answerNote>Это здание не ремонтировали с советских времён.</answerNote>
+        </card>
+        <card>
+            <question>совсем</question>
+            <answer>Полностью, до конца.</answer>
+            <answerNote>Я совсем не устал.</answerNote>
         </card>
         <card>
             <question>соглашаться</question>
@@ -3043,9 +3705,7 @@
         </card>
         <card>
             <question>социализм</question>
-            <answer>Такое устройство жизни в стране, когда заводы и земля принадлежат всем людям вместе, а не отдельным
-                богатым хозяевам.
-            </answer>
+            <answer>Такое устройство жизни в стране, когда заводы и земля принадлежат всем людям вместе, а не отдельным богатым хозяевам.</answer>
             <answerNote>Он сказал, что это возможно только при социализме.</answerNote>
         </card>
         <card>
@@ -3090,8 +3750,7 @@
         </card>
         <card>
             <question>спорить</question>
-            <answer>Говорить друг другу разное, потому что каждый думает по-своему и хочет доказать, что он прав.
-            </answer>
+            <answer>Говорить друг другу разное, потому что каждый думает по-своему и хочет доказать, что он прав.</answer>
             <answerNote>О чём это они спорят?</answerNote>
         </card>
         <card>
@@ -3101,14 +3760,18 @@
         </card>
         <card>
             <question>спутник</question>
-            <answer>Тело, которое летает вокруг планеты. Луна — такое тело у Земли, а люди делают и запускают свои.
-            </answer>
+            <answer>Тело, которое летает вокруг планеты. Луна — такое тело у Земли, а люди делают и запускают свои.</answer>
             <answerNote>Сколько спутников у Марса?</answerNote>
         </card>
         <card>
             <question>сравнивать</question>
             <answer>Смотреть на две вещи вместе и искать, чем они похожи и чем разные.</answer>
             <answerNote>Его часто сравнивают с Леонардо да Винчи.</answerNote>
+        </card>
+        <card>
+            <question>среди</question>
+            <answer>Внутри группы, между другими.</answer>
+            <answerNote>Среди детей я увидел брата.</answerNote>
         </card>
         <card>
             <question>стараться</question>
@@ -3126,6 +3789,11 @@
             <answerNote>На полках стояли старинные книги.</answerNote>
         </card>
         <card>
+            <question>стать</question>
+            <answer>Сделаться другим или начать кем-то быть.</answer>
+            <answerNote>Он хочет стать врачом.</answerNote>
+        </card>
+        <card>
             <question>стипендия</question>
             <answer>Деньги, которые платят студенту, пока он учится.</answer>
             <answerNote>Тебе всё ещё не выплатили стипендию?</answerNote>
@@ -3134,6 +3802,11 @@
             <question>стирать</question>
             <answer>Мыть грязную одежду в воде с порошком.</answer>
             <answerNote>При какой температуре можно стирать эту рубашку?</answerNote>
+        </card>
+        <card>
+            <question>столько</question>
+            <answer>Такое же количество; так много.</answer>
+            <answerNote>Возьми столько, сколько хочешь.</answerNote>
         </card>
         <card>
             <question>сторона</question>
@@ -3161,9 +3834,19 @@
             <answerNote>Он с детства стремился стать президентом.</answerNote>
         </card>
         <card>
+            <question>строгий</question>
+            <answer>Такой, который требует порядка и не разрешает баловаться.</answer>
+            <answerNote>У нас строгий тренер.</answerNote>
+        </card>
+        <card>
             <question>стройка</question>
             <answer>Место, где сейчас делают новый дом.</answer>
             <answerNote>На стройке всегда много пыли и мусора.</answerNote>
+        </card>
+        <card>
+            <question>стыдно</question>
+            <answer>Так говорят, когда человеку неприятно за свой плохой поступок.</answer>
+            <answerNote>Мне стыдно, что я обманул маму.</answerNote>
         </card>
         <card>
             <question>судьба</question>
@@ -3197,14 +3880,18 @@
         </card>
         <card>
             <question>счет</question>
-            <answer>Место в банке, где лежат деньги человека. Ещё: бумага, где написано, сколько надо заплатить.
-            </answer>
+            <answer>Место в банке, где лежат деньги человека. Ещё: бумага, где написано, сколько надо заплатить.</answer>
             <answerNote>Он и сам не знал, сколько денег у него на счёте.</answerNote>
         </card>
         <card>
             <question>считать</question>
             <answer>Думать так, иметь такое мнение. Ещё: называть числа по порядку.</answer>
             <answerNote>Я не считаю, что это правильное решение.</answerNote>
+        </card>
+        <card>
+            <question>счёт</question>
+            <answer>Бумага, где написано, сколько надо заплатить. Ещё: сколько очков у каждой команды в игре.</answer>
+            <answerNote>Официант принёс счёт.</answerNote>
         </card>
         <card>
             <question>сшивать</question>
@@ -3225,6 +3912,11 @@
             <question>тайна</question>
             <answer>То, что знают не все и не рассказывают другим.</answer>
             <answerNote>Я могу доверить тебе эту тайну?</answerNote>
+        </card>
+        <card>
+            <question>таким образом</question>
+            <answer>Слова перед выводом: значит, вот что получается. Ещё: вот таким способом.</answer>
+            <answerNote>Таким образом, мы решили задачу.</answerNote>
         </card>
         <card>
             <question>таможенный</question>
@@ -3262,11 +3954,6 @@
             <answerNote>Летом он работал экскурсоводом на теплоходах, а зимой — официантом в кафе.</answerNote>
         </card>
         <card>
-            <question>тихий</question>
-            <answer>Без шума, звучит совсем слабо.</answer>
-            <answerNote>В деревне было тихо и спокойно.</answerNote>
-        </card>
-        <card>
             <question>тишина</question>
             <answer>Когда совсем нет шума и ничего не слышно.</answer>
             <answerNote>Там очень шумно, а мне нужна тишина.</answerNote>
@@ -3292,6 +3979,11 @@
             <answerNote>На стене был толстый слой краски.</answerNote>
         </card>
         <card>
+            <question>только что</question>
+            <answer>Совсем недавно, минуту назад.</answer>
+            <answerNote>Он только что вышел.</answerNote>
+        </card>
+        <card>
             <question>том</question>
             <answer>Одна книга из нескольких, которые вместе составляют одно большое сочинение.</answer>
             <answerNote>Первый том этой энциклопедии был издан в 1960 году.</answerNote>
@@ -3307,9 +3999,9 @@
             <answerNote>Власти решили, что уличную торговлю нужно переводить в магазины.</answerNote>
         </card>
         <card>
-            <question>точный</question>
-            <answer>Верный до мелочей, без ошибок.</answer>
-            <answerNote>Вот мой точный адрес; отправьте письмо на него, пожалуйста!</answerNote>
+            <question>точность</question>
+            <answer>Когда всё сделано ровно так, как надо, без ошибок.</answer>
+            <answerNote>Он всё измерил с большой точностью.</answerNote>
         </card>
         <card>
             <question>трава</question>
@@ -3350,6 +4042,11 @@
             <question>тренировка</question>
             <answer>Занятие, на котором спортсмен делает упражнения, чтобы стать лучше.</answer>
             <answerNote>В жизни он очень весёлый, но на тренировках всегда серьёзен.</answerNote>
+        </card>
+        <card>
+            <question>трое</question>
+            <answer>Три человека вместе.</answer>
+            <answerNote>В комнате было трое детей.</answerNote>
         </card>
         <card>
             <question>тройка</question>
@@ -3442,6 +4139,11 @@
             <answerNote>Как ему удаётся так реалистично рисовать?</answerNote>
         </card>
         <card>
+            <question>ударить</question>
+            <answer>Сильно и быстро стукнуть по чему-то или по кому-то.</answer>
+            <answerNote>Не бей брата!</answerNote>
+        </card>
+        <card>
             <question>ударять</question>
             <answer>Сильно и резко стукнуть по чему-то.</answer>
             <answerNote>Крупные капли дождя со звоном ударяли в окна.</answerNote>
@@ -3460,6 +4162,16 @@
             <question>удивляться</question>
             <answer>Чувствовать неожиданность, когда случилось не то, чего ты ждал.</answer>
             <answerNote>Они часто удивляются, почему коллеги не помнят своих инструкций.</answerNote>
+        </card>
+        <card>
+            <question>удобно</question>
+            <answer>Так, что приятно и не мешает.</answer>
+            <answerNote>В этом кресле удобно сидеть.</answerNote>
+        </card>
+        <card>
+            <question>ужас</question>
+            <answer>Очень сильный страх.</answer>
+            <answerNote>Она смотрела на змею с ужасом.</answerNote>
         </card>
         <card>
             <question>ужасный</question>
@@ -3524,13 +4236,17 @@
         <card>
             <question>условие</question>
             <answer>То, что должно быть или должно случиться, чтобы получилось нужное.</answer>
-            <answerNote>Уважаемые пассажиры, вылет рейса задерживается из-за неблагоприятных погодных условий.
-            </answerNote>
+            <answerNote>Уважаемые пассажиры, вылет рейса задерживается из-за неблагоприятных погодных условий.</answerNote>
         </card>
         <card>
             <question>успевать</question>
             <answer>Делать что-то вовремя, пока есть время.</answer>
             <answerNote>Студенты жалуются, что они не успевают записать лекцию.</answerNote>
+        </card>
+        <card>
+            <question>успешный</question>
+            <answer>Такой, у которого всё хорошо получается.</answer>
+            <answerNote>Он успешный спортсмен.</answerNote>
         </card>
         <card>
             <question>успокаиваться</question>
@@ -3546,6 +4262,11 @@
             <question>устный</question>
             <answer>Такой, который говорят голосом, а не пишут на бумаге.</answer>
             <answerNote>Слово это в устной речи почти не встречается.</answerNote>
+        </card>
+        <card>
+            <question>усы</question>
+            <answer>Волосы над губой у мужчины; ещё длинные волоски у кошки.</answer>
+            <answerNote>У дедушки седые усы.</answerNote>
         </card>
         <card>
             <question>утренний</question>
@@ -3644,9 +4365,7 @@
         </card>
         <card>
             <question>хозяйство</question>
-            <answer>Все дела и вещи, которыми управляют: земля, животные, работа. Часто говорят про село, где выращивают
-                еду.
-            </answer>
+            <answer>Все дела и вещи, которыми управляют: земля, животные, работа. Часто говорят про село, где выращивают еду.</answer>
             <answerNote>На этом рынке продаются овощи с небольших фермерских хозяйств.</answerNote>
         </card>
         <card>
@@ -3658,6 +4377,11 @@
             <question>хотеться</question>
             <answer>Когда есть желание, и оно приходит само.</answer>
             <answerNote>Так пить хочется! У тебя нет воды?</answerNote>
+        </card>
+        <card>
+            <question>хотя</question>
+            <answer>Слово, которое соединяет две части: то, что дальше, случилось вопреки первому.</answer>
+            <answerNote>Он пошёл гулять, хотя на улице шёл дождь.</answerNote>
         </card>
         <card>
             <question>храм</question>
@@ -3695,6 +4419,16 @@
             <answerNote>Эта церковь была построена ещё в четырнадцатом веке.</answerNote>
         </card>
         <card>
+            <question>чей-нибудь</question>
+            <answer>Принадлежащий кому-то, всё равно кому — неважно, кому именно.</answer>
+            <answerNote>Возьми чей-нибудь карандаш, если свой потерял.</answerNote>
+        </card>
+        <card>
+            <question>чей-то</question>
+            <answer>Принадлежащий кому-то, но мы не знаем, кому именно.</answer>
+            <answerNote>На скамейке лежал чей-то зонт.</answerNote>
+        </card>
+        <card>
             <question>человечество</question>
             <answer>Все люди на Земле вместе.</answer>
             <answerNote>Это было самое мощное цунами за всю историю человечества.</answerNote>
@@ -3715,6 +4449,11 @@
             <answerNote>Это слово с чередованием согласных в корне.</answerNote>
         </card>
         <card>
+            <question>четверо</question>
+            <answer>Столько же, сколько 4. Так говорят о людях или животных вместе.</answer>
+            <answerNote>За столом сидели четверо друзей.</answerNote>
+        </card>
+        <card>
             <question>четверть</question>
             <answer>Одна часть из четырёх. В школе так называют часть учебного года.</answer>
             <answerNote>Сколько времени? Без четверти пять.</answerNote>
@@ -3725,6 +4464,16 @@
             <answerNote>Четвёрка ― это хорошая оценка, но ты можешь и лучше!</answerNote>
         </card>
         <card>
+            <question>что-нибудь</question>
+            <answer>Какая-нибудь вещь или дело, неважно какое.</answer>
+            <answerNote>Дай мне что-нибудь попить.</answerNote>
+        </card>
+        <card>
+            <question>что-то</question>
+            <answer>Какая-то вещь или дело, но мы не знаем, какое именно.</answer>
+            <answerNote>В коробке что-то шуршит.</answerNote>
+        </card>
+        <card>
             <question>чудо</question>
             <answer>Что-то удивительное и очень хорошее, чего почти не бывает.</answer>
             <answerNote>Я часто напоминал себе, как важно верить в чудеса.</answerNote>
@@ -3733,6 +4482,11 @@
             <question>чужой</question>
             <answer>Не свой, а другого человека. Ещё: незнакомый.</answer>
             <answerNote>И запомни: не пей и не ешь ничего от чужих людей!</answerNote>
+        </card>
+        <card>
+            <question>чуть-чуть</question>
+            <answer>Совсем мало, самую малость.</answer>
+            <answerNote>Добавь в чай чуть-чуть сахара.</answerNote>
         </card>
         <card>
             <question>шашлык</question>
@@ -3765,9 +4519,19 @@
             <answerNote>Он уже двадцать лет работает шофёром у директора завода.</answerNote>
         </card>
         <card>
+            <question>шофёр</question>
+            <answer>Человек, который водит машину или автобус, это его работа.</answer>
+            <answerNote>Шофёр остановил автобус у школы.</answerNote>
+        </card>
+        <card>
             <question>шум</question>
             <answer>Громкие неприятные звуки, которые мешают.</answer>
             <answerNote>Шум с улицы мешал нам спать.</answerNote>
+        </card>
+        <card>
+            <question>шумный</question>
+            <answer>Где много громких звуков.</answer>
+            <answerNote>Мы устали от шумных соседей.</answerNote>
         </card>
         <card>
             <question>щека</question>
@@ -3848,6 +4612,11 @@
             <question>языкознание</question>
             <answer>Наука о том, как устроена речь разных народов.</answer>
             <answerNote>Андрей Анатольевич читает в университете лекции по языкознанию.</answerNote>
+        </card>
+        <card>
+            <question>ясный</question>
+            <answer>Понятный и хорошо видный; о небе — чистое, без туч.</answer>
+            <answerNote>Сегодня ясный день, на небе ни облачка.</answerNote>
         </card>
     </cards>
 </questionary>
