@@ -32,9 +32,6 @@
             <question>Ձեզ լավ օր</question><answer>хорошего Вам дня.</answer>
         </card>
         <card>
-            <question>Ձեզ հաճելի օր</question><answer>приятного Вам дня.</answer>
-        </card>
-        <card>
             <question>Մերսի, ձեզ էլ</question><answer>спасибо, вам тоже.</answer>
         </card>
         <card>
@@ -45,9 +42,6 @@
         </card>
         <card>
             <question>Քեզ լավ օր</question><answer>хорошего тебе дня.</answer>
-        </card>
-        <card>
-            <question>Քեզ հաճելի օր</question><answer>приятного тебе дня.</answer>
         </card>
         <card>
             <question>ապրես</question><answer>спасибо но между друзьями</answer>
@@ -190,9 +184,6 @@
             <question>քանոն</question><answer>линейка</answer>
         </card>
         <card>
-            <question>օրինակ</question><answer>пример, экземпляр</answer>
-        </card>
-        <card>
             <question>ֆուտբոլ</question><answer>футбол</answer>
         </card>
         <card>
@@ -226,10 +217,6 @@
         <card>
             <question>Ես սովորում եմ հայերեն</question>
             <answer>Я учу армянский</answer>
-        </card>
-        <card>
-            <question>Ես հայերեն լավ չեմ հասկանում</question>
-            <answer>Я плохо понимаю по-армянски</answer>
         </card>
         <card>
             <question>Մի հատ էլ կասե՞ս</question>
@@ -276,10 +263,6 @@
             <answer>Чай вкусный.</answer>
         </card>
         <card>
-            <question>վրացական խինկալի</question>
-            <answer>грузинский хинкали</answer>
-        </card>
-        <card>
             <question>կանխիկ</question>
             <answer>наличные</answer>
         </card>
@@ -318,10 +301,6 @@
         <card>
             <question>մի արա</question>
             <answer>не делай</answer>
-        </card>
-        <card>
-            <question>Ուշ լինի նուշ լինի</question>
-            <answer>поздно но сладко</answer>
         </card>
         <card>
             <question>Սարի ուսին սիրուն լուսին</question>
@@ -388,10 +367,6 @@
             <answer>пакет</answer>
         </card>
         <card>
-            <question>հարմար</question>
-            <answer>удобный</answer>
-        </card>
-        <card>
             <question>Ինչ աիժի</question>
             <answer>сколько стоит</answer>
         </card>
@@ -418,10 +393,6 @@
         <card>
             <question>գարեջուր</question>
             <answer>пиво</answer>
-        </card>
-        <card>
-            <question>մի՛սը արժի հազար դրամ</question>
-            <answer>мясо стоит тысячу драм</answer>
         </card>
         <card>
             <question>կիլոգրա՛մը</question>
@@ -544,10 +515,6 @@
             <answer>ключ</answer>
         </card>
         <card>
-            <question>դրամապանակ</question>
-            <answer>кошелек</answer>
-        </card>
-        <card>
             <question>բոթաս</question>
             <answer>кроссовки</answer>
         </card>
@@ -608,20 +575,8 @@
             <answer>Сегодня холодно</answer>
         </card>
         <card>
-            <question>սիրում եմ</question>
-            <answer>люблю</answer>
-        </card>
-        <card>
             <question>Որտե՞ղ հիմա Սաշան է</question>
             <answer>Где сейчас Саша?</answer>
-        </card>
-        <card>
-            <question>Ու՞ր գնում է Սաշան</question>
-            <answer>Куда идет Саша?</answer>
-        </card>
-        <card>
-            <question>Իմ ակնո՛ցը հարմար է։</question>
-            <answer>Мои очки удобные.</answer>
         </card>
         <card>
             <question>Սա մեր ընկերն է։</question>
@@ -642,10 +597,6 @@
         <card>
             <question>Այստեղ չորս սենյակ է։</question>
             <answer>Здесь четыре комнаты.</answer>
-        </card>
-        <card>
-            <question>Սա աթո՛ռը հարմար է։</question>
-            <answer>Этот стул удобный.</answer>
         </card>
         <card>
             <question>Սա իմ ընկերն է։</question>
@@ -828,10 +779,6 @@
             <answer>дружба, компания</answer>
         </card>
         <card>
-            <question>սև</question>
-            <answer>черный</answer>
-        </card>
-        <card>
             <question>մազ</question>
             <answer>волос</answer>
         </card>
@@ -932,16 +879,8 @@
             <answer>я говорил</answer>
         </card>
         <card>
-            <question>դու սիրում էիր</question>
-            <answer>ты любил</answer>
-        </card>
-        <card>
             <question>ինքը աշխատել ը</question>
             <answer>он работал</answer>
-        </card>
-        <card>
-            <question>մենք ուզում էինք</question>
-            <answer>мы хотели</answer>
         </card>
         <card>
             <question>դուք խմել եք</question>
@@ -952,18 +891,6 @@
             <answer>они спали</answer>
         </card>
         <card>
-            <question>ես ուզում եմ ուղարկել մեկ միլլիոն րուբլ</question>
-            <answer>я хочу отправить один миллион рублей</answer>
-        </card>
-        <card>
-            <question>ես ուզում եմ գնել հազար հինգ հարյուր դօլլար</question>
-            <answer>я хочу купить полторы тысячи долларов</answer>
-        </card>
-        <card>
-            <question>ես ուզում եմ վաճառել մեկ հարյուր հազար րուբլ</question>
-            <answer>я хочу продать сто тысяч рублей</answer>
-        </card>
-        <card>
             <question>քանի հատ</question>
             <answer>сколько штук</answer>
         </card>
@@ -972,24 +899,12 @@
             <answer>свободный</answer>
         </card>
         <card>
-            <question>ես գնում եմ խմելու</question>
-            <answer>я иду (чтобы) пить</answer>
-        </card>
-        <card>
-            <question>ես գնում եմ տակսով</question>
-            <answer>я еду на такси</answer>
-        </card>
-        <card>
             <question>ելակի</question>
             <answer>из клубники (клубничный)</answer>
         </card>
         <card>
             <question>ելակով</question>
             <answer>с клубникой</answer>
-        </card>
-        <card>
-            <question>ես սիրում էի</question>
-            <answer>я любил</answer>
         </card>
         <card>
             <question>ես գնել եմ</question>
@@ -1034,14 +949,6 @@
         <card>
             <question>էն գրի՛չը վատն է</question>
             <answer>эта ручка плохая (сильно далекое)</answer>
-        </card>
-        <card>
-            <question>ես չեմ ուզում</question>
-            <answer>я не хочу</answer>
-        </card>
-        <card>
-            <question>ես գնում եմ Երևան</question>
-            <answer>я еду в ереван</answer>
         </card>
         <card>
             <question>ով է այստեղ</question>
@@ -1114,10 +1021,6 @@
         <card>
             <question>ամենաթոքր</question>
             <answer>самый маленький</answer>
-        </card>
-        <card>
-            <question>ամենալավ|լավագույն</question>
-            <answer>лучший</answer>
         </card>
         <card>
             <question>ամենավատ</question>
@@ -1240,14 +1143,6 @@
             <answer>рядом с домом</answer>
         </card>
         <card>
-            <question>կենտրոնի մոտ</question>
-            <answer>рядом с центром</answer>
-        </card>
-        <card>
-            <question>ես կարծում եմ</question>
-            <answer>я думаю</answer>
-        </card>
-        <card>
             <question>վերջ</question>
             <answer>конец</answer>
         </card>
@@ -1272,24 +1167,8 @@
             <answer>выпечка|кусок торта|пирожное</answer>
         </card>
         <card>
-            <question>Ես սիրում եմ Կարենին</question>
-            <answer>я люблю Карена</answer>
-        </card>
-        <card>
             <question>Ես զանգում եմ Կարենին</question>
             <answer>я звоню Карену</answer>
-        </card>
-        <card>
-            <question>ինձ դուր է գալիս</question>
-            <answer>мне нравится</answer>
-        </card>
-        <card>
-            <question>ինձ դուր չի գալիս</question>
-            <answer>мне не нравится</answer>
-        </card>
-        <card>
-            <question>ինչ է քեձ դուր գալիս</question>
-            <answer>что тебе нравится</answer>
         </card>
         <card>
             <question>ձեզ դուր եգավ</question>
@@ -1318,10 +1197,6 @@
         <card>
             <question>վարդի հոտ</question>
             <answer>запах роз</answer>
-        </card>
-        <card>
-            <question>մարդկանց</question>
-            <answer>людей|людям</answer>
         </card>
         <card>
             <question>համեմ</question>
@@ -1428,10 +1303,6 @@
             <answer>миндаль</answer>
         </card>
         <card>
-            <question>առաքում</question>
-            <answer>доставка</answer>
-        </card>
-        <card>
             <question>շոր</question>
             <answer>одежда</answer>
         </card>
@@ -1446,14 +1317,6 @@
         <card>
             <question>ծախս</question>
             <answer>трата</answer>
-        </card>
-        <card>
-            <question>ծախսեր</question>
-            <answer>траты</answer>
-        </card>
-        <card>
-            <question>հաճելի</question>
-            <answer>приятный</answer>
         </card>
         <card>
             <question>ուսապարկ</question>
@@ -1584,32 +1447,8 @@
             <answer>яд</answer>
         </card>
         <card>
-            <question>հավես</question>
-            <answer>настроение</answer>
-        </card>
-        <card>
             <question>թույն ա</question>
             <answer>круто</answer>
-        </card>
-        <card>
-            <question>հավես ա</question>
-            <answer>прикольно</answer>
-        </card>
-        <card>
-            <question>ես ուզում եի</question>
-            <answer>я хотел</answer>
-        </card>
-        <card>
-            <question>ես մտածեում եի</question>
-            <answer>я думал</answer>
-        </card>
-        <card>
-            <question>ես կարծում եի</question>
-            <answer>я считал (имел мнение)</answer>
-        </card>
-        <card>
-            <question>հանգիստ</question>
-            <answer>спокойно</answer>
         </card>
         <card>
             <question>ճանապարհ</question>
@@ -1652,10 +1491,6 @@
             <answer>масло (съедобное)</answer>
         </card>
         <card>
-            <question>մարզասրահ</question>
-            <answer>спортзал</answer>
-        </card>
-        <card>
             <question>մարզիչ</question>
             <answer>тренер</answer>
         </card>
@@ -1678,10 +1513,6 @@
         <card>
             <question>արշավ</question>
             <answer>поход|экспедиция|кампания</answer>
-        </card>
-        <card>
-            <question>շատ չեմ սիրում</question>
-            <answer>не очень люблю</answer>
         </card>
         <card>
             <question>շիշ</question>
@@ -1794,10 +1625,6 @@
         <card>
             <question>ատամնաբույժ</question>
             <answer>стоматолог</answer>
-        </card>
-        <card>
-            <question>եսիմ</question>
-            <answer>фиг знает</answer>
         </card>
         <card>
             <question>նախաճաշ</question>

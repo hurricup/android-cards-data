@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questionary>
+    <id>Армянские тексты</id>
+    <title>Тексты (арм.)</title>
+    <cards>
+        <card>
+            <question>ամենալավ|լավագույն</question>
+            <answer>лучший</answer>
+        </card>
+        <card>
+            <question>առաքում</question>
+            <answer>доставка</answer>
+        </card>
+        <card>
+            <question>եսիմ</question>
+            <answer>фиг знает</answer>
+        </card>
+        <card>
+            <question>ծախսեր</question>
+            <answer>траты</answer>
+        </card>
+        <card>
+            <question>ինձ դուր է գալիս</question>
+            <answer>мне нравится</answer>
+        </card>
+        <card>
+            <question>ինձ դուր չի գալիս</question>
+            <answer>мне не нравится</answer>
+        </card>
+        <card>
+            <question>ինչ է քեձ դուր գալիս</question>
+            <answer>что тебе нравится</answer>
+        </card>
+        <card>
+            <question>Ու՞ր գնում է Սաշան</question>
+            <answer>Куда идет Саша?</answer>
+        </card>
+        <card>
+            <question>ես գնում եմ խմելու</question>
+            <answer>я иду (чтобы) пить</answer>
+        </card>
+        <card>
+            <question>ես գնում եմ տակսով</question>
+            <answer>я еду на такси</answer>
+        </card>
+        <card>
+            <question>ես գնում եմ Երևան</question>
+            <answer>я еду в ереван</answer>
+        </card>
+        <card>
+            <question>մի՛սը արժի հազար դրամ</question>
+            <answer>мясо стоит тысячу драм</answer>
+        </card>
+        <card>
+            <question>դրամապանակ</question>
+            <answer>кошелек</answer>
+        </card>
+        <card>
+            <question>Ուշ լինի նուշ լինի</question>
+            <answer>поздно но сладко</answer>
+        </card>
+        <card>
+            <question>վրացական խինկալի</question>
+            <answer>грузинский хинкали</answer>
+        </card>
+        <card>
+            <question>ես կարծում եմ</question>
+            <answer>я думаю</answer>
+        </card>
+        <card>
+            <question>ես կարծում եի</question>
+            <answer>я считал (имел мнение)</answer>
+        </card>
+        <card>
+            <question>Ձեզ հաճելի օր</question>
+            <answer>приятного Вам дня.</answer>
+        </card>
+        <card>
+            <question>Քեզ հաճելի օր</question>
+            <answer>приятного тебе дня.</answer>
+        </card>
+        <card>
+            <question>հաճելի</question>
+            <answer>приятный</answer>
+        </card>
+        <card>
+            <question>հանգիստ</question>
+            <answer>спокойно</answer>
+        </card>
+        <card>
+            <question>Ես հայերեն լավ չեմ հասկանում</question>
+            <answer>Я плохо понимаю по-армянски</answer>
+        </card>
+        <card>
+            <question>հավես</question>
+            <answer>настроение</answer>
+        </card>
+        <card>
+            <question>հավես ա</question>
+            <answer>прикольно</answer>
+        </card>
+        <card>
+            <question>հարմար</question>
+            <answer>удобный</answer>
+        </card>
+        <card>
+            <question>Իմ ակնո՛ցը հարմար է։</question>
+            <answer>Мои очки удобные.</answer>
+        </card>
+        <card>
+            <question>Սա աթո՛ռը հարմար է։</question>
+            <answer>Этот стул удобный.</answer>
+        </card>
+        <card>
+            <question>մարդկանց</question>
+            <answer>людей|людям</answer>
+        </card>
+        <card>
+            <question>մարզասրահ</question>
+            <answer>спортзал</answer>
+        </card>
+        <card>
+            <question>մենք ուզում էինք</question>
+            <answer>мы хотели</answer>
+        </card>
+        <card>
+            <question>ես ուզում եմ ուղարկել մեկ միլլիոն րուբլ</question>
+            <answer>я хочу отправить один миллион рублей</answer>
+        </card>
+        <card>
+            <question>ես ուզում եմ գնել հազար հինգ հարյուր դօլլար</question>
+            <answer>я хочу купить полторы тысячи долларов</answer>
+        </card>
+        <card>
+            <question>ես ուզում եմ վաճառել մեկ հարյուր հազար րուբլ</question>
+            <answer>я хочу продать сто тысяч рублей</answer>
+        </card>
+        <card>
+            <question>ես չեմ ուզում</question>
+            <answer>я не хочу</answer>
+        </card>
+        <card>
+            <question>ես ուզում եի</question>
+            <answer>я хотел</answer>
+        </card>
+        <card>
+            <question>ես մտածեում եի</question>
+            <answer>я думал</answer>
+        </card>
+        <card>
+            <question>կենտրոնի մոտ</question>
+            <answer>рядом с центром</answer>
+        </card>
+        <card>
+            <question>օրինակ</question>
+            <answer>пример, экземпляр</answer>
+        </card>
+        <card>
+            <question>սիրում եմ</question>
+            <answer>я люблю</answer>
+        </card>
+        <card>
+            <question>դու սիրում էիր</question>
+            <answer>ты любил</answer>
+        </card>
+        <card>
+            <question>ես սիրում էի</question>
+            <answer>я любил</answer>
+        </card>
+        <card>
+            <question>Ես սիրում եմ Կարենին</question>
+            <answer>я люблю Карена</answer>
+        </card>
+        <card>
+            <question>շատ չեմ սիրում</question>
+            <answer>не очень люблю</answer>
+        </card>
+        <card>
+            <question>սև</question>
+            <answer>черный</answer>
+        </card>
+
+    </cards>
+</questionary>
