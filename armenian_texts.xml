@@ -179,6 +179,37 @@
             <question>սև</question>
             <answer>черный</answer>
         </card>
-
+        <card>
+            <question>ակումբը</question>
+            <answer>клуб</answer>
+        </card>
+        <card>
+            <question>ամսական</question>
+            <answer>ежемесячно</answer>
+        </card>
+        <card>
+            <question>այդտեղ</question>
+            <answer>там</answer>
+        </card>
+        <card>
+            <question>անպայման</question>
+            <answer>определенно</answer>
+        </card>
+        <card>
+            <question>անցկացնում եմ</question>
+            <answer>я трачу</answer>
+        </card>
+        <card>
+            <question>ապրում եմ</question>
+            <answer>я живу</answer>
+        </card>
+        <card>
+            <question>բիզնես</question>
+            <answer>бизнес</answer>
+        </card>
+        <card>
+            <question>բողոքում եմ</question>
+            <answer>я жалуюсь</answer>
+        </card>
     </cards>
 </questionary>
