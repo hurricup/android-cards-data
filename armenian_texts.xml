@@ -208,8 +208,216 @@
             <answer>бизнес</answer>
         </card>
         <card>
-            <question>բողոքում եմ</question>
-            <answer>я жалуюсь</answer>
+            <question>բողոքել</question>
+            <answer>жаловаться</answer>
+        </card>
+        <card>
+            <question>բան</question>
+            <answer>штука, вещь, фиговина.</answer>
+        </card>
+        <card>
+            <question>բաներ</question>
+            <answer>штуки, вещи, фиговины</answer>
+        </card>
+        <card>
+            <question>վատ բաներ</question>
+            <answer>плохие вещи</answer>
+        </card>
+        <card>
+            <question>բան չէ</question>
+            <answer>Ничего нет</answer>
+        </card>
+        <card>
+            <question>վոչ մի բան</question>
+            <answer>без ничего</answer>
+        </card>
+        <card>
+            <question>բոլոր մարդիկ</question>
+            <answer>все люди</answer>
+        </card>
+        <card>
+            <question>բարև բոլորին</question>
+            <answer>всем привет</answer>
+        </card>
+        <card>
+            <question>լողավազան</question>
+            <answer>бассейн</answer>
+        </card>
+        <card>
+            <question>բնակարան</question>
+            <answer>квартира</answer>
+        </card>
+        <card>
+            <question>բարի լույս</question>
+            <answer>доброе утро</answer>
+        </card>
+        <card>
+            <question>հարկ</question>
+            <answer>налог | этаж</answer>
+        </card>
+        <card>
+            <question>սար</question>
+            <answer>гора</answer>
+        </card>
+        <card>
+            <question>փաստ</question>
+            <answer>факт</answer>
+        </card>
+        <card>
+            <question>թուրքիա</question>
+            <answer>турция</answer>
+        </card>
+        <card>
+            <question>ծրագրավորող</question>
+            <answer>программист</answer>
+        </card>
+        <card>
+            <question>հյուր</question>
+            <answer>гость</answer>
+        </card>
+        <card>
+            <question>շոր</question>
+            <answer>одежда</answer>
+        </card>
+        <card>
+            <question>զգեստ</question>
+            <answer>платье</answer>
+        </card>
+        <card>
+            <question>վարձ</question>
+            <answer>аренда</answer>
+        </card>
+        <card>
+            <question>վրացի</question>
+            <answer>грузин</answer>
+        </card>
+        <card>
+            <question>ասած</question>
+            <answer>сказал</answer>
+        </card>
+        <card>
+            <question>գազ</question>
+            <answer>газ</answer>
+        </card>
+        <card>
+            <question>գինը</question>
+            <answer>цена</answer>
+        </card>
+        <card>
+            <question>գներ</question>
+            <answer>цены</answer>
+        </card>
+        <card>
+            <question>դեպք</question>
+            <answer>случай</answer>
+        </card>
+        <card>
+            <question>եռամսյակ</question>
+            <answer>квартал (три месяца)</answer>
+        </card>
+        <card>
+            <question>ընտրել</question>
+            <answer>выбрать</answer>
+        </card>
+        <card>
+            <question>ծաղկաձոր</question>
+            <answer>Цахкадзор</answer>
+        </card>
+        <card>
+            <question>ծանոթ</question>
+            <answer>знакомый</answer>
+        </card>
+        <card>
+            <question>ծով</question>
+            <answer>море</answer>
+        </card>
+        <card>
+            <question>կարծիքը</question>
+            <answer>мнение</answer>
+        </card>
+        <card>
+            <question>կլինի</question>
+            <answer>будет</answer>
+        </card>
+        <card>
+            <question>կծախսի</question>
+            <answer>потратит</answer>
+        </card>
+        <card>
+            <question>կոմունալ</question>
+            <answer>коммунальный</answer>
+        </card>
+        <card>
+            <question>ճաշ</question>
+            <answer>блюдо | обед</answer>
+        </card>
+        <card>
+            <question>մտածեցի</question>
+            <answer>я подумал</answer>
+        </card>
+        <card>
+            <question>նաև</question>
+            <answer>также</answer>
+        </card>
+        <card>
+            <question>նեղված</question>
+            <answer>обиженный|расстроенный</answer>
+        </card>
+        <card>
+            <question>որոնք</question>
+            <answer>которые</answer>
+        </card>
+        <card>
+            <question>կատարել</question>
+            <answer>выполнить</answer>
+        </card>
+        <card>
+            <question>պասիվ</question>
+            <answer>пассивный</answer>
+        </card>
+        <card>
+            <question>պատմության</question>
+            <answer>истории</answer>
+        </card>
+        <card>
+            <question>պարտադիր</question>
+            <answer>обязательный</answer>
+        </card>
+        <card>
+            <question>պիտի</question>
+            <answer>должен | надо</answer>
+        </card>
+        <card>
+            <question>ջրի</question>
+            <answer>воды́</answer>
+        </card>
+        <card>
+            <question>ռեստորանների</question>
+            <answer>ресторанов</answer>
+        </card>
+        <card>
+            <question>սարեր</question>
+            <answer>горы́</answer>
+        </card>
+        <card>
+            <question>սկսեցի</question>
+            <answer>я начал</answer>
+        </card>
+        <card>
+            <question>սկսվում</question>
+            <answer>начинается</answer>
+        </card>
+        <card>
+            <question>սպորտային</question>
+            <answer>спортивный</answer>
+        </card>
+        <card>
+            <question>օրվա</question>
+            <answer>дня</answer>
+        </card>
+        <card>
+            <question>ֆռֆռալ</question>
+            <answer>вертеться | крутиться</answer>
         </card>
     </cards>
 </questionary>

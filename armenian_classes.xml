@@ -8,10 +8,6 @@
             <answer>У меня все хорошо</answer>
         </card>
         <card>
-            <question>բան չէ</question>
-            <answer>Ничего нет</answer>
-        </card>
-        <card>
             <question>դե լավ</question>
             <answer>ну ладно.</answer>
         </card>
@@ -60,10 +56,6 @@
         </card>
         <card>
             <question>բարի օր</question><answer>добрый день</answer>
-        </card>
-        <card>
-            <question>բարի լույս</question>
-            <answer>доброе утро</answer>
         </card>
         <card>
             <question>բարև</question><answer>здравствуйте</answer>
@@ -279,10 +271,6 @@
             <answer>переводчик</answer>
         </card>
         <card>
-            <question>ցրագրավորող</question>
-            <answer>программист</answer>
-        </card>
-        <card>
             <question>խաղերի</question>
             <answer>игровой</answer>
         </card>
@@ -293,10 +281,6 @@
         <card>
             <question>սուս արա</question>
             <answer>замолчи</answer>
-        </card>
-        <card>
-            <question>սար</question>
-            <answer>гора</answer>
         </card>
         <card>
             <question>մի արա</question>
@@ -535,16 +519,8 @@
             <answer>вопросы есть</answer>
         </card>
         <card>
-            <question>վրացի</question>
-            <answer>грузин</answer>
-        </card>
-        <card>
             <question>հյութ</question>
             <answer>сок</answer>
-        </card>
-        <card>
-            <question>հյուր</question>
-            <answer>гость</answer>
         </card>
         <card>
             <question>աղմուկ</question>
@@ -651,10 +627,6 @@
             <answer>утка</answer>
         </card>
         <card>
-            <question>լողավազան</question>
-            <answer>бассейн</answer>
-        </card>
-        <card>
             <question>ինչպե՞ս է քո օ՛րը</question>
             <answer>как твой день?</answer>
         </card>
@@ -745,18 +717,6 @@
         <card>
             <question>ավելի շատ</question>
             <answer>более много, больше</answer>
-        </card>
-        <card>
-            <question>բան</question>
-            <answer>штука, вещь, фиговина.</answer>
-        </card>
-        <card>
-            <question>բաներ</question>
-            <answer>штуки, вещи, фиговины</answer>
-        </card>
-        <card>
-            <question>վատ բաներ</question>
-            <answer>плохие вещи</answer>
         </card>
         <card>
             <question>ապուշ</question>
@@ -967,10 +927,6 @@
             <answer>классический</answer>
         </card>
         <card>
-            <question>վոչ մի բան</question>
-            <answer>без ничего</answer>
-        </card>
-        <card>
             <question>ահավոր ա</question>
             <answer>ужасно</answer>
         </card>
@@ -1147,14 +1103,6 @@
             <answer>конец</answer>
         </card>
         <card>
-            <question>բնակարան</question>
-            <answer>квартира</answer>
-        </card>
-        <card>
-            <question>վարձ</question>
-            <answer>аренда</answer>
-        </card>
-        <card>
             <question>ուտելի՛քը</question>
             <answer>еда</answer>
         </card>
@@ -1303,14 +1251,6 @@
             <answer>миндаль</answer>
         </card>
         <card>
-            <question>շոր</question>
-            <answer>одежда</answer>
-        </card>
-        <card>
-            <question>զգեստ</question>
-            <answer>платье</answer>
-        </card>
-        <card>
             <question>կհանդիպենք</question>
             <answer>увидимся</answer>
         </card>
@@ -1325,10 +1265,6 @@
         <card>
             <question>թուղթ</question>
             <answer>бумага</answer>
-        </card>
-        <card>
-            <question>փաստ</question>
-            <answer>факт</answer>
         </card>
         <card>
             <question>փաստաթուղթ</question>
@@ -1563,24 +1499,12 @@
             <answer>голодный</answer>
         </card>
         <card>
-            <question>բոլոր մարդիկ</question>
-            <answer>все люди</answer>
-        </card>
-        <card>
-            <question>բարև բոլորին</question>
-            <answer>всем привет</answer>
-        </card>
-        <card>
             <question>կեր</question>
             <answer>корм</answer>
         </card>
         <card>
             <question>կատվիր</question>
             <answer>кошачий</answer>
-        </card>
-        <card>
-            <question>հարկ</question>
-            <answer>налог | этаж</answer>
         </card>
         <card>
             <question>ոսկի</question>
@@ -1597,10 +1521,6 @@
         <card>
             <question>իմ կարծիքով</question>
             <answer>по моему мнению</answer>
-        </card>
-        <card>
-            <question>թուրքիա</question>
-            <answer>турция</answer>
         </card>
         <card>
             <question>քամի</question>
