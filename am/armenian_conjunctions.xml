@@ -40,6 +40,10 @@
             <answer>недостаточно</answer>
         </card>
         <card>
+            <question>հերիքում</question>
+            <answer>достаточно</answer>
+        </card>
+        <card>
             <question>հաջորդ</question>
             <answer>следующий (по порядку)</answer>
         </card>
@@ -262,6 +266,10 @@
         <card>
             <question>ոչ միայն</question>
             <answer>не только</answer>
+        </card>
+        <card>
+            <question>միայն</question>
+            <answer>только</answer>
         </card>
         <card>
             <question>քանի որ</question>
