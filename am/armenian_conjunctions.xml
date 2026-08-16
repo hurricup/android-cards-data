@@ -299,5 +299,13 @@
             <question>կարևոր չէ</question>
             <answer>не важно</answer>
         </card>
+        <card>
+            <question>հազվադեպ</question>
+            <answer>редко</answer>
+        </card>
+        <card>
+            <question>նայնիսկ</question>
+            <answer>даже</answer>
+        </card>
     </cards>
 </questionary>

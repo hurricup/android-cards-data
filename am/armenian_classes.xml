@@ -1554,5 +1554,21 @@
             <question>լուրջ</question>
             <answer>серьезный</answer>
         </card>
+        <card>
+            <question>ինձ համար մեկ է</question>
+            <answer>мне всё равно</answer>
+        </card>
+        <card>
+            <question>ես հոգնել եմ շոգից</question>
+            <answer>я устал от жары</answer>
+        </card>
+        <card>
+            <question>ես հոգնել եմ լողալու</question>
+            <answer>я устал от плавания</answer>
+        </card>
+        <card>
+            <question>հեղինակ</question>
+            <answer>автор</answer>
+        </card>
     </cards>
 </questionary>

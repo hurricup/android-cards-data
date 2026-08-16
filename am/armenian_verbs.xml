@@ -620,5 +620,13 @@
             <question>մնալ</question>
             <answer>оставаться</answer>
         </card>
+        <card>
+            <question>սխալվել</question>
+            <answer>ошибаться</answer>
+        </card>
+        <card>
+            <question>քտնել</question>
+            <answer>находить</answer>
+        </card>
     </cards>
 </questionary>
