@@ -545,10 +545,6 @@
             <answer>они ․․․ не были</answer>
         </card>
         <card>
-            <question>հագնել</question>
-            <answer>носить</answer>
-        </card>
-        <card>
             <question>շարումակել</question>
             <answer>продолжать</answer>
         </card>
@@ -627,6 +623,14 @@
         <card>
             <question>քտնել</question>
             <answer>находить</answer>
+        </card>
+        <card>
+            <question>հագնել</question>
+            <answer>надевать|носить</answer>
+        </card>
+        <card>
+            <question>վարձել</question>
+            <answer>арендовать</answer>
         </card>
     </cards>
 </questionary>

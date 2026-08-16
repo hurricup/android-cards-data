@@ -1570,5 +1570,41 @@
             <question>հեղինակ</question>
             <answer>автор</answer>
         </card>
+        <card>
+            <question>ժլատ</question>
+            <answer>жадыный</answer>
+        </card>
+        <card>
+            <question>ականջակալ</question>
+            <answer>наушники</answer>
+        </card>
+        <card>
+            <question>կոշիկ</question>
+            <answer>обувь</answer>
+        </card>
+        <card>
+            <question>հագուստ</question>
+            <answer>одежда</answer>
+        </card>
+        <card>
+            <question>բաղնիք</question>
+            <answer>ванная комната</answer>
+        </card>
+        <card>
+            <question>բաղնիքդ անուշ</question>
+            <answer>с легким паром</answer>
+        </card>
+        <card>
+            <question>ճապոնիա</question>
+            <answer>япония</answer>
+        </card>
+        <card>
+            <question>դասատու</question>
+            <answer>учитель</answer>
+        </card>
+        <card>
+            <question>դասախոս</question>
+            <answer>лектор</answer>
+        </card>
     </cards>
 </questionary>
