@@ -97,7 +97,7 @@
         </card>
         <card>
             <question>խոսել</question>
-            <answer>говорить to speak, to talk</answer>
+            <answer>говорить (to speak)|разговаривать (to talk)</answer>
         </card>
         <card>
             <question>լսել</question>
@@ -631,6 +631,18 @@
         <card>
             <question>վարձել</question>
             <answer>арендовать</answer>
+        </card>
+        <card>
+            <question>անց</question>
+            <answer>прошло</answer>
+        </card>
+        <card>
+            <question>անցնել</question>
+            <answer>проходить</answer>
+        </card>
+        <card>
+            <question>հանգստացել</question>
+            <answer>отдохнул</answer>
         </card>
     </cards>
 </questionary>

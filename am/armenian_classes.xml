@@ -1606,5 +1606,37 @@
             <question>դասախոս</question>
             <answer>лектор</answer>
         </card>
+        <card>
+            <question>ծառայություն</question>
+            <answer>услуга</answer>
+        </card>
+        <card>
+            <question>Հայաստանի պատմություն</question>
+            <answer>история Армении</answer>
+        </card>
+        <card>
+            <question>թանգարան</question>
+            <answer>музей</answer>
+        </card>
+        <card>
+            <question>թաց</question>
+            <answer>мокрый</answer>
+        </card>
+        <card>
+            <question>վանք</question>
+            <answer>монастырь</answer>
+        </card>
+        <card>
+            <question>եկեղեցի</question>
+            <answer>церковь</answer>
+        </card>
+        <card>
+            <question>նկար</question>
+            <answer>картина</answer>
+        </card>
+        <card>
+            <question>հարմարավետություն</question>
+            <answer>комфорт</answer>
+        </card>
     </cards>
 </questionary>

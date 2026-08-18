@@ -548,5 +548,33 @@
             <question>տարին մի անգամ</question>
             <answer>один раз в год</answer>
         </card>
+        <card>
+            <question>ժամը քանիսին</question>
+            <answer>во сколько</answer>
+        </card>
+        <card>
+            <question>ժամը հինգին</question>
+            <answer>в 5 часов</answer>
+        </card>
+        <card>
+            <question>ժամը մեկին</question>
+            <answer>в час</answer>
+        </card>
+        <card>
+            <question>ժամը երկուսին</question>
+            <answer>в 2 часа</answer>
+        </card>
+        <card>
+            <question>ժամը երկուսից</question>
+            <answer>с 2 часов</answer>
+        </card>
+        <card>
+            <question>չորս անց կես</question>
+            <answer>4:30</answer>
+        </card>
+        <card>
+            <question>դար</question>
+            <answer>век</answer>
+        </card>
     </cards>
 </questionary>
