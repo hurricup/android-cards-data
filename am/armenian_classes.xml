@@ -179,18 +179,6 @@
             <question>ֆուտբոլ</question><answer>футбол</answer>
         </card>
         <card>
-            <question>Տոպրակ պե՞տք ա</question>
-            <answer>Пакет нужен?</answer>
-        </card>
-        <card>
-            <question>Տոպրակ դնե՞մ</question>
-            <answer>В пакет положить?</answer>
-        </card>
-        <card>
-            <question>Տոպրակ ունե՞ք</question>
-            <answer>У вас есть пакет?</answer>
-        </card>
-        <card>
             <question>Չէ, պետք չի</question>
             <answer>Нет, не нужен</answer>
         </card>
@@ -217,10 +205,6 @@
         <card>
             <question>Մի հատ էլ կասե՞ք</question>
             <answer>Повторите пожалуйста</answer>
-        </card>
-        <card>
-            <question>Տոպրակ տա՞մ</question>
-            <answer>дать пакет?</answer>
         </card>
         <card>
             <question>ես հայ եմ</question>
@@ -345,10 +329,6 @@
         <card>
             <question>հաշիվ</question>
             <answer>счет</answer>
-        </card>
-        <card>
-            <question>տոպրակ</question>
-            <answer>пакет</answer>
         </card>
         <card>
             <question>Ինչ աիժի</question>
@@ -1339,14 +1319,6 @@
             <answer>отпуск|каникулы</answer>
         </card>
         <card>
-            <question>ուժեղ</question>
-            <answer>сильный</answer>
-        </card>
-        <card>
-            <question>ուժ</question>
-            <answer>сила</answer>
-        </card>
-        <card>
             <question>քաղաքապետ</question>
             <answer>мэр</answer>
         </card>
@@ -1385,10 +1357,6 @@
         <card>
             <question>թույն ա</question>
             <answer>круто</answer>
-        </card>
-        <card>
-            <question>ճանապարհ</question>
-            <answer>дорога</answer>
         </card>
         <card>
             <question>յոգայով</question>
