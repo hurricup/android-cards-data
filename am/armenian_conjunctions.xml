@@ -307,5 +307,17 @@
             <question>նայնիսկ</question>
             <answer>даже</answer>
         </card>
+        <card>
+            <question>ինձ թվում է</question>
+            <answer>мне кажется</answer>
+        </card>
+        <card>
+            <question>կախված ․․․ից</question>
+            <answer>зависит от ...</answer>
+        </card>
+        <card>
+            <question>ինձանից առաջ</question>
+            <answer>передо мной</answer>
+        </card>
     </cards>
 </questionary>

@@ -1606,5 +1606,9 @@
             <question>հարմարավետություն</question>
             <answer>комфорт</answer>
         </card>
+        <card>
+            <question>նեղված</question>
+            <answer>расстроен</answer>
+        </card>
     </cards>
 </questionary>
