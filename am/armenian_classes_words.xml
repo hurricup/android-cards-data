@@ -571,5 +571,99 @@
             <question>տարօրինակ</question>
             <answer>странный</answer>
         </card>
+        <card>
+            <question>Բանջարեղեն</question>
+            <answer>овощи</answer>
+        </card>
+
+        <card>
+            <question>պոմիդոր</question>
+            <answer>помидор</answer>
+        </card>
+        <card>
+            <question>վարունգ</question>
+            <answer>огурец</answer>
+        </card>
+        <card>
+            <question>դդում</question>
+            <answer>тыква</answer>
+        </card>
+        <card>
+            <question>դդմիկ</question>
+            <answer>кабачок</answer>
+        </card>
+        <card>
+            <question>կաղամբ</question>
+            <answer>капуста</answer>
+        </card>
+        <card>
+            <question>բադրջան | սմբուկ</question>
+            <answer>баклажан</answer>
+        </card>
+        <card>
+            <question>լոբի</question>
+            <answer>фасоль</answer>
+        </card>
+        <card>
+            <question>բիբար | պղպեղ</question>
+            <answer>перец</answer>
+        </card>
+        <card>
+            <question>բազուկ</question>
+            <answer>свекла</answer>
+        </card>
+        <card>
+            <question>բողկ</question>
+            <answer>репа</answer>
+        </card>
+        <card>
+            <question>գազար</question>
+            <answer>морковь</answer>
+        </card>
+        <card>
+            <question>սոխ</question>
+            <answer>лук</answer>
+        </card>
+        <card>
+            <question>սխտոր</question>
+            <answer>чеснок</answer>
+        </card>
+        <card>
+            <question>սունկ</question>
+            <answer>гриб</answer>
+        </card>
+        <card>
+            <question>զեյթուն</question>
+            <answer>оливки</answer>
+        </card>
+
+        <card>
+            <question>կանաչի</question>
+            <answer>зелень</answer>
+        </card>
+        <card>
+            <question>խառը կանաչի</question>
+            <answer>ассорти зелени</answer>
+        </card>
+        <card>
+            <question>սամիթ</question>
+            <answer>укроп</answer>
+        </card>
+        <card>
+            <question>համեմ</question>
+            <answer>кинза</answer>
+        </card>
+        <card>
+            <question>ռեհան</question>
+            <answer>базилик</answer>
+        </card>
+        <card>
+            <question>սպանախ</question>
+            <answer>шпинат</answer>
+        </card>
+        <card>
+            <question>ծնեբեկ</question>
+            <answer>спаржа</answer>
+        </card>
     </cards>
 </questionary>

@@ -158,9 +158,6 @@
             <question>ռոբոտ</question><answer>робот</answer>
         </card>
         <card>
-            <question>սունկ</question><answer>гриб</answer>
-        </card>
-        <card>
             <question>տատիկ</question><answer>бабушка</answer>
         </card>
         <card>
@@ -1153,10 +1150,6 @@
         <card>
             <question>ծառ</question>
             <answer>дерево</answer>
-        </card>
-        <card>
-            <question>բիբար|պղպեղ</question>
-            <answer>перец</answer>
         </card>
         <card>
             <question>հրաշալի</question>
