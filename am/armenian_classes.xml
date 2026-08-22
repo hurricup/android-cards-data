@@ -1615,5 +1615,21 @@
             <question>ես նույնպես ապասում եր</question>
             <answer>я тоже ждал</answer>
         </card>
+        <card>
+            <question>զեղչ</question>
+            <answer>скидка</answer>
+        </card>
+        <card>
+            <question>համերգ</question>
+            <answer>концерт</answer>
+        </card>
+        <card>
+            <question>դարչին</question>
+            <answer>корица</answer>
+        </card>
+        <card>
+            <question>հասցե</question>
+            <answer>адрес</answer>
+        </card>
     </cards>
 </questionary>
