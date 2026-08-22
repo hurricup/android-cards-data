@@ -576,5 +576,25 @@
             <question>դար</question>
             <answer>век</answer>
         </card>
+        <card>
+            <question>ինն անց կես</question>
+            <answer>9։30</answer>
+        </card>
+        <card>
+            <question>ժամանակին</question>
+            <answer>вовремя</answer>
+        </card>
+        <card>
+            <question>հինգ անց կես</question>
+            <answer>5:30</answer>
+        </card>
+        <card>
+            <question>հինգ անց տաս</question>
+            <answer>5:10</answer>
+        </card>
+        <card>
+            <question>վեցից կսն պակաս</question>
+            <answer>5:40</answer>
+        </card>
     </cards>
 </questionary>

@@ -644,5 +644,9 @@
             <question>նեղանալ</question>
             <answer>обижаться</answer>
         </card>
+        <card>
+            <question>զարթնել</question>
+            <answer>вставать (просыпаться)</answer>
+        </card>
     </cards>
 </questionary>

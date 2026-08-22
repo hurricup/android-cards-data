@@ -1610,5 +1610,17 @@
             <question>նեղված</question>
             <answer>расстроен</answer>
         </card>
+        <card>
+            <question>պակաս ա</question>
+            <answer>не хватает</answer>
+        </card>
+        <card>
+            <question>իմ հերթն ա</question>
+            <answer>моя очередь</answer>
+        </card>
+        <card>
+            <question>ես նույնպես ապասում եր</question>
+            <answer>я тоже ждал</answer>
+        </card>
     </cards>
 </questionary>
